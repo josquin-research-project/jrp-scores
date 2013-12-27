@@ -24,10 +24,16 @@ table below.  Each composer is assigned a unique three-letter code
 listed in the first column that is the name of the directory/folder in
 the repository which contains each composer's works.
 
-<table 
+---------------------
+[Ano](https://github.com/josquin-research-project/Ano) | Anonymous		| ([JRP](http://josquin.stanford.edu/#Ano)) | [Wikipedia](http://en.wikipedia.org/wiki/Anonymous_work) |
+-----------------
+| [Agr](https://github.com/josquin-research-project/Agr) | Alexander Agricola	| ([JRP](http://josquin.stanford.edu/#Agr)) | [Wikipedia](http://en.wikipedia.org/wiki/Alexander_Agricola) |
+--------------------
+
+<table>
    <tr><td> [Ano](https://github.com/josquin-research-project/Ano) </td><td> Anonymous		</td><td> ([JRP](http://josquin.stanford.edu/#Ano)) </td><td> [Wikipedia](http://en.wikipedia.org/wiki/Anonymous_work) </td></tr>
    <tr><td> [Agr](https://github.com/josquin-research-project/Agr) </td><td> Alexander Agricola	</td><td> ([JRP](http://josquin.stanford.edu/#Agr)) </td><td> [Wikipedia](http://en.wikipedia.org/wiki/Alexander_Agricola) </td></tr>
-   <tr><td> [Bus](https://github.com/josquin-research-project/Bus) </td><td> Antoine Busnoys	</td><td> ([JRP](http://josquin.stanford.edu/#Bus)) </td><td> [Wikipedia](http://en.wikipedia.org/wiki/Antoine_busnoys) </td></tr>
+ <tr><td> [Bus](https://github.com/josquin-research-project/Bus) </td><td> Antoine Busnoys	</td><td> ([JRP](http://josquin.stanford.edu/#Bus)) </td><td> [Wikipedia](http://en.wikipedia.org/wiki/Antoine_busnoys) </td></tr>
    <tr><td> [Duf](https://github.com/josquin-research-project/Duf) </td><td> Guillaume Du Fay	</td><td> ([JRP](http://josquin.stanford.edu/#Duf)) </td><td> [Wikipedia](http://en.wikipedia.org/wiki/Guillaume_Du_Fay) </td></tr>
    <tr><td> [Jap](https://github.com/josquin-research-project/Jap) </td><td> Jean Japart		</td><td> ([JRP](http://josquin.stanford.edu/#Jap)) </td><td> [Wikipedia](http://en.wikipedia.org/wiki/Jean_Japart) </td></tr>
    <tr><td> [Jos](https://github.com/josquin-research-project/Jos) </td><td> Josquin des Prez	</td><td> ([JRP](http://josquin.stanford.edu/#Jos)) </td><td> [Wikipedia](http://en.wikipedia.org/wiki/Josquin_des_Prez) </td></tr>
@@ -64,6 +70,9 @@ updates for all composers using this command:
 
 <code>git pull; git submodule foreach git pull</code>
 
+Or alternatively:
+
+<code>git pull --recurse-submodules</code>
 
 Processing the scores
 =================
