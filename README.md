@@ -90,7 +90,7 @@ Humdrum Toolkit ([github](https://github.com/kroger/humdrum)) as
 well as [Humdrum Extras](http://extra.humdrum.org)
 ([github](https://github.com/craigsapp/humextra)).
 
-## Rhythm representation considerations ##
+### Rhythm representation considerations ###
 
 For proper rhythmic parsing in the Humdrum Toolkit, some files
 containing rational rhythmic values need to be diminuted by a factor
@@ -115,7 +115,7 @@ or otherwise try:
 
 to download the reduced form from the JRP website ([example](http://josquin.stanford.edu/data?a=humdrumreduced&f=Jos2721-La_Bernardina)).
 
-## Other example processing ##
+### Other example processing ###
 
 Here are some other interesting processing actions:
 
@@ -124,7 +124,7 @@ Here are some other interesting processing actions:
 
 # Alternate score access #
 
-## JRP website ## 
+### JRP website ###
 
 The website http://josquin.stanford.edu is a high-level interface
 to these scores with a lower-level access to the data, data
@@ -171,7 +171,7 @@ music scores (with editorial accidentals and text) with this command:
 ```make webpdf```
 
 
-## kernScores website ## 
+### kernScores website ###
 
 The [kernScores](http://kern.humdrum.org) library of musical scores for analysis
 in the Humdrum Toolkit has a page dedicated to the JRP scores:
@@ -179,14 +179,15 @@ in the Humdrum Toolkit has a page dedicated to the JRP scores:
 <code>http://kern.humdrum.org/browse?l=jrp</code>
 
 
-## Humdrum Extras commands ## 
+### Humdrum Extras commands ###
 
-The [Humdrum Extras] library/tools contain internal knowledge for how to download
-the digital scores on the command line.  To download from the JRP website, the filename
-is prefixed by ```jrp://```.  To download from the kernScores website, the prefix is
-```humdrum://``` or ```h://``` for short.  KernScores access requires the exact file
-name (catalog number, title, file extension), while JRP access requires only the 
-catalog number:
+The [Humdrum Extras](http://extra.humdrum.org) library/tools contain
+internal knowledge for how to download the digital scores on the
+command line.  To download from the JRP website, the filename is
+prefixed by ```jrp://```.  To download from the kernScores website,
+the prefix is ```humdrum://``` or ```h://``` for short.  KernScores
+access requires the exact file name (catalog number, title, file
+extension), while JRP access requires only the catalog number:
 
 Examples:
 
@@ -195,10 +196,10 @@ Examples:
 <code>humcat jrp://Jos2721</code>
 
 The kernScores downloading method is typically only useful for downloading an entire
-set of composers works.  Try the following humextra command to download all
+set of composer's works.  Try the following humextra command to download all
 of the works for Ockeghem:
 
-<code>humsplit h://jrp/Ock</code>
+<code>mkdir Ock; cd Ock; humsplit h://jrp/Ock</code>
 
 The kernScores website has five meta-collections of the scores, two for Josquin
 authenticity levels, and three for the main genres of mass, motet and song.  These
@@ -223,10 +224,6 @@ All motets:
 All songs:
 
 <code>mkdir Zso; (cd Zso; humsplit h://jrp/Zso)</code>
-
-
-
-
 
 
 
