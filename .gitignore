@@ -1,0 +1,8 @@
+
+# ignore non-primary data files:
+
+[A-Z]??/kern-reduced
+[A-Z]??/midi
+[A-Z]??/pdf
+
+
