@@ -65,16 +65,16 @@ install, such as ```apt-get install git``` or ```yum install git```.
 On Apple OS X computers, git can be installed directly from
 [here](http://git-scm.com/download/mac) or by more experienced users
 from a mac package manager such as [Homebrew](http://brew.sh).  If
-you have a comic-book view of the world, you can download GUI
+you have a comic-book view of the computer world, you can download GUI
 interfaces for git [here](http://git-scm.com/downloads/guis).  A
 [Github/git plugin](http://eclipse.github.com) is also available
-for the Eclipse IDE ([see video](http://www.youtube.com/watch?v=ptK9-CNms98).
+for the Eclipse IDE ([see video](http://www.youtube.com/watch?v=ptK9-CNms98)).
 
 
 # Update #
 
 After you have downloaded this repository with `git`, you can check 
-periodically for updates for all composers using this command:
+periodically for updates for all composers's works using this command:
 
 <code>git pull; git submodule foreach git pull</code>
 
@@ -104,12 +104,12 @@ shell, this can be done with a command like this:
 <code>rscale -f 1/4 oldfile > newfile</code>
 
 The makefile in base directory of this repository has commands
-which will generate reduced versions of all files.  Use:
+which will generate reduced versions of all files.  Use
+(if [Humdrum Extras](https://github.com/craigsapp/humextra) is installed):
 
 <code>make reduced</code>
 
-if [Humdrum Extras](https://github.com/craigsapp/humextra) is installed,
-or if not, use:
+or otherwise try:
 
 <code>make webreduced</code>
 
@@ -176,7 +176,7 @@ music scores (with editorial accidentals and text) with this command:
 The [kernScores](http://kern.humdrum.org) library of musical scores for analysis
 in the Humdrum Toolkit has a page dedicated to the JRP scores:
 
-```http://kern.humdrum.org/browse?l=jrp```
+<code>http://kern.humdrum.org/browse?l=jrp</code>
 
 
 ## Humdrum Extras commands ## 
@@ -190,15 +190,15 @@ catalog number:
 
 Examples:
 
-```humcat h://jrp/Jos/Jos2721-La_Bernardina.krn```
+<code>humcat h://jrp/Jos/Jos2721-La_Bernardina.krn</code>
 
-```humcat jrp://Jos2721```
+<code>humcat jrp://Jos2721</code>
 
 The kernScores downloading method is typically only useful for downloading an entire
 set of composers works.  Try the following humextra command to download all
 of the works for Ockeghem:
 
-```humsplit h://jrp/Ock```
+<code>humsplit h://jrp/Ock</code>
 
 The kernScores website has five meta-collections of the scores, two for Josquin
 authenticity levels, and three for the main genres of mass, motet and song.  These
@@ -206,23 +206,23 @@ can be downloaded like this on the command line:
 
 Secure Josquin set:
 
-```mkdir Joa; (cd Joa; humsplit h://jrp/Joa)```
+<code>mkdir Joa; (cd Joa; humsplit h://jrp/Joa)</code>
 
 Not secure Josquin set:
 
-```mkdir Job; (cd Job; humsplit h://jrp/Job)```
+<code>mkdir Job; (cd Job; humsplit h://jrp/Job)</code>
 
 All mass sections:
 
-```mkdir Zma; (cd Zma; humsplit h://jrp/Zma)```
+<code>mkdir Zma; (cd Zma; humsplit h://jrp/Zma)</code>
 
 All motets:
 
-```mkdir Zmo; (cd Zmo; humsplit h://jrp/Zmo)```
+<code>mkdir Zmo; (cd Zmo; humsplit h://jrp/Zmo)</code>
 
 All songs:
 
-```mkdir Zso; (cd Zso; humsplit h://jrp/Zso)```
+<code>mkdir Zso; (cd Zso; humsplit h://jrp/Zso)</code>
 
 
 
