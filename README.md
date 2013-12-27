@@ -2,14 +2,50 @@
 
 This repository contains digital music scores in the Humdrum data
 format from the [Josquin Research Project](http://josquin.stanford.edu).
-The main web interface for these scores is http://josquin.stanford.edu
+The primary web interface for these scores is http://josquin.stanford.edu
 which allows searching and browsing the scores as well as conversions
-into other data formats such as MIDI and interfaces to some online
+into other data formats, such as MIDI, and interfaces to some online
 analysis tools.  These scores encompass music of the early Renaissance
 (*c*1420 to *c*1520), mostly representing the [Franco-Flemish
 School](http://en.wikipedia.org/wiki/Franco-Flemish_School), and
-are primarily intended from computational analysis.  As a result,
-only a few works include text/lyrics suitable for vocal performance.
+are mainly intended from computational analysis.  As a result, only
+a few works include text/lyrics suitable for vocal performance.
+
+A peculiar aspect in music of the sixteenth century (from a modern
+viewpoint) is that it did not include all of the accidentals needed
+for performance.  Editorial accidentals have been added to these
+scores to realize the performance practice of the time.  An "X"
+following an accidental indicates that it was not written in the
+original notation. When written without an "X" after it, the
+accidental is found in the original notation.
+
+Another conceptual difference is the use of mensuration signs.
+These evolved (decayed) into modern time signatures.  The most
+common mensuration in the music is Cut-C, from which modern cut-time
+originates.  In this mensuration the *beat* is at the whole-note
+rhythmic level, and the metric cycle is two beats (a breve). Circle
+mensuration is the second most common mensuration in the data. This
+represents three whole-note beats per rhythmic cycle (dotted breve).
+Mensurations also conveyed tempo, so MIDI files on the [JRP] website
+made from these scores typically interpret tempo from the mensuration
+signs in the data.  
+
+Barlines had not yet been invented in the 16th century, so all
+barlines in the data are interpreted.  This is more deterministic
+than resolving implicit accidentals.  Typically the barlines represent
+breves (double whole notes) durations, although they sometime will
+represent longs (quadruple whoe notes), and may include patterns of
+dashed and solid lines to indicate the implied long (solid lines) and
+breve (dash line) rhythmic grid of the music.
+
+All parts are encoded in modern notation faithful to the original
+mensural notation of the fifteenth century.  The main difference is
+that all augmentation dots are make explicit
+
+Since parts were not written in modern score format during the
+fifteenth century, mensuration shifts sometimes did not occur
+at the same point in each part.
+
 
 # Composers #
 
@@ -39,6 +75,8 @@ Within each directory/folder of the repository is a subdirectory/subfolder
 called ```kern``` that contains the actual scores in the **kern data
 type of the Humdrum data file format.
 
+Currently, composers with complete (or nearly complete) sets of encoded works include:
+Josquin, Ockeghem, La Rue and de Orto.
 
 # Download #
 
@@ -60,8 +98,8 @@ from the table above.
 In a unix terminal, you can check to see if git is installed by
 typing ```which git```.  If the terminal replies with a path to
 git, then you can proceed with the above cloning to download the
-repository.  If not, then usually you can use a package manager to
-install, such as ```apt-get install git``` or ```yum install git```.
+repository.  If not, then typically you can use a package manager to
+install *git*, such as ```apt-get install git``` or ```yum install git```.
 On Apple OS X computers, git can be installed directly from
 [here](http://git-scm.com/download/mac) or by more experienced users
 from a mac package manager such as [Homebrew](http://brew.sh).  If
@@ -152,10 +190,10 @@ Example MIDI data file access by setting the *action* to "midi":
 <code>http://jrp.stanford.edu/cgi-bin/jrp?a=midi&f=Jos2721-La_Bernardina</code>
 
 Example graphical music scores in PDF format with four possible styles:
-* Without editorial accidentals or text: ```http://jrp.stanford.edu/cgi-bin/jrp?a=notationnoedit&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie```
-* Without editorial accidentals but with text: ```http://jrp.stanford.edu/cgi-bin/jrp?a=notationnoeditwithtext&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie```
-* With editorial accidentals but without text: ```http://jrp.stanford.edu/cgi-bin/jrp?a=notationwitheditorial&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie```
-* With editorial accidentals and with text: ```http://jrp.stanford.edu/cgi-bin/jrp?a=notationwitheditorialwithtext&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie```
+* Without editorial accidentals or text: <code>http://jrp.stanford.edu/cgi-bin/jrp?a=notationnoedit&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie</code>
+* Without editorial accidentals but with text: <code>http://jrp.stanford.edu/cgi-bin/jrp?a=notationnoeditwithtext&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie</code>
+* With editorial accidentals but without text: <code>http://jrp.stanford.edu/cgi-bin/jrp?a=notationwitheditorial&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie</code>
+* With editorial accidentals and with text: <code>http://jrp.stanford.edu/cgi-bin/jrp?a=notationwitheditorialwithtext&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie</code>
 
 Scores are generated from the original Humdrum **kern scores found
 in this repository for each work, so the music notation in the PDF
@@ -173,7 +211,7 @@ music scores (with editorial accidentals and text) with this command:
 
 ### kernScores website ###
 
-The [kernScores](http://kern.humdrum.org) library of musical scores for analysis
+The [kernScores](http://kern.humdrum.org) ([github](https://github.com/craigsapp/humextra)) library of musical scores for analysis
 in the Humdrum Toolkit has a page dedicated to the JRP scores:
 
 <code>http://kern.humdrum.org/browse?l=jrp</code>
@@ -187,7 +225,7 @@ command line.  To download from the JRP website, the filename is
 prefixed by ```jrp://```.  To download from the kernScores website,
 the prefix is ```humdrum://``` or ```h://``` for short.  KernScores
 access requires the exact file name (catalog number, title, file
-extension), while JRP access requires only the catalog number:
+extension), while JRP access requires only the catalog number.
 
 Examples:
 
@@ -195,9 +233,10 @@ Examples:
 
 <code>humcat jrp://Jos2721</code>
 
-The kernScores downloading method is typically only useful for downloading an entire
-set of composer's works.  Try the following humextra command to download all
-of the works for Ockeghem:
+Since it requires the entire filename for individual files, the
+kernScores downloading method is instead mostly useful for downloading
+an entire set of composer's works.  Try the following humextra
+command to download all of the works for Ockeghem:
 
 <code>mkdir Ock; cd Ock; humsplit h://jrp/Ock</code>
 
@@ -224,7 +263,5 @@ All motets:
 All songs:
 
 <code>mkdir Zso; (cd Zso; humsplit h://jrp/Zso)</code>
-
-
 
 
