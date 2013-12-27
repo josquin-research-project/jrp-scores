@@ -1,5 +1,4 @@
-JRP Digital Scores
-=======================
+# JRP Digital Scores #
 
 This repository contains digital music scores in the Humdrum data
 format from the [Josquin Research Project](http://josquin.stanford.edu).
@@ -8,14 +7,13 @@ which allows searching and browsing the scores as well as conversions
 into other data formats such as MIDI and interfaces to some online
 analysis tools.
 
-These scores encompass music of the early Renaissance (`c`1420 to `c`1520),
+These scores encompass music of the early Renaissance (*c*1420 to *c*1520),
 mostly representing the 
 [Franco-Flemish School](http://en.wikipedia.org/wiki/Franco-Flemish_School),
 and are primarily intended from computational analysis.  As a result,
 only a few works include text/lyrics suitable for vocal performance.
 
-Composers
-=====================
+# Composers #
 
 This meta-repository consists of all works from [JRP](http://josquin.stanford.edu).  
 Individual composers' works are archived independently, and each of their
@@ -45,8 +43,7 @@ called ```kern``` that contains the actual scores in the **kern data
 type of the Humdrum data file format.
 
 
-Download
-=================
+# Download #
 
 To download this Github repository with
 [git](http://en.wikipedia.org/wiki/Git_%29software%29) in a terminal, type:
@@ -54,14 +51,33 @@ To download this Github repository with
 <code>git clone --recursive https://github.com/josquin-research-project/jrp-scores</code>
 
 The ```--recursive``` option is needed to download each of the individual composer 
-repostories inside of this meta-repository.
+repostories inside of the meta-repository.
+
+This repository cannot be downloaded in useful format from the
+ZIP link on the Github website, since the included repositories for
+each composer will not be included in that ZIP file.  You must
+either use [git](http://en.wikipedia.org/wiki/Git_%29software%29)
+software or download the individual composers' ZIP files linked
+from the table above.
+
+In a unix terminal, you can check to see if git is installed by
+typing ```which git```.  If the terminal replies with a path to
+git, then you can proceed with the above cloning to download the
+repository.  If not, then usually you can use a package manager to
+install, such as ```apt-get install git``` or ```yum install git```.
+On Apple OS X computers, git can be installed directly from
+[here](http://git-scm.com/download/mac) or by more experienced users
+from a mac package manager such as [Homebrew](http://brew.sh).  If
+you have a comic-book view of the world, you can download GUI
+interfaces for git [here](http://git-scm.com/downloads/guis).  A
+[Github/git plugin](http://eclipse.github.com) is also available
+for the Eclipse IDE ([see video](http://www.youtube.com/watch?v=ptK9-CNms98).
 
 
-Update
-=================
+# Update #
 
-If you have downloaded this repository with `git`, you can check for
-updates for all composers using this command:
+After you have downloaded this repository with `git`, you can check 
+periodically for updates for all composers using this command:
 
 <code>git pull; git submodule foreach git pull</code>
 
@@ -69,12 +85,12 @@ Or alternatively:
 
 <code>git pull --recurse-submodules</code>
 
-Processing the scores
-=================
 
-These digital scores are designed to work with the Humdrum
-Toolkit ([github](https://github.com/kroger/humdrum)]
-as well as [Humdrum Extras](http://extra.humdrum.org)
+# Processing scores #
+
+The digital scores in this repository are designed to work with the
+Humdrum Toolkit ([github](https://github.com/kroger/humdrum) as
+well as [Humdrum Extras](http://extra.humdrum.org)
 ([github](https://github.com/craigsapp/humextra)).
 
 For proper rhythmic parsing in the Humdrum Toolkit, some files
@@ -108,8 +124,7 @@ Here are some other interesting processing actions:
 
 
 
-Alternate score access
-=================
+# Alternate score access #
 
 The main website for accessing the scores is http://josquin.stanford.edu.
 On this website, each score has a 'work info' page generated with
@@ -147,7 +162,6 @@ For convenient access to PDF scores for each work, you can download
 from the web using the following bash script.  This may take some 
 time since the PDF files are generated on demand and are larger 
 than the source Humdrum files.
-
 
 
 
