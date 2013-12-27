@@ -124,30 +124,38 @@ Here are some other interesting processing actions:
 
 # Alternate score access #
 
-The website http://josquin.stanford.edu is a high-level interface to these scores.
-On JRP website, each score has a "work info" page generated with this format:
+## JRP website ## 
+
+The website http://josquin.stanford.edu is a high-level interface
+to these scores with a lower-level access to the data, data
+conversions, and analytic tools using URL parameters in the web
+address.  On JRP website, each score has a "work info" page generated
+with this format:
 
 <code>http://jrp.stanford.edu/cgi-bin/jrp?a=info&f=Jos2721</code>
 
 Where ```Jos2721``` is the JRP catalog number 2721 for Josquin's collection
-of works, and "info" is the action being applied to the given work (file).  
-A title may follow the catalog number:
+of works, and ```info``` is the action being applied to the given work (file).  
+A title may optionally follow the catalog number (with exact spelling of the
+title in the database):
 
 <code>http://jrp.stanford.edu/cgi-bin/jrp?a=info&f=Jos2721-La_Bernardina</code>
 
-* Example Humdrum data file access by setting the *action* to "humdrum":
+A file extention can also be given (.krn in this case) but will always be ignored.
+
+Example Humdrum data file access by setting the *action* to "humdrum":
 
 <code>http://jrp.stanford.edu/cgi-bin/jrp?a=humdrum&f=Jos2721-La_Bernardina</code>
 
-* Example MIDI data file access by setting the *action* to "midi":
+Example MIDI data file access by setting the *action* to "midi":
 
 <code>http://jrp.stanford.edu/cgi-bin/jrp?a=midi&f=Jos2721-La_Bernardina</code>
 
-* Example graphical music scores in PDF format with four possible styles:
-** Without editorial accidentals or text: ```http://jrp.stanford.edu/cgi-bin/jrp?a=notationnoedit&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie```
-** Without editorial accidentals but with text: ```http://jrp.stanford.edu/cgi-bin/jrp?a=notationnoeditwithtext&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie```
-** With editorial accidentals but without text: ```http://jrp.stanford.edu/cgi-bin/jrp?a=notationwitheditorial&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie```
-** With editorial accidentals and with text: ```http://jrp.stanford.edu/cgi-bin/jrp?a=notationwitheditorialwithtext&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie```
+Example graphical music scores in PDF format with four possible styles:
+* Without editorial accidentals or text: ```http://jrp.stanford.edu/cgi-bin/jrp?a=notationnoedit&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie```
+* Without editorial accidentals but with text: ```http://jrp.stanford.edu/cgi-bin/jrp?a=notationnoeditwithtext&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie```
+* With editorial accidentals but without text: ```http://jrp.stanford.edu/cgi-bin/jrp?a=notationwitheditorial&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie```
+* With editorial accidentals and with text: ```http://jrp.stanford.edu/cgi-bin/jrp?a=notationwitheditorialwithtext&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie```
 
 Scores are generated from the original Humdrum **kern scores found
 in this repository for each work, so the music notation in the PDF
@@ -156,10 +164,69 @@ using [hum2muse](http://extra.humdrum.org/man/hum2muse) converter which
 translates Humdrum files into MuseData file which can then be converted
 into PostScript files with [muse2ps](http://muse2ps.ccarh.org).
 
-For convenient access to PDF scores for each work, you can download
-from the web using the following bash script.  This may take some 
-time since the PDF files are generated on demand and are larger 
-than the source Humdrum files.
+For convenient access to PDF scores for each work, the makefile in
+base directory/folder of the repository can download the PDF graphical
+music scores (with editorial accidentals and text) with this command:
+
+```make webpdf```
+
+
+## kernScores website ## 
+
+The [kernScores](http://kern.humdrum.org) library of musical scores for analysis
+in the Humdrum Toolkit has a page dedicated to the JRP scores:
+
+```http://kern.humdrum.org/browse?l=jrp```
+
+
+## Humdrum Extras commands ## 
+
+The [Humdrum Extras] library/tools contain internal knowledge for how to download
+the digital scores on the command line.  To download from the JRP website, the filename
+is prefixed by ```jrp://```.  To download from the kernScores website, the prefix is
+```humdrum://``` or ```h://``` for short.  KernScores access requires the exact file
+name (catalog number, title, file extension), while JRP access requires only the 
+catalog number:
+
+Examples:
+
+```humcat h://jrp/Jos/Jos2721-La_Bernardina.krn```
+
+```humcat jrp://Jos2721```
+
+The kernScores downloading method is typically only useful for downloading an entire
+set of composers works.  Try the following humextra command to download all
+of the works for Ockeghem:
+
+```humsplit h://jrp/Ock```
+
+The kernScores website has five meta-collections of the scores, two for Josquin
+authenticity levels, and three for the main genres of mass, motet and song.  These
+can be downloaded like this on the command line:
+
+Secure Josquin set:
+
+```mkdir Joa; (cd Joa; humsplit h://jrp/Joa)```
+
+Not secure Josquin set:
+
+```mkdir Job; (cd Job; humsplit h://jrp/Job)```
+
+All mass sections:
+
+```mkdir Zma; (cd Zma; humsplit h://jrp/Zma)```
+
+All motets:
+
+```mkdir Zmo; (cd Zmo; humsplit h://jrp/Zmo)```
+
+All songs:
+
+```mkdir Zso; (cd Zso; humsplit h://jrp/Zso)```
+
+
+
+
 
 
 
