@@ -5,22 +5,19 @@ format from the [Josquin Research Project](http://josquin.stanford.edu).
 The main web interface for these scores is http://josquin.stanford.edu
 which allows searching and browsing the scores as well as conversions
 into other data formats such as MIDI and interfaces to some online
-analysis tools.
-
-These scores encompass music of the early Renaissance (*c*1420 to *c*1520),
-mostly representing the 
-[Franco-Flemish School](http://en.wikipedia.org/wiki/Franco-Flemish_School),
-and are primarily intended from computational analysis.  As a result,
+analysis tools.  These scores encompass music of the early Renaissance
+(*c*1420 to *c*1520), mostly representing the [Franco-Flemish
+School](http://en.wikipedia.org/wiki/Franco-Flemish_School), and
+are primarily intended from computational analysis.  As a result,
 only a few works include text/lyrics suitable for vocal performance.
 
 # Composers #
 
-This meta-repository consists of all works from [JRP](http://josquin.stanford.edu).  
 Individual composers' works are archived independently, and each of their
 repositories can be viewed by clicking in the first column of the
 table below.  Each composer is assigned a unique three-letter code
 listed in the first column that is the name of the directory/folder in
-the repository which contains each composer's works.
+the meta-repository which contains each composer's works.
 
 
 <table>
@@ -89,18 +86,20 @@ Or alternatively:
 # Processing scores #
 
 The digital scores in this repository are designed to work with the
-Humdrum Toolkit ([github](https://github.com/kroger/humdrum) as
+Humdrum Toolkit ([github](https://github.com/kroger/humdrum)) as
 well as [Humdrum Extras](http://extra.humdrum.org)
 ([github](https://github.com/craigsapp/humextra)).
 
+## Rhythm representation considerations ##
+
 For proper rhythmic parsing in the Humdrum Toolkit, some files
 containing rational rhythmic values need to be diminuted by a factor
-of four to convert whole notes, or semibreve note, (typically
-the rhythmic level of a beat in the early Renaissance) into a
-quarter note, or semiminim, or crochet.  This can be done with the
-[rscale](http://extras.humdrum.org/man/rscale) to apply the scaling to
-all notes of all scores.  In a unix bash shell, this can be done with
-a command like this:
+of four to convert whole notes, (typically the rhythmic level of a
+beat in the early Renaissance) into a quarter notes (the typical
+modern rhythmic level for beats).  This can be done with the
+[rscale](http://extras.humdrum.org/man/rscale) tool to apply the
+rhythmic scaling of 1/4 to all notes of all scores.  In a unix bash
+shell, this can be done with a command like this:
 
 <code>rscale -f 1/4 oldfile > newfile</code>
 
@@ -109,28 +108,27 @@ which will generate reduced versions of all files.  Use:
 
 <code>make reduced</code>
 
-if [Humdrum Extras](https://github.com/craigsapp/humextra) are installed,
-or use:
+if [Humdrum Extras](https://github.com/craigsapp/humextra) is installed,
+or if not, use:
 
 <code>make webreduced</code>
 
 to download the reduced form from the JRP website ([example](http://josquin.stanford.edu/data?a=humdrumreduced&f=Jos2721-La_Bernardina)).
 
+## Other example processing ##
+
 Here are some other interesting processing actions:
 
-* Determine works that include text/lyrics:
-
-<code>grep -rl '\*\*text' */kern/*</code>
-
+* Determine works that include text/lyrics: <code>grep -rl '\\*\\*text' \*/kern/\*</code>
 
 
 # Alternate score access #
 
 The main website for accessing the scores is http://josquin.stanford.edu.
-On this website, each score has a 'work info' page generated with
+On this website, each score has a "work info" page generated with
 this format:
 
-```http://jrp.stanford.edu/cgi-bin/jrp?a=info&f=Jos2721```
+<code>http://jrp.stanford.edu/cgi-bin/jrp?a=info&f=Jos2721</code>
 
 Where ```Jos2721``` is the JRP catalog number #2721 for Josquin's set
 of works.  A title may follow the catalog number:
