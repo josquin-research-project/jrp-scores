@@ -26,18 +26,18 @@ the repository which contains each composer's works.
 
 
 <table>
-   <tr><td> <a href=https://github.com/josquin-research-project/Ano>Ano</a> </td><td> Anonymous		</td><td> (<a href=http://josquin.stanford.edu/#Ano>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Anonymous_work>Wikipedia</a>) </td></tr>
-   <tr><td> [Agr](https://github.com/josquin-research-project/Agr) </td><td> Alexander Agricola	</td><td> ([JRP](http://josquin.stanford.edu/#Agr)) </td><td> [Wikipedia](http://en.wikipedia.org/wiki/Alexander_Agricola) </td></tr>
-   <tr><td> [Bus](https://github.com/josquin-research-project/Bus) </td><td> Antoine Busnoys	</td><td> ([JRP](http://josquin.stanford.edu/#Bus)) </td><td> [Wikipedia](http://en.wikipedia.org/wiki/Antoine_busnoys) </td></tr>
-   <tr><td> [Duf](https://github.com/josquin-research-project/Duf) </td><td> Guillaume Du Fay	</td><td> ([JRP](http://josquin.stanford.edu/#Duf)) </td><td> [Wikipedia](http://en.wikipedia.org/wiki/Guillaume_Du_Fay) </td></tr>
-   <tr><td> [Jap](https://github.com/josquin-research-project/Jap) </td><td> Jean Japart		</td><td> ([JRP](http://josquin.stanford.edu/#Jap)) </td><td> [Wikipedia](http://en.wikipedia.org/wiki/Jean_Japart) </td></tr>
-   <tr><td> [Jos](https://github.com/josquin-research-project/Jos) </td><td> Josquin des Prez	</td><td> ([JRP](http://josquin.stanford.edu/#Jos)) </td><td> [Wikipedia](http://en.wikipedia.org/wiki/Josquin_des_Prez) </td></tr>
-   <tr><td> [Mou](https://github.com/josquin-research-project/Mou) </td><td> Jean Mouton		</td><td> ([JRP](http://josquin.stanford.edu/#Mou)) </td><td> [Wikipedia](http://en.wikipedia.org/wiki/Jean_Mouton) </td></tr>
-   <tr><td> [Obr](https://github.com/josquin-research-project/Obr) </td><td> Jacob Obrecht	</td><td> ([JRP](http://josquin.stanford.edu/#Obr)) </td><td> [Wikipedia](http://en.wikipedia.org/wiki/Jacob_Obrecht) </td></tr>
-   <tr><td> [Ock](https://github.com/josquin-research-project/Ock) </td><td> Johannes Ockeghem	</td><td> ([JRP](http://josquin.stanford.edu/#Ock)) </td><td> [Wikipedia](http://en.wikipedia.org/wiki/Johannes_Ockeghem) </td></tr>
-   <tr><td> [Ort](https://github.com/josquin-research-project/Ort) </td><td> Marbrianus de Orto	</td><td> ([JRP](http://josquin.stanford.edu/#Ort)) </td><td> [Wikipedia](http://en.wikipedia.org/wiki/Marbrianus_de_Orto) </td></tr>
-   <tr><td> [Pip](https://github.com/josquin-research-project/Pip) </td><td> Matthaeus Pipelare	</td><td> ([JRP](http://josquin.stanford.edu/#Pip)) </td><td> [Wikipedia](http://en.wikipedia.org/wiki/Matthaeus_Pipelare) </td></tr>
-   <tr><td> [Rue](https://github.com/josquin-research-project/Rue) </td><td> Pierre de la Rue	</td><td> ([JRP](http://josquin.stanford.edu/#Rue)) </td><td> [Wikipedia](http://en.wikipedia.org/wiki/Pierre_de_la_rue) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Ano>Ano</a> </td><td> Anonymous			</td><td> (<a href=http://josquin.stanford.edu/#Ano>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Anonymous_work>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Agr>XXX</a> </td><td> Alexander Agricola	</td><td> (<a href=http://josquin.stanford.edu/#Agr>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Alexander_Agricola>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Bus>XXX</a> </td><td> Antoine Busnoys		</td><td> (<a href=http://josquin.stanford.edu/#Bus>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Antoine_busnoys>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Duf>XXX</a> </td><td> Guillaume Du Fay		</td><td> (<a href=http://josquin.stanford.edu/#Duf>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Guillaume_Du_Fay>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Jap>XXX</a> </td><td> Jean Japart		</td><td> (<a href=http://josquin.stanford.edu/#Jap>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Jean_Japart>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Jos>XXX</a> </td><td> Josquin des Prez		</td><td> (<a href=http://josquin.stanford.edu/#Jos>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Josquin_des_Prez>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Mou>XXX</a> </td><td> Jean Mouton		</td><td> (<a href=http://josquin.stanford.edu/#Mou>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Jean_Mouton>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Obr>XXX</a> </td><td> Jacob Obrecht		</td><td> (<a href=http://josquin.stanford.edu/#Obr>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Jacob_Obrecht>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Ock>XXX</a> </td><td> Johannes Ockeghem		</td><td> (<a href=http://josquin.stanford.edu/#Ock>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Johannes_Ockeghem>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Ort>XXX</a> </td><td> Marbrianus de Orto	</td><td> (<a href=http://josquin.stanford.edu/#Ort>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Marbrianus_de_Orto>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Pip>XXX</a> </td><td> Matthaeus Pipelare	</td><td> (<a href=http://josquin.stanford.edu/#Pip>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Matthaeus_Pipelare>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Rue>XXX</a> </td><td> Pierre de la Rue		</td><td> (<a href=http://josquin.stanford.edu/#Rue>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Pierre_de_la_rue>Wikipedia</a>) </td></tr>
 </table>
 
 Within each directory/folder of the repository is a subdirectory/subfolder
