@@ -124,26 +124,26 @@ Here are some other interesting processing actions:
 
 # Alternate score access #
 
-The main website for accessing the scores is http://josquin.stanford.edu.
-On this website, each score has a "work info" page generated with
-this format:
+The website http://josquin.stanford.edu is a high-level interface to these scores.
+On JRP website, each score has a "work info" page generated with this format:
 
 <code>http://jrp.stanford.edu/cgi-bin/jrp?a=info&f=Jos2721</code>
 
-Where ```Jos2721``` is the JRP catalog number #2721 for Josquin's set
-of works.  A title may follow the catalog number:
+Where ```Jos2721``` is the JRP catalog number 2721 for Josquin's collection
+of works, and "info" is the action being applied to the given work (file).  
+A title may follow the catalog number:
 
-```http://jrp.stanford.edu/cgi-bin/jrp?a=info&f=Jos2721-La_Bernardina```
+<code>http://jrp.stanford.edu/cgi-bin/jrp?a=info&f=Jos2721-La_Bernardina</code>
 
-* Example Humdrum data file access:
+* Example Humdrum data file access by setting the *action* to "humdrum":
 
-```http://jrp.stanford.edu/cgi-bin/jrp?a=humdrum&f=Jos2721-La_Bernardina```
+<code>http://jrp.stanford.edu/cgi-bin/jrp?a=humdrum&f=Jos2721-La_Bernardina</code>
 
-* Example MIDI data file access:
+* Example MIDI data file access by setting the *action* to "midi":
 
-```http://jrp.stanford.edu/cgi-bin/jrp?a=midi&f=Jos2721-La_Bernardina```
+<code>http://jrp.stanford.edu/cgi-bin/jrp?a=midi&f=Jos2721-La_Bernardina</code>
 
-* Example graphical music scores in PDF format:
+* Example graphical music scores in PDF format with four possible styles:
 ** Without editorial accidentals or text: ```http://jrp.stanford.edu/cgi-bin/jrp?a=notationnoedit&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie```
 ** Without editorial accidentals but with text: ```http://jrp.stanford.edu/cgi-bin/jrp?a=notationnoeditwithtext&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie```
 ** With editorial accidentals but without text: ```http://jrp.stanford.edu/cgi-bin/jrp?a=notationwitheditorial&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie```
