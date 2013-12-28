@@ -38,12 +38,12 @@ that they are not displayed in the scores on the
 [JRP](http://josquin.stanford.edu) website.
 
 Barlines had not yet been invented in the 15th century, so all
-barlines in the data are interpreted.  This is more deterministic
-than adding implicit accidentals.  Typically barlines represent
-breves (double whole notes) durations, although they sometimes 
-represent longs (quadruple whole notes), and may include patterns of
-dashed and solid lines to indicate the implied long (solid lines) and
-breve (dash line) metric grid of the music.
+barlines in the data are interpreted; however, these are less option
+to interpretation compared to editorial accidentals.  Typically
+barlines represent breves (double whole notes) durations, although
+they sometimes represent longs (quadruple whole notes), and may
+include patterns of dashed and solid lines to indicate the implied
+long (solid lines) and breve (dash line) metric grid of the music.
 
 All parts are encoded in modern notation that is sensitive to the
 original mensural notation intent of the fifteenth century.  The
@@ -152,12 +152,12 @@ fixed fields, each separated by a dash from the other.  The first
 component of the title information is the title of the work.  This
 is optionally followed by the title of the movement (i.e., mass
 section names, such as the standard sections: kyrie, gloria, credo,
-sanctus, agnus [dei]).  A third optional section of the title in
+sanctus, and agnus [dei]).  A third optional section of the title in
 the filename is variant information.  Spaces in the title are encoded
 as underscore characters in the filenames.  Two underscores in a
 row indicate a slash in the title.  No accent marks are given in
 the filename titles since they are POSIX compliant; see the
-```!!!OTL``` reference records within each file for the proper
+```!!!OTL``` reference record within each file for the proper
 accentuation of work titles.
 
 Title information in filenames are a courtesy for human beings.  As
@@ -177,35 +177,32 @@ To download this Github repository with
 The ```--recursive``` option is needed to download each of the individual composer 
 repositories inside of the meta-repository.
 
-This repository cannot be downloaded in useful format from the
-ZIP link on the Github website, since the included repositories for
-each composer will not be included in that ZIP file.  You must
+This repository cannot be downloaded in a very useful format from
+the ZIP link on the Github website, since the included repositories
+for each composer will not be included in that ZIP file.  You must
 either use [git](http://en.wikipedia.org/wiki/Git_%29software%29)
-software or download the individual composers' ZIP files linked
-from the table above.
+software or separately download each of the individual composers'
+ZIP files linked from the table above.
 
 In a unix terminal, you can check to see if git is installed by
 typing ```which git```.  If the terminal replies with a path to
 git, then you can proceed with the above cloning to download the
-repository.  If not, then typically you can use a package manager to
-install *git*, such as ```apt-get install git``` or ```yum install git```.
-On Apple OS X computers, git can be installed directly from
-[here](http://git-scm.com/download/mac) or by more experienced users
-from a mac package manager such as [Homebrew](http://brew.sh).  If
-you have a comic-book view of the computer world, you can download GUI
-interfaces for git [here](http://git-scm.com/downloads/guis).  A
-[Github/git plugin](http://eclipse.github.com) is also available
-for the Eclipse IDE ([see video](http://www.youtube.com/watch?v=ptK9-CNms98)).
+repository.  If not, then typically you can use a package manager
+to install *git*, such as ```apt-get install git``` or ```yum install
+git``` in linux.  On Apple OS X computers, git can be installed
+directly from [here](http://git-scm.com/download/mac) or by more
+experienced users from a mac package manager such as
+[Homebrew](http://brew.sh).  If you have a comic-book view of the
+computer world, you can download GUI interfaces for git
+[here](http://git-scm.com/downloads/guis).  A [Github/git
+plugin](http://eclipse.github.com) is also available for the Eclipse
+IDE ([watch video](http://www.youtube.com/watch?v=ptK9-CNms98)).
 
 
 # Update #
 
 After you have downloaded this repository with `git`, you can check 
 periodically for updates for all composers' works using this command:
-
-<code>git pull; git submodule foreach git pull</code>
-
-Or alternatively:
 
 <code>git pull --recurse-submodules</code>
 
