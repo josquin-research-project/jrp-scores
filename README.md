@@ -3,48 +3,57 @@
 This repository contains digital music scores in the Humdrum data
 format from the [Josquin Research Project](http://josquin.stanford.edu).
 The primary web interface for these scores is http://josquin.stanford.edu
-which allows searching and browsing the scores as well as conversions
-into other data formats, such as MIDI, and interfaces to some online
-analysis tools.  These scores encompass music of the early Renaissance
-(*c*1420 to *c*1520), mostly representing the [Franco-Flemish
-School](http://en.wikipedia.org/wiki/Franco-Flemish_School), and
-are mainly intended from computational analysis.  As a result, only
-a few works include text/lyrics suitable for vocal performance.
+which allows online searching and browsing these scores, conversions
+into other data formats, such as MIDI and graphical music scores,
+as well as interfaces to some online analysis tools.  These scores
+encompass music of the early Renaissance (*c*1420 to *c*1520),
+mostly representing the [Franco-Flemish
+School](http://en.wikipedia.org/wiki/Franco-Flemish_School) and are
+mainly intended from computational analysis.  As a result only a
+few works include text/lyrics suitable for vocal performance.
 
 A peculiar aspect in music of the sixteenth century (from a modern
-viewpoint) is that it did not include all of the accidentals needed
-for performance.  Editorial accidentals have been added to these
-scores to realize the performance practice of the time.  An "X"
-following an accidental indicates that it was not written in the
-original notation. When written without an "X" after it, the
-accidental is found in the original notation.
+viewpoint) is an incomplete notation of accidentals needed for
+performance.  Editorial accidentals have been added to these scores
+to realize the performance practice of the time.  An "i" following
+an accidental indicates that it was not written in the original
+notation and is added as an interpretation of the original intent.
+When written without an "i" after it, the accidental is found in
+the original notation, either from the key signature, or an explicit
+accidental written immediately before the note.
 
 Another conceptual difference is the use of mensuration signs.
 These evolved (decayed) into modern time signatures.  The most
 common mensuration in the music is Cut-C, from which modern cut-time
 originates.  In this mensuration the *beat* is at the whole-note
 rhythmic level, and the metric cycle is two beats (a breve). Circle
-mensuration is the second most common mensuration in the data. This
+mensuration is the second most common mensuration in the music. This
 represents three whole-note beats per rhythmic cycle (dotted breve).
-Mensurations also conveyed tempo, so MIDI files on the [JRP] website
+Mensuration signs also convey tempo, so MIDI files on the [JRP] website
 made from these scores typically interpret tempo from the mensuration
 signs in the data.  
 
-Barlines had not yet been invented in the 16th century, so all
+Barlines had not yet been invented in the 15th century, so all
 barlines in the data are interpreted.  This is more deterministic
-than resolving implicit accidentals.  Typically the barlines represent
-breves (double whole notes) durations, although they sometime will
+than adding implicit accidentals.  Typically barlines represent
+breves (double whole notes) durations, although they sometimes 
 represent longs (quadruple whoe notes), and may include patterns of
 dashed and solid lines to indicate the implied long (solid lines) and
-breve (dash line) rhythmic grid of the music.
+breve (dash line) metric grid of the music.
 
-All parts are encoded in modern notation faithful to the original
-mensural notation of the fifteenth century.  The main difference is
-that all augmentation dots are make explicit
-
-Since parts were not written in modern score format during the
-fifteenth century, mensuration shifts sometimes did not occur
-at the same point in each part.
+All parts are encoded in modern notation that is sensitive to the
+original mensural notation intent of the fifteenth century.  The
+main difference is that all rhtymic durations augmentation dots are
+make explicit and not contextually dependent as in mensural notation.
+Since the original parts were not written in modern score layout
+during the fifteenth century, mensuration shifts sometimes do not
+occur at the same point in each part.  For example, one part may
+have a whole note in Cut-C mensuration while another part has
+a dotted whole note in 3 mensuration.  This will be represented
+with the same rhythmic duration in the data either as a whole note 
+and a triplet dotted whole note (most common), or as two dotted
+whole notes with the second one rhythmically scaled by 2/3rds to
+generate a visual whole note.
 
 
 # Composers #
