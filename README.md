@@ -124,7 +124,7 @@ followed by a four-digit number to represent a specific work by
 that composer.  Typically the first digit of the catalog number
 will indicate the genre of the work: 1 for masses, 2 for motets,
 and 3 for secular songs (see the ```!!!AGN``` reference record
-inside of the file for the actual genre designation(s).  The music
+inside of the file for the actual genre designations).  The music
 of Josquin is an exception, where the first two digits indicate its
 volume number in the New Josquin Edition, and the last two digits
 indicate the enumerated position of the work within that volume.
@@ -152,24 +152,25 @@ fixed fields, each separated by a dash from the other.  The first
 component of the title information is the title of the work.  This
 is optionally followed by the title of the movement (i.e., mass
 section names, such as the standard sections: kyrie, gloria, credo,
-sanctus, and agnus [dei]).  A third optional section of the title in
-the filename is variant information.  Spaces in the title are encoded
-as underscore characters in the filenames.  Two underscores in a
-row indicate a slash in the title.  No accent marks are given in
-the filename titles since they are POSIX compliant; see the
+sanctus, and agnus [dei]).  A third optional section of the title
+in the filename is variant information.  Spaces in the title are
+encoded as underscore characters in the filenames.  Two underscores
+in a row indicate a slash in the title.  No accent marks are given
+in the filename titles since they are
+[POSIX](http://en.wikipedia.org/wiki/POSIX) compliant; see the
 ```!!!OTL``` reference record within each file for the proper
 accentuation of work titles.
 
 Title information in filenames are a courtesy for human beings.  As
-such they can be removed from the filenames, leaving only the unique
-catalog numbers. (Removing the catalog numbers will not result in
+such they can be removed from filenames, leaving only the unique
+catalog numbers. (Removing catalog numbers will not result in
 unique filenames since a composer may write several songs with the
 same title).
 
 
 # Download #
 
-To download this Github repository with
+To download this Github repository using
 [git](http://en.wikipedia.org/wiki/Git_%29software%29) in a terminal, type:
 
 <code>git clone --recursive https://github.com/josquin-research-project/jrp-scores</code>
@@ -188,7 +189,7 @@ In a unix terminal, you can check to see if git is installed by
 typing ```which git```.  If the terminal replies with a path to
 git, then you can proceed with the above cloning to download the
 repository.  If not, then typically you can use a package manager
-to install *git*, such as ```apt-get install git``` or ```yum install
+to install git, such as ```apt-get install git``` or ```yum install
 git``` in linux.  On Apple OS X computers, git can be installed
 directly from [here](http://git-scm.com/download/mac) or by more
 experienced users from a mac package manager such as
@@ -210,7 +211,7 @@ periodically for updates for all composers' works using this command:
 # Processing scores #
 
 The digital scores in this repository are designed to work with the
-Humdrum Toolkit ([github](https://github.com/kroger/humdrum)) as
+[Humdrum Toolkit](http://www.humdrum.org/Humdrum) ([github](https://github.com/kroger/humdrum)) as
 well as [Humdrum Extras](http://extra.humdrum.org)
 ([github](https://github.com/craigsapp/humextra)).
 
@@ -227,13 +228,13 @@ shell, this can be done with a command like this:
 
 <code>rscale -f 1/4 oldfile > newfile</code>
 
-The makefile in base directory of this repository has commands
-which will generate reduced versions of all files.  Use
+A makefile in the base directory of this repository contains
+instructions to generate reduced rhythmic versions of all files.  Type
 (if [Humdrum Extras](https://github.com/craigsapp/humextra) is installed):
 
 <code>make reduced</code>
 
-or otherwise try:
+or if humextras is not installed type:
 
 <code>make webreduced</code>
 
