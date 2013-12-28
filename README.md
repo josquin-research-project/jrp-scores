@@ -15,12 +15,12 @@ few works include text/lyrics suitable for vocal performance.
 A peculiar aspect in music of the sixteenth century (from a modern
 viewpoint) is an incomplete notation of accidentals needed for
 performance.  Editorial accidentals have been added to these scores
-to realize the performance practice of the time.  An "i" immediately
-following an accidental indicates that it was not written in the
-original notation and is added as an interpretation of the original
-intent.  When written without an "i" after it, the accidental is
-found in the original notation, either from the key signature, or
-an explicit accidental written immediately before the note.
+to realize the performance practice of the time.  An "i" character
+immediately following an accidental indicates that it was not written
+in the original notation and is added as an interpretation of the
+original intent.  When written without an "i" after it, the accidental
+is found in the original notation, either from the key signature,
+or an explicit accidental written immediately before the note.
 
 Another conceptual difference is the use of mensuration signs.
 These evolved (decayed) into modern time signatures.  The most
@@ -64,15 +64,17 @@ Mensural music (particularly in masses) often will notate music in
 *prolation*.  When music is in prolation between parts, a whole
 note in one part will have the same duration has a half-note in
 another part for example.  The ```*rscale``` rhythmic-scaling
-interpretation will also be used in these cases.  Applying that
-rhythmic-scaling will cause a part to be displayed in the original
-rhythmic values (i.e., reverse the resolution of the prolation).
+interpretation will also be used in these cases.  All parts in the
+data have a 1:1 rhythmic scaling for analytic purposes.  Applying
+the ```*rscale``` factor will cause a part to be displayed in its
+original rhythmic values (i.e., reverse the resolution of the
+prolation).
 
 Triplet brackets are given explicitly in the data using "V" and "Z"
 characters (this will change in the future).  Triplet brackets
 indicate music that was original in colored notation, which was the
-mensural equivalent of tripets.  Music in 3 mensuration (an alternate
-mensural method of showing tuplets) may be represented as modern
+mensural equivalent of triplets.  Music in 3 mensuration (an alternate
+mensural method of showing triplets) may be represented as modern
 rhythmic triplets, but will not contain triplet brackets.
 
 Ligatures are groups of notes with their heads attached to each other which
@@ -110,8 +112,60 @@ Within each directory/folder of the repository is a subdirectory/subfolder
 called ```kern``` that contains the actual scores in the **kern data
 type of the Humdrum data file format.
 
-Currently, composers with complete (or nearly complete) sets of encoded works include:
-Josquin, Ockeghem, La Rue and de Orto.
+Currently, composers with complete (or nearly complete) sets of
+encoded works include: Josquin, Ockeghem, La Rue and de Orto.
+
+
+# Filenames #
+
+Each file in the database starts with a unique JRP catalog number.
+This consists of the three-letter composer ID as listed above,
+followed by a four-digit number to represent a specific work by
+that composer.  Typically the first digit of the catalog number
+will indicate the genre of the work: 1 for masses, 2 for motets,
+and 3 for secular songs (see the ```!!!AGN``` reference record
+inside of the file for the actual genre designation(s).  The music
+of Josquin is an exception, where the first two digits indicate its
+volume number in the New Josquin Edition, and the last two digits
+indicate the enumerated position of the work within that volume.
+
+After the four-digit work number, an optional letter indicates a
+*movement*-level encoding of a work is found in the file.  This
+system is used for storing mass sections in separate files, where
+"a" is the first section (usually the Kyrie section), "b" is the
+second section (usually the Gloria section), and so on.
+
+Work-level variants are indicated in the catalog number by adding
+a dot after the work number, followed by a variant number (of any
+digit length).  Variants at the movement level are indicated by
+placing a dot after the variant letter(s) followed by a variant
+letter (or more than one lower-case letter).  If a file contains
+an enumerable subsection of a movement, an optional digit will be
+appended to the catalog number (which may themselves have following
+variant digits).  Movement subsection numbers are not yet present
+in any datafile (and neither are Movement sub-subsections which
+would alternate back to letters like movement-level labels).
+
+After the catalog number, each filename will contain a dash followed
+by title information.  The title information may have up to three
+fixed fields, each separated by a dash from the other.  The first
+component of the title information is the title of the work.  This
+is optionally followed by the title of the movement (i.e., mass
+section names, such as the standard sections: kyrie, gloria, credo,
+sanctus, agnus [dei]).  A third optional section of the title in
+the filename is variant information.  Spaces in the title are encoded
+as underscore characters in the filenames.  Two underscores in a
+row indicate a slash in the title.  No accent marks are given in
+the filename titles since they are POSIX compliant; see the
+```!!!OTL``` reference records within each file for the proper
+accentuation of work titles.
+
+Title information in filenames are a courtesy for human beings.  As
+such they can be removed from the filenames, leaving only the unique
+catalog numbers. (Removing the catalog numbers will not result in
+unique filenames since a composer may write several songs with the
+same title).
+
 
 # Download #
 
