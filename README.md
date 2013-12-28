@@ -222,9 +222,8 @@ containing rational rhythmic values need to be diminuted by a factor
 of four to convert whole notes, (typically the rhythmic level of a
 beat in the early Renaissance) into a quarter notes (the typical
 modern rhythmic level for beats).  This can be done with the
-[rscale](http://extras.humdrum.org/man/rscale) tool to apply the
-rhythmic scaling of 1/4 to all notes of all scores.  In a unix bash
-shell, this can be done with a command like this:
+[rscale](http://extras.humdrum.org/man/rscale) tool to apply a
+rhythmic scaling of 1/4 to all notes in all scores:
 
 <code>rscale -f 1/4 oldfile > newfile</code>
 
@@ -238,7 +237,11 @@ or if humextras is not installed type:
 
 <code>make webreduced</code>
 
-to download the reduced form from the JRP website ([example](http://josquin.stanford.edu/data?a=humdrumreduced&f=Jos2721-La_Bernardina)).
+to download the reduced form from the JRP website ([example](http://josquin.stanford.edu/data?a=humdrumreduced&f=Jos2721-La_Bernardina)).  This will create
+subdirectories/subfolders in each composer directory/folder named 
+```kern-reduced``` with the reduced rhythmic versions of the data files.
+
+
 
 ### Other example processing ###
 
