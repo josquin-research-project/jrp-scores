@@ -3,11 +3,11 @@
 This repository contains digital music scores in the Humdrum data
 format from the [Josquin Research Project](http://josquin.stanford.edu).
 The primary web interface for these scores is http://josquin.stanford.edu
-which allows online searching and browsing these scores, conversions
-into other data formats, such as MIDI and graphical music scores,
-as well as interfaces to some online analysis tools.  These scores
-encompass music of the early Renaissance (*c*1420 to *c*1520),
-mostly representing the [Franco-Flemish
+which allows online searching and browsing, conversions into other
+data formats, such as MIDI and graphical music scores, as well as
+interfaces to some online analysis tools.  These scores encompass
+music of the early Renaissance (*c*1420 to *c*1520), mostly
+representing the [Franco-Flemish
 School](http://en.wikipedia.org/wiki/Franco-Flemish_School) and are
 mainly intended from computational analysis.  As a result only a
 few works include text/lyrics suitable for vocal performance.
@@ -15,45 +15,58 @@ few works include text/lyrics suitable for vocal performance.
 A peculiar aspect in music of the sixteenth century (from a modern
 viewpoint) is an incomplete notation of accidentals needed for
 performance.  Editorial accidentals have been added to these scores
-to realize the performance practice of the time.  An "i" following
-an accidental indicates that it was not written in the original
-notation and is added as an interpretation of the original intent.
-When written without an "i" after it, the accidental is found in
-the original notation, either from the key signature, or an explicit
-accidental written immediately before the note.
+to realize the performance practice of the time.  An "i" immediately
+following an accidental indicates that it was not written in the
+original notation and is added as an interpretation of the original
+intent.  When written without an "i" after it, the accidental is
+found in the original notation, either from the key signature, or
+an explicit accidental written immediately before the note.
 
 Another conceptual difference is the use of mensuration signs.
 These evolved (decayed) into modern time signatures.  The most
 common mensuration in the music is Cut-C, from which modern cut-time
 originates.  In this mensuration the *beat* is at the whole-note
 rhythmic level, and the metric cycle is two beats (a breve). Circle
-mensuration is the second most common mensuration in the music. This
-represents three whole-note beats per rhythmic cycle (dotted breve).
-Mensuration signs also convey tempo, so MIDI files on the [JRP] website
-made from these scores typically interpret tempo from the mensuration
-signs in the data.  
+mensuration is the second most common mensuration in the music.
+This represents three whole-note beats per rhythmic cycle (dotted
+breve).  Mensuration signs also convey tempo, so MIDI files on the
+[JRP](http://josquin.stanford.edu) website made from these scores
+typically interpret tempo from the mensuration signs in the data.
 
 Barlines had not yet been invented in the 15th century, so all
 barlines in the data are interpreted.  This is more deterministic
 than adding implicit accidentals.  Typically barlines represent
 breves (double whole notes) durations, although they sometimes 
-represent longs (quadruple whoe notes), and may include patterns of
+represent longs (quadruple whole notes), and may include patterns of
 dashed and solid lines to indicate the implied long (solid lines) and
 breve (dash line) metric grid of the music.
 
 All parts are encoded in modern notation that is sensitive to the
 original mensural notation intent of the fifteenth century.  The
-main difference is that all rhtymic durations augmentation dots are
-make explicit and not contextually dependent as in mensural notation.
-Since the original parts were not written in modern score layout
-during the fifteenth century, mensuration shifts sometimes do not
-occur at the same point in each part.  For example, one part may
-have a whole note in Cut-C mensuration while another part has
-a dotted whole note in 3 mensuration.  This will be represented
-with the same rhythmic duration in the data either as a whole note 
-and a triplet dotted whole note (most common), or as two dotted
-whole notes with the second one rhythmically scaled by 2/3rds to
-generate a visual whole note.
+main difference is that all rhythmic durations and augmentation
+dots are make explicit rather than dependent on a note's musical
+context.  Since the original parts were not written in modern score
+layout during the fifteenth century, mensuration changes sometimes
+do not occur at the same point in each part.  For example, one part
+may have a whole note in Cut-C mensuration while another part has
+a dotted whole note in 3 mensuration.  This is represented in the
+data with the same rhythmic duration in each part, usually as a
+whole note and a triplet dotted whole note using an ```\*rscale:3/2```
+interpretation in the second part to indicate that it is to be
+displayed with a rhythmic duration 3/2 longer (i.e., convert the
+triplet dotted whole note into a non-triplet dotted whole note).
+Triplet brackets are given explicitly in the data using "V" and "Z"
+characters (this will change in the future).  Triplet brackets
+indicate music that was original in colored notation, which was the
+mensural equivalent of tripets.  Music in 3 mensuration (an alternate
+mensural method of showing tuplets) may be represented as modern
+rhythmic triplets, but will not contain triplet brackets.
+
+Ligatures are groups of notes with their heads attached to each other which
+typically gives information about the rhythm of the notes in mensural
+notation.  Usually modern notation of mensural music will place brackets
+around individual notes which were originally part of a ligature group.
+However, ligatures are not indicated in this data.
 
 
 # Composers #
@@ -95,7 +108,7 @@ To download this Github repository with
 <code>git clone --recursive https://github.com/josquin-research-project/jrp-scores</code>
 
 The ```--recursive``` option is needed to download each of the individual composer 
-repostories inside of the meta-repository.
+repositories inside of the meta-repository.
 
 This repository cannot be downloaded in useful format from the
 ZIP link on the Github website, since the included repositories for
@@ -121,7 +134,7 @@ for the Eclipse IDE ([see video](http://www.youtube.com/watch?v=ptK9-CNms98)).
 # Update #
 
 After you have downloaded this repository with `git`, you can check 
-periodically for updates for all composers's works using this command:
+periodically for updates for all composers' works using this command:
 
 <code>git pull; git submodule foreach git pull</code>
 
@@ -188,7 +201,7 @@ title in the database):
 
 <code>http://jrp.stanford.edu/cgi-bin/jrp?a=info&f=Jos2721-La_Bernardina</code>
 
-A file extention can also be given (.krn in this case) but will always be ignored.
+A file extension can also be given (.krn in this case) but will always be ignored.
 
 Example Humdrum data file access by setting the *action* to "humdrum":
 
