@@ -32,6 +32,10 @@ This represents three whole-note beats per rhythmic cycle (dotted
 breve).  Mensuration signs also convey tempo, so MIDI files on the
 [JRP](http://josquin.stanford.edu) website made from these scores
 typically interpret tempo from the mensuration signs in the data.
+Modern time signatures are present in the data as a result of using
+modern music notation editors and are of secondary concern (notice
+that they are not displayed in the scores on the
+[JRP](http://josquin.stanford.edu) website.
 
 Barlines had not yet been invented in the 15th century, so all
 barlines in the data are interpreted.  This is more deterministic
@@ -51,10 +55,19 @@ do not occur at the same point in each part.  For example, one part
 may have a whole note in Cut-C mensuration while another part has
 a dotted whole note in 3 mensuration.  This is represented in the
 data with the same rhythmic duration in each part, usually as a
-whole note and a triplet dotted whole note using an ```\*rscale:3/2```
+whole note and a triplet dotted whole note using an ```*rscale:3/2```
 interpretation in the second part to indicate that it is to be
 displayed with a rhythmic duration 3/2 longer (i.e., convert the
 triplet dotted whole note into a non-triplet dotted whole note).
+
+Mensural music (particularly in masses) often will notate music in
+*prolation*.  When music is in prolation between parts, a whole
+note in one part will have the same duration has a half-note in
+another part for example.  The ```*rscale``` rhythmic-scaling
+interpretation will also be used in these cases.  Applying that
+rhythmic-scaling will cause a part to be displayed in the original
+rhythmic values (i.e., reverse the resolution of the prolation).
+
 Triplet brackets are given explicitly in the data using "V" and "Z"
 characters (this will change in the future).  Triplet brackets
 indicate music that was original in colored notation, which was the
