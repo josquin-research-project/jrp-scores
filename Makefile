@@ -32,6 +32,8 @@
 ## "make kern-notext" -- Remove **text spines from data and store
 ##     output in kern-notext directories for each composer directory.
 ##
+## "make genres" -- Groups work by genre by downloading from kernScores.
+##
 ## If Humdrum Extras is not installed, you can use web downloaded versions
 ## of the above make commands:
 ##
@@ -56,8 +58,9 @@ all:
 	@echo 'Comands requiring Humdrum Extras to be installed.'
 	@echo '   "make kern-reduced": create rhythmically reduced kern files.'
 	@echo '   "make kern-notext" : remove lyrics from scores.'
+	@echo '   "make genres"      : group works by genre.'
 	@echo ''
-	@echo 'Web equivalents if Humdrum extras are not installed:'
+	@echo 'JRP website downloads:'
 	@echo '   "make web-pdf"     : download score PDFs from the JRP website.'
 	@echo '   "make web-pdf-notext" : download score PDFs without lyrics.'
 	@echo '   "make web-kern-reduced" : download rhythmically reduced kern files.'
@@ -236,6 +239,56 @@ web-pdf-notext:
 
 ##############################
 #
+# make genres -- Download scores organized by genres from the
+#      kernScores website.
+#
+
+genres: Zma Zmo Zso
+
+# 
+# Download files from kernScores related to masses (excluding fragments):
+#
+
+zma: Zma
+Zma:
+	mkdir -p Zma/kern; (cd Zma/kern; humsplit h://jrp/Zma)
+
+# 
+# Download files from kernScores related to motets:
+#
+
+zmo: Zmo
+Zmo:
+	mkdir -p Zmo/kern; (cd Zmo/kern; humsplit h://jrp/Zmo)
+
+# 
+# Download files from kernScores related to songs:
+#
+
+zso: Zso
+Zso:
+	mkdir -p Zso/kern; (cd Zso/kern; humsplit h://jrp/Zso)
+
+# 
+# Download securely attributed works of Josquin:
+#
+
+joa: Joa
+Joa:
+	mkdir -p Joa/kern; (cd Joa/kern; humsplit h://jrp/Joa)
+
+# 
+# Download not securely attributed works of Josquin:
+#
+
+job: Job
+Job:
+	mkdir -p Job/kern; (cd Job/kern; humsplit h://jrp/Job)
+
+
+
+##############################
+#
 # make update -- Download any changes in the Github repositories for
 #      each composer.
 #
@@ -262,5 +315,10 @@ clean:
 	-rm -rf [A-Z]??/midi
 	-rm -rf [A-Z]??/pdf
 	-rm -rf [A-Z]??/pdf-notext
+	-rm -rf Zma
+	-rm -rf Zmo
+	-rm -rf Zso
+	-rm -rf Joa
+	-rm -rf Job
 
 

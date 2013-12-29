@@ -269,6 +269,9 @@ of the downloaded repository:
           will be stored in a directory called <tt>kern-notext</tt> within
           each composer's directory.  
     </tr>
+<tr><td><tt>make&nbsp;genres</tt></td>
+    <td>  Download works organized by genre from kernScores.
+    </tr>
 </table>
 
 
