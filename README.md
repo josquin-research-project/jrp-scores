@@ -119,7 +119,7 @@ encoded works include: Josquin, Ockeghem, La Rue and de Orto.
 # Filenames #
 
 Each file in the database starts with a unique JRP catalog number.
-This consists of the three-letter composer ID as listed above,
+This consists of a three-letter composer ID as listed above,
 followed by a four-digit number to represent a specific work by
 that composer.  Typically the first digit of the catalog number
 will indicate the genre of the work: 1 for masses, 2 for motets,
@@ -129,8 +129,8 @@ of Josquin is an exception, where the first two digits indicate its
 volume number in the New Josquin Edition, and the last two digits
 indicate the enumerated position of the work within that volume.
 
-After the four-digit work number, an optional letter indicates a
-*movement*-level encoding of a work is found in the file.  This
+After the four-digit work number, an optional letter indicates that
+a *movement*-level encoding of a work is found in the file.  This
 system is used for storing mass sections in separate files, where
 "a" is the first section (usually the Kyrie section), "b" is the
 second section (usually the Gloria section), and so on.
@@ -141,12 +141,12 @@ digit length).  Variants at the movement level are indicated by
 placing a dot after the variant letter(s) followed by a variant
 letter (or more than one lower-case letter).  If a file contains
 an enumerable subsection of a movement, an optional digit will be
-appended to the catalog number (which may themselves have following
-variant digits).  Movement subsection numbers are not yet present
-in any datafile (and neither are Movement sub-subsections which
-would alternate back to letters like movement-level labels).
+appended to the catalog number (which may itself be followed by a
+dot and variant digits).  Movement subsection numbers are not yet
+present in any datafile (and neither are Movement sub-subsections
+which would alternate back to letters like movement-level labels).
 
-After the catalog number, each filename will contain a dash followed
+After the catalog number, each filename contains a dash followed
 by title information.  The title information may have up to three
 fixed fields, each separated by a dash from the other.  The first
 component of the title information is the title of the work.  This
@@ -193,7 +193,7 @@ to install git, such as ```apt-get install git``` or ```yum install
 git``` in linux.  On Apple OS X computers, git can be installed
 directly from [here](http://git-scm.com/download/mac) or by more
 experienced users from a mac package manager such as
-[Homebrew](http://brew.sh).  If you have a comic-book view of the
+[Homebrew](http://brew.sh).  If you have a comicbook-like view of the
 computer world, you can download GUI interfaces for git
 [here](http://git-scm.com/downloads/guis).  A [Github/git
 plugin](http://eclipse.github.com) is also available for the Eclipse
@@ -225,7 +225,7 @@ Here are some of the make commands which you can run in the base directory
 of the downloaded repository:
 
 <table>
-<tr><td width=120 colspan=2> No additional software needed </td></tr>
+<tr><td width=200 colspan=2> No additional software needed </td></tr>
 <tr><td><tt>make</tt></td>
     <td>  List all of the possible make commands (i.e., this list).
     </tr>
@@ -254,12 +254,12 @@ of the downloaded repository:
 <tr><td><tt>make&nbsp;kern-reduced</tt></td>
     <td>  Decrease all note durations by a factor of four.  Output data 
           will be stored in a directory called <tt>kern-reduced</tt> within
-          each composer's directory.  Similar to <tt>make webreduced</tt>, but
+          each composer's directory.  Similar to <tt>make web-reduced</tt>, but
 	  much faster.
     </tr>
 <tr><td><tt>make&nbsp;kern-notext</tt></td>
     <td>  Remove lyrics from all parts. Resulting data
-          will be stored in a directory called `kern-notext` within
+          will be stored in a directory called <tt>kern-notext</tt> within
           each composer's directory.  
     </tr>
 </table>
@@ -270,8 +270,8 @@ of the downloaded repository:
 
 For proper rhythmic parsing in the Humdrum Toolkit, some files
 containing rational rhythmic values need to be diminuted by a factor
-of four to convert whole notes, (typically the rhythmic level of a
-beat in the early Renaissance) into quarter notes (the typical
+of four to convert whole notes (typically the rhythmic level of a
+beat in the early Renaissance), into quarter notes (the typical
 modern rhythmic level for beats).  This can be done with the
 [rscale](http://extras.humdrum.org/man/rscale) tool to apply a
 rhythmic scaling of 1/4 to all notes in all scores:
@@ -288,7 +288,7 @@ is installed):
 
 or if humextras is not installed, type:
 
-<code>make webreduced</code>
+<code>make web-reduced</code>
 
 to download the reduced form from the JRP website ([example](http://josquin.stanford.edu/data?a=humdrumreduced&f=Jos2721-La_Bernardina)).  This will create
 subdirectories in each composer directory named 
@@ -318,7 +318,7 @@ generated with this format:
 Where ```Jos2721``` is the JRP catalog number 2721 from Josquin's
 collection of works, and ```info``` is the *action* being applied
 to the given work (file) which causes the work-info page to be
-diplayed.  A title may optionally follow the catalog number (with
+displayed.  A title may optionally follow the catalog number (with
 exact spelling of the title in the database):
 
 <code>http://jrp.stanford.edu/cgi-bin/jrp?a=info&f=Jos2721-La_Bernardina</code>
@@ -370,8 +370,8 @@ extension), while JRP access requires only the catalog number.
 
 Examples:
 
-<code>humcat h://jrp/Jos/Jos2721-La_Bernardina.krn
-humcat jrp://Jos2721-La_Bernardina.krn
+<code>humcat h://jrp/Jos/Jos2721-La_Bernardina.krn<br>
+humcat jrp://Jos2721-La_Bernardina.krn<br>
 humcat jrp://Jos2721</code>
 
 Since it requires the full filename for accessing individual
