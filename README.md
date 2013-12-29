@@ -207,6 +207,10 @@ periodically for updates for all composers' works using this command:
 
 <code>git pull --recurse-submodules</code>
 
+Alternatively, the makefile in the base directory can be used to run this command:
+
+<code>make update</code>
+
 
 # Processing scores #
 
@@ -228,6 +232,9 @@ of the downloaded repository:
 <tr><td width=200 colspan=2> No additional software needed: </td></tr>
 <tr><td><tt>make</tt></td>
     <td>  List all of the possible make commands (i.e., this list).
+    </tr>
+<tr><td><tt>make&nbsp;update</tt></td>
+    <td>  Download any updates to the online repository.
     </tr>
 <tr><td><tt>make&nbsp;clean</tt></td>
     <td>  Delete directories of data created by this makefile, such as

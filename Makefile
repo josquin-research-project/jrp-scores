@@ -43,9 +43,11 @@ all:
 	@echo 'Run this makefile with one of the following labels:'
 	@echo '   "make kern-reduced": create rhythmically reduced kern files.'
 	@echo '   "make clean"       : delete data directories created by this makefile.'
+	@echo '   "make update"      : download any new changes in online data repository.'
 	@echo ''
 	@echo 'Web equivalents if Humdrum extras are not installed:'
-	@echo '   "make web-pdf"     : download PDF files of scores from the JRP website.'
+	@echo '   "make web-pdf"     : download score PDFs from the JRP website.'
+	@echo '   "make web-pdf-notext" : download score PDFs without lyrics.'
 	@echo '   "make web-kern-reduced" : download rhythmically reduced kern files.'
 	@echo ''
 
@@ -56,7 +58,7 @@ PDFNOTEXT = notationwitheditorialnotext
 REDUCED   = humdrumreduced
 
 # If wget is not present on the computer, try using curl since the
-# computer is most likely an OS X one.
+# computer is most likely an OS X one:
 
 WGET = `which wget`
 ifeq ($(WGET),) 
@@ -105,7 +107,7 @@ kern-reduced:
 #
 
 webkernreduced: web-kern-reduced
-webreducen: web-kern-reduced
+webreduced: web-kern-reduced
 web-kernreduced: web-kern-reduced
 webkern-reduced: web-kern-reduced
 web-kern-reduced:
@@ -130,6 +132,7 @@ web-kern-reduced:
 #     which are generated from the source **kern Humdrum data.
 #
 
+midi: web-midi
 webmidi: web-midi
 web-midi:
 	for dir in [A-Z]??/kern;				\
@@ -149,10 +152,11 @@ web-midi:
 
 ########################################
 #
-# make webpdf -- Download PDF files of graphical music notation
+# make web-pdf -- Download PDF files of graphical music notation
 #     which are generated from the source **kern Humdrum data.
 #
 
+pdf: web-pdf
 webpdf: web-pdf
 web-pdf:
 	for dir in [A-Z]??/kern;				\
@@ -176,6 +180,8 @@ web-pdf:
 #     removing any lyrics from the music.
 #
 
+pdfnotext: web-pdf-notext
+pdf-notext: web-pdf-notext
 webpdfnotext: webpdf-notext
 webpdf-notext: web-pdf-notext
 web-pdfnotext: web-pdf-notext
@@ -183,12 +189,12 @@ web-pdf-notext:
 	for dir in [A-Z]??/kern;				\
 	do							\
 	   echo Processing composer $$dir;			\
-	   (cd $$dir; mkdir -p ../pdf;				\
+	   (cd $$dir; mkdir -p ../pdf-notext;			\
 	      for file in *.krn;				\
 	      do						\
 	         echo "   Downloading PDF for $$file ...";	\
-	         $(WGET) "$(DATAURL)a=$(PDFTYPE)&f=$$file" 	\
-	            > ../pdf/`basename $$file .krn`.pdf;	\
+	         $(WGET) "$(DATAURL)a=$(PDFNOTEXT)&f=$$file" 	\
+	            > ../pdf-notext/`basename $$file .krn`.pdf;	\
 	      done						\
 	   )							\
 	done
@@ -205,22 +211,22 @@ update: github-pull
 githubupdate: github-pull
 githubpull: github-pull
 github-pull:
-	git pull 
-	git submodule foreach git pull
+	git pull --recurse-submodules
 
 
 
 ##############################
 #
-# make clean -- Remove all automatically generated data files.  Make sure
-#     that you have not added your own content into the directories in which
-#     these derivative files are located; otherwise, these will be deleted
-#     as well.
+# make clean -- Remove all automatically generated or downloaded data files.  
+#     Make sure that you have not added your own content into the directories 
+#     in which these derivative files are located; otherwise, these will be 
+#     deleted as well.
 #
 
 clean:
 	-rm -rf [A-Z]??/kern-reduced
 	-rm -rf [A-Z]??/midi
 	-rm -rf [A-Z]??/pdf
+	-rm -rf [A-Z]??/pdf-notext
 
 
