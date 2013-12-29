@@ -89,7 +89,7 @@ However, ligatures are not indicated in this data.
 Individual composers' works are archived independently, and each of their
 repositories can be viewed by clicking in the first column of the
 table below.  Each composer is assigned a unique three-letter code
-listed in the first column that is the name of the directory/folder in
+listed in the first column that is the name of the directory in
 the meta-repository which contains each composer's works.
 
 
@@ -108,7 +108,7 @@ the meta-repository which contains each composer's works.
    <tr><td> <a href=https://github.com/josquin-research-project/Rue>Rue</a> </td><td> Pierre de la Rue		</td><td> (<a href=http://josquin.stanford.edu/#Rue>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Pierre_de_la_rue>Wikipedia</a>) </td></tr>
 </table>
 
-Within each directory/folder of the repository is a subdirectory/subfolder
+Within each directory of the repository is a subdirectory
 called ```kern``` that contains the actual scores in the **kern data
 type of the Humdrum data file format.
 
@@ -225,39 +225,39 @@ Here are some of the make commands which you can run in the base directory
 of the downloaded repository:
 
 <table>
-<tr><td width=120 style="background-color:#ffdddd" colspan=2> No additional software needed </td></tr>
+<tr><td width=120 colspan=2> No additional software needed </td></tr>
 <tr><td><tt>make</tt></td>
     <td>  List all of the possible make commands (i.e., this list).
     </tr>
-<tr><td><tt>make clean</tt></td>
+<tr><td><tt>make&nbsp;clean</tt></td>
     <td>  Delete directories of data created by this makefile, such as
 	  `kern-reduced`, `midi`, `pdf`, `pdf-notext`
           will be stored in a directory called `kern-reduced` within
           each composer's directory.
     </tr>
-<tr><td><tt>make web-pdf</tt></td>
+<tr><td><tt>make&nbsp;web-pdf</tt></td>
     <td>  Download PDF files for graphical music scores for each piece from the
 	  <a href=http://josquin.stanford.edu>JRP website</a>.
     </tr>
-<tr><td><tt>make web-pdf-notext</tt></td>
+<tr><td><tt>make&nbsp;web-pdf-notext</tt></td>
     <td>  Download PDF files for graphical music scores for each piece from the
 	  <a href=http://josquin.stanford.edu>JRP website</a> with lyrics removed
 	  from all parts.
     </tr>
-<tr><td><tt>make web-kern-reduced</tt></td>
+<tr><td><tt>make&nbsp;web-kern-reduced</tt></td>
     <td>  Download version of the data file which divides all note durations
           by a factor of four.  This data is useful for doing rhythmic
 	  analysis with the standard Humdrum Toolkit.  
     </tr>
-<tr><td style="background-color:#ffdddd" colspan=2> <a href=http://github.com/craigsapp/humextra>Humdrum Extras</a>
+<tr><td colspan=2> <a href=http://github.com/craigsapp/humextra>Humdrum Extras</a>
       installation required: </td></tr>
-<tr><td><tt>make kern-reduced</tt></td>
+<tr><td><tt>make&nbsp;kern-reduced</tt></td>
     <td>  Decrease all note durations by a factor of four.  Output data 
           will be stored in a directory called <tt>kern-reduced</tt> within
           each composer's directory.  Similar to <tt>make webreduced</tt>, but
 	  much faster.
     </tr>
-<tr><td><tt>make kern-notext</tt></td>
+<tr><td><tt>make&nbsp;kern-notext</tt></td>
     <td>  Remove lyrics from all parts. Resulting data
           will be stored in a directory called `kern-notext` within
           each composer's directory.  
@@ -278,9 +278,11 @@ rhythmic scaling of 1/4 to all notes in all scores:
 
 <code>rscale -f 1/4 oldfile > newfile</code>
 
-A makefile in the base directory of this repository contains
-instructions to generate reduced rhythmic versions of all files.  Type
-(if [Humdrum Extras](https://github.com/craigsapp/humextra) is installed):
+A makefile in the base directory of this repository ([this
+one](https://github.com/josquin-research-project/jrp-scores/blob/master/Makefile)
+contains instructions to generate reduced rhythmic versions of all
+files.  Type (if [Humdrum Extras](https://github.com/craigsapp/humextra)
+is installed):
 
 <code>make reduced</code>
 
@@ -289,7 +291,7 @@ or if humextras is not installed, type:
 <code>make webreduced</code>
 
 to download the reduced form from the JRP website ([example](http://josquin.stanford.edu/data?a=humdrumreduced&f=Jos2721-La_Bernardina)).  This will create
-subdirectories/subfolders in each composer directory/folder named 
+subdirectories in each composer directory named 
 ```kern-reduced``` with the reduced rhythmic versions of the data files.
 
 
@@ -301,28 +303,29 @@ Here are some other interesting processing actions:
 * Determine works that include text/lyrics: <code>grep -rl '\\*\\*text' \*/kern/\*</code>
 
 
-# Alternate score access #
+# Alternate data access #
 
 ### JRP website ###
 
 The website http://josquin.stanford.edu is a high-level interface
-to these scores with a lower-level access to the data, data
-conversions, and analytic tools using URL parameters in the web
-address.  On JRP website, each score has a "work info" page generated
-with this format:
+to these scores, but also includes lower-level access to the data,
+data conversions, and analytic tools using URL parameters in the
+web address.  On the JRP website, each score has a "work info" page
+generated with this format:
 
 <code>http://jrp.stanford.edu/cgi-bin/jrp?a=info&f=Jos2721</code>
 
-Where ```Jos2721``` is the JRP catalog number 2721 for Josquin's collection
-of works, and ```info``` is the action being applied to the given work (file).  
-A title may optionally follow the catalog number (with exact spelling of the
-title in the database):
+Where ```Jos2721``` is the JRP catalog number 2721 from Josquin's
+collection of works, and ```info``` is the *action* being applied
+to the given work (file) which causes the work-info page to be
+diplayed.  A title may optionally follow the catalog number (with
+exact spelling of the title in the database):
 
 <code>http://jrp.stanford.edu/cgi-bin/jrp?a=info&f=Jos2721-La_Bernardina</code>
 
-A file extension can also be given (.krn in this case) but will always be ignored.
-
-Example Humdrum data file access by setting the *action* to "humdrum":
+A file extension can also be given (.krn in this case) but will
+always be ignored.  Example Humdrum data file access by setting the
+*action* to "humdrum":
 
 <code>http://jrp.stanford.edu/cgi-bin/jrp?a=humdrum&f=Jos2721-La_Bernardina</code>
 
@@ -337,34 +340,31 @@ Example graphical music scores in PDF format with four possible styles:
 * With editorial accidentals and with text: <code>http://jrp.stanford.edu/cgi-bin/jrp?a=notationwitheditorialwithtext&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie</code>
 
 Scores are generated from the original Humdrum **kern scores found
-in this repository for each work, so the music notation in the PDF
-files should match exactly.  Online PDF files of the scores are created
-using [hum2muse](http://extra.humdrum.org/man/hum2muse) converter which
-translates Humdrum files into MuseData file which can then be converted
-into PostScript files with [muse2ps](http://muse2ps.ccarh.org).
-
-For convenient access to PDF scores for each work, the makefile in
-base directory/folder of the repository can download the PDF graphical
-music scores (with editorial accidentals and text) with this command:
-
-```make webpdf```
+in this repository for each work, so music notation in the PDF files
+should match exactly.  Online PDF files of the scores are created
+using the [hum2muse](http://extra.humdrum.org/man/hum2muse) converter
+which translates Humdrum files into MuseData file which can then
+be converted into PostScript files with
+[muse2ps](http://muse2ps.ccarh.org).
 
 
 ### kernScores website ###
 
-The [kernScores](http://kern.humdrum.org) ([github](https://github.com/craigsapp/humextra)) library of musical scores for analysis
-in the Humdrum Toolkit has a page dedicated to the JRP scores:
+The [kernScores](http://kern.humdrum.org) library of musical scores
+for analysis in the Humdrum Toolkit has a page dedicated to the JRP
+scores:
 
 <code>http://kern.humdrum.org/browse?l=jrp</code>
 
 
 ### Humdrum Extras tools/library ###
 
-The [Humdrum Extras](http://extra.humdrum.org) tools/library contain
-internal knowledge for how to download the digital scores on the
-command line.  To download from the JRP website, the filename is
-prefixed by ```jrp://```.  To download from the kernScores website,
-the prefix is ```humdrum://```, or ```h://``` for short.  KernScores
+The [Humdrum Extras](http://extra.humdrum.org) tools/library
+([github](https://github.com/craigsapp/humextra)) contains internal
+knowledge for how to download the digital scores on the command
+line.  To download from the JRP website, the filename is prefixed
+by ```jrp://```.  To download from the kernScores website, the
+prefix is ```humdrum://```, or ```h://``` for short.  KernScores
 access requires the exact file name (catalog number, title, file
 extension), while JRP access requires only the catalog number.
 
