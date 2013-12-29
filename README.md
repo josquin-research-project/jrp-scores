@@ -225,53 +225,45 @@ Here are some of the make commands which you can run in the base directory
 of the downloaded repository:
 
 <table>
-<tr><td colspan=2> No additional software needed </td></tr>
-
-<tr><td>```make```</td>
+<tr><td width=120 style="background-color:#ffdddd" colspan=2> No additional software needed </td></tr>
+<tr><td><tt>make</tt></td>
     <td>  List all of the possible make commands (i.e., this list).
     </tr>
-
-<tr><td>```make clean```</td>
+<tr><td><tt>make clean</tt></td>
     <td>  Delete directories of data created by this makefile, such as
 	  `kern-reduced`, `midi`, `pdf`, `pdf-notext`
           will be stored in a directory called `kern-reduced` within
           each composer's directory.
     </tr>
-
-<tr><td>```make web-pdf```</td>
+<tr><td><tt>make web-pdf</tt></td>
     <td>  Download PDF files for graphical music scores for each piece from the
-	  [JRP website](http://josquin.stanford.edu).
+	  <a href=http://josquin.stanford.edu>JRP website</a>.
     </tr>
-
-<tr><td>```make web-pdf-notext```</td>
+<tr><td><tt>make web-pdf-notext</tt></td>
     <td>  Download PDF files for graphical music scores for each piece from the
-	  [JRP website](http://josquin.stanford.edu) with lyrics removed
+	  <a href=http://josquin.stanford.edu>JRP website</a> with lyrics removed
 	  from all parts.
     </tr>
-
-<tr><td>```make web-kern-reduced```</td>
+<tr><td><tt>make web-kern-reduced</tt></td>
     <td>  Download version of the data file which divides all note durations
           by a factor of four.  This data is useful for doing rhythmic
 	  analysis with the standard Humdrum Toolkit.  
     </tr>
-
-<tr><td colspan=2> [Humdrum Extras](http://github.com/craigsapp/humextra) 
-      installation required </td></tr>
-
-<tr><td>```make kern-reduced```</td>
+<tr><td style="background-color:#ffdddd" colspan=2> <a href=http://github.com/craigsapp/humextra>Humdrum Extras</a>
+      installation required: </td></tr>
+<tr><td><tt>make kern-reduced</tt></td>
     <td>  Decrease all note durations by a factor of four.  Output data 
-          will be stored in a directory called `kern-reduced` within
-          each composer's directory.  Similar to ```make webreduced```, but
+          will be stored in a directory called <tt>kern-reduced</tt> within
+          each composer's directory.  Similar to <tt>make webreduced</tt>, but
 	  much faster.
     </tr>
-
-<tr><td>```make kern-notext```</td>
+<tr><td><tt>make kern-notext</tt></td>
     <td>  Remove lyrics from all parts. Resulting data
           will be stored in a directory called `kern-notext` within
           each composer's directory.  
     </tr>
-
 </table>
+
 
 
 ### Rhythm representation considerations ###
