@@ -4,7 +4,7 @@ This repository contains digital music scores in the Humdrum data
 format from the [Josquin Research Project](http://josquin.stanford.edu).
 The primary web interface for these scores is http://josquin.stanford.edu
 which allows online searching and browsing, conversions into other
-data formats, such as MIDI and graphical music scores, as well as
+data formats, such as MIDI and graphical notation, as well as
 interfaces to some online analysis tools.  These scores encompass
 music of the early Renaissance (*c*1420 to *c*1520), mostly
 representing the [Franco-Flemish
@@ -17,28 +17,30 @@ viewpoint) is an incomplete notation of accidentals needed for
 performance.  Editorial accidentals have been added to these scores
 to realize the performance practice of the time.  An "i" character
 immediately following an accidental indicates that it was not written
-in the original notation and is added as an interpretation of the
-original intent.  When written without an "i" after it, the accidental
-is found in the original notation, either from the key signature,
-or an explicit accidental written immediately before the note.
+in the original notation.  When written without an "i" after it,
+the accidental is found in the original notation, either from the
+key signature, or an explicit accidental written immediately before
+the note.
 
 Another conceptual difference is the use of mensuration signs.
-These evolved (decayed) into modern time signatures.  The most
-common mensuration in the music is Cut-C, from which modern cut-time
+These evolved (decayed) into time signatures.  The most common
+mensuration in the music is Cut-C, from which modern cut-time
 originates.  In this mensuration the *beat* is at the whole-note
 rhythmic level, and the metric cycle is two beats (a breve). Circle
 mensuration is the second most common mensuration in the music.
 This represents three whole-note beats per rhythmic cycle (dotted
 breve).  Mensuration signs also convey tempo, so MIDI files on the
 [JRP](http://josquin.stanford.edu) website made from these scores
-typically interpret tempo from the mensuration signs in the data.
-Modern time signatures are present in the data as a result of using
-modern music notation editors and are of secondary concern (notice
-that they are not displayed in the scores on the
-[JRP](http://josquin.stanford.edu) website.
+typically interpret tempo from the mensuration signs in the data
+(with the tempo slowing down over the generations due to smaller
+rhythmic values becoming more common).  Modern time signatures are
+present in the data as a result of using music notation software
+for data entry and are of secondary concern (notice that they are
+not displayed in the scores on the [JRP](http://josquin.stanford.edu)
+website.
 
 Barlines had not yet been invented in the 15th century, so all
-barlines in the data are interpreted; however, these are less option
+barlines in the data are interpreted; however, these are less open
 to interpretation compared to editorial accidentals.  Typically
 barlines represent breves (double whole notes) durations, although
 they sometimes represent longs (quadruple whole notes), and may
@@ -61,21 +63,21 @@ displayed with a rhythmic duration 3/2 longer (i.e., convert the
 triplet dotted whole note into a non-triplet dotted whole note).
 
 Mensural music (particularly in masses) often will notate music in
-*prolation*.  When music is in prolation between parts, a whole
-note in one part will have the same duration has a half-note in
-another part for example.  The ```*rscale``` rhythmic-scaling
+*prolation*.  For example when music is in prolation between parts,
+a whole note in one part will have the same duration has a half-note
+in another part (2:1 prolation).  The ```*rscale``` rhythmic-scaling
 interpretation will also be used in these cases.  All parts in the
-data have a 1:1 rhythmic scaling for analytic purposes.  Applying
-the ```*rscale``` factor will cause a part to be displayed in its
-original rhythmic values (i.e., reverse the resolution of the
-prolation).
+data have a 1:1 rhythmic scaling against each other for analytic
+purposes.  Applying the ```*rscale``` factor will cause a part to
+be displayed in its original rhythmic values (i.e., reverse the
+resolution of the prolation).
 
 Triplet brackets are given explicitly in the data using "V" and "Z"
 characters (this will change in the future).  Triplet brackets
-indicate music that was original in colored notation, which was the
+indicate music that was originally in colored notation, which is a
 mensural equivalent of triplets.  Music in 3 mensuration (an alternate
 mensural method of showing triplets) may be represented as modern
-rhythmic triplets, but will not contain triplet brackets.
+rhythmic triplets in the data, but will not contain triplet brackets.
 
 Ligatures are groups of notes with their heads attached to each other which
 typically gives information about the rhythm of the notes in mensural
