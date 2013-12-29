@@ -273,8 +273,6 @@ of the downloaded repository:
 
 </table>
 
-<table>
-
 
 ### Rhythm representation considerations ###
 
@@ -401,27 +399,27 @@ can be downloaded like this on the command line:
 
 Secure Josquin set:
 </td><td>
-<code>mkdir Joa; (cd Joa; humsplit h://jrp/Joa)</code>
+<code>mkdir -p Joa/kern; (cd Joa/kern; humsplit h://jrp/Joa)</code>
 </td></tr><tr><td>
 
 Not secure Josquin set:
 </td><td>
-<code>mkdir Job; (cd Job; humsplit h://jrp/Job)</code>
+<code>mkdir -p Job/kern; (cd Job/kern; humsplit h://jrp/Job)</code>
 </td></tr><tr><td>
 
 All mass sections:
 </td><td>
-<code>mkdir Zma; (cd Zma; humsplit h://jrp/Zma)</code>
+<code>mkdir -p Zma/kern; (cd Zma/kern; humsplit h://jrp/Zma)</code>
 </td></tr><tr><td>
 
 All motets:
 </td><td>
-<code>mkdir Zmo; (cd Zmo; humsplit h://jrp/Zmo)</code>
+<code>mkdir -p Zmo/kern; (cd Zmo/kern; humsplit h://jrp/Zmo)</code>
 </td></tr><tr><td>
 
 All songs:
 </td><td>
-<code>mkdir Zso; (cd Zso; humsplit h://jrp/Zso)</code>
+<code>mkdir -p Zso/kern; (cd Zso/kern; humsplit h://jrp/Zso)</code>
 </td></tr>
 
 </table>
