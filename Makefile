@@ -14,14 +14,23 @@
 ## in linux, and also /Applications/Utilities/Terminal.app in OS X 
 ## computers).
 ##
+## "make"        -- Download any updates to online JRP files.
+##
+## "make update" -- Download any updates to online JRP files.
+##
 ## "make clean" -- Delete directories of data created by this makefile,
 ##     such as kern-reduced, pdf, and midi which may be found
 ##     in each composer's directory.
 ##
-## "make reduced" -- Create reduced-rhythm versions of the data files
+## Make commands which require Humdrum Extras to be installed:
+##
+## "make kern-reduced" -- Create reduced-rhythm versions of the data files
 ##     by dividing note durations by 4 so that whole notes become
 ##     quarter notes.  This is necessary to use the data with rhythm
 ##     analysis tools in the standard Humdrum Toolkit.
+##
+## "make kern-notext" -- Remove **text spines from data and store
+##     output in kern-notext directories for each composer directory.
 ##
 ## If Humdrum Extras is not installed, you can use web downloaded versions
 ## of the above make commands:
@@ -41,9 +50,12 @@
 all:
 	@echo ''
 	@echo 'Run this makefile with one of the following labels:'
-	@echo '   "make kern-reduced": create rhythmically reduced kern files.'
 	@echo '   "make clean"       : delete data directories created by this makefile.'
 	@echo '   "make update"      : download any new changes in online data repository.'
+	@echo ''
+	@echo 'Comands requiring Humdrum Extras to be installed.'
+	@echo '   "make kern-reduced": create rhythmically reduced kern files.'
+	@echo '   "make kern-notext" : remove lyrics from scores.'
 	@echo ''
 	@echo 'Web equivalents if Humdrum extras are not installed:'
 	@echo '   "make web-pdf"     : download score PDFs from the JRP website.'
@@ -121,6 +133,27 @@ web-kern-reduced:
 	         $(WGET) "$(DATAURL)a=$(REDUCED)&f=$$file" 	\
 	            > ../kern-reduced/$$file;			\
 	      done						\
+	   )							\
+	done
+
+
+
+##############################
+#
+# make kern-notext -- Remove **text spines from data and store in
+#     directory called kern-notext.
+#
+
+kernnotext: kern-notext
+kern-notext:
+	for dir in [A-Z]??/kern; 				\
+	do							\
+	   echo Processing composer $$dir;			\
+	   (cd $$dir; mkdir -p ../kern-notext;			\
+	   for file in *.krn;					\
+	   do							\
+	      extractx -i '**kern' $$file > ../kern-notext/$$file;	\
+	   done							\
 	   )							\
 	done
 
@@ -225,6 +258,7 @@ github-pull:
 
 clean:
 	-rm -rf [A-Z]??/kern-reduced
+	-rm -rf [A-Z]??/kern-notext
 	-rm -rf [A-Z]??/midi
 	-rm -rf [A-Z]??/pdf
 	-rm -rf [A-Z]??/pdf-notext
