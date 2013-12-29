@@ -225,7 +225,7 @@ Here are some of the make commands which you can run in the base directory
 of the downloaded repository:
 
 <table>
-<tr><td width=200 colspan=2> No additional software needed </td></tr>
+<tr><td width=200 colspan=2> No additional software needed: </td></tr>
 <tr><td><tt>make</tt></td>
     <td>  List all of the possible make commands (i.e., this list).
     </tr>
