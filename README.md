@@ -240,9 +240,8 @@ of the downloaded repository:
     </tr>
 <tr><td><tt>make&nbsp;clean</tt></td>
     <td>  Delete directories of data created by this makefile, such as
-	  `kern-reduced`, `midi`, `pdf`, `pdf-notext`
-          will be stored in a directory called `kern-reduced` within
-          each composer's directory.
+	  <tt>kern-reduced</tt>, <tt>midi</tt>, <tt>pdf</tt>, 
+	  <tt>pdf-notext</tt>.
     </tr>
 <tr><td><tt>make&nbsp;notitle</tt></td>
     <td>  Remove titles from files names and store in directory
@@ -257,20 +256,20 @@ of the downloaded repository:
 	  <a href=http://josquin.stanford.edu>JRP website</a> with lyrics removed
 	  from all parts.
     </tr>
-<tr><td><tt>make&nbsp;web-kern-reduced</tt></td>
+<tr><td><tt>make&nbsp;web-reduced</tt></td>
     <td>  Download version of the data file which divides all note durations
           by a factor of four.  This data is useful for doing rhythmic
 	  analysis with the standard Humdrum Toolkit.  
     </tr>
 <tr><td colspan=2> <a href=http://github.com/craigsapp/humextra>Humdrum Extras</a>
       installation required: </td></tr>
-<tr><td><tt>make&nbsp;kern-reduced</tt></td>
+<tr><td><tt>make&nbsp;reduced</tt></td>
     <td>  Decrease all note durations by a factor of four.  Output data 
           will be stored in a directory called <tt>kern-reduced</tt> within
           each composer's directory.  Similar to <tt>make web-reduced</tt>, but
 	  much faster.
     </tr>
-<tr><td><tt>make&nbsp;kern-notext</tt></td>
+<tr><td><tt>make&nbsp;notext</tt></td>
     <td>  Remove lyrics from all parts. Resulting data
           will be stored in a directory called <tt>kern-notext</tt> within
           each composer's directory.  
