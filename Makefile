@@ -2,7 +2,7 @@
 ##
 ## Programmer:    Craig Stuart Sapp <craig@ccrma.stanford.edu>
 ## Creation Date: Thu Dec 26 16:48:50 PST 2013
-## Last Modified: Sun Dec 29 09:54:13 PST 2013
+## Last Modified: Mon Dec 30 07:56:34 PST 2013
 ## Filename:      Makefile
 ## Syntax:        GNU makefile
 ##
@@ -82,7 +82,7 @@ all:
 	@echo 'JRP website downloads:'
 	@echo '   "make web-pdf"     : download score PDFs from the JRP website.'
 	@echo '   "make web-pdf-notext" : download score PDFs without lyrics.'
-	@echo '   "make web-kern-reduced" : download rhythmically reduced kern files.'
+	@echo '   "make web-reduced" : download rhythmically reduced kern files.'
 	@echo ''
 
 BASEURL   = http://josquin.stanford.edu
@@ -113,9 +113,9 @@ endif
 #      each composer.
 #
 
-update: github-pull
+update:       github-pull
 githubupdate: github-pull
-githubpull: github-pull
+githubpull:   github-pull
 github-pull:
 	git pull --recurse-submodules
 
@@ -150,10 +150,10 @@ clean:
 #     directory called kern-notext within each composer directory.
 #
 
-notitle: kern-notitle
-no-title: kern-notitle
+notitle:       kern-notitle
+no-title:      kern-notitle
 kern-no-title: kern-notitle
-kernnotitle: kern-notitle
+kernnotitle:   kern-notitle
 kern-notitle:
 	for dir in [A-Z]??/kern; 						\
 	do									\
@@ -180,7 +180,7 @@ kern-notitle:
 #     which are generated from the source **kern Humdrum data.
 #
 
-midi: web-midi
+midi:    web-midi
 webmidi: web-midi
 web-midi:
 	for dir in [A-Z]??/kern;				\
@@ -204,7 +204,7 @@ web-midi:
 #     which are generated from the source **kern Humdrum data.
 #
 
-pdf: web-pdf
+pdf:    web-pdf
 webpdf: web-pdf
 web-pdf:
 	for dir in [A-Z]??/kern;				\
@@ -228,9 +228,9 @@ web-pdf:
 #     removing any lyrics from the music.
 #
 
-pdfnotext: web-pdf-notext
-pdf-notext: web-pdf-notext
-webpdfnotext: webpdf-notext
+pdfnotext:     web-pdf-notext
+pdf-notext:    web-pdf-notext
+webpdfnotext:  webpdf-notext
 webpdf-notext: web-pdf-notext
 web-pdfnotext: web-pdf-notext
 web-pdf-notext:
@@ -275,7 +275,7 @@ web-pdf-notext:
 #     If you do not have it installed, instead run "make webreduced").
 #
 
-reduced: kern-reduced
+reduced:     kern-reduced
 kernreduced: kern-reduced
 kern-reduced:
 	for dir in [A-Z]??/kern; 				\
@@ -294,8 +294,8 @@ kern-reduced:
 # JRP website (much slower, but no extra software installation is required).
 #
 
-webkernreduced: web-kern-reduced
-webreduced: web-kern-reduced
+webkernreduced:  web-kern-reduced
+webreduced:      web-kern-reduced
 web-kernreduced: web-kern-reduced
 webkern-reduced: web-kern-reduced
 web-kern-reduced:
@@ -422,8 +422,6 @@ Joab: Joa Job
 
 census:
 	(for i in [A-Z]??/kern; do cat $$i/*.krn; done) | census -k
-
-
 
 
 
