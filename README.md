@@ -451,11 +451,11 @@ All songs:
 
 </table>
 
-Type ```make genres``` if 
+Type ```make genres``` in the base directory of the repository if 
 [Humdrum Extras](https://github.com/craigsapp/humextras) is installed to 
 download the Zma, Zmo, and Zso genre groupings from the kernScores website.
 
-Type ```make Joa; make Job``` if 
+Type ```make Joa; make Job``` in the base directory of the repository if 
 [Humdrum Extras](https://github.com/craigsapp/humextras) is installed to 
 download the secure and not secure groupings of Josquin music.
 

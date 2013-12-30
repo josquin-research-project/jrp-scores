@@ -367,6 +367,8 @@ job: Job
 Job:
 	mkdir -p Job/kern; (cd Job/kern; humsplit h://jrp/Job)
 
+joab: Joa Job
+Joab: Joa Job
 
 
 ############################################################################
