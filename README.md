@@ -244,6 +244,10 @@ of the downloaded repository:
           will be stored in a directory called `kern-reduced` within
           each composer's directory.
     </tr>
+<tr><td><tt>make&nbsp;notitle</tt></td>
+    <td>  Remove titles from files names and store in directory
+         called kern-notitle in each composer's directory.
+    </tr>
 <tr><td><tt>make&nbsp;web-pdf</tt></td>
     <td>  Download PDF files for graphical music scores for each piece from the
 	  <a href=http://josquin.stanford.edu>JRP website</a>.
@@ -273,6 +277,11 @@ of the downloaded repository:
     </tr>
 <tr><td><tt>make&nbsp;genres</tt></td>
     <td>  Download works organized by genre from kernScores.
+    </tr>
+<tr><td colspan=2> <a href=http://github.com/kroger/humdrum>Humdrum Toolkit</a>
+      installation required: </td></tr>
+<tr><td><tt>make&nbsp;census</tt></td>
+    <td>  Run <tt>census&nbsp;-k</tt> on all works.
     </tr>
 </table>
 

@@ -2,7 +2,7 @@
 ##
 ## Programmer:    Craig Stuart Sapp <craig@ccrma.stanford.edu>
 ## Creation Date: Thu Dec 26 16:48:50 PST 2013
-## Last Modified: Sat Dec 28 15:53:55 PST 2013
+## Last Modified: Sun Dec 29 09:54:13 PST 2013
 ## Filename:      Makefile
 ## Syntax:        GNU makefile
 ##
@@ -22,14 +22,17 @@
 ##     such as kern-reduced, pdf, and midi which may be found
 ##     in each composer's directory.
 ##
+## "make notitle" -- Make a version of the files where the title is
+##     removed from the filename.
+##
 ## Make commands which require Humdrum Extras to be installed:
 ##
-## "make kern-reduced" -- Create reduced-rhythm versions of the data files
+## "make reduced" -- Create reduced-rhythm versions of the data files
 ##     by dividing note durations by 4 so that whole notes become
 ##     quarter notes.  This is necessary to use the data with rhythm
 ##     analysis tools in the standard Humdrum Toolkit.
 ##
-## "make kern-notext" -- Remove **text spines from data and store
+## "make notext" -- Remove **text spines from data and store
 ##     output in kern-notext directories for each composer directory.
 ##
 ## "make genres" -- Groups work by genre by downloading from kernScores.
@@ -52,12 +55,13 @@
 all:
 	@echo ''
 	@echo 'Run this makefile with one of the following labels:'
-	@echo '   "make clean"       : delete data directories created by this makefile.'
 	@echo '   "make update"      : download any new changes in online data repository.'
+	@echo '   "make notitle"     : remove titles from filenames.'
+	@echo '   "make clean"       : delete data directories created by this makefile.'
 	@echo ''
 	@echo 'Comands requiring Humdrum Extras to be installed.'
-	@echo '   "make kern-reduced": create rhythmically reduced kern files.'
-	@echo '   "make kern-notext" : remove lyrics from scores.'
+	@echo '   "make reduced"     : create rhythmically reduced kern files.'
+	@echo '   "make notext"      : remove lyrics from scores.'
 	@echo '   "make genres"      : group works by genre.'
 	@echo ''
 	@echo 'JRP website downloads:'
@@ -83,83 +87,75 @@ else
 endif
 
 ############################################################################
+##
+## General make commands:
+##
+
 
 ##############################
 #
-# make kern-reduced -- Create Humdrum **kern data which does not contain any
-#     rational reciprocal rhythms.  Standard **recip data cannot represent 
-#     non-integer subdivisions of the whole note (excluding augmentation
-#     dots).  The extended reciprocal value for a triplet whole note is
-#     3%2 which means that the duration is 2/3rds of a whole note. 
-#
-#     After running "make reduced", a subdirectory called "kern-reduced"
-#     will be generated in each composer directory (parallel to the 
-#     "kern" subdirectories that contain the original Humdrum **kern data
-#     for the scores.
-#
-#     This label requires that the "rscale" tool from the Humdrum Extras
-#     package is installed (see https://github.com/craigsapp/humextra).
-#     If you do not have it installed, instead run "make webreduced").
+# make update -- Download any changes in the Github repositories for
+#      each composer.
 #
 
-reduced: kern-reduced
-kernreduced: kern-reduced
-kern-reduced:
-	for dir in [A-Z]??/kern; 				\
-	do							\
-	   echo Processing composer $$dir;			\
-	   (cd $$dir; mkdir -p ../kern-reduced;			\
-	   for file in *.krn;					\
-	   do							\
-	      rscale -f 1/4 $$file > ../kern-reduced/$$file;	\
-	   done							\
-	   )							\
-	done
-
-#
-# make webreduced -- same result as "make reduced" but download data from
-# JRP website (much slower, but no extra software installation is required).
-#
-
-webkernreduced: web-kern-reduced
-webreduced: web-kern-reduced
-web-kernreduced: web-kern-reduced
-webkern-reduced: web-kern-reduced
-web-kern-reduced:
-	for dir in [A-Z]??/kern;				\
-	do							\
-	   echo Processing composer $$dir;			\
-	   (cd $$dir; mkdir -p ../kern-reduced;			\
-	      for file in *.krn;				\
-	      do						\
-	         echo "   Downloading file $$file ...";		\
-	         $(WGET) "$(DATAURL)a=$(REDUCED)&f=$$file" 	\
-	            > ../kern-reduced/$$file;			\
-	      done						\
-	   )							\
-	done
+update: github-pull
+githubupdate: github-pull
+githubpull: github-pull
+github-pull:
+	git pull --recurse-submodules
 
 
 
 ##############################
 #
-# make kern-notext -- Remove **text spines from data and store in
-#     directory called kern-notext.
+# make clean -- Remove all automatically generated or downloaded data files.  
+#     Make sure that you have not added your own content into the directories 
+#     in which these derivative files are located; otherwise, these will be 
+#     deleted as well.
 #
 
-kernnotext: kern-notext
-kern-notext:
-	for dir in [A-Z]??/kern; 				\
-	do							\
-	   echo Processing composer $$dir;			\
-	   (cd $$dir; mkdir -p ../kern-notext;			\
-	   for file in *.krn;					\
-	   do							\
-	      extractx -i '**kern' $$file > ../kern-notext/$$file;	\
-	   done							\
-	   )							\
+clean:
+	-rm -rf [A-Z]??/kern-reduced
+	-rm -rf [A-Z]??/kern-notext
+	-rm -rf [A-Z]??/kern-notitle
+	-rm -rf [A-Z]??/midi
+	-rm -rf [A-Z]??/pdf
+	-rm -rf [A-Z]??/pdf-notext
+	-rm -rf Zma
+	-rm -rf Zmo
+	-rm -rf Zso
+	-rm -rf Joa
+	-rm -rf Job
+
+
+##############################
+#
+# make kern-notext -- Remove titles from filenames and store in a
+#     directory called kern-notext within each composer directory.
+#
+
+notitle: kern-notitle
+no-title: kern-notitle
+kern-no-title: kern-notitle
+kernnotitle: kern-notitle
+kern-notitle:
+	for dir in [A-Z]??/kern; 						\
+	do									\
+	   echo Processing composer $$dir;					\
+	   (cd $$dir; mkdir -p ../kern-notitle;					\
+	   for file in *.krn;							\
+	   do									\
+	      cp $$file ../kern-notitle/`echo $$file | sed 's/-.*krn//'`.krn;	\
+	   done									\
+	   )									\
 	done
 
+
+
+############################################################################
+##
+## Web downloading related make commands:
+##
 
 
 ########################################
@@ -237,6 +233,92 @@ web-pdf-notext:
 
 
 
+
+
+############################################################################
+##
+## Humdrum Extras related make commands:
+##
+
+
+##############################
+#
+# make kern-reduced -- Create Humdrum **kern data which does not contain any
+#     rational reciprocal rhythms.  Standard **recip data cannot represent 
+#     non-integer subdivisions of the whole note (excluding augmentation
+#     dots).  The extended reciprocal value for a triplet whole note is
+#     3%2 which means that the duration is 2/3rds of a whole note. 
+#
+#     After running "make reduced", a subdirectory called "kern-reduced"
+#     will be generated in each composer directory (parallel to the 
+#     "kern" subdirectories that contain the original Humdrum **kern data
+#     for the scores.
+#
+#     This label requires that the "rscale" tool from the Humdrum Extras
+#     package is installed (see https://github.com/craigsapp/humextra).
+#     If you do not have it installed, instead run "make webreduced").
+#
+
+reduced: kern-reduced
+kernreduced: kern-reduced
+kern-reduced:
+	for dir in [A-Z]??/kern; 				\
+	do							\
+	   echo Processing composer $$dir;			\
+	   (cd $$dir; mkdir -p ../kern-reduced;			\
+	   for file in *.krn;					\
+	   do							\
+	      rscale -f 1/4 $$file > ../kern-reduced/$$file;	\
+	   done							\
+	   )							\
+	done
+
+#
+# make webreduced -- same result as "make reduced" but download data from
+# JRP website (much slower, but no extra software installation is required).
+#
+
+webkernreduced: web-kern-reduced
+webreduced: web-kern-reduced
+web-kernreduced: web-kern-reduced
+webkern-reduced: web-kern-reduced
+web-kern-reduced:
+	for dir in [A-Z]??/kern;				\
+	do							\
+	   echo Processing composer $$dir;			\
+	   (cd $$dir; mkdir -p ../kern-reduced;			\
+	      for file in *.krn;				\
+	      do						\
+	         echo "   Downloading file $$file ...";		\
+	         $(WGET) "$(DATAURL)a=$(REDUCED)&f=$$file" 	\
+	            > ../kern-reduced/$$file;			\
+	      done						\
+	   )							\
+	done
+
+
+
+##############################
+#
+# make kern-notext -- Remove **text spines from data and store in
+#     directory called kern-notext.
+#
+
+kernnotext: kern-notext
+kern-notext:
+	for dir in [A-Z]??/kern; 					\
+	do								\
+	   echo Processing composer $$dir;				\
+	   (cd $$dir; mkdir -p ../kern-notext;				\
+	   for file in *.krn;						\
+	   do								\
+	      extractx -i '**kern' $$file > ../kern-notext/$$file;	\
+	   done								\
+	   )								\
+	done
+
+
+
 ##############################
 #
 # make genres -- Download scores organized by genres from the
@@ -287,38 +369,21 @@ Job:
 
 
 
-##############################
-#
-# make update -- Download any changes in the Github repositories for
-#      each composer.
-#
-
-update: github-pull
-githubupdate: github-pull
-githubpull: github-pull
-github-pull:
-	git pull --recurse-submodules
-
+############################################################################
+##
+## standard Humdrum Toolkit related make commands:
+##
 
 
 ##############################
 #
-# make clean -- Remove all automatically generated or downloaded data files.  
-#     Make sure that you have not added your own content into the directories 
-#     in which these derivative files are located; otherwise, these will be 
-#     deleted as well.
+# make census -- Count notes in all score for all composers.
 #
 
-clean:
-	-rm -rf [A-Z]??/kern-reduced
-	-rm -rf [A-Z]??/kern-notext
-	-rm -rf [A-Z]??/midi
-	-rm -rf [A-Z]??/pdf
-	-rm -rf [A-Z]??/pdf-notext
-	-rm -rf Zma
-	-rm -rf Zmo
-	-rm -rf Zso
-	-rm -rf Joa
-	-rm -rf Job
+census:
+	(for i in [A-Z]??/kern; do cat $$i/*.krn; done) | census -k
+
+
+
 
 
