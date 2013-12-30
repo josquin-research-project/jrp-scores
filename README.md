@@ -177,15 +177,8 @@ To download this Github repository using
 
 <code>git clone --recursive https://github.com/josquin-research-project/jrp-scores</code>
 
-The ```--recursive``` option is needed to download each of the individual composer 
-repositories inside of the meta-repository.
-
-This repository cannot be downloaded in a very useful format from
-the ZIP link on the Github website, since the included repositories
-for each composer will not be included in that ZIP file.  You must
-either use [git](http://en.wikipedia.org/wiki/Git_%29software%29)
-software or separately download each of the individual composers'
-ZIP files linked from the table above.
+The ```--recursive``` option is needed to download each of the
+individual composer repositories inside of the meta-repository.
 
 In a unix terminal, you can check to see if git is installed by
 typing ```which git```.  If the terminal replies with a path to
@@ -201,6 +194,18 @@ computer world, you can download GUI interfaces for git
 plugin](http://eclipse.github.com) is also available for the Eclipse
 IDE ([watch video](http://www.youtube.com/watch?v=ptK9-CNms98)).
 
+This repository cannot be downloaded in a very useful format from
+the ZIP link on the Github website, since the included repositories
+for each composer will not be included in that ZIP file.  You must
+either use [git](http://en.wikipedia.org/wiki/Git_%29software%29)
+software or separately download each of the individual composers'
+ZIP files linked from the table above.  Use [this bash
+script](https://gist.github.com/josquin-research-project/8177884)
+to download manually using wget (usually for linux &
+[cygwin](http://www.cygwin.com)), or [this bash
+script](https://gist.github.com/josquin-research-project/8177884)
+for OS X.
+
 
 # Update #
 
@@ -209,10 +214,17 @@ periodically for updates for all composers' works using this command:
 
 <code>git pull --recurse-submodules</code>
 
-Alternatively, the makefile in the base directory can be used to run this command:
+Alternatively, the makefile in the base directory can be used to
+run this command:
 
 <code>make update</code>
 
+If the scores were downloaded manually, you must re-download all
+files to check for updates.  Re-run one of these two scripts using
+either [wget](https://gist.github.com/josquin-research-project/8177804)
+(linux & cygwin) or
+[curl](https://gist.github.com/josquin-research-project/8177884)
+(Apple OS X).
 
 # Processing scores #
 
