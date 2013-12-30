@@ -50,17 +50,19 @@ long (solid lines) and breve (dash line) metric grid of the music.
 All parts are encoded in modern notation that is sensitive to the
 original mensural notation intent of the fifteenth century.  The
 main difference is that all rhythmic durations and augmentation
-dots are make explicit rather than dependent on a note's musical
+dots are made explicit rather than dependent on a note's musical
 context.  Since the original parts were not written in modern score
-layout during the fifteenth century, mensuration changes sometimes
-do not occur at the same point in each part.  For example, one part
-may have a whole note in Cut-C mensuration while another part has
-a dotted whole note in 3 mensuration.  This is represented in the
-data with the same rhythmic duration in each part, usually as a
-whole note and a triplet dotted whole note using an ```*rscale:3/2```
-interpretation in the second part to indicate that it is to be
-displayed with a rhythmic duration 3/2 longer (i.e., convert the
-triplet dotted whole note into a non-triplet dotted whole note).
+layout during the fifteenth century (see an example of a
+[partbook](http://www.loc.gov/exhibits/vatican/images/music13.jpg)),
+mensuration changes sometimes do not occur at the same point in
+each part.  For example, one part may have a whole note in Cut-C
+mensuration while another part has a dotted whole note in 3
+mensuration.  This is represented in the data with the same rhythmic
+duration in each part, usually as a whole note and a triplet dotted
+whole note using an ```*rscale:3/2``` interpretation in the second
+part to indicate that it is to be displayed with a rhythmic duration
+3/2 longer (i.e., convert the triplet dotted whole note into a
+non-triplet dotted whole note).
 
 Mensural music (particularly in masses) often will notate music in
 *prolation*.  For example when music is in prolation between parts,
@@ -219,9 +221,10 @@ run this command:
 
 <code>make update</code>
 
-If the scores were downloaded manually, you must re-download all
-files to check for updates.  Re-run one of these two scripts using
-either [wget](https://gist.github.com/josquin-research-project/8177804)
+If the scores were downloaded manually with one of the two gist
+scripts below, you must re-download all files to check for updates.
+Re-run one of these two scripts using either
+[wget](https://gist.github.com/josquin-research-project/8177804)
 (linux & cygwin) or
 [curl](https://gist.github.com/josquin-research-project/8177884)
 (Apple OS X).
@@ -332,7 +335,7 @@ subdirectories in each composer directory named
 
 Here are some other interesting processing actions:
 
-* Determine works that include text/lyrics: <code>grep -rl '\\*\\*text' \*/kern/\*</code>
+* Determine works that include text/lyrics: <code>grep -rl '\*\*text' \*/kern/\*</code>
 
 
 # Alternate data access #
@@ -448,6 +451,13 @@ All songs:
 
 </table>
 
+Type ```make genres``` if 
+[Humdrum Extras](https://github.com/craigsapp/humextras) is installed to 
+download the Zma, Zmo, and Zso genre groupings from the kernScores website.
+
+Type ```make Joa; make Job``` if 
+[Humdrum Extras](https://github.com/craigsapp/humextras) is installed to 
+download the secure and not secure groupings of Josquin music.
 
 
 
