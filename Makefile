@@ -25,6 +25,8 @@
 ## "make notitle" -- Make a version of the files where the title is
 ##     removed from the filename.
 ##
+## ===============================================================
+##
 ## Make commands which require Humdrum Extras to be installed:
 ##
 ## "make reduced" -- Create reduced-rhythm versions of the data files
@@ -37,6 +39,10 @@
 ##
 ## "make genres" -- Groups work by genre by downloading from kernScores.
 ##
+## "make notearray" -- Create note array files.
+##
+## ===============================================================
+##
 ## If Humdrum Extras is not installed, you can use web downloaded versions
 ## of the above make commands:
 ##
@@ -48,6 +54,14 @@
 ## "make web-reduced" -- Same as "make reduced", but download from the
 ##    JRP website without the need to have Humdrum Extras installed.
 ##
+## ===============================================================
+## 
+## Humdrum Toolkit dependent make commands:
+##
+## "make census" -- Run census -k on all files.
+##
+##
+
 
 # targets which don't actually refer to files/directories:
 .PHONY : 
@@ -63,6 +77,7 @@ all:
 	@echo '   "make reduced"     : create rhythmically reduced kern files.'
 	@echo '   "make notext"      : remove lyrics from scores.'
 	@echo '   "make genres"      : group works by genre.'
+	@echo '   "make notearray"   : create notearray files.'
 	@echo ''
 	@echo 'JRP website downloads:'
 	@echo '   "make web-pdf"     : download score PDFs from the JRP website.'
@@ -121,6 +136,7 @@ clean:
 	-rm -rf [A-Z]??/midi
 	-rm -rf [A-Z]??/pdf
 	-rm -rf [A-Z]??/pdf-notext
+	-rm -rf [A-Z]??/notearray
 	-rm -rf Zma
 	-rm -rf Zmo
 	-rm -rf Zso
@@ -301,7 +317,7 @@ web-kern-reduced:
 ##############################
 #
 # make kern-notext -- Remove **text spines from data and store in
-#     directory called kern-notext.
+#     directory called "kern-notext".
 #
 
 kernnotext: kern-notext
@@ -313,6 +329,28 @@ kern-notext:
 	   for file in *.krn;						\
 	   do								\
 	      extractx -i '**kern' $$file > ../kern-notext/$$file;	\
+	   done								\
+	   )								\
+	done
+
+
+
+##############################
+#
+# make notearray -- Create note array files.  Output is stored in a directory
+#     called "notearray" in each composer directory.
+#
+
+notearray:
+	for dir in [A-Z]??/kern; 					\
+	do								\
+	   echo Processing composer $$dir;				\
+	   (cd $$dir; mkdir -p ../notearray;				\
+	   for file in *.krn;						\
+	   do								\
+	      notearray -jicale --mel $$file 				\
+		| egrep -v 'LO:LB|break.*default'			\
+		> ../notearray/`basename $$file .krn`.dat;		\
 	   done								\
 	   )								\
 	done

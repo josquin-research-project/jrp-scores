@@ -39,7 +39,7 @@ for data entry and are of secondary concern (notice that they are
 not displayed in the scores on the [JRP](http://josquin.stanford.edu)
 website.
 
-Barlines had not yet been invented in the 15th century, so all
+Barlines had not yet been invented in the fifteenth century, so all
 barlines in the data are interpreted; however, these are less open
 to interpretation compared to editorial accidentals.  Typically
 barlines represent breves (double whole notes) durations, although
@@ -215,7 +215,10 @@ for OS X.
 After you have downloaded this repository with `git`, you can check 
 periodically for updates for all composers' works using this command:
 
-<code>git pull --recurse-submodules</code>
+<code>
+git pull --recurse-submodules<br>
+git submodule foreach git checkout
+</code>
 
 Alternatively, the makefile in the base directory can be used to
 run this command:
