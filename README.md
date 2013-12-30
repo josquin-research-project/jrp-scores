@@ -203,7 +203,7 @@ for each composer will not be included in that ZIP file.  You must
 either use [git](http://en.wikipedia.org/wiki/Git_%29software%29)
 software or separately download each of the individual composers'
 ZIP files linked from the table above.  Use [this bash
-script](https://gist.github.com/josquin-research-project/8177884)
+script](https://gist.github.com/josquin-research-project/8177804)
 to download manually using wget (usually for linux &
 [cygwin](http://www.cygwin.com)), or [this bash
 script](https://gist.github.com/josquin-research-project/8177884)
