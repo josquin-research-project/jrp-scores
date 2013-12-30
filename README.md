@@ -64,15 +64,16 @@ part to indicate that it is to be displayed with a rhythmic duration
 3/2 longer (i.e., convert the triplet dotted whole note into a
 non-triplet dotted whole note).
 
-Mensural music (particularly in masses) often will notate music in
-*prolation*.  For example when music is in prolation between parts,
-a whole note in one part will have the same duration has a half-note
-in another part (2:1 prolation).  The ```*rscale``` rhythmic-scaling
-interpretation will also be used in these cases.  All parts in the
-data have a 1:1 rhythmic scaling against each other for analytic
-purposes.  Applying the ```*rscale``` factor will cause a part to
-be displayed in its original rhythmic values (i.e., reverse the
-resolution of the prolation).
+In mensural music (particularly in masses) the voices are sometimes
+notated in conflicting note values. (Colloquially we refer to a
+voice being "augmented" or "diminished" relative to the others.)
+The most common situation is for a half-note in the tenor to have
+the same duration as a whole-note in another part.  The ```*rscale```
+rhythmic-scaling interpretation will also be used in these cases.
+All parts in the data have a 1:1 rhythmic scaling against each other
+for analytic purposes.  Applying the ```*rscale``` factor will cause
+a part to be displayed in its original rhythmic values (i.e., reverse
+the resolution of the autmentation/diminution).
 
 Triplet brackets are given explicitly in the data using "V" and "Z"
 characters (this will change in the future).  Triplet brackets
