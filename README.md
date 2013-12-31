@@ -9,7 +9,7 @@ interfaces to some online analysis tools.  These scores encompass
 music of the early Renaissance (*c*1420 to *c*1520), mostly
 representing the [Franco-Flemish
 School](http://en.wikipedia.org/wiki/Franco-Flemish_School) and are
-mainly intended from computational analysis.  As a result only a
+mainly intended for computational analysis.  As a result only a
 few works include text/lyrics suitable for vocal performance.
 
 A peculiar aspect in music of the sixteenth century (from a modern
@@ -91,7 +91,7 @@ However, ligatures are not indicated in this data.
 
 # Composers #
 
-Individual composers' works are archived independently, and each of their
+Individual composer's works are archived independently, and each of their
 repositories can be viewed by clicking in the first column of the
 table below.  Each composer is assigned a unique three-letter code
 listed in the first column that is the name of the directory in
@@ -202,7 +202,7 @@ This repository cannot be downloaded in a very useful format from
 the ZIP link on the Github website, since the included repositories
 for each composer will not be included in that ZIP file.  You must
 either use [git](http://en.wikipedia.org/wiki/Git_%29software%29)
-software or separately download each of the individual composers'
+software or separately download each of the individual composer's
 ZIP files linked from the table above.  Use [this bash
 script](https://gist.github.com/josquin-research-project/8177804)
 to download manually using wget (usually for linux &
