@@ -112,6 +112,7 @@ the meta-repository which contains each composer's works.
    <tr><td> <a href=https://github.com/josquin-research-project/Ock>Ock</a> </td><td> Johannes Ockeghem		</td><td> (<a href=http://josquin.stanford.edu/#Ock>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Johannes_Ockeghem>Wikipedia</a>) </td></tr>
    <tr><td> <a href=https://github.com/josquin-research-project/Ort>Ort</a> </td><td> Marbrianus de Orto	</td><td> (<a href=http://josquin.stanford.edu/#Ort>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Marbrianus_de_Orto>Wikipedia</a>) </td></tr>
    <tr><td> <a href=https://github.com/josquin-research-project/Pip>Pip</a> </td><td> Matthaeus Pipelare	</td><td> (<a href=http://josquin.stanford.edu/#Pip>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Matthaeus_Pipelare>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Reg>Reg</a> </td><td> Johannes Regis		</td><td> (<a href=http://josquin.stanford.edu/#Reg>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Johannes_Regis>Wikipedia</a>) </td></tr>
    <tr><td> <a href=https://github.com/josquin-research-project/Rue>Rue</a> </td><td> Pierre de la Rue		</td><td> (<a href=http://josquin.stanford.edu/#Rue>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Pierre_de_la_rue>Wikipedia</a>) </td></tr>
 </table>
 

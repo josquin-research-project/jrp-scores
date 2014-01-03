@@ -15,3 +15,4 @@
 #git submodule add -f git://github.com/josquin-research-project/Rue.git Rue/kern
 #git submodule add -f git://github.com/josquin-research-project/Com.git Com/kern
 #git submodule add -f git://github.com/josquin-research-project/Mar.git Mar/kern
+#git submodule add -f git://github.com/josquin-research-project/Reg.git Reg/kern
