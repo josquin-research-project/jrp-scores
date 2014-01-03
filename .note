@@ -1,5 +1,3 @@
-
-
 ## Link indpendent repositories for each composer:
 #git submodule add -f git://github.com/josquin-research-project/Agr.git Agr/kern
 #git submodule add -f git://github.com/josquin-research-project/Ano.git Ano/kern
@@ -16,3 +14,4 @@
 #git submodule add -f git://github.com/josquin-research-project/Pip.git Pip/kern
 #git submodule add -f git://github.com/josquin-research-project/Rue.git Rue/kern
 #git submodule add -f git://github.com/josquin-research-project/Com.git Com/kern
+#git submodule add -f git://github.com/josquin-research-project/Mar.git Mar/kern

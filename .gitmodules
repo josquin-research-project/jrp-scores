@@ -37,3 +37,6 @@
 [submodule "Com/kern"]
 	path = Com/kern
 	url = git://github.com/josquin-research-project/Com.git
+[submodule "Mar/kern"]
+	path = Mar/kern
+	url = git://github.com/josquin-research-project/Mar.git
