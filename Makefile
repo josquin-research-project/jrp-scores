@@ -118,7 +118,7 @@ githubupdate: github-pull
 githubpull:   github-pull
 github-pull:
 	git pull --recurse-submodules
-	git submodule foreach git checkout master
+	git submodule foreach git pull
 
 
 

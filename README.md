@@ -220,7 +220,7 @@ periodically for updates for all composers' works using this command:
 
 <code>
 git pull --recurse-submodules<br>
-git submodule foreach git checkout
+git submodule foreach git pull
 </code>
 
 Alternatively, the makefile in the base directory can be used to
