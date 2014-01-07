@@ -1,10 +1,13 @@
-
 # ignore non-primary data files:
 
 [A-Z]??/kern-reduced
 [A-Z]??/midi
 [A-Z]??/pdf
+[A-Z]??/notearray
+[A-Z]??/musedata
 Zma
 Zmo
 Zso
+Joa
+Job
 

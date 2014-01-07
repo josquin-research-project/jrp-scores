@@ -48,11 +48,13 @@
 ##
 ## "make web-pdf" -- Download PDF graphical music scores from the JRP website.
 ##
-## "make web-pdf-notext" -- Download PDFs of graphical music scores from the JRP 
+## "make web-pdf-notext" -- Download PDFs of graphical music scores from JRP 
 ##    website which do not include lyrics.
 ##
 ## "make web-reduced" -- Same as "make reduced", but download from the
 ##    JRP website without the need to have Humdrum Extras installed.
+##
+## "make web-musedata" -- Download MuseData files used to create PDF files.
 ##
 ## ===============================================================
 ## 
@@ -80,9 +82,10 @@ all:
 	@echo '   "make notearray"   : create notearray files.'
 	@echo ''
 	@echo 'JRP website downloads:'
-	@echo '   "make web-pdf"     : download score PDFs from the JRP website.'
+	@echo '   "make web-pdf"      : download score PDFs from JRP website.'
 	@echo '   "make web-pdf-notext" : download score PDFs without lyrics.'
-	@echo '   "make web-reduced" : download rhythmically reduced kern files.'
+	@echo '   "make web-reduced"  : download rhythmically reduced kern files.'
+	@echo '   "make web-musedata" : download MuseData files from JRP website.'
 	@echo ''
 
 BASEURL   = http://josquin.stanford.edu
@@ -138,6 +141,7 @@ clean:
 	-rm -rf [A-Z]??/pdf
 	-rm -rf [A-Z]??/pdf-notext
 	-rm -rf [A-Z]??/notearray
+	-rm -rf [A-Z]??/musedata
 	-rm -rf Zma
 	-rm -rf Zmo
 	-rm -rf Zso
@@ -309,6 +313,23 @@ web-kern-reduced:
 	         echo "   Downloading file $$file ...";		\
 	         $(WGET) "$(DATAURL)a=$(REDUCED)&f=$$file" 	\
 	            > ../kern-reduced/$$file;			\
+	      done						\
+	   )							\
+	done
+
+musedata:     web-musedata
+webmusedata:  web-musedata
+web-musedata: web-musedata
+web-musedata:
+	for dir in [A-Z]??/kern;				\
+	do							\
+	   echo Processing composer $$dir;			\
+	   (cd $$dir; mkdir -p ../musedata;			\
+	      for file in *.krn;				\
+	      do						\
+	         echo "   Downloading file $$file ...";		\
+	         $(WGET) "$(DATAURL)a=musedata&f=$$file" 	\
+	            > ../musedata/`basename $$file .krn`.msd;	\
 	      done						\
 	   )							\
 	done
