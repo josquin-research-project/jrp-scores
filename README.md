@@ -114,6 +114,7 @@ the meta-repository which contains each composer's works.
    <tr><td> <a href=https://github.com/josquin-research-project/Pip>Pip</a> </td><td> Matthaeus Pipelare	</td><td> (<a href=http://josquin.stanford.edu/#Pip>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Matthaeus_Pipelare>Wikipedia</a>) </td></tr>
    <tr><td> <a href=https://github.com/josquin-research-project/Reg>Reg</a> </td><td> Johannes Regis		</td><td> (<a href=http://josquin.stanford.edu/#Reg>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Johannes_Regis>Wikipedia</a>) </td></tr>
    <tr><td> <a href=https://github.com/josquin-research-project/Rue>Rue</a> </td><td> Pierre de la Rue		</td><td> (<a href=http://josquin.stanford.edu/#Rue>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Pierre_de_la_rue>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Tin>Tin</a> </td><td> Johannes Tinctoris</td><td> (<a href=http://josquin.stanford.edu/#Tin>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Johannes_Tinctoris>Wikipedia</a>) </td></tr>
 </table>
 
 Within each directory of the repository is a subdirectory

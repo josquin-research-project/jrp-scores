@@ -43,3 +43,6 @@
 [submodule "Reg/kern"]
 	path = Reg/kern
 	url = git://github.com/josquin-research-project/Reg.git
+[submodule "Tin/kern"]
+	path = Tin/kern
+	url = git://github.com/josquin-research-project/Tin.git
