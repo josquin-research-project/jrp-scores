@@ -358,7 +358,7 @@ data conversions, and analytic tools using URL parameters in the
 web address.  On the JRP website, each score has a "work info" page
 generated with this format:
 
-<code>http://josquin.stanford.edu/data?a=info&f=Jos2721</code>
+<code>http://josquin.stanford.edu/work?id=Jos2721</code>
 
 Where ```Jos2721``` is the JRP catalog number 2721 from Josquin's
 collection of works, and ```info``` is the *action* being applied
@@ -366,7 +366,7 @@ to the given work (file) which causes the work-info page to be
 displayed.  A title may optionally follow the catalog number (with
 exact spelling of the title in the database):
 
-<code>http://josquin.stanford.edu/data?a=info&f=Jos2721-La_Bernardina</code>
+<code>http://josquin.stanford.edu/work?id=Jos2721-La_Bernardina</code>
 
 A file extension can also be given (.krn in this case) but will
 always be ignored.  Example Humdrum data file access by setting the
