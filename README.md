@@ -242,13 +242,13 @@ Re-run one of these two scripts using either
 # Processing scores #
 
 The digital scores in this repository are designed to work with the
-[Humdrum Toolkit](http://www.humdrum.org/Humdrum)
-([github](https://github.com/kroger/humdrum)) as well as [Humdrum
-Extras](http://extra.humdrum.org)
-([github](https://github.com/craigsapp/humextra)).
+[Humdrum Toolkit](http://www.humdrum.org)
+([github](https://github.com/humdrum-tools/humdrum-tools)).
 A makefile in the base directory of the repository contains some
 basic processing commands which either require 
-[Humdrum Extras](http://extras.humdrum.org) to manipulate the
+[Humdrum Extras](http://extras.humdrum.org) 
+([github](https://github.com/craigsapp/humextra))
+to manipulate the
 data files, or commands (starting with "web") which download data
 generated online by the [JRP website](http://josquin.stanford.edu).
 
@@ -302,7 +302,7 @@ of the downloaded repository:
 <tr><td><tt>make&nbsp;genres</tt></td>
     <td>  Download works organized by genre from kernScores.
     </tr>
-<tr><td colspan=2> <a href=http://github.com/kroger/humdrum>Humdrum Toolkit</a>
+<tr><td colspan=2> <a href=http://github.com/humdrum-tools/humdrum-tools>Humdrum Toolkit</a>
       installation required: </td></tr>
 <tr><td><tt>make&nbsp;census</tt></td>
     <td>  Run <tt>census&nbsp;-k</tt> on all works.
