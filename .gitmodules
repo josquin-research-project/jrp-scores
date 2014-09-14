@@ -46,3 +46,9 @@
 [submodule "Tin/kern"]
 	path = Tin/kern
 	url = git://github.com/josquin-research-project/Tin.git
+[submodule "Bru/kern"]
+	path = Bru/kern
+	url = git://github.com/josquin-research-project/Bru.git
+[submodule "Gas/kern"]
+	path = Gas/kern
+	url = git://github.com/josquin-research-project/Gas.git

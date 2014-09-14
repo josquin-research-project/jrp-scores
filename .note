@@ -2,18 +2,22 @@
 #git submodule add -f git://github.com/josquin-research-project/Agr.git Agr/kern
 #git submodule add -f git://github.com/josquin-research-project/Ano.git Ano/kern
 #git submodule add -f git://github.com/josquin-research-project/Bus.git Bus/kern
+#git submodule add -f git://github.com/josquin-research-project/Com.git Com/kern
 #git submodule add -f git://github.com/josquin-research-project/Duf.git Duf/kern
 #git submodule add -f git://github.com/josquin-research-project/Jap.git Jap/kern
 #git submodule add -f git://github.com/josquin-research-project/Joa.git Joa/kern
 #git submodule add -f git://github.com/josquin-research-project/Job.git Job/kern
 #git submodule add -f git://github.com/josquin-research-project/Jos.git Jos/kern
+#git submodule add -f git://github.com/josquin-research-project/Mar.git Mar/kern
 #git submodule add -f git://github.com/josquin-research-project/Mou.git Mou/kern
 #git submodule add -f git://github.com/josquin-research-project/Obr.git Obr/kern
 #git submodule add -f git://github.com/josquin-research-project/Ock.git Ock/kern
 #git submodule add -f git://github.com/josquin-research-project/Ort.git Ort/kern
 #git submodule add -f git://github.com/josquin-research-project/Pip.git Pip/kern
-#git submodule add -f git://github.com/josquin-research-project/Rue.git Rue/kern
-#git submodule add -f git://github.com/josquin-research-project/Com.git Com/kern
-#git submodule add -f git://github.com/josquin-research-project/Mar.git Mar/kern
 #git submodule add -f git://github.com/josquin-research-project/Reg.git Reg/kern
+#git submodule add -f git://github.com/josquin-research-project/Rue.git Rue/kern
 #git submodule add -f git://github.com/josquin-research-project/Tin.git Tin/kern
+
+git submodule add -f git://github.com/josquin-research-project/Bru.git Bru/kern
+git submodule add -f git://github.com/josquin-research-project/Gas.git Gas/kern
+

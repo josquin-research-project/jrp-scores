@@ -99,22 +99,24 @@ the meta-repository which contains each composer's works.
 
 
 <table>
-   <tr><td> <a href=https://github.com/josquin-research-project/Ano>Ano</a> </td><td> Anonymous			</td><td> (<a href=http://josquin.stanford.edu/#Ano>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Anonymous_work>Wikipedia</a>) </td></tr>
-   <tr><td> <a href=https://github.com/josquin-research-project/Agr>Agr</a> </td><td> Alexander Agricola	</td><td> (<a href=http://josquin.stanford.edu/#Agr>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Alexander_Agricola>Wikipedia</a>) </td></tr>
-   <tr><td> <a href=https://github.com/josquin-research-project/Bus>Bus</a> </td><td> Antoine Busnoys		</td><td> (<a href=http://josquin.stanford.edu/#Bus>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Antoine_busnoys>Wikipedia</a>) </td></tr>
-   <tr><td> <a href=https://github.com/josquin-research-project/Com>Com</a> </td><td> Loyset Comp&egrave;re		</td><td> (<a href=http://josquin.stanford.edu/#Com>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Loyset_Comp%C3%A8re>Wikipedia</a>) </td></tr>
-   <tr><td> <a href=https://github.com/josquin-research-project/Duf>Duf</a> </td><td> Guillaume Du Fay		</td><td> (<a href=http://josquin.stanford.edu/#Duf>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Guillaume_Du_Fay>Wikipedia</a>) </td></tr>
-   <tr><td> <a href=https://github.com/josquin-research-project/Jap>Jap</a> </td><td> Jean Japart		</td><td> (<a href=http://josquin.stanford.edu/#Jap>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Jean_Japart>Wikipedia</a>) </td></tr>
-   <tr><td> <a href=https://github.com/josquin-research-project/Jos>Jos</a> </td><td> Josquin des Prez		</td><td> (<a href=http://josquin.stanford.edu/#Jos>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Josquin_des_Prez>Wikipedia</a>) </td></tr>
-   <tr><td> <a href=https://github.com/josquin-research-project/Mar>Mar</a> </td><td> Johannes Martini		</td><td> (<a href=http://josquin.stanford.edu/#Mar>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Johannes_Martini>Wikipedia</a>) </td></tr>
-   <tr><td> <a href=https://github.com/josquin-research-project/Mou>Mou</a> </td><td> Jean Mouton		</td><td> (<a href=http://josquin.stanford.edu/#Mou>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Jean_Mouton>Wikipedia</a>) </td></tr>
-   <tr><td> <a href=https://github.com/josquin-research-project/Obr>Obr</a> </td><td> Jacob Obrecht		</td><td> (<a href=http://josquin.stanford.edu/#Obr>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Jacob_Obrecht>Wikipedia</a>) </td></tr>
-   <tr><td> <a href=https://github.com/josquin-research-project/Ock>Ock</a> </td><td> Johannes Ockeghem		</td><td> (<a href=http://josquin.stanford.edu/#Ock>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Johannes_Ockeghem>Wikipedia</a>) </td></tr>
-   <tr><td> <a href=https://github.com/josquin-research-project/Ort>Ort</a> </td><td> Marbrianus de Orto	</td><td> (<a href=http://josquin.stanford.edu/#Ort>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Marbrianus_de_Orto>Wikipedia</a>) </td></tr>
-   <tr><td> <a href=https://github.com/josquin-research-project/Pip>Pip</a> </td><td> Matthaeus Pipelare	</td><td> (<a href=http://josquin.stanford.edu/#Pip>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Matthaeus_Pipelare>Wikipedia</a>) </td></tr>
-   <tr><td> <a href=https://github.com/josquin-research-project/Reg>Reg</a> </td><td> Johannes Regis		</td><td> (<a href=http://josquin.stanford.edu/#Reg>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Johannes_Regis>Wikipedia</a>) </td></tr>
-   <tr><td> <a href=https://github.com/josquin-research-project/Rue>Rue</a> </td><td> Pierre de la Rue		</td><td> (<a href=http://josquin.stanford.edu/#Rue>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Pierre_de_la_rue>Wikipedia</a>) </td></tr>
-   <tr><td> <a href=https://github.com/josquin-research-project/Tin>Tin</a> </td><td> Johannes Tinctoris</td><td> (<a href=http://josquin.stanford.edu/#Tin>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Johannes_Tinctoris>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Ano>Ano</a> </td><td> Anonymous			</td><td> (<a href=http://josquin.stanford.edu/browse/?c=Ano>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Anonymous_work>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Agr>Agr</a> </td><td> Alexander Agricola	</td><td> (<a href=http://josquin.stanford.edu/browse/?c=Agr>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Alexander_Agricola>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Bru>Bru</a> </td><td> Antoine Brumel		</td><td> (<a href=http://josquin.stanford.edu/browse/?c=Bru>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Antoine_Brumel>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Bus>Bus</a> </td><td> Antoine Busnoys		</td><td> (<a href=http://josquin.stanford.edu/browse/?c=Bus>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Antoine_busnoys>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Com>Com</a> </td><td> Loyset Comp&egrave;re		</td><td> (<a href=http://josquin.stanford.edu/browse/?c=Com>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Loyset_Comp%C3%A8re>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Duf>Duf</a> </td><td> Guillaume Du Fay		</td><td> (<a href=http://josquin.stanford.edu/browse/?c=Duf>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Guillaume_Du_Fay>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Gas>Gas</a> </td><td> Gaspar van Weerbeke		</td><td> (<a href=http://josquin.stanford.edu/browse/?c=Gas>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Gaspar_van_Weekbeke>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Jap>Jap</a> </td><td> Jean Japart		</td><td> (<a href=http://josquin.stanford.edu/browse/?c=Jap>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Jean_Japart>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Jos>Jos</a> </td><td> Josquin des Prez		</td><td> (<a href=http://josquin.stanford.edu/browse/?c=Jos>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Josquin_des_Prez>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Mar>Mar</a> </td><td> Johannes Martini		</td><td> (<a href=http://josquin.stanford.edu/browse/?c=Mar>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Johannes_Martini>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Mou>Mou</a> </td><td> Jean Mouton		</td><td> (<a href=http://josquin.stanford.edu/browse/?c=Mou>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Jean_Mouton>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Obr>Obr</a> </td><td> Jacob Obrecht		</td><td> (<a href=http://josquin.stanford.edu/browse/?c=Obr>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Jacob_Obrecht>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Ock>Ock</a> </td><td> Johannes Ockeghem		</td><td> (<a href=http://josquin.stanford.edu/browse/?c=Ock>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Johannes_Ockeghem>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Ort>Ort</a> </td><td> Marbrianus de Orto	</td><td> (<a href=http://josquin.stanford.edu/browse/?c=Ort>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Marbrianus_de_Orto>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Pip>Pip</a> </td><td> Matthaeus Pipelare	</td><td> (<a href=http://josquin.stanford.edu/browse/?c=Pip>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Matthaeus_Pipelare>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Reg>Reg</a> </td><td> Johannes Regis		</td><td> (<a href=http://josquin.stanford.edu/browse/?c=Reg>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Johannes_Regis>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Rue>Rue</a> </td><td> Pierre de la Rue		</td><td> (<a href=http://josquin.stanford.edu/browse/?c=Rue>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Pierre_de_la_rue>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Tin>Tin</a> </td><td> Johannes Tinctoris</td><td> (<a href=http://josquin.stanford.edu/browse/?c=Tin>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Johannes_Tinctoris>Wikipedia</a>) </td></tr>
 </table>
 
 Within each directory of the repository is a subdirectory
@@ -356,7 +358,7 @@ data conversions, and analytic tools using URL parameters in the
 web address.  On the JRP website, each score has a "work info" page
 generated with this format:
 
-<code>http://jrp.stanford.edu/cgi-bin/jrp?a=info&f=Jos2721</code>
+<code>http://josquin.stanford.edu/data?a=info&f=Jos2721</code>
 
 Where ```Jos2721``` is the JRP catalog number 2721 from Josquin's
 collection of works, and ```info``` is the *action* being applied
@@ -364,23 +366,23 @@ to the given work (file) which causes the work-info page to be
 displayed.  A title may optionally follow the catalog number (with
 exact spelling of the title in the database):
 
-<code>http://jrp.stanford.edu/cgi-bin/jrp?a=info&f=Jos2721-La_Bernardina</code>
+<code>http://josquin.stanford.edu/data?a=info&f=Jos2721-La_Bernardina</code>
 
 A file extension can also be given (.krn in this case) but will
 always be ignored.  Example Humdrum data file access by setting the
 *action* to "humdrum":
 
-<code>http://jrp.stanford.edu/cgi-bin/jrp?a=humdrum&f=Jos2721-La_Bernardina</code>
+<code>http://josquin.stanford.edu/data?a=humdrum&f=Jos2721-La_Bernardina</code>
 
 Example MIDI data file access by setting the *action* to "midi":
 
-<code>http://jrp.stanford.edu/cgi-bin/jrp?a=midi&f=Jos2721-La_Bernardina</code>
+<code>http://josquin.stanford.edu/data?a=midi&f=Jos2721-La_Bernardina</code>
 
 Example graphical music scores in PDF format with four possible styles:
-* Without editorial accidentals or text: <code>http://jrp.stanford.edu/cgi-bin/jrp?a=notationnoedit&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie</code>
-* Without editorial accidentals but with text: <code>http://jrp.stanford.edu/cgi-bin/jrp?a=notationnoeditwithtext&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie</code>
-* With editorial accidentals but without text: <code>http://jrp.stanford.edu/cgi-bin/jrp?a=notationwitheditorial&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie</code>
-* With editorial accidentals and with text: <code>http://jrp.stanford.edu/cgi-bin/jrp?a=notationwitheditorialwithtext&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie</code>
+* Without editorial accidentals or text: <code>http://josquin.stanford.edu/data?a=notationnoedit&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie</code>
+* Without editorial accidentals but with text: <code>http://josquin.stanford.edu/data?a=notationnoeditwithtext&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie</code>
+* With editorial accidentals but without text: <code>http://josquin.stanford.edu/data?a=notationwitheditorial&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie</code>
+* With editorial accidentals and with text: <code>http://josquin.stanford.edu/data?a=notationwitheditorialwithtext&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie</code>
 
 Scores are generated from the original Humdrum **kern scores found
 in this repository for each work, so music notation in the PDF files
