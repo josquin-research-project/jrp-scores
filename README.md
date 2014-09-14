@@ -6,7 +6,7 @@ The primary web interface for these scores is http://josquin.stanford.edu
 which allows online searching and browsing, conversions into other
 data formats, such as MIDI and graphical notation, as well as
 interfaces to some online analysis tools.  These scores encompass
-music of the early Renaissance (*c*1420 to *c*1520), mostly
+music of the early Renaissance (ca. 1420 to ca. 1520), mostly
 representing the [Franco-Flemish
 School](http://en.wikipedia.org/wiki/Franco-Flemish_School) and are
 mainly intended for computational analysis.  As a result only a
