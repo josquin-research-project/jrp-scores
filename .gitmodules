@@ -52,3 +52,6 @@
 [submodule "Gas/kern"]
 	path = Gas/kern
 	url = git://github.com/josquin-research-project/Gas.git
+[submodule "Isa/kern"]
+	path = Isa/kern
+	url = https://github.com/josquin-research-project/Isa.git
