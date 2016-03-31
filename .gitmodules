@@ -55,3 +55,6 @@
 [submodule "Isa/kern"]
 	path = Isa/kern
 	url = https://github.com/josquin-research-project/Isa.git
+[submodule "Fva/kern"]
+	path = Fva/kern
+	url = https://github.com/josquin-research-project/Fva.git
