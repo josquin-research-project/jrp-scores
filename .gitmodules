@@ -58,3 +58,6 @@
 [submodule "Fva/kern"]
 	path = Fva/kern
 	url = https://github.com/josquin-research-project/Fva.git
+[submodule "Das/kern"]
+	path = Das/kern
+	url = https://github.com/josquin-research-project/Das.git
