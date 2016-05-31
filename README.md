@@ -129,6 +129,8 @@ type of the Humdrum data file format.
 Currently, composers with complete (or nearly complete) sets of
 encoded works include: Josquin, Ockeghem, La Rue and de Orto.
 
+The relative size of each composer's work database can be viewed on the [JRP Census page](http://josquin.stanford.edu/census).
+
 
 # Filenames #
 
