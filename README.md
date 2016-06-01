@@ -73,7 +73,7 @@ rhythmic-scaling interpretation will also be used in these cases.
 All parts in the data have a 1:1 rhythmic scaling against each other
 for analytic purposes.  Applying the ```*rscale``` factor will cause
 a part to be displayed in its original rhythmic values (i.e., reverse
-the resolution of the autmentation/diminution).
+the resolution of the augmentation/diminution).
 
 Triplet brackets are given explicitly in the data using "V" and "Z"
 characters (this will change in the future).  Triplet brackets
