@@ -364,7 +364,7 @@ subdirectories in each composer directory named
 
 Here are some other interesting processing actions:
 
-* Determine works that include text/lyrics: <code>grep -rl '\*\*text' \*/kern/\*</code>
+* Determine works that include text/lyrics: <code>grep -rl '\\\*\\\*text' \*/kern/\*</code>
 
 
 # Alternate data access #
