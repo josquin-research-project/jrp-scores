@@ -130,7 +130,15 @@ the meta-repository which contains each composer's works.
 
 Within each directory of the repository is a subdirectory
 called ```kern``` that contains the actual scores in the **kern data
-type of the Humdrum data file format.
+type of the Humdrum data file format.  MIDI files can be downloaded from
+the JRP website by typing the command ```make midi``` in the root directory
+of the jrp-scores repository (provided that you have GNU make installed on
+your computer).  PDF files for the musical scores (which are generated from
+the Humdrum data files found in this repository) can be downloaded
+with the command ```make pdf```.  PDF scores are printed with the MuseData
+printing system.   A command-line version of this system is available at
+http://muse2ps.ccarh.org .  MuseData generated from the Humdrum data
+files can be downloaded with the command ```make musedata```.
 
 Currently, composers with complete (or nearly complete) sets of
 encoded works include: Josquin, Ockeghem, La Rue and de Orto.
