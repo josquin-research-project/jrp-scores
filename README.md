@@ -76,11 +76,17 @@ a part to be displayed in its original rhythmic values (i.e., reverse
 the resolution of the augmentation/diminution).
 
 Triplet brackets are given explicitly in the data using "V" and "Z"
-characters (this will change in the future).  Triplet brackets
-indicate music that was originally in colored notation, which is a
-mensural equivalent of triplets.  Music in 3 mensuration (an alternate
-mensural method of showing triplets) may be represented as modern
-rhythmic triplets in the data, but will not contain triplet brackets.
+characters.  Triplet brackets indicate music that was originally in 
+colored notation, which is a mensural equivalent of triplets.  Music in 
+3-mensuration (an alternate mensural method of showing triplets) may be 
+represented as modern rhythmic triplets in the data, but will not contain 
+triplet brackets.  Mostly commonly 3-mensurtion music is represented in
+3/1 modern time signatures, while colored notation are typically represented
+as triplets in 2/1 time signature.  When the perceived beat is at the triplet
+wholenote level in colored notation, the modern time signature is given as
+3/3%2.  3%2 represents 2/3rds of a whole notes, or in other words a triplet
+whole note.  So a 2/1 measure has the same duation as 3/3%2 (two wholenotes
+equals three triplet wholenotes).
 
 Ligatures are groups of notes with their heads attached to each other which
 typically gives information about the rhythm of the notes in mensural
