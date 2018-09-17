@@ -28,9 +28,6 @@
 [submodule "Ort/kern"]
 	path = Ort/kern
 	url = git://github.com/josquin-research-project/Ort.git
-[submodule "Rue/kern"]
-	path = Rue/kern
-	url = git://github.com/josquin-research-project/Rue.git
 [submodule "Pip/kern"]
 	path = Pip/kern
 	url = git://github.com/josquin-research-project/Pip.git
