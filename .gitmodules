@@ -61,3 +61,6 @@
 [submodule "Das/kern"]
 	path = Das/kern
 	url = https://github.com/josquin-research-project/Das.git
+[submodule "Fry/kern"]
+	path = Fry/kern
+	url = https://github.com/josquin-research-project/Fry.git
