@@ -61,3 +61,6 @@
 [submodule "Fry/kern"]
 	path = Fry/kern
 	url = https://github.com/josquin-research-project/Fry.git
+[submodule "Rue/kern"]
+	path = Rue/kern
+	url = https://github.com/josquin-research-project/Rue.git
