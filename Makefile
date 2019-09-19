@@ -438,12 +438,21 @@ Joab: Joa Job
 
 
 ##############################
-#
-# make census -- Count notes in all score for all composers.
-#
+##
+## make census -- Count notes in all score for all composers.
+##
 
 census:
 	(for i in [A-Z]??/kern; do cat $$i/*.krn; done) | census -k
 
+
+
+##############################
+##
+## make index -- create index for accessing scores from Github.
+##
+
+index:
+	bin/makehmdindex > index.hmd
 
 

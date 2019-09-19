@@ -1,0 +1,54 @@
+#!/usr/bin/perl
+
+use strict;
+
+print <<"EOT";
+!!!github:	https://github.com/josquin-research-project/jrp-scores
+**file	**sort	**available	**pdf	**description
+EOT
+
+my @files = glob("*/kern/*.krn");
+
+foreach my $file (@files) {
+	next if $file !~ /(.*)\/([^\/]+)\.krn/;
+	my $directory = $1;
+	my $filebase = $2;
+	if ($filebase !~ /^([A-Z][a-z][a-z]\d{4}\.?\d*[a-z]*\.?[a-z]*)-/) {
+		print STDERR "Warning: filebase is poorly formatted: $filebase\n";
+		next;
+	}
+	my $catalog = $1;
+	my $title = `grep '^...OTL:' $file | head -n 1`;
+	chomp $title;
+	$title =~ s/.*OTL:\s*//;
+	$title =~ s/\s+$//;
+	my $composer = `grep '^...COM:' $file | head -n 1`;
+	chomp $composer;
+	$composer =~ s/.*COM:\s*//;
+	$composer =~ s/,.*$//;
+	my $year = `grep '^...PDT:' $file | head -n 1`;
+	chomp $year;
+	$year =~ s/.*PDT:\s*//;
+	$year =~ s/\s+$//;
+	print "$file\t";
+	if ($catalog =~ /^Tam/) {
+		print "U$catalog";
+	} else {
+		print $catalog
+	}
+	print "\tY\t.\t$catalog <link>$title";
+	if ($composer) {
+		print "($composer";
+		if ($year) {
+			print ", $year";
+		}
+		print ")";
+	}
+	print "</link>\n";
+}
+
+print <<"EOT";
+*-	*-	*-	*-	*-
+EOT
+
+
