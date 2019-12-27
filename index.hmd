@@ -90,6 +90,12 @@ Ano/kern/Ano3229-Par_malle_bouche--Leuven_Chansonnier.krn	Ano3229	Y	.	Ano3229 <l
 Ano/kern/Ano3230-Escu_dennuy--Leuven_Chansonnier.krn	Ano3230	Y	.	Ano3230 <link>Escu d'ennuy(Anonymous)</link>
 Ano/kern/Ano3231-Si_vous_voullez--Leuven_Chansonnier.krn	Ano3231	Y	.	Ano3231 <link>Si vous voullez(Anonymous)</link>
 Ano/kern/Ano3232-Ou_beau_chastel--Leuven_Chansonnier.krn	Ano3232	Y	.	Ano3232 <link>Ou beau chastel(Anonymous)</link>
+Ano/kern/Ano3237-De_sartor_nui_sian_maestri--Canto_dei_sartori_Perugia_G.20.krn	Ano3237	Y	.	Ano3237 <link>De sartor nui sian maestri(Anonymous)</link>
+Ano/kern/Ano3238-Ben_venga_Maggio--Libro_primo_delle_laudi_spirituali.krn	Ano3238	Y	.	Ano3238 <link>Ben venga Maggio(Anonymous)</link>
+Ano/kern/Ano3238.1-Eccol_Messia--Lauda_on_Ben_venga_Maggio--Libro_primo_delle_laudi_spirituali.krn	Ano3238.1	Y	.	Ano3238.1 <link>Eccol Messia (Lauda on Ben venga Maggio)(Anonymous)</link>
+Ano/kern/Ano3238.2-Che_fai_qui_core--Lauda_on_Ben_venga_Maggio.krn	Ano3238.2	Y	.	Ano3238.2 <link>Che fai qui core (Lauda on Ben venga Maggio)(Anonymous)</link>
+Ano/kern/Ano3239-Visin_visin_visin--Canto_degli_spazzacamini.krn	Ano3239	Y	.	Ano3239 <link>Visin visin visin(Anonymous)</link>
+Ano/kern/Ano3239.1-Jesu_Jesu_Jesu--Lauda_on_Visin_visin_visin.krn	Ano3239.1	Y	.	Ano3239.1 <link>Jesu Jesu Jesu(Anonymous)</link>
 Ano/kern/Ano7131.2-Jay_pris_amours_a_ma_devise--version_with_low_Ct.krn	Ano7131.2	Y	.	Ano7131.2 <link>J'ay pris amours a ma devise (version with low Ct)(Anonymous)</link>
 Bru/kern/Bru1008a-Missa_Et_ecce_terre_motus-Kyrie.krn	Bru1008a	Y	.	Bru1008a <link>Kyrie(Brumel)</link>
 Bru/kern/Bru1008b-Missa_Et_ecce_terre_motus-Gloria.krn	Bru1008b	Y	.	Bru1008b <link>Gloria(Brumel)</link>
@@ -263,6 +269,7 @@ Isa/kern/Isa1038-Credo_I.krn	Isa1038	Y	.	Isa1038 <link>Credo I(Isaac)</link>
 Isa/kern/Isa1039-Credo_II.krn	Isa1039	Y	.	Isa1039 <link>Credo II(Isaac)</link>
 Isa/kern/Isa1040-Credo_III.krn	Isa1040	Y	.	Isa1040 <link>Credo III(Isaac)</link>
 Isa/kern/Isa1041-Credo_IV.krn	Isa1041	Y	.	Isa1041 <link>Credo IV(Isaac)</link>
+Isa/kern/Isa3002-Alla_battaglia.krn	Isa3002	Y	.	Isa3002 <link>Alla battaglia(Isaac)</link>
 Jap/kern/Jap3001-Amours_amours_amours.krn	Jap3001	Y	.	Jap3001 <link>Amours amours amours(Japart)</link>
 Jap/kern/Jap3002-Amours_fait_moult_tant__Il_est_de_bonne_heure_ne__Tant_que_nostre_argent_dura.krn	Jap3002	Y	.	Jap3002 <link>Amours fait moult tant / Il est de bonne heure n&eacute; / Tant que nostre argent(Japart)</link>
 Jap/kern/Jap3003-Cela_sans_plus_ne_souffi_pas.krn	Jap3003	Y	.	Jap3003 <link>Cela sans plus ne souffi pas(Japart)</link>
@@ -499,7 +506,8 @@ Jos/kern/Jos1713-Levavi_oculos_meos.krn	Jos1713	Y	.	Jos1713 <link>Levavi oculos 
 Jos/kern/Jos1714-Memor_esto_verbi_tui.krn	Jos1714	Y	.	Jos1714 <link>(Josquin des Prez)</link>
 Jos/kern/Jos1801-Mirabilia_testimonia_tua_Domine.krn	Jos1801	Y	.	Jos1801 <link></link>
 Jos/kern/Jos1802-Mirabilia_testimonia_tua.krn	Jos1802	Y	.	Jos1802 <link>Mirabilia testimonia tua</link>
-Jos/kern/Jos1803-Miserere_mei_Deus.krn	Jos1803	Y	.	Jos1803 <link>(Josquin des Prez)</link>
+Jos/kern/Jos1803-Miserere_mei_deus.krn	Jos1803	Y	.	Jos1803 <link>Miserere mei deus(Josquin des Prez)</link>
+Jos/kern/Jos1804-Misericordias_domini.krn	Jos1804	Y	.	Jos1804 <link>Misericordias domini</link>
 Jos/kern/Jos1807-Qui_habitat_in_adjutorio_altissimi.krn	Jos1807	Y	.	Jos1807 <link>Qui habitat in adjutorio altissimi</link>
 Jos/kern/Jos1808-Qui_habitat_in_adjutorio_altissimi.krn	Jos1808	Y	.	Jos1808 <link>Qui habitat in adjutorio altissimi</link>
 Jos/kern/Jos1901-Christus_mortuus_est.krn	Jos1901	Y	.	Jos1901 <link></link>
@@ -530,7 +538,7 @@ Jos/kern/Jos2104-Ave_verum.krn	Jos2104	Y	.	Jos2104 <link>(Gregoire)</link>
 Jos/kern/Jos2105-Huc_me_sydereo--a_5.krn	Jos2105	Y	.	Jos2105 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2105.2-Huc_me_sydereo--a_6.krn	Jos2105.2	Y	.	Jos2105.2 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2106-Magnus_es_tu,_domine.krn	Jos2106	Y	.	Jos2106 <link>Magnus es tu, domine</link>
-Jos/kern/Jos2107-O_admirabile_commercium.krn	Jos2107	Y	.	Jos2107 <link>(Josquin des Prez)</link>
+Jos/kern/Jos2107-O_admirabile_commercium.krn	Jos2107	Y	.	Jos2107 <link>O admirabile commercium</link>
 Jos/kern/Jos2109-O_bone_et_dulcissime_Jesu.krn	Jos2109	Y	.	Jos2109 <link></link>
 Jos/kern/Jos2201-O_Domine_Jesu_Christe.krn	Jos2201	Y	.	Jos2201 <link></link>
 Jos/kern/Jos2202-Pange_lingua_gloriosi.krn	Jos2202	Y	.	Jos2202 <link></link>
@@ -1188,6 +1196,7 @@ Rue/kern/Rue1036-Credo_De_villagiis.krn	Rue1036	Y	.	Rue1036 <link>Credo de villa
 Rue/kern/Rue1037-Credo_Lamour_de_moy.krn	Rue1037	Y	.	Rue1037 <link>Credo L'amour de moy(la Rue)</link>
 Rue/kern/Rue2001-Ave_regina_celorum.krn	Rue2001	Y	.	Rue2001 <link>Ave regina celorum(la Rue)</link>
 Rue/kern/Rue2002-Considera_Israel.krn	Rue2002	Y	.	Rue2002 <link>Considera Israel(la Rue)</link>
+Rue/kern/Rue2003-Da_pacem_Domine.krn	Rue2003	Y	.	Rue2003 <link>Da pacem Domine(la Rue)</link>
 Rue/kern/Rue2004-Delicta_iuventutis.krn	Rue2004	Y	.	Rue2004 <link>Delicta iuventutis(la Rue)</link>
 Rue/kern/Rue2005-Gaude_virgo_mater_Christi.krn	Rue2005	Y	.	Rue2005 <link>Gaude virgo mater Christi(la Rue)</link>
 Rue/kern/Rue2006-Lauda_anima_mea_dominum.krn	Rue2006	Y	.	Rue2006 <link>Lauda anima mea dominum(la Rue)</link>
