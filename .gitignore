@@ -1,7 +1,6 @@
-# ignore non-primary data files:
-
 [A-Z]??/kern-reduced
 [A-Z]??/midi
+[A-Z]??/mp3
 [A-Z]??/pdf
 [A-Z]??/notearray
 [A-Z]??/musedata
@@ -10,4 +9,5 @@ Zmo
 Zso
 Joa
 Job
-
+bin/worklist.json
+bin/josquin2.pl

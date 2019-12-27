@@ -1,0 +1,188 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Thu Dec 26 23:22:16 PST 2019
+# Last Modified: Thu Dec 26 23:22:20 PST 2019
+# Filename:      makeworklist
+# Syntax:        perl 5
+# vim:           ts=3
+#
+# Description:   Create a work index for use on the JRP website, 
+#                https://josquin.stanford.edu.
+#
+
+use strict;
+
+my $Basedir = ".";
+my @Replist = getRepertoryList($Basedir);
+my %Composer = getComposerList("$Basedir/info/composer.txt");
+
+print "[\n";
+
+for  (my $i=0; $i<@Replist; $i++) {
+	my $commaQ = 1;
+	$commaQ = 0 if $i == $#Replist;
+	printRepertory($Basedir, $Replist[$i], $commaQ);
+	print "\n";
+}
+
+print "]\n";
+
+
+exit(0);
+
+
+###########################################################################
+
+
+##############################
+##
+## getRepertoryList --  Ignore Zma (masses), Zmo (motets), Zso (songs) if present.
+##
+
+sub getRepertoryList {
+	my ($basedir) = @_;
+	my @list = glob("$basedir/[A-Y][a-z][a-z]/kern");
+	my @output;
+	for (my $i=0; $i<@list; $i++) {
+		$list[$i] =~ s/$basedir\///;
+		$list[$i] =~ s/\/kern$//;
+		next if $list[$i] eq "Joa";  # ignore secure subgrouping of Josquin if present
+		next if $list[$i] eq "Job";  # ignore non-secure subgrouping of Josquin if present
+		$output[@output] = $list[$i];
+	}
+	return sort @output;
+}
+
+
+
+##############################
+##
+## getComposerList --
+##
+
+sub getComposerList {
+	my ($file) = @_;
+	open (FILE, $file) or die "Cannot find composer list $file\n";
+	my $line;
+	my %output;
+	while ($line = <FILE>) {
+		chomp $line;
+		next if $line =~ /^\s*$/;
+		next if $line !~ /^([A-Z][a-z][a-z])\t\s*(.*)\s*$/;
+		$output{$1} = $2;
+	}
+	close FILE;
+	return %output;
+}
+
+
+
+##############################
+##
+## printRepertory --
+##
+
+sub printRepertory {
+	my ($basedir, $rep, $commaQ) = @_;
+
+	my %worklist = getWorkList($basedir, $rep);
+
+	my $workcount  = $worklist{"workcount"}    || 0;
+	my $masscount  = $worklist{"masscount"}    || 0;
+	my $motetcount = $worklist{"motetcount"}   || 0;
+	my $songcount  = $worklist{"songcount"}    || 0;
+	my $notecount  = $worklist{"notecount"}    || 0;
+	my $seconds    = $worklist{"seconds"}      || 0;
+	my $pages      = $worklist{"pages"}        || 0;
+	my $worklist   = $worklist{"worklist"};
+	my $comshort   = $worklist{"comshort"}     || "";
+	my $comlong    = $worklist{"comlong"}      || "";
+	my $comdates   = $worklist{"comdates"}     || "";
+	my $liststyle  = "genre";
+	#$liststyle  = "alphabetical";
+
+print <<EOT;
+{
+"repid"		:	"$rep",
+"reprole"	:	"composer",
+"comlong"	:	"$comlong",
+"comshort"	:	"$comshort",
+"comdates"	:	"$comdates",
+"repwork"	:	$workcount,
+"genres"	:
+	[
+	{"name":"mass", "count":$masscount},
+	{"name":"motet", "count":$motetcount},
+	{"name":"song", "count":$songcount}
+	],
+"liststyle"	:	"$liststyle",
+"notecount"	:	$notecount,
+"sec"		:	$seconds,
+"pg"		:	$pages,
+EOT
+
+	print "\"works\"	:\n";
+	print "\t[\n";
+	print $worklist;
+	print "\t]\n";
+	print "}";
+	print "," if $commaQ;
+	print "\n";
+}
+
+
+
+##############################
+##
+## getWorkList --
+##
+
+sub getWorkList {
+	my ($basedir, $rep) = @_;
+	my %output;
+
+	my $cinfo = $Composer{$rep};
+	my $comlong = $cinfo;
+	$comlong =~ s/[{}]+//g;
+	my $comshort = $cinfo;
+	$comshort =~ s/\}[^{]*\{//g;
+	$comshort =~ s/^[^{]*\{//;
+	$comshort =~ s/\}[^}]*$//;
+	$output{"comlong"} = $comlong;
+	$output{"comshort"} = $comshort;
+
+	my @files = glob("$basedir/$rep/kern/*.krn");
+	my $workcount = @files;
+	$output{"workcount"} = $workcount;
+
+	my %workinfo;
+	for (my $i=0; $i<@files; $i++) {
+		%workinfo = getWorkInfo($files[$i]);
+		$output{"masscount"} += $workinfo{"masscount"};
+		$output{"motetcount"} += $workinfo{"motetcount"};
+		$output{"songcount"} += $workinfo{"songcount"};
+		$output{"notecount"} += $workinfo{"notecount"};
+		$output{"seconds"} += $workinfo{"seconds"};
+		$output{"pages"} += $workinfo{"pages"};
+	}
+
+	return %output;
+}
+
+
+
+##############################
+##
+## getWorkInfo --
+##
+
+sub getWorkInfo {
+	my ($file) = @_;
+	my %output;
+
+	return %output;
+}
+
+
+

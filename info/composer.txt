@@ -1,0 +1,45 @@
+Ano	{Anonymous}
+Agr	Alexander {Agricola}
+Bas	Philippe {Basiron}
+Bau	Noel {Bauldeweyn}
+Bin	Gilles {Binchois}
+Bru	Antoine {Brumel}
+Bus	Antoine {Busnoys}
+Car	Firminus {Caron}
+Com	Loyset {Compere}
+Das	Ludwig {Daser}
+Dom	Petrus de {Domarto}
+Duf	Guillaume {Du Fay}
+Dun	John {Dunstaple}
+Fau	Guillaume {Faugues}
+Fva	{A}ntoine de {F&eacute;vin}
+Fvr	{R}obert de {F&eacute;vin}
+Fry	Walter {Frye}
+Gas	{Gaspar} van Weerbeke
+Ghi	Johannes {Ghiselin}
+Hay	{Hayne} van Ghizeghem
+Isa	Henricus {Isaac}
+Jap	Jean {Japart}
+Jos	{Josquin} des Prez
+Joa	{Josquin} des Prez {(secure)}
+Job	{Josquin} des Prez {(other)}
+Rue	Pierre de {la Rue}
+Mar	Johannes {Martini}
+Mou	Jean {Mouton}
+Obr	Jacob {Obrecht}
+Ock	Johannes {Ockeghem}
+Ort	Marbrianus {de Orto}
+Pip	Matthaeus {Pipelare}
+Plu	John {Plummer}
+Pow	Leonel {Power}
+Pri	Johannes {Prioris}
+Puy	Johannes {Puyllois}
+Reg	Johannes {Regis}
+Sto	Johannes de {Stokem}
+Tin	Johannes {Tinctoris}
+Urr	Juan de {Urrede}
+Vaq	Bertrandus {Vaqueras}
+Zen	Giulio {Zenaro}
+Zma	Masses
+Zmo	Motets
+Zso	Songs
