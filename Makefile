@@ -458,7 +458,7 @@ humdrum-index:
 	bin/makehmdindex > index.hmd
 
 jrp-index:
-	bin/makeworkindex > workindex.json
+	bin/makeworklist > worklist.json
 
 
 
