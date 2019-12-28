@@ -2,7 +2,7 @@
 #
 # Programmer:    Craig Stuart Sapp <craig.stanford.edu>
 # Creation Date: Thu Dec 26 23:22:16 PST 2019
-# Last Modified: Thu Dec 26 23:22:20 PST 2019
+# Last Modified: Fri Dec 27 23:10:25 PST 2019
 # Filename:      makeworklist
 # Syntax:        perl 5
 # vim:           ts=3
@@ -42,8 +42,9 @@ if ($ridx =~ /^\s*$/) {
 my $Basedir = ".";
 my @Replist = getRepertoryList($Basedir);
 my %Composer = getComposerList("$Basedir/info/composer.txt");
+print STDERR "Getting note counts for repertories\n";
 my %NoteCounts = getNoteCounts($Basedir, @Replist);
-print join("\n", %NoteCounts), "\n";
+print STDERR "Done getting note counts for repertories\n";
 
 print "[\n";
 
@@ -65,14 +66,14 @@ exit(0);
 
 ##############################
 ##
-## getNoteCounts --
+## getNoteCounts -- Prepare note counts for each file.
 ##
 
 sub getNoteCounts {
 	my ($basedir, @reps) = @_;
 	my %output;
 	foreach my $rep (@reps) {
-		my @files = glob("$rep/kern/*.krn");
+		my @files = sort glob("$rep/kern/*.krn");
 		foreach my $file (@files) {
 			my $notecount = `$notecount $file | $extractx -i sound | $ridx -H`;
 			chomp $notecount;
@@ -90,10 +91,13 @@ sub getNoteCounts {
 }
 
 
+
 ##############################
 ##
-## getRepertoryList --  Ignore Zma (masses), Zmo (motets), Zso (songs),
-##     if present.
+## getRepertoryList --  Look for directories which have the form
+##        [A-Z][a-z][a-z]/kern
+##     Ignore Zma (masses), Zmo (motets), Zso (songs), Joa (secure Josquin),
+##     and Job (non-secure Josquin) data groupings, if present.
 ##
 
 sub getRepertoryList {
@@ -122,7 +126,11 @@ sub getRepertoryList {
 
 ##############################
 ##
-## getComposerList --
+## getComposerList -- Get the contents of the composer.txt file in
+##    info/composer.txt.  Each line contains three tab-separated elements:
+##    (1) The composer abbreviation ([A-Z][a-z][a-z])
+##    (2) The composer's name
+##    (3) The composer's dates
 ##
 
 sub getComposerList {
@@ -148,7 +156,8 @@ sub getComposerList {
 
 ##############################
 ##
-## printRepertory --
+## printRepertory -- Print a composer's worklist given the
+##     input abbreviation for the composer, such as Agr for Agricola.
 ##
 
 sub printRepertory {
@@ -192,7 +201,9 @@ EOT
 
 	print "\"works\"	:\n";
 	print "\t[\n";
-	print $worklist;
+	my $ref = $worklist{"worklist"};
+	my @worklist = @$ref;
+	printWorkList(@worklist);
 	print "\t]\n";
 	print "}";
 	print "," if $commaQ;
@@ -203,9 +214,29 @@ EOT
 
 ##############################
 ##
-## getSections --
+## printWorkList -- Print the precalculated list of works
+##    for a composer.  Eventually this list will be sorted
+##    in this function based on the number of works to print.
 ##
 
+sub printWorkList {
+	my @worklist = @_;
+	my $size = @worklist;
+	for (my $i=0; $i<@worklist; $i++) {
+		my $text = $worklist[$i];
+		if ($i < $#worklist) {
+			$text =~ s/\n$/,\n/;
+		}
+		print $text;
+	}
+}
+
+
+
+##############################
+##
+## getSections --
+##
 
 sub getSections {
 	my @files = @_;
@@ -232,6 +263,7 @@ sub getSections {
 	}
 	return %output;
 }
+
 
 
 ##############################
@@ -269,6 +301,8 @@ print STDERR "PROCESSING COMPOSER\t$cinfo\n";
 	my $workcount = @files;
 	$output{"workcount"} = $workcount;
 
+	my @works;
+
 	my %workinfo;
 	for (my $i=0; $i<@files; $i++) {
 		my $file = $files[$i];
@@ -294,7 +328,12 @@ print STDERR "PROCESSING FILE $file\n";
 		$output{"notecount"}  += $workinfo{"notecount"};
 		$output{"seconds"}    += $workinfo{"seconds"};
 		$output{"pages"}      += $workinfo{"pages"};
+		$works[@works] = $workinfo{"data"};
 	}
+
+my $size = @works;
+print STDERR "ZZZ WORKLIST SIZE $size\n";
+	$output{"worklist"} = \@works;
 
 	return %output;
 }
@@ -308,7 +347,7 @@ print STDERR "PROCESSING FILE $file\n";
 
 sub getWorkInfo {
 	my ($file, $id, $workid, $sections) = @_;
-print "FILE $file, ID $id, WORKID, $workid, SECTIONS $sections\n";
+print STDERR "FILE $file, ID $id, WORKID, $workid, SECTIONS $sections\n";
 	my %output;
 	$output{"masscount"}  = 0;
 	$output{"motetcount"} = 0;
@@ -354,7 +393,7 @@ print "FILE $file, ID $id, WORKID, $workid, SECTIONS $sections\n";
 
 	# Get the number of sounding notes in the score:
 	# my $notecount = `$notecount $file | $extractx -i sound | $ridx -H`;
-	my $notecount = NoteCount{$id};
+	my $notecount = $NoteCounts{$id};
 	die "Problem with notecount for $id\n" if $notecount =~ /^\s*$/;
 	$notecount = 0 if $notecount =~ /^\s*$/;
 	$output{"notecount"} = $notecount;
@@ -377,18 +416,19 @@ print "FILE $file, ID $id, WORKID, $workid, SECTIONS $sections\n";
 	$data .= "\t{\n";
 	$data .= "\t\"id\"\t\t:\t\"$workid\",\n";
 	$data .= "\t\"filename\"\t:\t\"$filename\",\n";
-	$data .= "\t\"title\"\t:\t\"$title\",\n";
-	$data .= "\t\"genre\"\t:\t\"$genre\",\n";
+	$data .= "\t\"title\"\t\t:\t\"$title\",\n";
+	$data .= "\t\"genre\"\t\t:\t\"$genre\",\n";
 	$data .= "\t\"voices\"\t:\t\"$voices\",\n";
-	$data .= "\t\"vname\"\t:\t\"$vname\",\n";
-	$data .= "\t\"vabbr\"\t:\t\"$vabbr\",\n";
-	$data .= "\t\"ih\"\t:\t$ih,\n";
+	$data .= "\t\"vname\"\t\t:\t\"$vname\",\n";
+	$data .= "\t\"vabbr\"\t\t:\t\"$vabbr\",\n";
+	$data .= "\t\"ih\"\t\t:\t$ih,\n";
 	$data .= "\t\"notecount\"\t:\t$notecount,\n";
-	$data .= "\t\"sec\"\t:\t$sec,\n";
-	$data .= "\t\"pg\"\t:\t$pg,\n";
+	$data .= "\t\"sec\"\t\t:\t$sec,\n";
+	$data .= "\t\"pg\"\t\t:\t$pg,\n";
 	$data .= "\t\"vnotecount\"\t:\t$vnotecount,\n";
-	$data .= "\t\"ad\"\t:\t$ad,\n";
-	$data .= "\t\"ud\"\t:\t$ud,\n";
+	$data .= "\t\"ad\"\t\t:\t$ad,\n";
+	$data .= "\t\"ud\"\t\t:\t$ud\n";
+	$data .= "\t}\n";
 	$output{"data"} = $data;
 
 	return %output;
