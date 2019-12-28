@@ -81,7 +81,7 @@ sub getNoteCounts {
 			$id =~ s/-.*//;
 			$id =~ s/.krn$//;
 			if ($output{$id} !~ /^\s*$/) {
-				die "Error: $id occurs more than once is files, such as $file\n";
+				die "Error: $id occurs more than once, such as $file\n";
 			}
 			$output{$id} = $notecount;
 		}
