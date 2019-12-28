@@ -1,9 +1,15 @@
 ## Link indpendent repositories for each composer:
-#git submodule add -f https://github.com/josquin-research-project/Agr.git Agr/kern
 #git submodule add -f https://github.com/josquin-research-project/Ano.git Ano/kern
+#git submodule add -f https://github.com/josquin-research-project/Agr.git Agr/kern
+#git submodule add -f https://github.com/josquin-research-project/Bru.git Bru/kern
 #git submodule add -f https://github.com/josquin-research-project/Bus.git Bus/kern
 #git submodule add -f https://github.com/josquin-research-project/Com.git Com/kern
+#git submodule add -f https://github.com/josquin-research-project/Das.git Das/kern
 #git submodule add -f https://github.com/josquin-research-project/Duf.git Duf/kern
+#git submodule add -f https://github.com/josquin-research-project/Fry.git Fry/kern
+#git submodule add -f https://github.com/josquin-research-project/Fva.git Fva/kern
+#git submodule add -f https://github.com/josquin-research-project/Gas.git Gas/kern
+#git submodule add -f https://github.com/josquin-research-project/Isa.git Isa/kern
 #git submodule add -f https://github.com/josquin-research-project/Jap.git Jap/kern
 #git submodule add -f https://github.com/josquin-research-project/Joa.git Joa/kern
 #git submodule add -f https://github.com/josquin-research-project/Job.git Job/kern
@@ -17,9 +23,3 @@
 #git submodule add -f https://github.com/josquin-research-project/Reg.git Reg/kern
 #git submodule add -f https://github.com/josquin-research-project/Rue.git Rue/kern
 #git submodule add -f https://github.com/josquin-research-project/Tin.git Tin/kern
-#git submodule add -f https://github.com/josquin-research-project/Bru.git Bru/kern
-#git submodule add -f https://github.com/josquin-research-project/Gas.git Gas/kern
-#git submodule add -f https://github.com/josquin-research-project/Isa.git Isa/kern
-#git submodule add -f https://github.com/josquin-research-project/Fva.git Fva/kern
-#git submodule add -f https://github.com/josquin-research-project/Das.git Das/kern
-#git submodule add -f https://github.com/josquin-research-project/Fry.git Fry/kern
