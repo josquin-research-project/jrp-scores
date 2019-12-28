@@ -1,45 +1,47 @@
-Ano	{Anonymous}
-Agr	Alexander {Agricola}
-Bas	Philippe {Basiron}
-Bau	Noel {Bauldeweyn}
-Bin	Gilles {Binchois}
-Bru	Antoine {Brumel}
-Bus	Antoine {Busnoys}
-Car	Firminus {Caron}
-Com	Loyset {Compere}
-Das	Ludwig {Daser}
-Dom	Petrus de {Domarto}
-Duf	Guillaume {Du Fay}
-Dun	John {Dunstaple}
-Fau	Guillaume {Faugues}
-Fva	{A}ntoine de {F&eacute;vin}
-Fvr	{R}obert de {F&eacute;vin}
-Fry	Walter {Frye}
-Gas	{Gaspar} van Weerbeke
-Ghi	Johannes {Ghiselin}
-Hay	{Hayne} van Ghizeghem
-Isa	Henricus {Isaac}
-Jap	Jean {Japart}
-Jos	{Josquin} des Prez
-Joa	{Josquin} des Prez {(secure)}
-Job	{Josquin} des Prez {(other)}
-Rue	Pierre de {la Rue}
-Mar	Johannes {Martini}
-Mou	Jean {Mouton}
-Obr	Jacob {Obrecht}
-Ock	Johannes {Ockeghem}
-Ort	Marbrianus {de Orto}
-Pip	Matthaeus {Pipelare}
-Plu	John {Plummer}
-Pow	Leonel {Power}
-Pri	Johannes {Prioris}
-Puy	Johannes {Puyllois}
-Reg	Johannes {Regis}
-Sto	Johannes de {Stokem}
-Tin	Johannes {Tinctoris}
-Urr	Juan de {Urrede}
-Vaq	Bertrandus {Vaqueras}
-Zen	Giulio {Zenaro}
-Zma	Masses
-Zmo	Motets
-Zso	Songs
+**abbr	**name				**dates
+Ano	{Anonymous}			.
+Agr	Alexander {Agricola}		c. 1455-1506
+Bas	Philippe {Basiron}		c. 1449-1491
+Bau	Noel {Bauldeweyn}		c. 1480-after 1513
+Bin	Gilles {Binchois}		c. 1400-1460
+Bru	Antoine {Brumel}		c. 1460-1512/3
+Bus	Antoine {Busnoys}		c. 1430-1492
+Car	Firminus {Caron}		fl. 1460-1475
+Com	Loyset {Compere}		c. 1445-1518
+Das	Ludwig {Daser}			c. 1526-1589
+Dom	Petrus de {Domarto}		fl. c. 1445-1455
+Duf	Guillaume {Du Fay}		c. 1397-1474
+Dun	John {Dunstaple}		c. 1390-1453
+Fau	Guillaume {Faugues}		fl. c. 1460-1475
+Fva	{A}ntoine de {F&eacute;vin}	c. 1470-1511/2
+Fvr	{R}obert de {F&eacute;vin}	late 15th and early 16th centuries
+Fry	Walter {Frye}			d. c. 1474
+Gas	{Gaspar} van Weerbeke		c. 1446-c. 1516
+Ghi	Johannes {Ghiselin}		fl. 1491-1507
+Hay	{Hayne} van Ghizeghem		c. 1445-1476 to 1497
+Isa	Henricus {Isaac}		c. 1450-1517
+Jap	Jean {Japart}			fl. c. 1476-1481
+Jos	{Josquin} des Prez		c. 1450-1521
+Joa	{Josquin} des Prez {(secure)}	.
+Job	{Josquin} des Prez {(other)}	.
+Rue	Pierre de {la Rue}		d. 1518
+Mar	Johannes {Martini}		c. 1430/40-1497
+Mou	Jean {Mouton}			before 1459-1522
+Obr	Jacob {Obrecht}			c. 1457/8-1506
+Ock	Johannes {Ockeghem}		d. 1497
+Ort	Marbrianus {de Orto}		c. 1460-1529
+Pip	Matthaeus {Pipelare}		c.1450-1515
+Plu	John {Plummer}			c. 1410-c. 1483
+Pow	Leonel {Power}			1370 to 1385-1445
+Pri	Johannes {Prioris}		c. 1460-c. 1514
+Puy	Johannes {Puyllois}		.
+Reg	Johannes {Regis}		c. 1425-c. 1496
+Sto	Johannes de {Stokem}		c. 1445-1487 or 1501
+Tin	Johannes {Tinctoris}		c. 1435-1511
+Urr	Juan de {Urrede}		c. 1430-after 1482
+Vaq	Bertrandus {Vaqueras}		.
+Zen	Giulio {Zenaro}			.
+Zma	Masses				.
+Zmo	Motets				.
+Zso	Songs				.
+*-	*-				*-

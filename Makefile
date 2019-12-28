@@ -452,7 +452,14 @@ census:
 ## make index -- create index for accessing scores from Github.
 ##
 
-index:
+index: humdrum-index jrp-index
+
+humdrum-index:
 	bin/makehmdindex > index.hmd
+
+jrp-index:
+	bin/makeworkindex > workindex.json
+
+
 
 
