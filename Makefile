@@ -88,7 +88,7 @@ all:
 	@echo '   "make web-musedata" : download MuseData files from JRP website.'
 	@echo ''
 
-BASEURL   = http://josquin.stanford.edu
+BASEURL   = https://josquin.stanford.edu
 DATAURL   = $(BASEURL)/data?
 PDFTYPE   = notationwitheditorialwithtext
 PDFNOTEXT = notationwitheditorialnotext
@@ -377,6 +377,16 @@ notearray:
 	   )								\
 	done
 
+
+########################################
+#
+# make web-mp3 -- Download MP3 files generated with timidity
+#     which are generated from MIDI files of the source **kern Humdrum data.
+#
+
+mp3: web-mp3
+web-mp3:
+	bin/download-mp3s
 
 
 ##############################

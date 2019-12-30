@@ -1,0 +1,116 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Sun Dec 29 00:22:43 PST 2019
+# Last Modified: Sun Dec 29 00:22:51 PST 2019
+# Filename:      download-mp3s
+# Syntax:        perl 5
+# vim:           ts=3
+#
+# Description:   Download MP3 files from JRP website.
+#
+
+use strict;
+
+my $jrpaddr = "https://josquin.stanford.edu";
+
+##############################
+##
+## Command-line tools used in script:
+##
+
+my $wget = `which wget`;
+chomp $wget;
+if ($wget =~ /^\s*$/) {
+	die "Error: cannot find wget program\n";
+}
+
+
+###########################################################################
+
+# $Basedir: The directory in which the repertory directories are located,
+# as well as the info directory.
+my $Basedir = ".";
+
+# @Replist: The list of composer directories that contain kern data
+# for digital scores.
+my @Replist = getRepertoryList($Basedir);
+
+for  (my $i=0; $i<@Replist; $i++) {
+	my $commaQ = 1;
+	$commaQ = 0 if $i == $#Replist;
+	processRepertory($Basedir, $Replist[$i], $commaQ);
+}
+
+
+exit(0);
+
+
+###########################################################################
+
+
+
+##############################
+##
+## getRepertoryList --  Look for directories in the base directory that
+##     have the form:
+##        [A-Z][a-z][a-z]/kern
+##     Ignore Zma (masses), Zmo (motets), Zso (songs), Joa (secure Josquin),
+##     and Job (non-secure Josquin) data groupings, if present.
+##
+
+sub getRepertoryList {
+	my ($basedir) = @_;
+	my @list = glob("$basedir/[A-Y][a-z][a-z]/kern");
+	my @output;
+	my $ano = 0;
+	for (my $i=0; $i<@list; $i++) {
+		$list[$i] =~ s/$basedir\///;
+		$list[$i] =~ s/\/kern$//;
+		next if $list[$i] eq "Joa";  # ignore secure Josquin group if present
+		next if $list[$i] eq "Job";  # ignore non-secure Josquin group if present
+		if ($list[$i] eq "Ano") {
+			$ano = 1;
+			next;
+		}
+		$output[@output] = $list[$i];
+	}
+	# Place Anonymous list first
+	@output = sort @output;
+	unshift(@output, "Ano");
+	return @output;
+}
+
+
+
+##############################
+##
+## processRepertory -- Print a composer's worklist given the
+##     input abbreviation for the composer, such as Agr for Agricola.
+##     there is a header of information and then the list of works
+##     is printed as an array for the "works" property.
+##
+
+sub processRepertory {
+	my ($basedir, $rep) = @_;
+	my @kernfiles = glob("$basedir/$rep/kern/*.krn");
+	`mkdir -p $basedir/$rep/mp3`;
+	foreach my $file (@kernfiles) {
+		my $mp3file = $file;
+		$mp3file =~ s/\/kern\//\/mp3\//;
+		$mp3file =~ s/\.krn$/.mp3/;
+		if (-r $mp3file) {
+			# don't download if already downloaded.
+			next;
+		}
+		my $id = $file;
+		$id =~ s/.*\///;
+		$id =~ s/-.*//;
+		my $command = "$wget \"$jrpaddr/audio/mp3/$id.mp3\" -O $mp3file";
+		print STDERR "$command\n";
+		`$command`;
+	}
+}
+
+
+
