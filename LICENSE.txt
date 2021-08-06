@@ -2,3 +2,6 @@ CC-BY-SA 4.0
 https://creativecommons.org/licenses/by-nc/4.0/legalcode
 The Josquin Research Project, https://josquin.stanford.edu
 Dataset: https://github.com/josquin-research-project/jrp-scores
+
+Review individual digital scores (YEC/YEM reference records) for
+work-specific copyright notices and licenses.
