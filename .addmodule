@@ -8,7 +8,7 @@
 #git submodule add -f https://github.com/josquin-research-project/Duf.git Duf/kern
 #git submodule add -f https://github.com/josquin-research-project/Fry.git Fry/kern
 #git submodule add -f https://github.com/josquin-research-project/Fva.git Fva/kern
-git submodule add -f https://github.com/josquin-research-project/Gas.git Gas/kern
+#git submodule add -f https://github.com/josquin-research-project/Gas.git Gas/kern
 #git submodule add -f https://github.com/josquin-research-project/Isa.git Isa/kern
 #git submodule add -f https://github.com/josquin-research-project/Jap.git Jap/kern
 #git submodule add -f https://github.com/josquin-research-project/Joa.git Joa/kern
