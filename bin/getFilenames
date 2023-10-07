@@ -1,0 +1,62 @@
+#!/usr/bin/env perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Sat Oct  7 02:08:07 PDT 2023
+# Last Modified: Sat Oct  7 02:08:10 PDT 2023
+# Filename:      jrp-scores/bin/getFilename
+# Syntax:        perl 5
+#
+# Description:   Extract filenames for files according to the input
+#                file which contains a single ID for each file on
+#                each line, such as:
+#		Ano1001a
+#		Ano1001b
+#		Ano1001c
+#		Ano1001d
+#		Ano1001e
+#		Ano1002
+#		Ano1025a
+#		Ano1025b
+#		Ano1025c
+#		Ano1025d
+#                 This is copyied from the spreadsheet
+#                 https://bit.ly/jrp-metadata, column A and stored
+#                 into a file call jrp-scores/ids.txt Then the output
+#                 of this program is pasted into the "Filename"
+#                 column of the same spreadsheet.
+#
+
+use strict;
+
+die "Copy column A (excluding first row) from spreadsheet https://bit.ly/jrp-metadata\nand store in a file called ids.txt before running this program.\n" if !-r "ids.txt";
+
+my @list = <>;
+chomp @list;
+
+if (@list < 100) {
+	die "Usage: $0 ids.txt | pbcopy\n";
+}
+
+foreach my $entry (@list) {
+	if ($entry !~ /^([A-Z][a-z][a-z])\d{4}/) {
+		print "\n";
+		next;
+	}
+	my $composer = $1;
+		
+	my @files = glob("$composer/kern/$entry-*\.krn");
+
+	if (@files == 0) {
+		print "\n";
+		next;
+	}
+	if (@files > 1) {
+		die "Error: duplicate IDs in files: ", join("\t", @files), "\n";
+	}
+	my $base = $files[0];
+	$base =~ s/.*\///;
+	print "$base\n";
+}
+
+	
+

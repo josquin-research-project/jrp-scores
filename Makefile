@@ -473,4 +473,27 @@ jrp-index:
 
 
 
+##############################
+##
+## make notecounts -- count notes in each file for spreadsheet.
+##
+
+notecount: notecounts
+nc: notecounts
+notecounts:
+	bin/getNoteCounts ids.txt
+
+
+
+##############################
+##
+## make filenames -- Extract the full filenames for each work ID.
+##
+
+fn: filenames
+filename: filenames
+filenames:
+	@bin/getFilenames ids.txt
+
+
 

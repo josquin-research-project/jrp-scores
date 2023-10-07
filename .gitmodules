@@ -61,3 +61,6 @@
 [submodule "Rue/kern"]
 	path = Rue/kern
 	url = https://github.com/josquin-research-project/Rue.git
+[submodule "Gas/kern"]
+	path = Gas/kern
+	url = https://github.com/josquin-research-project/Gas.git
