@@ -22,9 +22,9 @@
 [submodule "Obr/kern"]
 	path = Obr/kern
 	url = https://github.com/josquin-research-project/Obr.git
-[submodule "Ock/kern"]
-	path = Ock/kern
-	url = https://github.com/josquin-research-project/Ock.git
+[submodule "Oke/kern"]
+	path = Oke/kern
+	url = https://github.com/josquin-research-project/Oke.git
 [submodule "Ort/kern"]
 	path = Ort/kern
 	url = https://github.com/josquin-research-project/Ort.git
