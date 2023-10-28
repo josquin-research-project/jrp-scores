@@ -29,7 +29,7 @@ Ano/kern/Ano1026d-Missa_Gross_senen-Sanctus--Trent_89.krn	Ano1026d	Y	.	Ano1026d 
 Ano/kern/Ano1026e-Missa_Gross_senen-Agnus--Trent_89.krn	Ano1026e	Y	.	Ano1026e <link>Agnus Dei(Anonymous)</link>
 Ano/kern/Ano2002-O_beate_Sebastiane--Trent_90.krn	Ano2002	Y	.	Ano2002 <link>O beate Sebastiane(Anonymous)</link>
 Ano/kern/Ano2006-Da_pacem_domine_III--Cappella_Sistina_15.krn	Ano2006	Y	.	Ano2006 <link>Da pacem domine III(Anonymous)</link>
-Ano/kern/Ano2073-Ave_Maria_..._virgo_serena--Munich_41.krn	Ano2073	Y	.	Ano2073 <link>Ave Maria ... virgo serena (&agrave; 6)(Anonymous)</link>
+Ano/kern/Ano2073-Ave_Maria_..._virgo_serena--Munich_41.krn	Ano2073	Y	.	Ano2073 <link>Ave Maria...virgo serena (&agrave; 6)(Anonymous)</link>
 Ano/kern/Ano3001-Fama_malum--Brussels_228.krn	Ano3001	Y	.	Ano3001 <link>Fama malum(Anonymous)</link>
 Ano/kern/Ano3002-Tambur_tambur--Cortona__Paris.krn	Ano3002	Y	.	Ano3002 <link>Tambur tambur(Anonymous)</link>
 Ano/kern/Ano3003-A_cheval--Escorial_B.krn	Ano3003	Y	.	Ano3003 <link>&Agrave; cheval(Anonymous)</link>
@@ -255,16 +255,115 @@ Fva/kern/Fva1001b-Missa_Ave_Maria-Gloria.krn	Fva1001b	Y	.	Fva1001b <link>Gloria(
 Fva/kern/Fva1001c-Missa_Ave_Maria-Credo.krn	Fva1001c	Y	.	Fva1001c <link>Credo(F&eacute;vin)</link>
 Fva/kern/Fva1001d-Missa_Ave_Maria-Sanctus.krn	Fva1001d	Y	.	Fva1001d <link>Sanctus(F&eacute;vin)</link>
 Fva/kern/Fva1001e-Missa_Ave_Maria-Agnus.krn	Fva1001e	Y	.	Fva1001e <link>Agnus Dei(F&eacute;vin)</link>
-Gas/kern/Gas2017a-Quam_pulchra_es_Cycle-Quam_pulchra_es.krn	Gas2017a	Y	.	Gas2017a <link>Quam pulchra es(van Weerbeke)</link>
-Gas/kern/Gas2017b-Quam_pulchra_es_Cycle-Alma_redemptoris_mater.krn	Gas2017b	Y	.	Gas2017b <link>Alma redemptoris mater(van Weerbeke)</link>
-Gas/kern/Gas2017c-Quam_pulchra_es_Cycle-Salve_virgo_salutata.krn	Gas2017c	Y	.	Gas2017c <link>Salve virgo salutata(van Weerbeke)</link>
-Gas/kern/Gas2017d-Quam_pulchra_es_Cycle-O_pulcherrima_mulierum.krn	Gas2017d	Y	.	Gas2017d <link>O pulcherrima mulierum(van Weerbeke)</link>
-Gas/kern/Gas2017e-Quam_pulchra_es_Cycle-Ave_regina_caelorum_mater.krn	Gas2017e	Y	.	Gas2017e <link>Ave regina caelorum mater(van Weerbeke)</link>
-Gas/kern/Gas2017f-Quam_pulchra_es_Cycle-O_maria_clausus_hortus.krn	Gas2017f	Y	.	Gas2017f <link>O maria clausus hortus(van Weerbeke)</link>
-Gas/kern/Gas2017g-Quam_pulchra_es_Cycle-Mater_patris_filia.krn	Gas2017g	Y	.	Gas2017g <link>Mater patris filia(van Weerbeke)</link>
-Gas/kern/Gas2017h-Quam_pulchra_es_Cycle-Tota_pulchra_es.krn	Gas2017h	Y	.	Gas2017h <link>Tota pulchra es(van Weerbeke)</link>
-Gas/kern/Gas2029-Ave_regina_celorum.krn	Gas2029	Y	.	Gas2029 <link>Ave regina celorum(van Weerbeke)</link>
-Gas/kern/Gas2033-Dulcis_amica_Dei__Da_pacem.krn	Gas2033	Y	.	Gas2033 <link>Dulcis amica Dei / Da pacem(Gaspar van Weerbeke)</link>
+Gas/kern/Ano0207a-Missa_sine_nomine_Kyrie.krn	Ano0207a	Y	.	Ano0207a <link>Kyrie(Anonymous, 2018)</link>
+Gas/kern/Ano0207b-Missa_sine_nomine_Gloria.krn	Ano0207b	Y	.	Ano0207b <link>Gloria(Anonymous, 2018)</link>
+Gas/kern/Ano0207c-Missa_sine_nomine_Credo.krn	Ano0207c	Y	.	Ano0207c <link>Credo(Anonymous, 2018)</link>
+Gas/kern/Ano0207d-Missa_sine_nomine_Sanctus.krn	Ano0207d	Y	.	Ano0207d <link>Sanctus(Anonymous, 2018)</link>
+Gas/kern/Ano0207e-Missa_sine_nomine_Agnus.krn	Ano0207e	Y	.	Ano0207e <link>Agnus(Anonymous, 2018)</link>
+Gas/kern/Ano0421-Ave_nostra_salus.krn	Ano0421	Y	.	Ano0421 <link>Ave nostra salus(Anonymous, 2010)</link>
+Gas/kern/Ano0422-Ave_panis_angelorum.krn	Ano0422	Y	.	Ano0422 <link>Ave panis angelorum(Anonymous, 2010)</link>
+Gas/kern/Ano0423-O_inextimabilis_dilectio.krn	Ano0423	Y	.	Ano0423 <link>O inextimabilis dilectio(Anonymous, 2010)</link>
+Gas/kern/Ano0510-Ce_nest_pas_sans.krn	Ano0510	Y	.	Ano0510 <link>Ce n'est pas sans(Anonymous, 2020)</link>
+Gas/kern/Gas0101a-Missa_Ave_regina_celorum-Kyrie.krn	Gas0101a	Y	.	Gas0101a <link>Kyrie(Gaspar van Weerbeke, 2016)</link>
+Gas/kern/Gas0101b-Missa_Ave_regina_celorum-Gloria.krn	Gas0101b	Y	.	Gas0101b <link>Gloria(Gaspar van Weerbeke, 2016)</link>
+Gas/kern/Gas0101c-Missa_Ave_regina_celorum-Credo.krn	Gas0101c	Y	.	Gas0101c <link>Credo(Gaspar van Weerbeke, 2016)</link>
+Gas/kern/Gas0101d-Missa_Ave_regina_celorum-Sanctus.krn	Gas0101d	Y	.	Gas0101d <link>Sanctus(Gaspar van Weerbeke, 2016)</link>
+Gas/kern/Gas0101e-Missa_Ave_regina_celorum-Agnus.krn	Gas0101e	Y	.	Gas0101e <link>Agnus Dei(Gaspar van Weerbeke, 2016)</link>
+Gas/kern/Gas0102a-Missa_O_venus_bant-Kyrie.krn	Gas0102a	Y	.	Gas0102a <link>Kyrie(Gaspar van Weerbeke, 2016)</link>
+Gas/kern/Gas0102b-Missa_O_venus_bant-Gloria.krn	Gas0102b	Y	.	Gas0102b <link>Gloria(Gaspar van Weerbeke, 2016)</link>
+Gas/kern/Gas0102c-Missa_O_venus_bant-Credo.krn	Gas0102c	Y	.	Gas0102c <link>Credo(Gaspar van Weerbeke, 2016)</link>
+Gas/kern/Gas0102d-Missa_O_venus_bant-Sanctus.krn	Gas0102d	Y	.	Gas0102d <link>Sanctus(Gaspar van Weerbeke, 2016)</link>
+Gas/kern/Gas0102e-Missa_O_venus_bant-Agnus.krn	Gas0102e	Y	.	Gas0102e <link>Agnus Dei(Gaspar van Weerbeke, 2016)</link>
+Gas/kern/Gas0103a-Missa_Princesse_damourettes-Kyrie.krn	Gas0103a	Y	.	Gas0103a <link>Kyrie(Gaspar van Weerbeke, 2016)</link>
+Gas/kern/Gas0103b-Missa_Princesse_damourettes-Gloria.krn	Gas0103b	Y	.	Gas0103b <link>Gloria(Gaspar van Weerbeke, 2016)</link>
+Gas/kern/Gas0103c-Missa_Princesse_damourettes-Credo.krn	Gas0103c	Y	.	Gas0103c <link>Credo(Gaspar van Weerbeke, 2016)</link>
+Gas/kern/Gas0103d-Missa_Princesse_damourettes-Sanctus.krn	Gas0103d	Y	.	Gas0103d <link>Sanctus(Gaspar van Weerbeke, 2016)</link>
+Gas/kern/Gas0103e-Missa_Princesse_damourettes-Agnus.krn	Gas0103e	Y	.	Gas0103e <link>Agnus Dei(Gaspar van Weerbeke, 2016)</link>
+Gas/kern/Gas0104a-Missa_Se_mieulx_ne_vient-Kyrie.krn	Gas0104a	Y	.	Gas0104a <link>Kyrie(Gaspar van Weerbeke, 2016)</link>
+Gas/kern/Gas0104b-Missa_Se_mieulx_ne_vient-Gloria.krn	Gas0104b	Y	.	Gas0104b <link>Gloria(Gaspar van Weerbeke, 2016)</link>
+Gas/kern/Gas0104c-Missa_Se_mieulx_ne_vient-Credo.krn	Gas0104c	Y	.	Gas0104c <link>Credo(Gaspar van Weerbeke, 2016)</link>
+Gas/kern/Gas0104d-Missa_Se_mieulx_ne_vient-Sanctus.krn	Gas0104d	Y	.	Gas0104d <link>Sanctus(Gaspar van Weerbeke, 2016)</link>
+Gas/kern/Gas0104e-Missa_Se_mieulx_ne_vient-Agnus.krn	Gas0104e	Y	.	Gas0104e <link>Agnus Dei(Gaspar van Weerbeke, 2016)</link>
+Gas/kern/Gas0201a-Missa_brevis-Kyrie.krn	Gas0201a	Y	.	Gas0201a <link>Kyrie(Gaspar van Weerbeke, 2018)</link>
+Gas/kern/Gas0201b-Missa_brevis-Gloria.krn	Gas0201b	Y	.	Gas0201b <link>Gloria(Gaspar van Weerbeke, 2018)</link>
+Gas/kern/Gas0201c-Missa_brevis-Credo.krn	Gas0201c	Y	.	Gas0201c <link>Credo(Gaspar van Weerbeke, 2018)</link>
+Gas/kern/Gas0201d-Missa_brevis-Sanctus.krn	Gas0201d	Y	.	Gas0201d <link>Sanctus(Gaspar van Weerbeke, 2018)</link>
+Gas/kern/Gas0201e-Missa_brevis-Agnus.krn	Gas0201e	Y	.	Gas0201e <link>Agnus(Gaspar van Weerbeke, 2018)</link>
+Gas/kern/Gas0202a-Missa_Et_trop_penser-Kyrie.krn	Gas0202a	Y	.	Gas0202a <link>Kyrie(Gaspar van Weerbeke, 2018)</link>
+Gas/kern/Gas0202b-Missa_Et_trop_penser-Gloria.krn	Gas0202b	Y	.	Gas0202b <link>Gloria(Gaspar van Weerbeke, 2018)</link>
+Gas/kern/Gas0202c-Missa_Et_trop_penser-Credo.krn	Gas0202c	Y	.	Gas0202c <link>Credo(Gaspar van Weerbeke, 2018)</link>
+Gas/kern/Gas0202d-Missa_Et_trop_penser-Sanctus.krn	Gas0202d	Y	.	Gas0202d <link>Sanctus(Gaspar van Weerbeke, 2018)</link>
+Gas/kern/Gas0202e-Missa_Et_trop_penser-Agnus.krn	Gas0202e	Y	.	Gas0202e <link>Agnus(Gaspar van Weerbeke, 2018)</link>
+Gas/kern/Gas0203a-Missa_Nas_tu_pas-Kyrie.krn	Gas0203a	Y	.	Gas0203a <link>Kyrie(Gaspar van Weerbeke, 2018)</link>
+Gas/kern/Gas0203b-Missa_Nas_tu_pas-Gloria.krn	Gas0203b	Y	.	Gas0203b <link>Gloria(Gaspar van Weerbeke, 2018)</link>
+Gas/kern/Gas0203c-Missa_Nas_tu_pas-Credo.krn	Gas0203c	Y	.	Gas0203c <link>Credo(Gaspar van Weerbeke, 2018)</link>
+Gas/kern/Gas0203d-Missa_Nas_tu_pas-Sanctus.krn	Gas0203d	Y	.	Gas0203d <link>Sanctus(Gaspar van Weerbeke, 2018)</link>
+Gas/kern/Gas0203e-Missa_Nas_tu_pas-Agnus.krn	Gas0203e	Y	.	Gas0203e <link>Agnus(Gaspar van Weerbeke, 2018)</link>
+Gas/kern/Gas0204a-Missa_Octavi_toni-Kyrie.krn	Gas0204a	Y	.	Gas0204a <link>Kyrie(Gaspar van Weerbeke, 2018)</link>
+Gas/kern/Gas0204b-Missa_Octavi_toni-Gloria.krn	Gas0204b	Y	.	Gas0204b <link>Gloria(Gaspar van Weerbeke, 2018)</link>
+Gas/kern/Gas0204c-Missa_octavi_toni-Credo.krn	Gas0204c	Y	.	Gas0204c <link>Credo(Gaspar van Weerbeke, 2018)</link>
+Gas/kern/Gas0204d-Missa_Octavi_toni-Sanctus.krn	Gas0204d	Y	.	Gas0204d <link>Sanctus(Gaspar van Weerbeke, 2018)</link>
+Gas/kern/Gas0204e-Missa_Octavi_toni-Agnus.krn	Gas0204e	Y	.	Gas0204e <link>Agnus(Gaspar van Weerbeke, 2018)</link>
+Gas/kern/Gas0205-Credo.krn	Gas0205	Y	.	Gas0205 <link>Credo(Gaspar van Weerbeke, 2018)</link>
+Gas/kern/Gas0206-Credo_cardinale.krn	Gas0206	Y	.	Gas0206 <link>Credo cardinale(Gaspar van Weerbeke, 2018)</link>
+Gas/kern/Gas0301a-Ave_mundi_domina-Ave_mundi_domina.krn	Gas0301a	Y	.	Gas0301a <link>Ave mundi domina(Gaspar van Weerbeke, 2021)</link>
+Gas/kern/Gas0301b-Ave_mundi_domina-Ave_mater_gloriosa.krn	Gas0301b	Y	.	Gas0301b <link>Ave mater gloriosa(Gaspar van Weerbeke, 2021)</link>
+Gas/kern/Gas0301c-Ave_mundi_domina-Salve_virgo_virginum.krn	Gas0301c	Y	.	Gas0301c <link>Salve virgo virginum(Gaspar van Weerbeke, 2021)</link>
+Gas/kern/Gas0301d-Ave_mundi_domina-Anima_mea_liquefacta_est.krn	Gas0301d	Y	.	Gas0301d <link>Anima mea liquefacta est(Gaspar van Weerbeke, 2021)</link>
+Gas/kern/Gas0301e-Ave_mundi_dominia-Ave_regina_caelorum.krn	Gas0301e	Y	.	Gas0301e <link>Ave regina caelorum : O salutaris hostia(Gaspar van Weerbeke, 2021)</link>
+Gas/kern/Gas0301f-Ave_mundi_domina-Quem_terra_pontus.krn	Gas0301f	Y	.	Gas0301f <link>Quem terra, ponthus, aethera(Gaspar van Weerbeke, 2021)</link>
+Gas/kern/Gas0301g-Ave_mundi_domina-O_virginum_praeclara.krn	Gas0301g	Y	.	Gas0301g <link>O virginum praeclara(Gaspar van Weerbeke, 2021)</link>
+Gas/kern/Gas0301h-Ave_mundi_domina-Fit_porta_Christi_pervia.krn	Gas0301h	Y	.	Gas0301h <link>Fit porta Christi pervia(Gaspar van Weerbeke, 2021)</link>
+Gas/kern/Gas0302a-Quam_pulchra_es-Quam_pulchra_es.krn	Gas0302a	Y	.	Gas0302a <link>Quam pulchra es(Gaspar van Weerbeke, 2021)</link>
+Gas/kern/Gas0302b-Quam_pulchra_es-Alma_redemptoris_mater.krn	Gas0302b	Y	.	Gas0302b <link>Alma redemptoris mater(Gaspar van Weerbeke, 2021)</link>
+Gas/kern/Gas0302c-Quam_pulchra_es-Salve_virgo_salutata.krn	Gas0302c	Y	.	Gas0302c <link>Salve virgo salutata(Gaspar van Weerbeke, 2021)</link>
+Gas/kern/Gas0302d-Quam_pulchra_es-O_pulcherrima_mulierum.krn	Gas0302d	Y	.	Gas0302d <link>O pulcherrima mulierum(Gaspar van Weerbeke, 2021)</link>
+Gas/kern/Gas0302e-Quam_pulchra_es-Ave_regina_caelorum_mater.krn	Gas0302e	Y	.	Gas0302e <link>Ave regina caelorum mater(Gaspar, 2021)</link>
+Gas/kern/Gas0302f-Quam_pulchra_es-O_Maria_clausus_hortus.krn	Gas0302f	Y	.	Gas0302f <link>O Maria clausus hortus(Gaspar van Weerbeke, 2021)</link>
+Gas/kern/Gas0302g-Quam_pulchra_es-Mater_patris_filia.krn	Gas0302g	Y	.	Gas0302g <link>Mater patris filia(Gaspar van Weerbeke, 2021)</link>
+Gas/kern/Gas0302h-Quam_pulchra_es-Tota_pulchra_es.krn	Gas0302h	Y	.	Gas0302h <link>Tota pulchra es(Gaspar van Weerbeke, 2021)</link>
+Gas/kern/Gas0303a-In_honorem_sancti_spiritus-Spiritus_domini.krn	Gas0303a	Y	.	Gas0303a <link>Spiritus domini(Gaspar van Weerbeke, 1998)</link>
+Gas/kern/Gas0303b-In_honorem_sancti_spiritus-Veni_sancte_spiritus.krn	Gas0303b	Y	.	Gas0303b <link>Veni, sancte spiritus(Gaspar van Weerbeke, 1998)</link>
+Gas/kern/Gas0303c-In_honorem_sancti_spiritus-Beata_gens.krn	Gas0303c	Y	.	Gas0303c <link>Beata gens(Gaspar van Weerbeke, 1998)</link>
+Gas/kern/Gas0303d-In_honorem_sancti_spiritus-Confirma_hoc_deus.krn	Gas0303d	Y	.	Gas0303d <link>Confirma hoc, deus(Gaspar van Weerbeke, 1998)</link>
+Gas/kern/Gas0303e-In_honorem_sancti_spiritus-Loquebantur_variis_linguis.krn	Gas0303e	Y	.	Gas0303e <link>Loquebantur variis linguis(Gaspar van Weerbeke, 1998)</link>
+Gas/kern/Gas0303f-In_honorem_sancti_spiritus-Factus_est_repente.krn	Gas0303f	Y	.	Gas0303f <link>Factus est repente(Gaspar van Weerbeke, 1998)</link>
+Gas/kern/Gas0401-Ave_domina_sancta_Maria.krn	Gas0401	Y	.	Gas0401 <link>Ave domina sancta Maria(Gaspar van Weerbeke, 2010)</link>
+Gas/kern/Gas0402-Ave_mater_omnium.krn	Gas0402	Y	.	Gas0402 <link>Ave mater omnium(Gaspar van Weerbeke, 2010)</link>
+Gas/kern/Gas0403-Ave_regina_celorum.krn	Gas0403	Y	.	Gas0403 <link>Ave regina celorum(Gaspar van Weerbeke, 2010)</link>
+Gas/kern/Gas0404-Salve_sancta_parens.krn	Gas0404	Y	.	Gas0404 <link>Salve sancta parens(Gaspar van Weerbeke, 2010)</link>
+Gas/kern/Gas0405-Virgo_maria_non_est_tibi_similis.krn	Gas0405	Y	.	Gas0405 <link>Virgo Maria, non est tibi similis(Gaspar van Weerbeke, 2010)</link>
+Gas/kern/Gas0406-Christi_mater_ave.krn	Gas0406	Y	.	Gas0406 <link>Christi mater ave(Gaspar van Weerbeke, 2010)</link>
+Gas/kern/Gas0407-Mater_digna_Dei.krn	Gas0407	Y	.	Gas0407 <link>Mater digna Dei(Gaspar van Weerbeke, 2010)</link>
+Gas/kern/Gas0408-Ave_stella_matutina.krn	Gas0408	Y	.	Gas0408 <link>Ave stella matutina(Gaspar van Weerbeke, 2010)</link>
+Gas/kern/Gas0409-Ibo_mihi_ad_montem_Mirrhe.krn	Gas0409	Y	.	Gas0409 <link>Ibo mihi ad montem Mirrhe(Gaspar van Weerbeke, 2010)</link>
+Gas/kern/Gas0410-O_pulcherrima_mulierum.krn	Gas0410	Y	.	Gas0410 <link>O pulcherrima mulierum(Gaspar van Weerbeke, 2010)</link>
+Gas/kern/Gas0411-Vidi_speciosam_sicut_columbam.krn	Gas0411	Y	.	Gas0411 <link>Vidi speciosam sicut columbam(Gaspar van Weerbeke, 2010)</link>
+Gas/kern/Gas0412-Adonay_sanctissime_domine_deus.krn	Gas0412	Y	.	Gas0412 <link>Adonay sanctissime Domine Deus(Gaspar van Weerbeke, 2010)</link>
+Gas/kern/Gas0413-O_beate_Sebastiane.krn	Gas0413	Y	.	Gas0413 <link>O beate Sebastiane(Gaspar van Weerbeke, 2010)</link>
+Gas/kern/Gas0414-Anima_Christi_sanctifica_me.krn	Gas0414	Y	.	Gas0414 <link>Anima Christi sanctifica me(Gaspar van Weerbeke, 2010)</link>
+Gas/kern/Gas0415-Ave_verum_corpus.krn	Gas0415	Y	.	Gas0415 <link>Ave verum corpus(Gaspar van Weerbeke, 2010)</link>
+Gas/kern/Gas0416-Panis_angelicus.krn	Gas0416	Y	.	Gas0416 <link>Panis angelicus(Gaspar van Weerbeke, 2010)</link>
+Gas/kern/Gas0417-Tenebre_facte_sunt.krn	Gas0417	Y	.	Gas0417 <link>Tenebre facte sunt(Gaspar van Weerbeke, 2010)</link>
+Gas/kern/Gas0418-Verbum_caro_factum_est.krn	Gas0418	Y	.	Gas0418 <link>Verbum caro factum est(Gaspar van Weerbeke, 2010)</link>
+Gas/kern/Gas0419-Dulcis_amica_Dei.krn	Gas0419	Y	.	Gas0419 <link>Dulcis amica Dei(Gaspar van Weerbeke, 2010)</link>
+Gas/kern/Gas0420-Stabat_mater.krn	Gas0420	Y	.	Gas0420 <link>Stabat mater(Gaspar van Weerbeke, 2010)</link>
+Gas/kern/Gas0501a-In_coena_Domini_Lectio_prima.krn	Gas0501a	Y	.	Gas0501a <link>In coena Domini. Lectio prima(Gaspar van Weerbeke, 2020)</link>
+Gas/kern/Gas0501b-In_coena_Domini_Lectio_secunda.krn	Gas0501b	Y	.	Gas0501b <link>In coena Domini. Lectio secunda(Gaspar van Weerbeke, 2020)</link>
+Gas/kern/Gas0501c-In_coena_Domini_Lectio_tertia.krn	Gas0501c	Y	.	Gas0501c <link>In coena Domini. Lectio tertia(Gaspar van Weerbeke, 2020)</link>
+Gas/kern/Gas0501d-Sabato_sancto_Lectio_prima.krn	Gas0501d	Y	.	Gas0501d <link>Sabato sancto. Lectio prima(Gaspar van Weerbeke, 2020)</link>
+Gas/kern/Gas0501e-Sabato_sancto_Lectio_secunda.krn	Gas0501e	Y	.	Gas0501e <link>Sabato sancto. Lectio secunda(Gaspar van Weerbeke, 2020)</link>
+Gas/kern/Gas0501f-Sabato_sancto_Lectio_tertia.krn	Gas0501f	Y	.	Gas0501f <link>Sabato sancto. Lectio tertia(Gaspar van Weerbeke, 2020)</link>
+Gas/kern/Gas0502-Magnificat_octavi_toni.krn	Gas0502	Y	.	Gas0502 <link>Magnificat octavi toni(Gaspar van Weerbeke, 2020)</link>
+Gas/kern/Gas0503-Bon_temps_Adieu_mes_amours.krn	Gas0503	Y	.	Gas0503 <link>Bon temps / Adieu mes amours(Gaspar van Weerbeke, 2020)</link>
+Gas/kern/Gas0503.2-Bon_temps_Adieu_mes_amours.krn	Gas0503.2	Y	.	Gas0503.2 <link>Bon temps / Adieu mes amours(Gaspar van Weerbeke, 2020)</link>
+Gas/kern/Gas0504-Que_fait_le_cocu_au_bois.krn	Gas0504	Y	.	Gas0504 <link>Que fait le cocu au bois(Gaspar van Weerbeke, 2020)</link>
+Gas/kern/Gas0504.2-Que_fait_le_cocu_au_bois.krn	Gas0504.2	Y	.	Gas0504.2 <link>Que fait le cocu au bois(Gaspar van Weerbeke, 2020)</link>
+Gas/kern/Gas0505-Sans_regretz.krn	Gas0505	Y	.	Gas0505 <link>Sans regretz(Gaspar van Weerbeke, 2020)</link>
+Gas/kern/Gas0506-La_stangetta.krn	Gas0506	Y	.	Gas0506 <link>La stangetta</link>
+Gas/kern/Gas0507-O_Venus_bant.krn	Gas0507	Y	.	Gas0507 <link>O Venus bant</link>
+Gas/kern/Gas0508-Vray_dieu_quel_payne_messe.krn	Gas0508	Y	.	Gas0508 <link>Vray dieu quel payne m'esse</link>
+Gas/kern/Gas0509-Jay_pris_amours_De_tous_biens_plaine.krn	Gas0509	Y	.	Gas0509 <link>J'ay pris amours / De tous biens plaine</link>
 Isa/kern/Isa1038-Credo_I.krn	Isa1038	Y	.	Isa1038 <link>Credo I(Isaac)</link>
 Isa/kern/Isa1039-Credo_II.krn	Isa1039	Y	.	Isa1039 <link>Credo II(Isaac)</link>
 Isa/kern/Isa1040-Credo_III.krn	Isa1040	Y	.	Isa1040 <link>Credo III(Isaac)</link>
@@ -306,7 +405,7 @@ Jos/kern/Jos0303a-Missa_De_beata_virgine-Kyrie.krn	Jos0303a	Y	.	Jos0303a <link>K
 Jos/kern/Jos0303b-Missa_De_beata_virgine-Gloria.krn	Jos0303b	Y	.	Jos0303b <link>Gloria(Josquin des Prez)</link>
 Jos/kern/Jos0303c-Missa_De_beata_virgine-Credo.krn	Jos0303c	Y	.	Jos0303c <link>Credo(Josquin des Prez)</link>
 Jos/kern/Jos0303d-Missa_De_beata_virgine-Sanctus.krn	Jos0303d	Y	.	Jos0303d <link>Sanctus(Josquin des Prez)</link>
-Jos/kern/Jos0303e-Missa_De_beata_virgine-Agnus.krn	Jos0303e	Y	.	Jos0303e <link>Agnus Dei(Josquin des Prez)</link>
+Jos/kern/Jos0303e-Missa_De_beata_virgine-Agnus.krn	Jos0303e	Y	.	Jos0303e <link>Agnus dei(Josquin des Prez)</link>
 Jos/kern/Jos0304a-Missa_Cum_iocunditate-Kyrie.krn	Jos0304a	Y	.	Jos0304a <link>Kyrie</link>
 Jos/kern/Jos0304b-Missa_Cum_iocunditate-Gloria.krn	Jos0304b	Y	.	Jos0304b <link>Gloria</link>
 Jos/kern/Jos0304c-Missa_Cum_iocunditate-Credo.krn	Jos0304c	Y	.	Jos0304c <link>Credo</link>
@@ -319,12 +418,12 @@ Jos/kern/Jos0402a-Missa_Gaudeamus-Kyrie.krn	Jos0402a	Y	.	Jos0402a <link>Kyrie(Jo
 Jos/kern/Jos0402b-Missa_Gaudeamus-Gloria.krn	Jos0402b	Y	.	Jos0402b <link>Gloria(Josquin des Prez)</link>
 Jos/kern/Jos0402c-Missa_Gaudeamus-Credo.krn	Jos0402c	Y	.	Jos0402c <link>Credo(Josquin des Prez)</link>
 Jos/kern/Jos0402d-Missa_Gaudeamus-Sanctus.krn	Jos0402d	Y	.	Jos0402d <link>Sanctus(Josquin des Prez)</link>
-Jos/kern/Jos0402e-Missa_Gaudeamus-Agnus.krn	Jos0402e	Y	.	Jos0402e <link>Agnus Dei(Josquin des Prez)</link>
+Jos/kern/Jos0402e-Missa_Gaudeamus-Agnus.krn	Jos0402e	Y	.	Jos0402e <link>Agnus dei(Josquin des Prez)</link>
 Jos/kern/Jos0403a-Missa_Pange_lingua-Kyrie.krn	Jos0403a	Y	.	Jos0403a <link>Kyrie(Josquin des Prez)</link>
 Jos/kern/Jos0403b-Missa_Pange_lingua-Gloria.krn	Jos0403b	Y	.	Jos0403b <link>Gloria(Josquin des Prez)</link>
 Jos/kern/Jos0403c-Missa_Pange_lingua-Credo.krn	Jos0403c	Y	.	Jos0403c <link>Credo(Josquin des Prez)</link>
 Jos/kern/Jos0403d-Missa_Pange_lingua-Sanctus.krn	Jos0403d	Y	.	Jos0403d <link>Sanctus(Josquin des Prez)</link>
-Jos/kern/Jos0403e-Missa_Pange_lingua-Agnus.krn	Jos0403e	Y	.	Jos0403e <link>Agnus Dei(Josquin des Prez)</link>
+Jos/kern/Jos0403e-Missa_Pange_lingua-Agnus.krn	Jos0403e	Y	.	Jos0403e <link>Agnus dei(Josquin des Prez)</link>
 Jos/kern/Jos0404a-Missa_Pro_Defunctis-Introit.krn	Jos0404a	Y	.	Jos0404a <link>Introit</link>
 Jos/kern/Jos0404b-Missa_Pro_Defunctis-Kyrie.krn	Jos0404b	Y	.	Jos0404b <link>Kyrie</link>
 Jos/kern/Jos0404c-Missa_Pro_Defunctis-Gradual.krn	Jos0404c	Y	.	Jos0404c <link>Gradual</link>
@@ -342,11 +441,11 @@ Jos/kern/Jos0406b-Missa_Veni_sancte_spiritus-Gloria.krn	Jos0406b	Y	.	Jos0406b <l
 Jos/kern/Jos0406c-Missa_Veni_sancte_spiritus-Credo.krn	Jos0406c	Y	.	Jos0406c <link>Credo</link>
 Jos/kern/Jos0406d-Missa_Veni_sancte_spiritus-Sanctus.krn	Jos0406d	Y	.	Jos0406d <link>Sanctus</link>
 Jos/kern/Jos0406e-Missa_Veni_sancte_spiritus-Agnus.krn	Jos0406e	Y	.	Jos0406e <link>Agnus Dei</link>
-Jos/kern/Jos0501a-Missa_Lami_Baudichon-Kyrie.krn	Jos0501a	Y	.	Jos0501a <link>Kyrie</link>
-Jos/kern/Jos0501b-Missa_Lami_Baudichon-Gloria.krn	Jos0501b	Y	.	Jos0501b <link>Gloria</link>
-Jos/kern/Jos0501c-Missa_Lami_Baudichon-Credo.krn	Jos0501c	Y	.	Jos0501c <link>Credo</link>
-Jos/kern/Jos0501d-Missa_Lami_Baudichon-Sanctus.krn	Jos0501d	Y	.	Jos0501d <link>Sanctus</link>
-Jos/kern/Jos0501e-Missa_Lami_Baudichon-Agnus.krn	Jos0501e	Y	.	Jos0501e <link>Agnus Dei</link>
+Jos/kern/Jos0501a-Missa_Lami_Baudichon-Kyrie.krn	Jos0501a	Y	.	Jos0501a <link>Kyrie(Josquin des Prez)</link>
+Jos/kern/Jos0501b-Missa_Lami_Baudichon-Gloria.krn	Jos0501b	Y	.	Jos0501b <link>Gloria(Josquin des Prez)</link>
+Jos/kern/Jos0501c-Missa_Lami_Baudichon-Credo.krn	Jos0501c	Y	.	Jos0501c <link>Credo(Josquin des Prez)</link>
+Jos/kern/Jos0501d-Missa_Lami_Baudichon-Sanctus.krn	Jos0501d	Y	.	Jos0501d <link>Sanctus(Josquin des Prez)</link>
+Jos/kern/Jos0501e-Missa_Lami_Baudichon-Agnus.krn	Jos0501e	Y	.	Jos0501e <link>Agnus dei(Josquin des Prez)</link>
 Jos/kern/Jos0502a-Missa_Une_mousse_de_Biscaye-Kyrie.krn	Jos0502a	Y	.	Jos0502a <link>Kyrie</link>
 Jos/kern/Jos0502b-Missa_Une_mousse_de_Biscaye-Gloria.krn	Jos0502b	Y	.	Jos0502b <link>Gloria</link>
 Jos/kern/Jos0502c-Missa_Une_mousse_de_Biscaye-Credo.krn	Jos0502c	Y	.	Jos0502c <link>Credo</link>
@@ -361,7 +460,7 @@ Jos/kern/Jos0602a-Missa_Lhomme_arme_sexti_toni-Kyrie.krn	Jos0602a	Y	.	Jos0602a <
 Jos/kern/Jos0602b-Missa_Lhomme_arme_sexti_toni-Gloria.krn	Jos0602b	Y	.	Jos0602b <link>Gloria(Josquin des Prez)</link>
 Jos/kern/Jos0602c-Missa_Lhomme_arme_sexti_toni-Credo.krn	Jos0602c	Y	.	Jos0602c <link>Credo(Josquin des Prez)</link>
 Jos/kern/Jos0602d-Missa_Lhomme_arme_sexti_toni-Sanctus.krn	Jos0602d	Y	.	Jos0602d <link>Sanctus(Josquin des Prez)</link>
-Jos/kern/Jos0602e-Missa_Lhomme_arme_sexti_toni-Agnus.krn	Jos0602e	Y	.	Jos0602e <link>Agnus Dei(Josquin des Prez)</link>
+Jos/kern/Jos0602e-Missa_Lhomme_arme_sexti_toni-Agnus.krn	Jos0602e	Y	.	Jos0602e <link>Agnus dei(Josquin des Prez)</link>
 Jos/kern/Jos0603a-Missa_Lhomme_arme_super_voces_musicales-Kyrie.krn	Jos0603a	Y	.	Jos0603a <link>Kyrie(Josquin des Prez)</link>
 Jos/kern/Jos0603b-Missa_Lhomme_arme_super_voces_musicales-Gloria.krn	Jos0603b	Y	.	Jos0603b <link>Gloria(Josquin des Prez)</link>
 Jos/kern/Jos0603c-Missa_Lhomme_arme_super_voces_musicales-Credo.krn	Jos0603c	Y	.	Jos0603c <link>Credo(Josquin des Prez)</link>
@@ -371,27 +470,33 @@ Jos/kern/Jos0701a-Missa_Allez_regretz_I-Kyrie.krn	Jos0701a	Y	.	Jos0701a <link>Ky
 Jos/kern/Jos0701b-Missa_Allez_regretz_I-Gloria.krn	Jos0701b	Y	.	Jos0701b <link>Gloria</link>
 Jos/kern/Jos0701c-Missa_Allez_regretz_I-Credo.krn	Jos0701c	Y	.	Jos0701c <link>Credo</link>
 Jos/kern/Jos0701d-Missa_Allez_regretz_I-Sanctus.krn	Jos0701d	Y	.	Jos0701d <link>Sanctus</link>
-Jos/kern/Jos0701e-Missa_Allez_regretz_I-Agnus.krn	Jos0701e	Y	.	Jos0701e <link>Agnus Dei</link>
-Jos/kern/Jos0703a-Missa_Dung_aultre_amer-Kyrie.krn	Jos0703a	Y	.	Jos0703a <link>Kyrie</link>
-Jos/kern/Jos0703b-Missa_Dung_aultre_amer-Gloria.krn	Jos0703b	Y	.	Jos0703b <link>Gloria</link>
-Jos/kern/Jos0703c-Missa_Dung_aultre_amer-Credo.krn	Jos0703c	Y	.	Jos0703c <link>Credo</link>
-Jos/kern/Jos0703d-Missa_Dung_aultre_amer-Sanctus.krn	Jos0703d	Y	.	Jos0703d <link>Sanctus</link>
-Jos/kern/Jos0703e-Missa_Dung_aultre_amer-Agnus.krn	Jos0703e	Y	.	Jos0703e <link>Agnus Dei</link>
+Jos/kern/Jos0701e-Missa_Allez_regretz_I-Agnus.krn	Jos0701e	Y	.	Jos0701e <link>Agnus dei</link>
+Jos/kern/Jos0702a-Missa_Allez_regretz_II-Kyrie.krn	Jos0702a	Y	.	Jos0702a <link>Kyrie</link>
+Jos/kern/Jos0702b-Missa_Allez_regrets_II-Gloria.krn	Jos0702b	Y	.	Jos0702b <link>Gloria</link>
+Jos/kern/Jos0702c-Missa_Allez_regretz_II-Credo.krn	Jos0702c	Y	.	Jos0702c <link>Credo(Josquin?)</link>
+Jos/kern/Jos0702d-Missa_Allez_regretz_II-Sanctus.krn	Jos0702d	Y	.	Jos0702d <link>Sanctus(Josquin? Compere)</link>
+Jos/kern/Jos0702e-Missa_Allez_regretz_II-Agnus.krn	Jos0702e	Y	.	Jos0702e <link>Agnus Dei(Compere / Josquin?)</link>
+Jos/kern/Jos0703a-Missa_Dung_aultre_amer-Kyrie.krn	Jos0703a	Y	.	Jos0703a <link>Kyrie(Josquin des Prez)</link>
+Jos/kern/Jos0703b-Missa_Dung_aultre_amer-Gloria.krn	Jos0703b	Y	.	Jos0703b <link>Gloria(Josquin des Prez)</link>
+Jos/kern/Jos0703c-Missa_Dung_aultre_amer-Credo.krn	Jos0703c	Y	.	Jos0703c <link>Credo(Josquin des Prez)</link>
+Jos/kern/Jos0703c.b-Missa_Dung_aultre_amer-Credo--Jena_31.krn	Jos0703c.b	Y	.	Jos0703c.b <link>Credo(Josquin des Prez)</link>
+Jos/kern/Jos0703d-Missa_Dung_aultre_amer-Sanctus.krn	Jos0703d	Y	.	Jos0703d <link>Sanctus(Josquin des Prez)</link>
+Jos/kern/Jos0703e-Missa_Dung_aultre_amer-Agnus.krn	Jos0703e	Y	.	Jos0703e <link>Agnus dei(Josquin des Prez)</link>
 Jos/kern/Jos0801a-Missa_Faisant_regretz-Kyrie.krn	Jos0801a	Y	.	Jos0801a <link>Kyrie(Josquin des Prez)</link>
 Jos/kern/Jos0801b-Missa_Faisant_regretz-Gloria.krn	Jos0801b	Y	.	Jos0801b <link>Gloria(Josquin des Prez)</link>
 Jos/kern/Jos0801c-Missa_Faisant_regretz-Credo.krn	Jos0801c	Y	.	Jos0801c <link>Credo(Josquin des Prez)</link>
 Jos/kern/Jos0801d-Missa_Faisant_regretz-Sanctus.krn	Jos0801d	Y	.	Jos0801d <link>Sanctus(Josquin des Prez)</link>
-Jos/kern/Jos0801e-Missa_Faisant_regretz-Agnus.krn	Jos0801e	Y	.	Jos0801e <link>Agnus Dei(Josquin des Prez)</link>
+Jos/kern/Jos0801e-Missa_Faisant_regretz-Agnus.krn	Jos0801e	Y	.	Jos0801e <link>Agnus dei(Josquin des Prez)</link>
 Jos/kern/Jos0802a-Missa_Fortuna_desperata-Kyrie.krn	Jos0802a	Y	.	Jos0802a <link>Kyrie(Josquin des Prez)</link>
 Jos/kern/Jos0802b-Missa_Fortuna_desperata-Gloria.krn	Jos0802b	Y	.	Jos0802b <link>Gloria(Josquin des Prez)</link>
 Jos/kern/Jos0802c-Missa_Fortuna_desperata-Credo.krn	Jos0802c	Y	.	Jos0802c <link>Credo(Josquin des Prez)</link>
 Jos/kern/Jos0802d-Missa_Fortuna_desperata-Sanctus.krn	Jos0802d	Y	.	Jos0802d <link>Sanctus(Josquin des Prez)</link>
-Jos/kern/Jos0802e-Missa_Fortuna_desperata-Agnus.krn	Jos0802e	Y	.	Jos0802e <link>Agnus Dei(Josquin des Prez)</link>
+Jos/kern/Jos0802e-Missa_Fortuna_desperata-Agnus.krn	Jos0802e	Y	.	Jos0802e <link>Agnus dei(Josquin des Prez)</link>
 Jos/kern/Jos0901a-Missa_Malheur_me_bat-Kyrie.krn	Jos0901a	Y	.	Jos0901a <link>Kyrie(Josquin des Prez)</link>
 Jos/kern/Jos0901b-Missa_Malheur_me_bat-Gloria.krn	Jos0901b	Y	.	Jos0901b <link>Gloria(Josquin des Prez)</link>
 Jos/kern/Jos0901c-Missa_Malheur_me_bat-Credo.krn	Jos0901c	Y	.	Jos0901c <link>Credo(Josquin des Prez)</link>
 Jos/kern/Jos0901d-Missa_Malheur_me_bat-Sanctus.krn	Jos0901d	Y	.	Jos0901d <link>Sanctus(Josquin des Prez)</link>
-Jos/kern/Jos0901e-Missa_Malheur_me_bat-Agnus.krn	Jos0901e	Y	.	Jos0901e <link>Agnus Dei(Josquin des Prez)</link>
+Jos/kern/Jos0901e-Missa_Malheur_me_bat-Agnus.krn	Jos0901e	Y	.	Jos0901e <link>Agnus dei(Josquin des Prez)</link>
 Jos/kern/Jos0902a-Missa_Mon_seul_plaisir-Kyrie.krn	Jos0902a	Y	.	Jos0902a <link>Kyrie</link>
 Jos/kern/Jos0902b-Missa_Mon_seul_plaisir-Gloria.krn	Jos0902b	Y	.	Jos0902b <link>Gloria</link>
 Jos/kern/Jos0902c-Missa_Mon_seul_plaisir-Credo.krn	Jos0902c	Y	.	Jos0902c <link>Credo</link>
@@ -422,16 +527,16 @@ Jos/kern/Jos1003b-Missa_Quem_dicunt_homines-Gloria.krn	Jos1003b	Y	.	Jos1003b <li
 Jos/kern/Jos1003c-Missa_Quem_dicunt_homines-Credo.krn	Jos1003c	Y	.	Jos1003c <link>Credo</link>
 Jos/kern/Jos1003d-Missa_Quem_dicunt_homines-Sanctus.krn	Jos1003d	Y	.	Jos1003d <link>Sanctus</link>
 Jos/kern/Jos1003e-Missa_Quem_dicunt_homines-Agnus.krn	Jos1003e	Y	.	Jos1003e <link>Agnus Dei</link>
-Jos/kern/Jos1101a-Missa_Hercules_dux_Ferrarie-Kyrie.krn	Jos1101a	Y	.	Jos1101a <link>Kyrie</link>
-Jos/kern/Jos1101b-Missa_Hercules_dux_Ferrarie-Gloria.krn	Jos1101b	Y	.	Jos1101b <link>Gloria</link>
-Jos/kern/Jos1101c-Missa_Hercules_dux_Ferrarie-Credo.krn	Jos1101c	Y	.	Jos1101c <link>Credo</link>
-Jos/kern/Jos1101d-Missa_Hercules_dux_Ferrarie-Sanctus.krn	Jos1101d	Y	.	Jos1101d <link>Sanctus</link>
-Jos/kern/Jos1101e-Missa_Hercules_dux_Ferrarie-Agnus.krn	Jos1101e	Y	.	Jos1101e <link>Agnus Dei</link>
+Jos/kern/Jos1101a-Missa_Hercules_dux_Ferrarie-Kyrie.krn	Jos1101a	Y	.	Jos1101a <link>Kyrie(Josquin des Prez)</link>
+Jos/kern/Jos1101b-Missa_Hercules_dux_Ferrarie-Gloria.krn	Jos1101b	Y	.	Jos1101b <link>Gloria(Josquin des Prez)</link>
+Jos/kern/Jos1101c-Missa_Hercules_dux_Ferrarie-Credo.krn	Jos1101c	Y	.	Jos1101c <link>Credo(Josquin des Prez)</link>
+Jos/kern/Jos1101d-Missa_Hercules_dux_Ferrarie-Sanctus.krn	Jos1101d	Y	.	Jos1101d <link>Sanctus(Josquin des Prez)</link>
+Jos/kern/Jos1101e-Missa_Hercules_dux_Ferrarie-Agnus.krn	Jos1101e	Y	.	Jos1101e <link>Agnus dei(Josquin des Prez)</link>
 Jos/kern/Jos1102a-Missa_La_sol_fa_re_mi-Kyrie.krn	Jos1102a	Y	.	Jos1102a <link>Kyrie(Josquin des Prez)</link>
 Jos/kern/Jos1102b-Missa_La_sol_fa_re_mi-Gloria.krn	Jos1102b	Y	.	Jos1102b <link>Gloria(Josquin des Prez)</link>
 Jos/kern/Jos1102c-Missa_La_sol_fa_re_mi-Credo.krn	Jos1102c	Y	.	Jos1102c <link>Credo(Josquin des Prez)</link>
 Jos/kern/Jos1102d-Missa_La_sol_fa_re_mi-Sanctus.krn	Jos1102d	Y	.	Jos1102d <link>Sanctus(Josquin des Prez)</link>
-Jos/kern/Jos1102e-Missa_La_sol_fa_re_mi-Agnus.krn	Jos1102e	Y	.	Jos1102e <link>Agnus Dei(Josquin des Prez)</link>
+Jos/kern/Jos1102e-Missa_La_sol_fa_re_mi-Agnus.krn	Jos1102e	Y	.	Jos1102e <link>Agnus dei(Josquin des Prez)</link>
 Jos/kern/Jos1201a-Missa_Ad_fugam-Kyrie.krn	Jos1201a	Y	.	Jos1201a <link>Kyrie</link>
 Jos/kern/Jos1201b-Missa_Ad_fugam-Gloria.krn	Jos1201b	Y	.	Jos1201b <link>Gloria</link>
 Jos/kern/Jos1201c-Missa_Ad_fugam-Credo.krn	Jos1201c	Y	.	Jos1201c <link>Credo</link>
@@ -443,16 +548,17 @@ Jos/kern/Jos1202a-Missa_Sine_nomine-Kyrie.krn	Jos1202a	Y	.	Jos1202a <link>Kyrie(
 Jos/kern/Jos1202b-Missa_Sine_nomine-Gloria.krn	Jos1202b	Y	.	Jos1202b <link>Gloria(Josquin des Prez)</link>
 Jos/kern/Jos1202c-Missa_Sine_nomine-Credo.krn	Jos1202c	Y	.	Jos1202c <link>Credo(Josquin des Prez)</link>
 Jos/kern/Jos1202d-Missa_Sine_nomine-Sanctus.krn	Jos1202d	Y	.	Jos1202d <link>Sanctus(Josquin des Prez)</link>
-Jos/kern/Jos1202e-Missa_Sine_nomine-Agnus.krn	Jos1202e	Y	.	Jos1202e <link>Agnus Dei(Josquin des Prez)</link>
+Jos/kern/Jos1202e-Missa_Sine_nomine-Agnus.krn	Jos1202e	Y	.	Jos1202e <link>Agnus dei(Josquin des Prez)</link>
 Jos/kern/Jos1301-Credo_Chascun_me_crie.krn	Jos1301	Y	.	Jos1301 <link>Credo Chascun me crie(Brumel)</link>
-Jos/kern/Jos1302-Credo_De_tous_biens_playne.krn	Jos1302	Y	.	Jos1302 <link>Credo  De tous biens playne(Josquin des Prez)</link>
+Jos/kern/Jos1302-Credo_De_tous_biens_playne.krn	Jos1302	Y	.	Jos1302 <link>Credo De tous biens playne(Josquin des Prez)</link>
 Jos/kern/Jos1303-Credo_La_belle_se_siet.krn	Jos1303	Y	.	Jos1303 <link>Credo La belle se siet</link>
-Jos/kern/Jos1304-Credo_Quarti_toni.krn	Jos1304	Y	.	Jos1304 <link>Credo Quarti toni</link>
+Jos/kern/Jos1304-Credo_Quarti_toni.krn	Jos1304	Y	.	Jos1304 <link>Credo [Quarti toni](Josquin des Prez)</link>
 Jos/kern/Jos1305-Credo_Vilayge_I.krn	Jos1305	Y	.	Jos1305 <link>Credo Vilayge I</link>
-Jos/kern/Jos1306-Credo_Vilayge_II.krn	Jos1306	Y	.	Jos1306 <link>Credo Vilayge II</link>
-Jos/kern/Jos1307-Gloria_De_beata_virgine.krn	Jos1307	Y	.	Jos1307 <link>Gloria  De beata virgine</link>
-Jos/kern/Jos1309-Sanctus_De_passione.krn	Jos1309	Y	.	Jos1309 <link>Sanctus De passione(Josquin des Prez)</link>
-Jos/kern/Jos1310-Sanctus_Dung_aultre_amer__Tu_lumen.krn	Jos1310	Y	.	Jos1310 <link>Sanctus  D'ung aultre amer / Tu lumen</link>
+Jos/kern/Jos1306-Credo_Vilayge_II.krn	Jos1306	Y	.	Jos1306 <link>Credo Vilayge II(Josquin des Prez)</link>
+Jos/kern/Jos1307-Gloria_De_beata_virgine.krn	Jos1307	Y	.	Jos1307 <link>Gloria  De beata virgine(Josquin des Prez)</link>
+Jos/kern/Jos1308-Gloria_De_beata_virgine.krn	Jos1308	Y	.	Jos1308 <link>Gloria De beata virgine</link>
+Jos/kern/Jos1309-Sanctus_De_passione.krn	Jos1309	Y	.	Jos1309 <link>Sanctus De passione--Honor et benedictio(Josquin des Prez)</link>
+Jos/kern/Jos1310-Sanctus_Dung_aultre_amer__Tu_lumen.krn	Jos1310	Y	.	Jos1310 <link>Sanctus D'ung aultre amer--Tu lumen(Josquin des Prez)</link>
 Jos/kern/Jos1311-Agnus_Dei.krn	Jos1311	Y	.	Jos1311 <link>Agnus Dei</link>
 Jos/kern/Jos1312-Crucifixus.krn	Jos1312	Y	.	Jos1312 <link>Crucifixus</link>
 Jos/kern/Jos1313-Et_incarnatus_est.krn	Jos1313	Y	.	Jos1313 <link>Et incarnatus est</link>
@@ -461,8 +567,9 @@ Jos/kern/Jos1401-Absalon_fili_mi.krn	Jos1401	Y	.	Jos1401 <link></link>
 Jos/kern/Jos1402-Benedicite_omnia_opera.krn	Jos1402	Y	.	Jos1402 <link></link>
 Jos/kern/Jos1403-Descendi_in_ortum_meum.krn	Jos1403	Y	.	Jos1403 <link>Descendi in ortum meum</link>
 Jos/kern/Jos1404-Dilectus_Deo_et_hominibus.krn	Jos1404	Y	.	Jos1404 <link>Dilectus Deo et hominibus</link>
-Jos/kern/Jos1405-Ecce_Dominus_veniet.krn	Jos1405	Y	.	Jos1405 <link>Ecce Dominus veniet</link>
+Jos/kern/Jos1405-Ecce_Dominus_veniet.krn	Jos1405	Y	.	Jos1405 <link>Ecce dominus veniet</link>
 Jos/kern/Jos1406-Ecce_tu_pulchra_es.krn	Jos1406	Y	.	Jos1406 <link>(Josquin des Prez)</link>
+Jos/kern/Jos1407-Lugebat_David_Absalon.krn	Jos1407	Y	.	Jos1407 <link>Lugebat David Absalon</link>
 Jos/kern/Jos1408-Miserimini_mei.krn	Jos1408	Y	.	Jos1408 <link>Miserimini mei</link>
 Jos/kern/Jos1409-Planxit_autem_David.krn	Jos1409	Y	.	Jos1409 <link>(Ninot le Petit)</link>
 Jos/kern/Jos1410-Quam_pulchra_es.krn	Jos1410	Y	.	Jos1410 <link></link>
@@ -473,91 +580,113 @@ Jos/kern/Jos1414-Stetit_autem_Salomon.krn	Jos1414	Y	.	Jos1414 <link></link>
 Jos/kern/Jos1501-Alleluia_Laudate_Dominum.krn	Jos1501	Y	.	Jos1501 <link></link>
 Jos/kern/Jos1502-Beati_omnes_qui_timent_Dominum.krn	Jos1502	Y	.	Jos1502 <link></link>
 Jos/kern/Jos1503-Beati_omnes_qui_timent_Dominum.krn	Jos1503	Y	.	Jos1503 <link>(Champion)</link>
+Jos/kern/Jos1504-Beati_quorum_remisse_sunt.krn	Jos1504	Y	.	Jos1504 <link>Beati quorum remisse sunt(Josquin)</link>
 Jos/kern/Jos1505-Bonitatem_fecisti_cum_servo_tuo.krn	Jos1505	Y	.	Jos1505 <link>(Carpentras)</link>
 Jos/kern/Jos1506-Cantate_Domino_canticum_novum.krn	Jos1506	Y	.	Jos1506 <link></link>
+Jos/kern/Jos1507-Celi_enarrant_gloriam_dei.krn	Jos1507	Y	.	Jos1507 <link>Celi enarrant gloriam dei</link>
 Jos/kern/Jos1508-Clamavi_ad_dominum_cum_tribularer.krn	Jos1508	Y	.	Jos1508 <link>Clamavi ad dominum cum tribularer</link>
-Jos/kern/Jos1509-Confitemini_Domino.krn	Jos1509	Y	.	Jos1509 <link>Confitemini Domino(Mouton)</link>
+Jos/kern/Jos1509-Confitemini_Domino.krn	Jos1509	Y	.	Jos1509 <link>Confitemini domino / Per singulos dies benedicimus te(Mouton)</link>
 Jos/kern/Jos1510-Conserva_me_domine.krn	Jos1510	Y	.	Jos1510 <link>Conserva me domine</link>
 Jos/kern/Jos1511-De_profundis_clamavi.krn	Jos1511	Y	.	Jos1511 <link></link>
 Jos/kern/Jos1512-De_profundis_clamavi.krn	Jos1512	Y	.	Jos1512 <link></link>
 Jos/kern/Jos1513-De_profundis_clamavi.krn	Jos1513	Y	.	Jos1513 <link>(Josquin des Prez)</link>
 Jos/kern/Jos1514-De_profundis_clamavi.krn	Jos1514	Y	.	Jos1514 <link>(Senfl)</link>
 Jos/kern/Jos1601-Deus_in_adiutorium_meum.krn	Jos1601	Y	.	Jos1601 <link>Deus in adiutorium(Senfl)</link>
+Jos/kern/Jos1602-Deus_in_nomine_tuo.krn	Jos1602	Y	.	Jos1602 <link>Deus in nomine tuo(Carpentras)</link>
 Jos/kern/Jos1604-Domine_dominus_noster.krn	Jos1604	Y	.	Jos1604 <link>Domine dominus noster</link>
 Jos/kern/Jos1605-Domine_exaudi_orationem_meam.krn	Jos1605	Y	.	Jos1605 <link></link>
-Jos/kern/Jos1606-Domine_ne_in_furore.krn	Jos1606	Y	.	Jos1606 <link></link>
+Jos/kern/Jos1606-Domine_ne_in_furore.krn	Jos1606	Y	.	Jos1606 <link>(Josquin des Prez)</link>
 Jos/kern/Jos1607-Domine_ne_in_furore.krn	Jos1607	Y	.	Jos1607 <link></link>
-Jos/kern/Jos1608-Domine_ne_in_furore.krn	Jos1608	Y	.	Jos1608 <link>Domine ne in furore</link>
+Jos/kern/Jos1608-Domine_ne_in_furore.krn	Jos1608	Y	.	Jos1608 <link>Domine, ne in furore</link>
 Jos/kern/Jos1609-Domine_ne_projicias_me.krn	Jos1609	Y	.	Jos1609 <link></link>
 Jos/kern/Jos1610-Domine_non_secundum_peccata.krn	Jos1610	Y	.	Jos1610 <link>(Josquin des Prez)</link>
 Jos/kern/Jos1611-Domine_quis_habitabit.krn	Jos1611	Y	.	Jos1611 <link>Domine quis habitabit</link>
-Jos/kern/Jos1612-Domine_est_terra.krn	Jos1612	Y	.	Jos1612 <link>Domine est terra</link>
+Jos/kern/Jos1612-Domini_est_terra.krn	Jos1612	Y	.	Jos1612 <link>Domini est terra</link>
+Jos/kern/Jos1701-Dominus_regnavit.krn	Jos1701	Y	.	Jos1701 <link>Dominus regnavit</link>
 Jos/kern/Jos1702-Illumina_oculos.krn	Jos1702	Y	.	Jos1702 <link>Illumina oculos</link>
 Jos/kern/Jos1703-In_domino_confido.krn	Jos1703	Y	.	Jos1703 <link></link>
-Jos/kern/Jos1704-In_exitu_Israel_de_Egypto.krn	Jos1704	Y	.	Jos1704 <link></link>
+Jos/kern/Jos1704-In_exitu_Israel_de_Egypto.krn	Jos1704	Y	.	Jos1704 <link>(Josquin des Prez)</link>
 Jos/kern/Jos1705-In_pace_in_idipsum.krn	Jos1705	Y	.	Jos1705 <link></link>
-Jos/kern/Jos1706-Iniquos_odio_habuvi.krn	Jos1706	Y	.	Jos1706 <link>Iniquos odio habuvi</link>
+Jos/kern/Jos1706-Iniquos_odio_habui.krn	Jos1706	Y	.	Jos1706 <link>Iniquos odio habui [1 v. extant]</link>
 Jos/kern/Jos1707-Jubilate_Deo_omnis_terra.krn	Jos1707	Y	.	Jos1707 <link></link>
-Jos/kern/Jos1708-Judica_me_Deus.krn	Jos1708	Y	.	Jos1708 <link>Judica me Deus</link>
+Jos/kern/Jos1708-Judica_me_Deus.krn	Jos1708	Y	.	Jos1708 <link>Judica me deus</link>
 Jos/kern/Jos1709-Lauda_Jerusalem_dominum.krn	Jos1709	Y	.	Jos1709 <link>Lauda Jerusalem dominum</link>
-Jos/kern/Jos1711-Laudate_pueri_Dominum.krn	Jos1711	Y	.	Jos1711 <link>Laudate pueri Dominum</link>
+Jos/kern/Jos1710-Laudate_dominum_omnes_gentes.krn	Jos1710	Y	.	Jos1710 <link>Laudate dominum omnes gentes</link>
+Jos/kern/Jos1711-Laudate_pueri_Dominum.krn	Jos1711	Y	.	Jos1711 <link>Laudate pueri dominum</link>
 Jos/kern/Jos1712-Letare_nova_Syon.krn	Jos1712	Y	.	Jos1712 <link>Letare nova Syon</link>
 Jos/kern/Jos1713-Levavi_oculos_meos.krn	Jos1713	Y	.	Jos1713 <link>Levavi oculos meos</link>
 Jos/kern/Jos1714-Memor_esto_verbi_tui.krn	Jos1714	Y	.	Jos1714 <link>(Josquin des Prez)</link>
 Jos/kern/Jos1801-Mirabilia_testimonia_tua_Domine.krn	Jos1801	Y	.	Jos1801 <link></link>
-Jos/kern/Jos1802-Mirabilia_testimonia_tua.krn	Jos1802	Y	.	Jos1802 <link>Mirabilia testimonia tua</link>
-Jos/kern/Jos1803-Miserere_mei_deus.krn	Jos1803	Y	.	Jos1803 <link>Miserere mei deus(Josquin des Prez)</link>
+Jos/kern/Jos1802-Mirabilia_testimonia_tua.krn	Jos1802	Y	.	Jos1802 <link>Mirabilia testimonia tua [1 v. extant]</link>
+Jos/kern/Jos1803-Miserere_mei_deus.krn	Jos1803	Y	.	Jos1803 <link>Miserere mei, deus(Josquin des Prez)</link>
 Jos/kern/Jos1804-Misericordias_domini.krn	Jos1804	Y	.	Jos1804 <link>Misericordias domini</link>
-Jos/kern/Jos1807-Qui_habitat_in_adjutorio_altissimi.krn	Jos1807	Y	.	Jos1807 <link>Qui habitat in adjutorio altissimi</link>
+Jos/kern/Jos1805-Paratum_cor_meum.krn	Jos1805	Y	.	Jos1805 <link>Paratum cor meum</link>
+Jos/kern/Jos1806-Quam_dilecta_tabernacula.krn	Jos1806	Y	.	Jos1806 <link>Quam dilecta tabernacula</link>
+Jos/kern/Jos1807-Qui_habitat_in_adjutorio_altissimi.krn	Jos1807	Y	.	Jos1807 <link>(Josquin des Prez)</link>
 Jos/kern/Jos1808-Qui_habitat_in_adjutorio_altissimi.krn	Jos1808	Y	.	Jos1808 <link>Qui habitat in adjutorio altissimi</link>
+Jos/kern/Jos1809-Qui_regis_Israel.krn	Jos1809	Y	.	Jos1809 <link>Qui regis Israel</link>
+Jos/kern/Jos1810-Sit_nomen_domini--Bologna_Q34.krn	Jos1810	Y	.	Jos1810 <link>Sit nomen domini</link>
+Jos/kern/Jos1811-Tribulatio_et_angustia.krn	Jos1811	Y	.	Jos1811 <link>Tribulatio et angustia</link>
+Jos/kern/Jos1812-Usquequo_domine_oblivisceris_me.krn	Jos1812	Y	.	Jos1812 <link>Usquequo domine oblivisceris me</link>
 Jos/kern/Jos1901-Christus_mortuus_est.krn	Jos1901	Y	.	Jos1901 <link></link>
 Jos/kern/Jos1902-Ecce_video_celos_apertos.krn	Jos1902	Y	.	Jos1902 <link>Ecce video celos apertos</link>
-Jos/kern/Jos1903-Factum_est_autem.krn	Jos1903	Y	.	Jos1903 <link></link>
-Jos/kern/Jos1904-Homo_quidam_fecit_cenam.krn	Jos1904	Y	.	Jos1904 <link></link>
+Jos/kern/Jos1903-Factum_est_autem.krn	Jos1903	Y	.	Jos1903 <link>(Josquin des Prez)</link>
+Jos/kern/Jos1904-Homo_quidam_fecit_cenam.krn	Jos1904	Y	.	Jos1904 <link>(Josquin des Prez)</link>
 Jos/kern/Jos1905-In_illo_tempore_assumpsit_Jesus.krn	Jos1905	Y	.	Jos1905 <link></link>
 Jos/kern/Jos1906-In_illo_tempore_stetit_Jesus.krn	Jos1906	Y	.	Jos1906 <link></link>
-Jos/kern/Jos1908-In_principio_erat_verbum.krn	Jos1908	Y	.	Jos1908 <link></link>
+Jos/kern/Jos1907-In_nomine_Jesu.krn	Jos1907	Y	.	Jos1907 <link>In nomine Jesu(Josquin)</link>
+Jos/kern/Jos1908-In_principio_erat_verbum.krn	Jos1908	Y	.	Jos1908 <link>(Josquin des Prez)</link>
+Jos/kern/Jos1909-Inter_natos_mulierum.krn	Jos1909	Y	.	Jos1909 <link>Inter natos mulierum</link>
 Jos/kern/Jos1910-Inter_natos_mulierum.krn	Jos1910	Y	.	Jos1910 <link></link>
+Jos/kern/Jos1911-Ite_in_mundum.krn	Jos1911	Y	.	Jos1911 <link>Ite in mundum</link>
 Jos/kern/Jos1912-Lectio_actuum_apostolorum.krn	Jos1912	Y	.	Jos1912 <link>(Viardot)</link>
 Jos/kern/Jos1913-Liber_generationis.krn	Jos1913	Y	.	Jos1913 <link>(Josquin des Prez)</link>
-Jos/kern/Jos2001-Magnificat_Tertii_toni.krn	Jos2001	Y	.	Jos2001 <link></link>
+Jos/kern/Jos2001-Magnificat_Tertii_toni.krn	Jos2001	Y	.	Jos2001 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2002-Magnificat_Tertii_toni.krn	Jos2002	Y	.	Jos2002 <link></link>
 Jos/kern/Jos2003-Magnificat_Quarti_toni.krn	Jos2003	Y	.	Jos2003 <link></link>
 Jos/kern/Jos2004-Magnificat_Quarti_toni-Verse_6_Fecit_potentiam.krn	Jos2004	Y	.	Jos2004 <link></link>
+Jos/kern/Jos2005-Magnificat_septimi_toni.krn	Jos2005	Y	.	Jos2005 <link>Magnificat septimi toni</link>
 Jos/kern/Jos2006-Missus_est_Gabriel.krn	Jos2006	Y	.	Jos2006 <link>(Ninot le Petit)</link>
 Jos/kern/Jos2007-Missus_est_Gabriel_angelus.krn	Jos2007	Y	.	Jos2007 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2008-Nunc_dimittis.krn	Jos2008	Y	.	Jos2008 <link></link>
 Jos/kern/Jos2009-Pater_noster.krn	Jos2009	Y	.	Jos2009 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2011-Responsum_acceperat_Simeon.krn	Jos2011	Y	.	Jos2011 <link></link>
+Jos/kern/Jos2012-Scimus_quoniam_diligentibus__De_tous_biens_plaine__Per_omnia_secula.krn	Jos2012	Y	.	Jos2012 <link>Scimus quoniam diligentibus / De tous biens plaine / Per omnia secula(Josquin?)</link>
 Jos/kern/Jos2013-Sic_Deus_dilexit_mundum__Circumdederunt_me.krn	Jos2013	Y	.	Jos2013 <link></link>
 Jos/kern/Jos2014-Tulerunt_Dominum.krn	Jos2014	Y	.	Jos2014 <link>(Michele Presenti)</link>
+Jos/kern/Jos2015-Venit_Jesus__Tu_es_Petrus--Munich_17198_1_v._extant.krn	Jos2015	Y	.	Jos2015 <link>Venit Jesus / Tu es Petrus</link>
 Jos/kern/Jos2016-Verbum_caro_factum_est.krn	Jos2016	Y	.	Jos2016 <link>Verbum caro factum est</link>
+Jos/kern/Jos2101-Ave_caro_Christi_cara.krn	Jos2101	Y	.	Jos2101 <link>Ave caro Christi cara</link>
 Jos/kern/Jos2102-Ave_verum_corpus.krn	Jos2102	Y	.	Jos2102 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2103-Ave_verum_corpus.krn	Jos2103	Y	.	Jos2103 <link></link>
 Jos/kern/Jos2104-Ave_verum.krn	Jos2104	Y	.	Jos2104 <link>(Gregoire)</link>
 Jos/kern/Jos2105-Huc_me_sydereo--a_5.krn	Jos2105	Y	.	Jos2105 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2105.2-Huc_me_sydereo--a_6.krn	Jos2105.2	Y	.	Jos2105.2 <link>(Josquin des Prez)</link>
-Jos/kern/Jos2106-Magnus_es_tu,_domine.krn	Jos2106	Y	.	Jos2106 <link>Magnus es tu, domine</link>
-Jos/kern/Jos2107-O_admirabile_commercium.krn	Jos2107	Y	.	Jos2107 <link>O admirabile commercium</link>
+Jos/kern/Jos2106-Magnus_es_tu_domine.krn	Jos2106	Y	.	Jos2106 <link>Magnus es tu domine(Josquin?)</link>
+Jos/kern/Jos2107-O_admirabile_commercium.krn	Jos2107	Y	.	Jos2107 <link>O admirabile commercium [5 sections](Josquin des Prez)</link>
+Jos/kern/Jos2108-O_bone_et_dulcis_domine__Pater_noster__Ave_Maria...benedicta_tu.krn	Jos2108	Y	.	Jos2108 <link>O bone et dulcis domine / Pater noster / Ave Maria...benedicta tu</link>
 Jos/kern/Jos2109-O_bone_et_dulcissime_Jesu.krn	Jos2109	Y	.	Jos2109 <link></link>
-Jos/kern/Jos2201-O_Domine_Jesu_Christe.krn	Jos2201	Y	.	Jos2201 <link></link>
+Jos/kern/Jos2201-O_Domine_Jesu_Christe.krn	Jos2201	Y	.	Jos2201 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2202-Pange_lingua_gloriosi.krn	Jos2202	Y	.	Jos2202 <link></link>
-Jos/kern/Jos2203-Qui_velatus.krn	Jos2203	Y	.	Jos2203 <link></link>
+Jos/kern/Jos2203-Qui_velatus.krn	Jos2203	Y	.	Jos2203 <link>(Josquin des Prez)</link>
+Jos/kern/Jos2204-Salve_sancta_facies.krn	Jos2204	Y	.	Jos2204 <link>Salve sancta facies</link>
 Jos/kern/Jos2205-Tu_solus_qui_facis_mirabilia.krn	Jos2205	Y	.	Jos2205 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2206-Victimae_paschali_laudes__Dung_aultre_amer.krn	Jos2206	Y	.	Jos2206 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2207-Victime_paschali_laudes.krn	Jos2207	Y	.	Jos2207 <link>(Brunet)</link>
 Jos/kern/Jos2301-Alma_redemptoris_mater.krn	Jos2301	Y	.	Jos2301 <link></link>
 Jos/kern/Jos2302-Alma_redemptoris_mater__Ave_regina_celorum.krn	Jos2302	Y	.	Jos2302 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2303-Ave_festiva_ferculis.krn	Jos2303	Y	.	Jos2303 <link>Ave festiva ferculis</link>
-Jos/kern/Jos2304-Ave_Maria_..._benedicta_tu.krn	Jos2304	Y	.	Jos2304 <link>(Brumel)</link>
+Jos/kern/Jos2304-Ave_Maria_..._benedicta_tu.krn	Jos2304	Y	.	Jos2304 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2305-Ave_Maria.krn	Jos2305	Y	.	Jos2305 <link>(Mouton)</link>
 Jos/kern/Jos2306-Ave_Maria_..._virgo_serena.krn	Jos2306	Y	.	Jos2306 <link>(Josquin des Prez)</link>
+Jos/kern/Jos2307-Ave_Maria_..._virgo_serena.krn	Jos2307	Y	.	Jos2307 <link>Ave Maria...virgo serena</link>
 Jos/kern/Jos2308-Ave_maris_stella.krn	Jos2308	Y	.	Jos2308 <link></link>
-Jos/kern/Jos2309-Ave_maris_stella_verse_4__Monstra_te_esse_matrem.krn	Jos2309	Y	.	Jos2309 <link>hymn(Josquin des Prez)</link>
+Jos/kern/Jos2309-Ave_maris_stella_verse_4__Monstra_te_esse_matrem.krn	Jos2309	Y	.	Jos2309 <link>Hymn(Josquin des Prez)</link>
 Jos/kern/Jos2310-Ave_mundi_spes.krn	Jos2310	Y	.	Jos2310 <link></link>
 Jos/kern/Jos2311-Ave_nobilissima_creatura.krn	Jos2311	Y	.	Jos2311 <link></link>
 Jos/kern/Jos2312-Ave_virgo_sanctissima.krn	Jos2312	Y	.	Jos2312 <link></link>
 Jos/kern/Jos2313-Benedicta_es_celorum.krn	Jos2313	Y	.	Jos2313 <link>(Josquin des Prez)</link>
+Jos/kern/Jos2401-Celorum_decus.krn	Jos2401	Y	.	Jos2401 <link>Celorum decus Maria</link>
 Jos/kern/Jos2402-Gaude_virgo.krn	Jos2402	Y	.	Jos2402 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2403-Illibata_dei_virgo.krn	Jos2403	Y	.	Jos2403 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2404-Inviolata_integra_et_casta_es.krn	Jos2404	Y	.	Jos2404 <link>(Josquin des Prez)</link>
@@ -571,7 +700,7 @@ Jos/kern/Jos2411-Preter_rerum_seriem.krn	Jos2411	Y	.	Jos2411 <link>(Josquin des 
 Jos/kern/Jos2501-Recordare_virgo_mater.krn	Jos2501	Y	.	Jos2501 <link></link>
 Jos/kern/Jos2502-Regina_celi_letare.krn	Jos2502	Y	.	Jos2502 <link></link>
 Jos/kern/Jos2503-Regina_celi_letare.krn	Jos2503	Y	.	Jos2503 <link></link>
-Jos/kern/Jos2504-Salve_regina.krn	Jos2504	Y	.	Jos2504 <link></link>
+Jos/kern/Jos2504-Salve_regina.krn	Jos2504	Y	.	Jos2504 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2505-Salve_regina.krn	Jos2505	Y	.	Jos2505 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2506-Salve_regina.krn	Jos2506	Y	.	Jos2506 <link></link>
 Jos/kern/Jos2507-Sancta_Maria_virgo_virginum.krn	Jos2507	Y	.	Jos2507 <link>(Verdelot)</link>
@@ -579,60 +708,64 @@ Jos/kern/Jos2508-Sancta_mater_istud_agas.krn	Jos2508	Y	.	Jos2508 <link>(Pe&ntild
 Jos/kern/Jos2509-Stabat_mater__Comme_femme.krn	Jos2509	Y	.	Jos2509 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2510-Ut_Phebi_radiis__Ut_re_mi_fa_sol_la.krn	Jos2510	Y	.	Jos2510 <link>Ut Phebi radiis / Ut re mi fa sol la(Josquin des Prez)</link>
 Jos/kern/Jos2511-Verbum_bonum_et_suave.krn	Jos2511	Y	.	Jos2511 <link>Verbum bonum et suave</link>
-Jos/kern/Jos2512-Virgo_prudentissima.krn	Jos2512	Y	.	Jos2512 <link>(Isaac)</link>
+Jos/kern/Jos2512-Virgo_prudentissima.krn	Jos2512	Y	.	Jos2512 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2513-Virgo_salutiferi__Ave_Maria.krn	Jos2513	Y	.	Jos2513 <link>(Josquin des Prez)</link>
-Jos/kern/Jos2514-Vultum_tuum_deprecabuntur.krn	Jos2514	Y	.	Jos2514 <link></link>
-Jos/kern/Jos2601-Absolve_Quaesumus_Domine.krn	Jos2601	Y	.	Jos2601 <link></link>
+Jos/kern/Jos2514-Vultum_tuum_deprecabuntur.krn	Jos2514	Y	.	Jos2514 <link>(Josquin des Prez)</link>
+Jos/kern/Jos2601-Absolve_Quaesumus_Domine.krn	Jos2601	Y	.	Jos2601 <link>(Josquin des Prez??)</link>
+Jos/kern/Jos2602-Benedicta_sit_sancta_trinitas--Regensburg_76.krn	Jos2602	Y	.	Jos2602 <link>Benedicta sit sancta trinitas (Regensburg 76)</link>
+Jos/kern/Jos2603-Congratulamini_mihi_omnes.krn	Jos2603	Y	.	Jos2603 <link>Congratulamini mihi omnes</link>
 Jos/kern/Jos2604-Deus_pacis_reduxit.krn	Jos2604	Y	.	Jos2604 <link>Deus pacis reduxit</link>
 Jos/kern/Jos2605-Gloria_laus_et_honor.krn	Jos2605	Y	.	Jos2605 <link>Gloria laus et honor(Brumel)</link>
-Jos/kern/Jos2607-Honor_decus_imperium.krn	Jos2607	Y	.	Jos2607 <link>(Regis)</link>
-Jos/kern/Jos2608-O_admirabile_commercium__Verbum_caro_factum_est.krn	Jos2608	Y	.	Jos2608 <link>O admirabile commercium - Verbum caro factum est - Magnum nomen(Regis)</link>
+Jos/kern/Jos2606-In_illo_tempore_Maria_Magdalena.krn	Jos2606	Y	.	Jos2606 <link>In illo tempore Maria Magdalena(Mouton)</link>
+Jos/kern/Jos2607-Honor_decus_imperium.krn	Jos2607	Y	.	Jos2607 <link>(Josquin des Prez)</link>
+Jos/kern/Jos2608-O_admirabile_commercium__Verbum_caro_factum_est.krn	Jos2608	Y	.	Jos2608 <link>O admirabile commercium / Verbum caro factum est - Magnum nomen(Regis)</link>
+Jos/kern/Jos2609-O_dulcis_amica.krn	Jos2609	Y	.	Jos2609 <link>O dulcis amica</link>
 Jos/kern/Jos2610-Puer_natus_est_nobis.krn	Jos2610	Y	.	Jos2610 <link>Puer natus est nobis</link>
 Jos/kern/Jos2611-Queramus_cum_pastoribus.krn	Jos2611	Y	.	Jos2611 <link>(Mouton)</link>
 Jos/kern/Jos2612-Salva_nos_domine.krn	Jos2612	Y	.	Jos2612 <link>(Mouton)</link>
 Jos/kern/Jos2613-Sancta_trinitas.krn	Jos2613	Y	.	Jos2613 <link>(Mouton)</link>
 Jos/kern/Jos2614-Sancti_Dei_omnes.krn	Jos2614	Y	.	Jos2614 <link></link>
-Jos/kern/Jos2615-Te_Deum.krn	Jos2615	Y	.	Jos2615 <link>Te Deum</link>
+Jos/kern/Jos2615-Te_Deum.krn	Jos2615	Y	.	Jos2615 <link>Te deum laudamus</link>
 Jos/kern/Jos2616-Te_Deum_laudamus.krn	Jos2616	Y	.	Jos2616 <link>(Mouton)</link>
 Jos/kern/Jos2617-Tua_est_potentia.krn	Jos2617	Y	.	Jos2617 <link></link>
 Jos/kern/Jos2618-Veni_sancte_spiritus.krn	Jos2618	Y	.	Jos2618 <link></link>
-Jos/kern/Jos2701-A_la_mort__Monstra_te_esse_matrem.krn	Jos2701	Y	.	Jos2701 <link>A la mort / Monstra te esse matrem</link>
+Jos/kern/Jos2701-A_la_mort__Monstra_te_esse_matrem.krn	Jos2701	Y	.	Jos2701 <link>A la mort / Monstra te esse matrem(Josquin des Prez)</link>
 Jos/kern/Jos2702-A_lombre_dung_buissonnet.krn	Jos2702	Y	.	Jos2702 <link></link>
 Jos/kern/Jos2703-Cela_sans_plus.krn	Jos2703	Y	.	Jos2703 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2704-Cela_sans_plus.krn	Jos2704	Y	.	Jos2704 <link>Cela sans plus(Lannoy)</link>
-Jos/kern/Jos2705-Ce_povre_mendiant__Pauper_sum_ego.krn	Jos2705	Y	.	Jos2705 <link>Ce povre mendiant / Pauper sum ego</link>
-Jos/kern/Jos2706-De_tous_biens_plaine.krn	Jos2706	Y	.	Jos2706 <link>De tous biens plaine</link>
-Jos/kern/Jos2707-En_lombre_dung_buissonnet.krn	Jos2707	Y	.	Jos2707 <link>En l'ombre d'ung buissonnet</link>
+Jos/kern/Jos2705-Ce_povre_mendiant__Pauper_sum_ego.krn	Jos2705	Y	.	Jos2705 <link>Ce povre mendiant / Pauper sum ego(Josquin des Prez)</link>
+Jos/kern/Jos2706-De_tous_biens_plaine.krn	Jos2706	Y	.	Jos2706 <link>De tous biens plaine(Josquin des Prez)</link>
+Jos/kern/Jos2707-En_lombre_dung_buissonnet.krn	Jos2707	Y	.	Jos2707 <link>En l'ombre d'ung buissonnet(Josquin des Prez)</link>
 Jos/kern/Jos2708-Entree_suis_en_grant_pensee.krn	Jos2708	Y	.	Jos2708 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2709-Et_trop_penser.krn	Jos2709	Y	.	Jos2709 <link>Et trop penser(Bosfrin)</link>
 Jos/kern/Jos2710-Fors_seulement_I.krn	Jos2710	Y	.	Jos2710 <link>Fors seulement I(de F&eacute;vin)</link>
 Jos/kern/Jos2711-Fortuna_desperata.krn	Jos2711	Y	.	Jos2711 <link></link>
-Jos/kern/Jos2712-Fortuna_dun_gran_tempo.krn	Jos2712	Y	.	Jos2712 <link></link>
+Jos/kern/Jos2712-Fortuna_dun_gran_tempo.krn	Jos2712	Y	.	Jos2712 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2713-Helas_madame.krn	Jos2713	Y	.	Jos2713 <link></link>
 Jos/kern/Jos2714-Helas_que_pourra.krn	Jos2714	Y	.	Jos2714 <link>Helas que pourra(Isaac)</link>
 Jos/kern/Jos2715-Ile_fantazies_de_Joskin.krn	Jos2715	Y	.	Jos2715 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2716-Jay_bien_nourry.krn	Jos2716	Y	.	Jos2716 <link>J'ay bien nourry</link>
 Jos/kern/Jos2717-Je_me.krn	Jos2717	Y	.	Jos2717 <link></link>
 Jos/kern/Jos2718-Je_ne_demande.krn	Jos2718	Y	.	Jos2718 <link>Je ne demande</link>
-Jos/kern/Jos2719-Je_nose_plus.krn	Jos2719	Y	.	Jos2719 <link></link>
+Jos/kern/Jos2719-Je_nose_plus.krn	Jos2719	Y	.	Jos2719 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2720-La_belle_se_siet.krn	Jos2720	Y	.	Jos2720 <link></link>
-Jos/kern/Jos2721-La_Bernardina.krn	Jos2721	Y	.	Jos2721 <link></link>
-Jos/kern/Jos2722-La_plus_des_plus.krn	Jos2722	Y	.	Jos2722 <link></link>
+Jos/kern/Jos2721-La_Bernardina.krn	Jos2721	Y	.	Jos2721 <link>(Josquin des Prez)</link>
+Jos/kern/Jos2722-La_plus_des_plus.krn	Jos2722	Y	.	Jos2722 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2723-Lheure_est_venue__Circumdederunt_me.krn	Jos2723	Y	.	Jos2723 <link>L'heure est venue / Circumdederunt me(Agricola)</link>
 Jos/kern/Jos2724-Madame_helas.krn	Jos2724	Y	.	Jos2724 <link></link>
 Jos/kern/Jos2725-Marguerite.krn	Jos2725	Y	.	Jos2725 <link>Marguerite</link>
 Jos/kern/Jos2726-Mes_pensees.krn	Jos2726	Y	.	Jos2726 <link>Mes pensees</link>
 Jos/kern/Jos2727-Mon_mary_ma_diffamee.krn	Jos2727	Y	.	Jos2727 <link></link>
-Jos/kern/Jos2728-Navez_point_veu_mal_assenee.krn	Jos2728	Y	.	Jos2728 <link>N'avez point veu mal assen&eacute;e(Richafort)</link>
+Jos/kern/Jos2728-Navez_point_veu_mal_assenee.krn	Jos2728	Y	.	Jos2728 <link>N’avez point veu [=Mala se nea](Richafort)</link>
 Jos/kern/Jos2729-O_Venus_bant.krn	Jos2729	Y	.	Jos2729 <link>(Gaspar)</link>
 Jos/kern/Jos2730-Pensif_mari.krn	Jos2730	Y	.	Jos2730 <link>Pensif mari</link>
 Jos/kern/Jos2731-Petite_camusette.krn	Jos2731	Y	.	Jos2731 <link>Petite camusette</link>
 Jos/kern/Jos2732-Quant_je_vous_voye.krn	Jos2732	Y	.	Jos2732 <link></link>
 Jos/kern/Jos2733-Que_vous_madame__In_pace.krn	Jos2733	Y	.	Jos2733 <link>(Josquin des Prez)</link>
-Jos/kern/Jos2734-Si_jay_perdu_mon_amy.krn	Jos2734	Y	.	Jos2734 <link></link>
+Jos/kern/Jos2734-Si_jay_perdu_mon_amy.krn	Jos2734	Y	.	Jos2734 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2735-Si_jeusse_Marion.krn	Jos2735	Y	.	Jos2735 <link>Si jeusse Marion</link>
 Jos/kern/Jos2736-Vray_dieu_damour.krn	Jos2736	Y	.	Jos2736 <link>Vray dieu d'amour</link>
-Jos/kern/Jos2801-A_lheure.krn	Jos2801	Y	.	Jos2801 <link></link>
+Jos/kern/Jos2801-A_lheure.krn	Jos2801	Y	.	Jos2801 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2802-Ach_hulff_mich_leid.krn	Jos2802	Y	.	Jos2802 <link>(Bauldeweyn)</link>
 Jos/kern/Jos2803-Adieu_mes_amours.krn	Jos2803	Y	.	Jos2803 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2804-Baisiez_moy.krn	Jos2804	Y	.	Jos2804 <link>Baisiez moy(Josquin des Prez)</link>
@@ -640,7 +773,7 @@ Jos/kern/Jos2805-Belle_pour_lamour_de_vous.krn	Jos2805	Y	.	Jos2805 <link></link>
 Jos/kern/Jos2806-Bergerette_savoysienne.krn	Jos2806	Y	.	Jos2806 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2807-Comment_peult_avoir_joye.krn	Jos2807	Y	.	Jos2807 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2808-Cueurs_desolez.krn	Jos2808	Y	.	Jos2808 <link>(Appenzeller)</link>
-Jos/kern/Jos2809-De_tous_biens_plaine.krn	Jos2809	Y	.	Jos2809 <link></link>
+Jos/kern/Jos2809-De_tous_biens_plaine.krn	Jos2809	Y	.	Jos2809 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2810-Dictez_moy_bergere.krn	Jos2810	Y	.	Jos2810 <link></link>
 Jos/kern/Jos2811-Dulces_exuviae.krn	Jos2811	Y	.	Jos2811 <link></link>
 Jos/kern/Jos2812-El_grillo.krn	Jos2812	Y	.	Jos2812 <link>(Josquin d'Ascanio)</link>
@@ -651,60 +784,62 @@ Jos/kern/Jos2816-Fors_seulement_II.krn	Jos2816	Y	.	Jos2816 <link>Fors seulement 
 Jos/kern/Jos2817-Guillaume_se_va_chaufer.krn	Jos2817	Y	.	Jos2817 <link></link>
 Jos/kern/Jos2818-In_te_domine_speravi.krn	Jos2818	Y	.	Jos2818 <link>(Josquin d'Ascanio)</link>
 Jos/kern/Jos2819-Je_ris.krn	Jos2819	Y	.	Jos2819 <link></link>
-Jos/kern/Jos2820-Je_sey_bien_dire.krn	Jos2820	Y	.	Jos2820 <link></link>
+Jos/kern/Jos2820-Je_sey_bien_dire.krn	Jos2820	Y	.	Jos2820 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2821-Leal_schray_tante.krn	Jos2821	Y	.	Jos2821 <link></link>
-Jos/kern/Jos2822-Le_villain.krn	Jos2822	Y	.	Jos2822 <link></link>
+Jos/kern/Jos2822-Le_villain.krn	Jos2822	Y	.	Jos2822 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2823-Lhomme_arme.krn	Jos2823	Y	.	Jos2823 <link></link>
 Jos/kern/Jos2824-Lourdault_Lourdault.krn	Jos2824	Y	.	Jos2824 <link></link>
 Jos/kern/Jos2825-Mille_regretz.krn	Jos2825	Y	.	Jos2825 <link>(J. Lemaire)</link>
 Jos/kern/Jos2826-Mon_seul_plaisir.krn	Jos2826	Y	.	Jos2826 <link>Mon seul plaisir</link>
 Jos/kern/Jos2827-Plus_nestes_ma_maistresse.krn	Jos2827	Y	.	Jos2827 <link></link>
 Jos/kern/Jos2828-Plus_nulz_regrets.krn	Jos2828	Y	.	Jos2828 <link>(Josquin des Prez)</link>
-Jos/kern/Jos2829-Qui_belles_amours.krn	Jos2829	Y	.	Jos2829 <link></link>
+Jos/kern/Jos2829-Qui_belles_amours.krn	Jos2829	Y	.	Jos2829 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2830-Scaramella.krn	Jos2830	Y	.	Jos2830 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2831-Se_congie_prens.krn	Jos2831	Y	.	Jos2831 <link>Se congie prens</link>
 Jos/kern/Jos2832-Si_jay_perdu.krn	Jos2832	Y	.	Jos2832 <link></link>
 Jos/kern/Jos2833-Tant_vous_aimme.krn	Jos2833	Y	.	Jos2833 <link></link>
 Jos/kern/Jos2834-Tous_les_regretz.krn	Jos2834	Y	.	Jos2834 <link>Tous les regretz</link>
 Jos/kern/Jos2835-Une_musque_de_Biscaye.krn	Jos2835	Y	.	Jos2835 <link>(Josquin des Prez)</link>
-Jos/kern/Jos2836-Vive_le_roy.krn	Jos2836	Y	.	Jos2836 <link></link>
+Jos/kern/Jos2836-Vive_le_roy.krn	Jos2836	Y	.	Jos2836 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2837-Vivrai_je_tousjours.krn	Jos2837	Y	.	Jos2837 <link></link>
 Jos/kern/Jos2838-Textless_piece_3.krn	Jos2838	Y	.	Jos2838 <link>Textless Piece 3</link>
 Jos/kern/Jos2839-Textless_piece_4.krn	Jos2839	Y	.	Jos2839 <link>Textless Piece 4</link>
-Jos/kern/Jos2840-Fors_seulement_III.krn	Jos2840	Y	.	Jos2840 <link>(Ghiselin)</link>
+Jos/kern/Jos2840-Fors_seulement_III.krn	Jos2840	Y	.	Jos2840 <link></link>
 Jos/kern/Jos2901-Cent_mille_regretz.krn	Jos2901	Y	.	Jos2901 <link>Cent mille regretz</link>
-Jos/kern/Jos2902-Cueur_langoreulx.krn	Jos2902	Y	.	Jos2902 <link>Cueur langoreulx</link>
+Jos/kern/Jos2902-Cueur_langoreulx.krn	Jos2902	Y	.	Jos2902 <link>Cueur langoreulx(Josquin des Prez)</link>
 Jos/kern/Jos2903-Cueurs_desolez__Plorans_ploravit.krn	Jos2903	Y	.	Jos2903 <link>Cueurs desolez par toute nation / Plorans ploravit</link>
-Jos/kern/Jos2904-Douleur_me_bat.krn	Jos2904	Y	.	Jos2904 <link>Douleur me bat</link>
-Jos/kern/Jos2905-Du_mien_amant.krn	Jos2905	Y	.	Jos2905 <link></link>
+Jos/kern/Jos2904-Douleur_me_bat.krn	Jos2904	Y	.	Jos2904 <link>Douleur me bat(Josquin des Prez)</link>
+Jos/kern/Jos2905-Du_mien_amant.krn	Jos2905	Y	.	Jos2905 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2906-En_non_saichant.krn	Jos2906	Y	.	Jos2906 <link></link>
 Jos/kern/Jos2907-Faulte_dargent.krn	Jos2907	Y	.	Jos2907 <link>Faulte d'argent(Josquin des Prez)</link>
-Jos/kern/Jos2908-Incessament_livre.krn	Jos2908	Y	.	Jos2908 <link></link>
+Jos/kern/Jos2908-Incessament_livre.krn	Jos2908	Y	.	Jos2908 <link>(Josquin des Prez)</link>
 Jos/kern/Jos2909-Incessament_mon_povre.krn	Jos2909	Y	.	Jos2909 <link></link>
 Jos/kern/Jos2910-Je_me_complains.krn	Jos2910	Y	.	Jos2910 <link></link>
 Jos/kern/Jos2911-Je_ne_me_puis_tenir_daimer.krn	Jos2911	Y	.	Jos2911 <link></link>
-Jos/kern/Jos2912-La_Spagna.krn	Jos2912	Y	.	Jos2912 <link>La Spagna</link>
+Jos/kern/Jos2912-La_Spagna.krn	Jos2912	Y	.	Jos2912 <link>Propter peccata quae peccatis (=La Spagna)</link>
 Jos/kern/Jos2913-Lamye_a_tous.krn	Jos2913	Y	.	Jos2913 <link></link>
 Jos/kern/Jos2914.1-Ma_bouche_rit--a_5.krn	Jos2914.1	Y	.	Jos2914.1 <link>Ma bouche rit (&agrave; 5)</link>
 Jos/kern/Jos2914.2-Ma_bouche_rit--a_6.krn	Jos2914.2	Y	.	Jos2914.2 <link>Ma bouche rit (&agrave; 6)</link>
-Jos/kern/Jos2915-Mala_se_nea.krn	Jos2915	Y	.	Jos2915 <link>Mala se nea</link>
-Jos/kern/Jos2916-Mi_lares_vous_tousjours_languir.krn	Jos2916	Y	.	Jos2916 <link></link>
+Jos/kern/Jos2915-Mi_lares_vous_tousjours_languir.krn	Jos2915	Y	.	Jos2915 <link></link>
+Jos/kern/Jos2916-Mala_se_nea.krn	Jos2916	Y	.	Jos2916 <link>N'avez point neu [=Mala se nea]</link>
 Jos/kern/Jos2917-Nesse_pas_ung_grant_deplaisir.krn	Jos2917	Y	.	Jos2917 <link>N'esse pas ung grant deplaisir</link>
 Jos/kern/Jos2918-Nymphes_des_bois__Requiem.krn	Jos2918	Y	.	Jos2918 <link>(Josquin des Prez)</link>
-Jos/kern/Jos2919-Parfons_regretz.krn	Jos2919	Y	.	Jos2919 <link>Parfons regretz</link>
-Jos/kern/Jos2920-Pleine_de_dueil.krn	Jos2920	Y	.	Jos2920 <link></link>
-Jos/kern/Jos2921-Plusieurs_regretz.krn	Jos2921	Y	.	Jos2921 <link></link>
+Jos/kern/Jos2919-Parfons_regretz.krn	Jos2919	Y	.	Jos2919 <link>Parfons regretz(Josquin des Prez)</link>
+Jos/kern/Jos2920-Pleine_de_dueil.krn	Jos2920	Y	.	Jos2920 <link>(Josquin des Prez)</link>
+Jos/kern/Jos2921-Plusieurs_regretz.krn	Jos2921	Y	.	Jos2921 <link>(Josquin des Prez)</link>
+Jos/kern/Jos3001-Adieu_mes_amours--texted_Ave_Maria_3_vv._extant.krn	Jos3001	Y	.	Jos3001 <link>Adieu mes amours (texted Ave Maria; 3 vv. extant)</link>
 Jos/kern/Jos3002-Allegez_moy.krn	Jos3002	Y	.	Jos3002 <link></link>
 Jos/kern/Jos3003-Baisiez_moy.krn	Jos3003	Y	.	Jos3003 <link></link>
+Jos/kern/Jos3004-Fors_seulement--Bologna_142_fragment.krn	Jos3004	Y	.	Jos3004 <link>Fors seulement [Bologna 142 fragment]</link>
 Jos/kern/Jos3005-Jay_bien_cause_de_lamenter.krn	Jos3005	Y	.	Jos3005 <link></link>
 Jos/kern/Jos3006-Nimphes_nappes__Circumdederunt_me.krn	Jos3006	Y	.	Jos3006 <link>(Josquin des Prez)</link>
 Jos/kern/Jos3007-Petite_camusette.krn	Jos3007	Y	.	Jos3007 <link>(Josquin des Prez)</link>
 Jos/kern/Jos3008-Pour_souhaitter.krn	Jos3008	Y	.	Jos3008 <link></link>
 Jos/kern/Jos3009-Regretz_sans_fin.krn	Jos3009	Y	.	Jos3009 <link></link>
-Jos/kern/Jos3010-Si_vous_navez.krn	Jos3010	Y	.	Jos3010 <link></link>
-Jos/kern/Jos3011-Se_congie_prens.krn	Jos3011	Y	.	Jos3011 <link>(Josquin des Prez)</link>
+Jos/kern/Jos3010-Se_congie_prens.krn	Jos3010	Y	.	Jos3010 <link>(Josquin des Prez)</link>
+Jos/kern/Jos3011-Si_vous_navez.krn	Jos3011	Y	.	Jos3011 <link></link>
 Jos/kern/Jos3012-Tenez_moy_en_voz_bras.krn	Jos3012	Y	.	Jos3012 <link></link>
-Jos/kern/Jos3013-Vous_larez.krn	Jos3013	Y	.	Jos3013 <link></link>
+Jos/kern/Jos3013-Vous_larez.krn	Jos3013	Y	.	Jos3013 <link>(Josquin des Prez)</link>
 Jos/kern/Jos3014-Vous_ne_laurez_pas.krn	Jos3014	Y	.	Jos3014 <link></link>
 Jos/kern/Jos3017-Il_nest_plaisir.krn	Jos3017	Y	.	Jos3017 <link>Il n'est plaisir</link>
 Jos/kern/Jos9901a-Missa_Mi_mi-Kyrie.krn	Jos9901a	Y	.	Jos9901a <link>Kyrie</link>
@@ -712,15 +847,26 @@ Jos/kern/Jos9901b-Missa_Mi_mi-Gloria.krn	Jos9901b	Y	.	Jos9901b <link>Gloria</lin
 Jos/kern/Jos9901c-Missa_Mi_mi-Credo.krn	Jos9901c	Y	.	Jos9901c <link>Credo</link>
 Jos/kern/Jos9901d-Missa_Mi_mi-Sanctus.krn	Jos9901d	Y	.	Jos9901d <link>Sanctus</link>
 Jos/kern/Jos9901e-Missa_Mi_mi-Agnus.krn	Jos9901e	Y	.	Jos9901e <link>Agnus Dei</link>
+Jos/kern/Jos9902-Hec_est_vita_eterna.krn	Jos9902	Y	.	Jos9902 <link>Hec est vita eterna</link>
 Jos/kern/Jos9903-Regina_celi_letare.krn	Jos9903	Y	.	Jos9903 <link>Regina celi letare</link>
 Jos/kern/Jos9904-Proch_dolor.krn	Jos9904	Y	.	Jos9904 <link>Proch dolor</link>
+Jos/kern/Jos9905-Textless_piece_Dressler_1571.krn	Jos9905	Y	.	Jos9905 <link>Textless piece [Dressler 1571](Josquin?)</link>
 Jos/kern/Jos9906-Missa_Inviolata_Osanna.krn	Jos9906	Y	.	Jos9906 <link>Missa Inviolata Osanna</link>
 Jos/kern/Jos9907a-Omnes_gentes-Fragment_1.krn	Jos9907a	Y	.	Jos9907a <link>fragment 1</link>
 Jos/kern/Jos9907b-Omnes_gentes-Fragment_2.krn	Jos9907b	Y	.	Jos9907b <link>fragment 2</link>
 Jos/kern/Jos9908-Scriptum_est_enim.krn	Jos9908	Y	.	Jos9908 <link>Scriptum est enim</link>
 Jos/kern/Jos9909-In_deficiendo.krn	Jos9909	Y	.	Jos9909 <link>In deficiendo</link>
-Jos/kern/Jos9910-Seculuta_nostrum_et_illuminatio_vultus_tui.krn	Jos9910	Y	.	Jos9910 <link>Seculuta nostrum et illuminatio vultus tui</link>
-Jos/kern/Jos9911-Castigans_castigavit.krn	Jos9911	Y	.	Jos9911 <link>Castigans castigavit</link>
+Jos/kern/Jos9910-Seculuta_nostrum_et_illuminatio_vultus_tui.krn	Jos9910	Y	.	Jos9910 <link>Seculum nostrum</link>
+Jos/kern/Jos9911-Castigans_castigavit.krn	Jos9911	Y	.	Jos9911 <link>Castigans castigavit me dominus</link>
+Jos/kern/Jos9912-Celi_enarrant_gloriam_dei--Zacconi_1592_fragment.krn	Jos9912	Y	.	Jos9912 <link>Celi enarrant gloriam dei (Zacconi 1592, fragment)</link>
+Jos/kern/Jos9913-Descendi_in_ortum_meum--secunda_pars_of_Anima_mea_liquefacta_est.krn	Jos9913	Y	.	Jos9913 <link>Anima mea liquefacta est</link>
+Jos/kern/Jos9914-Exultent-et-letentur--Zacconi_1592_fragment.krn	Jos9914	Y	.	Jos9914 <link>Exultent et letentur</link>
+Jos/kern/Jos9915-Pleni--Facultad_organica_1626.krn	Jos9915	Y	.	Jos9915 <link>Pleni [from the Missa Ave Maria]</link>
+Jos/kern/Jos9916-Au_bois_au_bois_ma_dame.krn	Jos9916	Y	.	Jos9916 <link>Au bois au bois ma dame(Moulu)</link>
+Jos/kern/Jos9919-Si_bibero.krn	Jos9919	Y	.	Jos9919 <link>Si bibero</link>
+Jos/kern/Jos9920-Salve_mater_salvatoris.krn	Jos9920	Y	.	Jos9920 <link>Salve mater salvatoris(Mouton)</link>
+Jos/kern/Jos9922-Pleni_Comment_peult.krn	Jos9922	Y	.	Jos9922 <link>Pleni Comment peult</link>
+Jos/kern/Jos9923-Verbum_bonum.krn	Jos9923	Y	.	Jos9923 <link>Verbum bonum(Willaert)</link>
 Mar/kern/Mar1001a-Missa_Cela_sans_plus-Kyrie.krn	Mar1001a	Y	.	Mar1001a <link>Kyrie(Martini)</link>
 Mar/kern/Mar1001b-Missa_Cela_sans_plus-Gloria.krn	Mar1001b	Y	.	Mar1001b <link>Gloria(Martini)</link>
 Mar/kern/Mar1001c-Missa_Cela_sans_plus-Credo.krn	Mar1001c	Y	.	Mar1001c <link>Credo(Martini)</link>
@@ -850,7 +996,7 @@ Mou/kern/Mou1020c-Missa_Da_pacem-Credo.krn	Mou1020c	Y	.	Mou1020c <link>Credo</li
 Mou/kern/Mou1020d-Missa_Da_pacem-Sanctus.krn	Mou1020d	Y	.	Mou1020d <link>Sanctus</link>
 Mou/kern/Mou1020e-Missa_Da_pacem-Agnus.krn	Mou1020e	Y	.	Mou1020e <link>Agnus Dei</link>
 Mou/kern/Mou2018-Ave_Maria.krn	Mou2018	Y	.	Mou2018 <link>(Mouton)</link>
-Mou/kern/Mou2032-Confitemini_Domino.krn	Mou2032	Y	.	Mou2032 <link>Confitemini Domino(Mouton)</link>
+Mou/kern/Mou2032-Confitemini_Domino.krn	Mou2032	Y	.	Mou2032 <link>Confitemini domino / Per singulos dies benedicimus te(Mouton)</link>
 Mou/kern/Mou2064-Miserimini_mei.krn	Mou2064	Y	.	Mou2064 <link>Miserimini mei</link>
 Mou/kern/Mou2087-Queramus_cum_pastoribus.krn	Mou2087	Y	.	Mou2087 <link>(Mouton)</link>
 Mou/kern/Mou2093-Salva_nos_domine.krn	Mou2093	Y	.	Mou2093 <link>(Mouton)</link>
@@ -874,117 +1020,117 @@ Obr/kern/Obr2010-Factor_orbis__Veni_domine.krn	Obr2010	Y	.	Obr2010 <link>Factor 
 Obr/kern/Obr2012-Inter_preclarissimas_virtutes.krn	Obr2012	Y	.	Obr2012 <link>Inter preclarissimas virtutes(Obrecht)</link>
 Obr/kern/Obr2018-Mille_quingentis__Requiem.krn	Obr2018	Y	.	Obr2018 <link>Mille quingentis / Requiem(Obrecht)</link>
 Obr/kern/Obr2028-Salve_crux.krn	Obr2028	Y	.	Obr2028 <link>Salve crux(Obrecht)</link>
-Ock/kern/Ock1001a-Kyrie_Gloria_Credo_Sine_nomine-Kyrie.krn	Ock1001a	Y	.	Ock1001a <link>Kyrie(Johannes Ockeghem)</link>
-Ock/kern/Ock1001b-Kyrie_Gloria_Credo_Sine_nomine-Gloria.krn	Ock1001b	Y	.	Ock1001b <link>Gloria(Johannes Ockeghem)</link>
-Ock/kern/Ock1001c-Kyrie_Gloria_Credo_Sine_nomine-Credo.krn	Ock1001c	Y	.	Ock1001c <link>Credo(Johannes Ockeghem)</link>
-Ock/kern/Ock1002a-Missa_Au_travail_suis-Kyrie.krn	Ock1002a	Y	.	Ock1002a <link>Kyrie(Johannes Ockeghem)</link>
-Ock/kern/Ock1002b-Missa_Au_travail_suis-Gloria.krn	Ock1002b	Y	.	Ock1002b <link>Gloria(Johannes Ockeghem)</link>
-Ock/kern/Ock1002c-Missa_Au_travail_suis-Credo.krn	Ock1002c	Y	.	Ock1002c <link>Credo(Johannes Ockeghem)</link>
-Ock/kern/Ock1002d-Missa_Au_travail_suis-Sanctus.krn	Ock1002d	Y	.	Ock1002d <link>Sanctus(Johannes Ockeghem)</link>
-Ock/kern/Ock1003a-Missa_Caput-Kyrie.krn	Ock1003a	Y	.	Ock1003a <link>Kyrie(Ockeghem)</link>
-Ock/kern/Ock1003b-Missa_Caput-Gloria.krn	Ock1003b	Y	.	Ock1003b <link>Gloria(Ockeghem)</link>
-Ock/kern/Ock1003c-Missa_Caput-Credo.krn	Ock1003c	Y	.	Ock1003c <link>Credo(Ockeghem)</link>
-Ock/kern/Ock1003d-Missa_Caput-Sanctus.krn	Ock1003d	Y	.	Ock1003d <link>Sanctus(Ockeghem)</link>
-Ock/kern/Ock1003e-Missa_Caput-Agnus.krn	Ock1003e	Y	.	Ock1003e <link>Agnus Dei(Ockeghem)</link>
-Ock/kern/Ock1004.1a-Missa_Cuiusvis_toni-Kyrie-on_D.krn	Ock1004.1a	Y	.	Ock1004.1a <link>Kyrie(Johannes Ockeghem)</link>
-Ock/kern/Ock1004.1b-Missa_Cuiusvis_toni-Gloria-on_D.krn	Ock1004.1b	Y	.	Ock1004.1b <link>Gloria(Johannes Ockeghem)</link>
-Ock/kern/Ock1004.1c-Missa_Cuiusvis_toni-Credo-on_D.krn	Ock1004.1c	Y	.	Ock1004.1c <link>Credo(Johannes Ockeghem)</link>
-Ock/kern/Ock1004.1d-Missa_Cuiusvis_toni-Sanctus-on_D.krn	Ock1004.1d	Y	.	Ock1004.1d <link>Sanctus(Johannes Ockeghem)</link>
-Ock/kern/Ock1004.1e-Missa_Cuiusvis_toni-Agnus-on_D.krn	Ock1004.1e	Y	.	Ock1004.1e <link>Agnus Dei(Johannes Ockeghem)</link>
-Ock/kern/Ock1004.2a-Missa_Cuiusvis_toni-Kyrie-on_E.krn	Ock1004.2a	Y	.	Ock1004.2a <link>Kyrie(Johannes Ockeghem)</link>
-Ock/kern/Ock1004.2b-Missa_Cuiusvis_toni-Gloria-on_E.krn	Ock1004.2b	Y	.	Ock1004.2b <link>Gloria(Johannes Ockeghem)</link>
-Ock/kern/Ock1004.2c-Missa_Cuiusvis_toni-Credo-on_E.krn	Ock1004.2c	Y	.	Ock1004.2c <link>Credo(Johannes Ockeghem)</link>
-Ock/kern/Ock1004.2d-Missa_Cuiusvis_toni-Sanctus-on_E.krn	Ock1004.2d	Y	.	Ock1004.2d <link>Sanctus(Johannes Ockeghem)</link>
-Ock/kern/Ock1004.2e-Missa_Cuiusvis_toni-Agnus-on_E.krn	Ock1004.2e	Y	.	Ock1004.2e <link>Agnus Dei(Johannes Ockeghem)</link>
-Ock/kern/Ock1004.3a-Missa_Cuiusvis_toni-Kyrie-on_F.krn	Ock1004.3a	Y	.	Ock1004.3a <link>Kyrie(Johannes Ockeghem)</link>
-Ock/kern/Ock1004.3b-Missa_Cuiusvis_toni-Gloria-on_F.krn	Ock1004.3b	Y	.	Ock1004.3b <link>Gloria(Johannes Ockeghem)</link>
-Ock/kern/Ock1004.3c-Missa_Cuiusvis_toni-Credo-on_F.krn	Ock1004.3c	Y	.	Ock1004.3c <link>Credo(Johannes Ockeghem)</link>
-Ock/kern/Ock1004.3d-Missa_Cuiusvis_toni-Sanctus-on_F.krn	Ock1004.3d	Y	.	Ock1004.3d <link>Sanctus(Johannes Ockeghem)</link>
-Ock/kern/Ock1004.3e-Missa_Cuiusvis_toni-Agnus-on_F.krn	Ock1004.3e	Y	.	Ock1004.3e <link>Agnus Dei(Johannes Ockeghem)</link>
-Ock/kern/Ock1005a-Missa_De_plus_en_plus-Kyrie.krn	Ock1005a	Y	.	Ock1005a <link>Kyrie(Ockeghem)</link>
-Ock/kern/Ock1005b-Missa_De_plus_en_plus-Gloria.krn	Ock1005b	Y	.	Ock1005b <link>Gloria(Ockeghem)</link>
-Ock/kern/Ock1005c-Missa_De_plus_en_plus-Credo.krn	Ock1005c	Y	.	Ock1005c <link>Credo(Ockeghem)</link>
-Ock/kern/Ock1005d-Missa_De_plus_en_plus-Sanctus.krn	Ock1005d	Y	.	Ock1005d <link>Sanctus(Ockeghem)</link>
-Ock/kern/Ock1005e-Missa_De_plus_en_plus-Agnus.krn	Ock1005e	Y	.	Ock1005e <link>Agnus Dei(Ockeghem)</link>
-Ock/kern/Ock1006a-Missa_Ecce_ancilla_domini-Kyrie.krn	Ock1006a	Y	.	Ock1006a <link>Kyrie(Ockeghem)</link>
-Ock/kern/Ock1006b-Missa_Ecce_ancilla_domini-Gloria.krn	Ock1006b	Y	.	Ock1006b <link>Gloria(Ockeghem)</link>
-Ock/kern/Ock1006c-Missa_Ecce_ancilla_domini-Credo.krn	Ock1006c	Y	.	Ock1006c <link>Missa Ecce ancilla domini(Ockeghem)</link>
-Ock/kern/Ock1006d-Missa_Ecce_ancilla_domini-Sanctus.krn	Ock1006d	Y	.	Ock1006d <link>Sanctus(Ockeghem)</link>
-Ock/kern/Ock1006e-Missa_Ecce_ancilla_domini-Agnus.krn	Ock1006e	Y	.	Ock1006e <link>Agnus Dei(Ockeghem)</link>
-Ock/kern/Ock1007a-Missa_Fors_seulement-Kyrie.krn	Ock1007a	Y	.	Ock1007a <link>Kyrie(Johannes Ockeghem)</link>
-Ock/kern/Ock1007b-Missa_Fors_seulement-Gloria.krn	Ock1007b	Y	.	Ock1007b <link>Gloria(Johannes Ockeghem)</link>
-Ock/kern/Ock1007c-Missa_Fors_seulement-Credo.krn	Ock1007c	Y	.	Ock1007c <link>Credo(Johannes Ockeghem)</link>
-Ock/kern/Ock1008a-Missa_Lhomme_arme-Kyrie.krn	Ock1008a	Y	.	Ock1008a <link>Kyrie(Ockeghem)</link>
-Ock/kern/Ock1008b-Missa_Lhomme_arme-Gloria.krn	Ock1008b	Y	.	Ock1008b <link>Gloria(Johannes Ockeghem)</link>
-Ock/kern/Ock1008c-Missa_Lhomme_arme-Credo.krn	Ock1008c	Y	.	Ock1008c <link>Credo(Johannes Ockeghem)</link>
-Ock/kern/Ock1008d-Missa_Lhomme_arme-Sanctus.krn	Ock1008d	Y	.	Ock1008d <link>Sanctus(Johannes Ockeghem)</link>
-Ock/kern/Ock1008e-Missa_Lhomme_arme-Agnus.krn	Ock1008e	Y	.	Ock1008e <link>Agnus Dei(Johannes Ockeghem)</link>
-Ock/kern/Ock1009a-Missa_Ma_maistresse-Kyrie.krn	Ock1009a	Y	.	Ock1009a <link>Kyrie(Johannes Ockeghem)</link>
-Ock/kern/Ock1009b-Missa_Ma_maistresse-Gloria.krn	Ock1009b	Y	.	Ock1009b <link>Gloria(Johannes Ockeghem)</link>
-Ock/kern/Ock1010a-Missa_Mi_mi-Kyrie.krn	Ock1010a	Y	.	Ock1010a <link>Kyrie(Ockeghem)</link>
-Ock/kern/Ock1010b-Missa_Mi_mi-Gloria.krn	Ock1010b	Y	.	Ock1010b <link>Gloria(Ockeghem)</link>
-Ock/kern/Ock1010c-Missa_Mi_mi-Credo.krn	Ock1010c	Y	.	Ock1010c <link>Credo(Ockeghem)</link>
-Ock/kern/Ock1010d-Missa_Mi_mi-Sanctus.krn	Ock1010d	Y	.	Ock1010d <link>Sanctus(Ockeghem)</link>
-Ock/kern/Ock1010e-Missa_Mi_mi-Agnus.krn	Ock1010e	Y	.	Ock1010e <link>Agnus Dei(Ockeghem)</link>
-Ock/kern/Ock1011a-Missa_Prolationum-Kyrie.krn	Ock1011a	Y	.	Ock1011a <link>Kyrie(Ockeghem)</link>
-Ock/kern/Ock1011b-Missa_Prolationum-Gloria.krn	Ock1011b	Y	.	Ock1011b <link>Gloria(Ockeghem)</link>
-Ock/kern/Ock1011c-Missa_Prolationum-Credo.krn	Ock1011c	Y	.	Ock1011c <link>Credo(Ockeghem)</link>
-Ock/kern/Ock1011d-Missa_Prolationum-Sanctus.krn	Ock1011d	Y	.	Ock1011d <link>Sanctus(Ockeghem)</link>
-Ock/kern/Ock1011e-Missa_Prolationum-Agnus.krn	Ock1011e	Y	.	Ock1011e <link>Agnus Dei(Ockeghem)</link>
-Ock/kern/Ock1012a-Missa_Quinti_toni-Kyrie.krn	Ock1012a	Y	.	Ock1012a <link>Kyrie(Johannes Ockeghem)</link>
-Ock/kern/Ock1012b-Missa_Quinti_toni-Gloria.krn	Ock1012b	Y	.	Ock1012b <link>Gloria(Johannes Ockeghem)</link>
-Ock/kern/Ock1012c-Missa_Quinti_toni-Credo.krn	Ock1012c	Y	.	Ock1012c <link>Credo(Johannes Ockeghem)</link>
-Ock/kern/Ock1012d-Missa_Quinti_toni-Sanctus.krn	Ock1012d	Y	.	Ock1012d <link>Sanctus(Johannes Ockeghem)</link>
-Ock/kern/Ock1012e-Missa_Quinti_toni-Agnus.krn	Ock1012e	Y	.	Ock1012e <link>Agnus Dei(Johannes Ockeghem)</link>
-Ock/kern/Ock1013a-Requiem-Introit.krn	Ock1013a	Y	.	Ock1013a <link>Introit(Ockeghem)</link>
-Ock/kern/Ock1013b-Requiem-Kyrie.krn	Ock1013b	Y	.	Ock1013b <link>Kyrie(Ockeghem)</link>
-Ock/kern/Ock1013c-Requiem-Gradual_Si_ambulem.krn	Ock1013c	Y	.	Ock1013c <link>Gradual Si ambulem(Ockeghem)</link>
-Ock/kern/Ock1013d-Requiem-Tract_Sicut_cervus.krn	Ock1013d	Y	.	Ock1013d <link>Tract Sicut cervus(Ockeghem)</link>
-Ock/kern/Ock1013e-Requiem-Offertory_Domine_Jesu_Christe.krn	Ock1013e	Y	.	Ock1013e <link>Offertory Domine Jesu Christe(Ockeghem)</link>
-Ock/kern/Ock1014-Credo_Village.krn	Ock1014	Y	.	Ock1014 <link>Credo [Village](Johannes Ockeghem)</link>
-Ock/kern/Ock2001-Alma_redemptoris_mater.krn	Ock2001	Y	.	Ock2001 <link>Alma redemptoris mater(Johannes Ockeghem)</link>
-Ock/kern/Ock2002-Ave_Maria.krn	Ock2002	Y	.	Ock2002 <link>Ave Maria(Johannes Ockeghem)</link>
-Ock/kern/Ock2003-Intemerata_Dei_mater.krn	Ock2003	Y	.	Ock2003 <link>Intemerata Dei mater(Johannes Ockeghem)</link>
-Ock/kern/Ock2004-Salve_regina_I.krn	Ock2004	Y	.	Ock2004 <link>Salve regina I(Johannes Ockeghem)</link>
-Ock/kern/Ock3001-Aultre_Venus.krn	Ock3001	Y	.	Ock3001 <link>Aultre Venus(Ockeghem)</link>
-Ock/kern/Ock3002-Baisies_moy.krn	Ock3002	Y	.	Ock3002 <link>Baisies moy(Ockeghem)</link>
-Ock/kern/Ock3003-Dung_aultre_amer.krn	Ock3003	Y	.	Ock3003 <link>D'ung aultre amer(Ockeghem)</link>
-Ock/kern/Ock3004-Fors_seullement_contre.krn	Ock3004	Y	.	Ock3004 <link>Fors seullement contre(Ockeghem)</link>
-Ock/kern/Ock3005-Fors_seulement_lattente.krn	Ock3005	Y	.	Ock3005 <link>Fors seulement lattente(Ockeghem)</link>
-Ock/kern/Ock3006-Il_ne_men_chault.krn	Ock3006	Y	.	Ock3006 <link>Il ne men chault(Ockeghem)</link>
-Ock/kern/Ock3007-Je_nay_dueil.krn	Ock3007	Y	.	Ock3007 <link>Je n'ay dueil(Ockeghem)</link>
-Ock/kern/Ock3007.2-Je_nay_dueil.krn	Ock3007.2	Y	.	Ock3007.2 <link>Je n'ay dueil(Ockeghem)</link>
-Ock/kern/Ock3008-La_despourveue.krn	Ock3008	Y	.	Ock3008 <link>La despourveue(Ockeghem)</link>
-Ock/kern/Ock3009-Lautre_dantan.krn	Ock3009	Y	.	Ock3009 <link>L'autre d'antan(Ockeghem)</link>
-Ock/kern/Ock3010-Les_desleaulx.krn	Ock3010	Y	.	Ock3010 <link>Les desl&eacute;aulx(Ockeghem)</link>
-Ock/kern/Ock3011-Ma_bouche_rit.krn	Ock3011	Y	.	Ock3011 <link>Ma bouche rit(Ockeghem)</link>
-Ock/kern/Ock3012-Ma_maistresse.krn	Ock3012	Y	.	Ock3012 <link>Ma maistresse(Ockeghem)</link>
-Ock/kern/Ock3013-Mort_tu_as_navre__Miserere.krn	Ock3013	Y	.	Ock3013 <link>Mort tu as navr&eacute; / Miserere(Ockeghem)</link>
-Ock/kern/Ock3014-O_rosa_bella.krn	Ock3014	Y	.	Ock3014 <link>O rosa bella(Johannes Ockeghem)</link>
-Ock/kern/Ock3015-Prenez_sur_moy.krn	Ock3015	Y	.	Ock3015 <link>Prenez sur moy(Ockeghem)</link>
-Ock/kern/Ock3016-Presque_transi.krn	Ock3016	Y	.	Ock3016 <link>Presque transi(Ockeghem)</link>
-Ock/kern/Ock3017-Quant_de_vous_seul.krn	Ock3017	Y	.	Ock3017 <link>Quant de vous seul(Ockeghem)</link>
-Ock/kern/Ock3018-Ques_mi_vida.krn	Ock3018	Y	.	Ock3018 <link>Qu'es mi vida(Ockeghem)</link>
-Ock/kern/Ock3019-Selle_mamera__Petite_camusette.krn	Ock3019	Y	.	Ock3019 <link>Selle m'amera / Petite camusette(Ockeghem)</link>
-Ock/kern/Ock3020-Se_vostre_cuer.krn	Ock3020	Y	.	Ock3020 <link>Se vostre cuer(Ockeghem)</link>
-Ock/kern/Ock3021-Tant_fuz_gentement.krn	Ock3021	Y	.	Ock3021 <link>Tant fuz gentement(Ockeghem)</link>
-Ock/kern/Ock3022-Ung_aultre_la.krn	Ock3022	Y	.	Ock3022 <link>Ung aultre l'a(Ockeghem)</link>
-Ock/kern/Ock3025-Departes_vous.krn	Ock3025	Y	.	Ock3025 <link>Depart&eacute;s vous(Ockeghem)</link>
-Ock/kern/Ock3026-Malheur_me_bat.krn	Ock3026	Y	.	Ock3026 <link>Malheur me bat</link>
-Ock/kern/Ock3027-Permanent_vierge__Pulchra_es__Sancta_Dei_genitrix.krn	Ock3027	Y	.	Ock3027 <link>Permanent vierge / Pulchra es / Sancta Dei genitrix</link>
-Ock/kern/Ock7001-Aultre_Venus.krn	Ock7001	Y	.	Ock7001 <link>Aultre Venus(Ockeghem)</link>
-Ock/kern/Ock7002-Baisies_moy.krn	Ock7002	Y	.	Ock7002 <link>Baisies moy(Ockeghem)</link>
-Ock/kern/Ock7004-Fors_seullement_contre.krn	Ock7004	Y	.	Ock7004 <link>Fors seullement contre(Ockeghem)</link>
-Ock/kern/Ock7005-Fors_seulement_lattente.krn	Ock7005	Y	.	Ock7005 <link>Fors seulement l'attente(Ockeghem)</link>
-Ock/kern/Ock7008-La_despourveue.krn	Ock7008	Y	.	Ock7008 <link>La despourveue(Ockeghem)</link>
-Ock/kern/Ock7009-Lautre_dantan.krn	Ock7009	Y	.	Ock7009 <link>L'autre d'antan(Ockeghem)</link>
-Ock/kern/Ock7011-Ma_bouche_rit.krn	Ock7011	Y	.	Ock7011 <link>Ma bouche rit(Ockeghem)</link>
-Ock/kern/Ock7012-Ma_maistresse.krn	Ock7012	Y	.	Ock7012 <link>Ma maistresse(Ockeghem)</link>
-Ock/kern/Ock7016-Presque_transi.krn	Ock7016	Y	.	Ock7016 <link>Presque transi(Ockeghem)</link>
-Ock/kern/Ock7018-Ques_mi_vida.krn	Ock7018	Y	.	Ock7018 <link>Qu'es mi vida(Ockeghem)</link>
-Ock/kern/Ock7020-Se_vostre_cuer.krn	Ock7020	Y	.	Ock7020 <link>Se vostre cuer(Ockeghem)</link>
-Ock/kern/Ock7022-Ung_aultre_la.krn	Ock7022	Y	.	Ock7022 <link>Ung aultre l'a(Ockeghem)</link>
-Ock/kern/Ock7027-Permanent_vierge__Pulchra_es__Sancta_Dei_genitrix.krn	Ock7027	Y	.	Ock7027 <link>Permanent vierge / Pulchra es / Sancta Dei genitrix</link>
+Oke/kern/Ock1001a-Kyrie_Gloria_Credo_Sine_nomine-Kyrie.krn	Ock1001a	Y	.	Ock1001a <link>Kyrie(Johannes Ockeghem)</link>
+Oke/kern/Ock1001b-Kyrie_Gloria_Credo_Sine_nomine-Gloria.krn	Ock1001b	Y	.	Ock1001b <link>Gloria(Johannes Ockeghem)</link>
+Oke/kern/Ock1001c-Kyrie_Gloria_Credo_Sine_nomine-Credo.krn	Ock1001c	Y	.	Ock1001c <link>Credo(Johannes Ockeghem)</link>
+Oke/kern/Ock1002a-Missa_Au_travail_suis-Kyrie.krn	Ock1002a	Y	.	Ock1002a <link>Kyrie(Johannes Ockeghem)</link>
+Oke/kern/Ock1002b-Missa_Au_travail_suis-Gloria.krn	Ock1002b	Y	.	Ock1002b <link>Gloria(Johannes Ockeghem)</link>
+Oke/kern/Ock1002c-Missa_Au_travail_suis-Credo.krn	Ock1002c	Y	.	Ock1002c <link>Credo(Johannes Ockeghem)</link>
+Oke/kern/Ock1002d-Missa_Au_travail_suis-Sanctus.krn	Ock1002d	Y	.	Ock1002d <link>Sanctus(Johannes Ockeghem)</link>
+Oke/kern/Ock1003a-Missa_Caput-Kyrie.krn	Ock1003a	Y	.	Ock1003a <link>Kyrie(Ockeghem)</link>
+Oke/kern/Ock1003b-Missa_Caput-Gloria.krn	Ock1003b	Y	.	Ock1003b <link>Gloria(Ockeghem)</link>
+Oke/kern/Ock1003c-Missa_Caput-Credo.krn	Ock1003c	Y	.	Ock1003c <link>Credo(Ockeghem)</link>
+Oke/kern/Ock1003d-Missa_Caput-Sanctus.krn	Ock1003d	Y	.	Ock1003d <link>Sanctus(Ockeghem)</link>
+Oke/kern/Ock1003e-Missa_Caput-Agnus.krn	Ock1003e	Y	.	Ock1003e <link>Agnus Dei(Ockeghem)</link>
+Oke/kern/Ock1004.1a-Missa_Cuiusvis_toni-Kyrie-on_D.krn	Ock1004.1a	Y	.	Ock1004.1a <link>Kyrie(Johannes Ockeghem)</link>
+Oke/kern/Ock1004.1b-Missa_Cuiusvis_toni-Gloria-on_D.krn	Ock1004.1b	Y	.	Ock1004.1b <link>Gloria(Johannes Ockeghem)</link>
+Oke/kern/Ock1004.1c-Missa_Cuiusvis_toni-Credo-on_D.krn	Ock1004.1c	Y	.	Ock1004.1c <link>Credo(Johannes Ockeghem)</link>
+Oke/kern/Ock1004.1d-Missa_Cuiusvis_toni-Sanctus-on_D.krn	Ock1004.1d	Y	.	Ock1004.1d <link>Sanctus(Johannes Ockeghem)</link>
+Oke/kern/Ock1004.1e-Missa_Cuiusvis_toni-Agnus-on_D.krn	Ock1004.1e	Y	.	Ock1004.1e <link>Agnus Dei(Johannes Ockeghem)</link>
+Oke/kern/Ock1004.2a-Missa_Cuiusvis_toni-Kyrie-on_E.krn	Ock1004.2a	Y	.	Ock1004.2a <link>Kyrie(Johannes Ockeghem)</link>
+Oke/kern/Ock1004.2b-Missa_Cuiusvis_toni-Gloria-on_E.krn	Ock1004.2b	Y	.	Ock1004.2b <link>Gloria(Johannes Ockeghem)</link>
+Oke/kern/Ock1004.2c-Missa_Cuiusvis_toni-Credo-on_E.krn	Ock1004.2c	Y	.	Ock1004.2c <link>Credo(Johannes Ockeghem)</link>
+Oke/kern/Ock1004.2d-Missa_Cuiusvis_toni-Sanctus-on_E.krn	Ock1004.2d	Y	.	Ock1004.2d <link>Sanctus(Johannes Ockeghem)</link>
+Oke/kern/Ock1004.2e-Missa_Cuiusvis_toni-Agnus-on_E.krn	Ock1004.2e	Y	.	Ock1004.2e <link>Agnus Dei(Johannes Ockeghem)</link>
+Oke/kern/Ock1004.3a-Missa_Cuiusvis_toni-Kyrie-on_F.krn	Ock1004.3a	Y	.	Ock1004.3a <link>Kyrie(Johannes Ockeghem)</link>
+Oke/kern/Ock1004.3b-Missa_Cuiusvis_toni-Gloria-on_F.krn	Ock1004.3b	Y	.	Ock1004.3b <link>Gloria(Johannes Ockeghem)</link>
+Oke/kern/Ock1004.3c-Missa_Cuiusvis_toni-Credo-on_F.krn	Ock1004.3c	Y	.	Ock1004.3c <link>Credo(Johannes Ockeghem)</link>
+Oke/kern/Ock1004.3d-Missa_Cuiusvis_toni-Sanctus-on_F.krn	Ock1004.3d	Y	.	Ock1004.3d <link>Sanctus(Johannes Ockeghem)</link>
+Oke/kern/Ock1004.3e-Missa_Cuiusvis_toni-Agnus-on_F.krn	Ock1004.3e	Y	.	Ock1004.3e <link>Agnus Dei(Johannes Ockeghem)</link>
+Oke/kern/Ock1005a-Missa_De_plus_en_plus-Kyrie.krn	Ock1005a	Y	.	Ock1005a <link>Kyrie(Ockeghem)</link>
+Oke/kern/Ock1005b-Missa_De_plus_en_plus-Gloria.krn	Ock1005b	Y	.	Ock1005b <link>Gloria(Ockeghem)</link>
+Oke/kern/Ock1005c-Missa_De_plus_en_plus-Credo.krn	Ock1005c	Y	.	Ock1005c <link>Credo(Ockeghem)</link>
+Oke/kern/Ock1005d-Missa_De_plus_en_plus-Sanctus.krn	Ock1005d	Y	.	Ock1005d <link>Sanctus(Ockeghem)</link>
+Oke/kern/Ock1005e-Missa_De_plus_en_plus-Agnus.krn	Ock1005e	Y	.	Ock1005e <link>Agnus Dei(Ockeghem)</link>
+Oke/kern/Ock1006a-Missa_Ecce_ancilla_domini-Kyrie.krn	Ock1006a	Y	.	Ock1006a <link>Kyrie(Ockeghem)</link>
+Oke/kern/Ock1006b-Missa_Ecce_ancilla_domini-Gloria.krn	Ock1006b	Y	.	Ock1006b <link>Gloria(Ockeghem)</link>
+Oke/kern/Ock1006c-Missa_Ecce_ancilla_domini-Credo.krn	Ock1006c	Y	.	Ock1006c <link>Missa Ecce ancilla domini(Ockeghem)</link>
+Oke/kern/Ock1006d-Missa_Ecce_ancilla_domini-Sanctus.krn	Ock1006d	Y	.	Ock1006d <link>Sanctus(Ockeghem)</link>
+Oke/kern/Ock1006e-Missa_Ecce_ancilla_domini-Agnus.krn	Ock1006e	Y	.	Ock1006e <link>Agnus Dei(Ockeghem)</link>
+Oke/kern/Ock1007a-Missa_Fors_seulement-Kyrie.krn	Ock1007a	Y	.	Ock1007a <link>Kyrie(Johannes Ockeghem)</link>
+Oke/kern/Ock1007b-Missa_Fors_seulement-Gloria.krn	Ock1007b	Y	.	Ock1007b <link>Gloria(Johannes Ockeghem)</link>
+Oke/kern/Ock1007c-Missa_Fors_seulement-Credo.krn	Ock1007c	Y	.	Ock1007c <link>Credo(Johannes Ockeghem)</link>
+Oke/kern/Ock1008a-Missa_Lhomme_arme-Kyrie.krn	Ock1008a	Y	.	Ock1008a <link>Kyrie(Ockeghem)</link>
+Oke/kern/Ock1008b-Missa_Lhomme_arme-Gloria.krn	Ock1008b	Y	.	Ock1008b <link>Gloria(Johannes Ockeghem)</link>
+Oke/kern/Ock1008c-Missa_Lhomme_arme-Credo.krn	Ock1008c	Y	.	Ock1008c <link>Credo(Johannes Ockeghem)</link>
+Oke/kern/Ock1008d-Missa_Lhomme_arme-Sanctus.krn	Ock1008d	Y	.	Ock1008d <link>Sanctus(Johannes Ockeghem)</link>
+Oke/kern/Ock1008e-Missa_Lhomme_arme-Agnus.krn	Ock1008e	Y	.	Ock1008e <link>Agnus Dei(Johannes Ockeghem)</link>
+Oke/kern/Ock1009a-Missa_Ma_maistresse-Kyrie.krn	Ock1009a	Y	.	Ock1009a <link>Kyrie(Johannes Ockeghem)</link>
+Oke/kern/Ock1009b-Missa_Ma_maistresse-Gloria.krn	Ock1009b	Y	.	Ock1009b <link>Gloria(Johannes Ockeghem)</link>
+Oke/kern/Ock1010a-Missa_Mi_mi-Kyrie.krn	Ock1010a	Y	.	Ock1010a <link>Kyrie(Ockeghem)</link>
+Oke/kern/Ock1010b-Missa_Mi_mi-Gloria.krn	Ock1010b	Y	.	Ock1010b <link>Gloria(Ockeghem)</link>
+Oke/kern/Ock1010c-Missa_Mi_mi-Credo.krn	Ock1010c	Y	.	Ock1010c <link>Credo(Ockeghem)</link>
+Oke/kern/Ock1010d-Missa_Mi_mi-Sanctus.krn	Ock1010d	Y	.	Ock1010d <link>Sanctus(Ockeghem)</link>
+Oke/kern/Ock1010e-Missa_Mi_mi-Agnus.krn	Ock1010e	Y	.	Ock1010e <link>Agnus Dei(Ockeghem)</link>
+Oke/kern/Ock1011a-Missa_Prolationum-Kyrie.krn	Ock1011a	Y	.	Ock1011a <link>Kyrie(Ockeghem)</link>
+Oke/kern/Ock1011b-Missa_Prolationum-Gloria.krn	Ock1011b	Y	.	Ock1011b <link>Gloria(Ockeghem)</link>
+Oke/kern/Ock1011c-Missa_Prolationum-Credo.krn	Ock1011c	Y	.	Ock1011c <link>Credo(Ockeghem)</link>
+Oke/kern/Ock1011d-Missa_Prolationum-Sanctus.krn	Ock1011d	Y	.	Ock1011d <link>Sanctus(Ockeghem)</link>
+Oke/kern/Ock1011e-Missa_Prolationum-Agnus.krn	Ock1011e	Y	.	Ock1011e <link>Agnus Dei(Ockeghem)</link>
+Oke/kern/Ock1012a-Missa_Quinti_toni-Kyrie.krn	Ock1012a	Y	.	Ock1012a <link>Kyrie(Johannes Ockeghem)</link>
+Oke/kern/Ock1012b-Missa_Quinti_toni-Gloria.krn	Ock1012b	Y	.	Ock1012b <link>Gloria(Johannes Ockeghem)</link>
+Oke/kern/Ock1012c-Missa_Quinti_toni-Credo.krn	Ock1012c	Y	.	Ock1012c <link>Credo(Johannes Ockeghem)</link>
+Oke/kern/Ock1012d-Missa_Quinti_toni-Sanctus.krn	Ock1012d	Y	.	Ock1012d <link>Sanctus(Johannes Ockeghem)</link>
+Oke/kern/Ock1012e-Missa_Quinti_toni-Agnus.krn	Ock1012e	Y	.	Ock1012e <link>Agnus Dei(Johannes Ockeghem)</link>
+Oke/kern/Ock1013a-Requiem-Introit.krn	Ock1013a	Y	.	Ock1013a <link>Introit(Ockeghem)</link>
+Oke/kern/Ock1013b-Requiem-Kyrie.krn	Ock1013b	Y	.	Ock1013b <link>Kyrie(Ockeghem)</link>
+Oke/kern/Ock1013c-Requiem-Gradual_Si_ambulem.krn	Ock1013c	Y	.	Ock1013c <link>Gradual Si ambulem(Ockeghem)</link>
+Oke/kern/Ock1013d-Requiem-Tract_Sicut_cervus.krn	Ock1013d	Y	.	Ock1013d <link>Tract Sicut cervus(Ockeghem)</link>
+Oke/kern/Ock1013e-Requiem-Offertory_Domine_Jesu_Christe.krn	Ock1013e	Y	.	Ock1013e <link>Offertory Domine Jesu Christe(Ockeghem)</link>
+Oke/kern/Ock1014-Credo_Village.krn	Ock1014	Y	.	Ock1014 <link>Credo [Village](Johannes Ockeghem)</link>
+Oke/kern/Ock2001-Alma_redemptoris_mater.krn	Ock2001	Y	.	Ock2001 <link>Alma redemptoris mater(Johannes Ockeghem)</link>
+Oke/kern/Ock2002-Ave_Maria.krn	Ock2002	Y	.	Ock2002 <link>Ave Maria(Johannes Ockeghem)</link>
+Oke/kern/Ock2003-Intemerata_Dei_mater.krn	Ock2003	Y	.	Ock2003 <link>Intemerata dei mater(Johannes Ockeghem)</link>
+Oke/kern/Ock2004-Salve_regina_I.krn	Ock2004	Y	.	Ock2004 <link>Salve regina I(Johannes Ockeghem)</link>
+Oke/kern/Ock3001-Aultre_Venus.krn	Ock3001	Y	.	Ock3001 <link>Aultre Venus(Ockeghem)</link>
+Oke/kern/Ock3002-Baisies_moy.krn	Ock3002	Y	.	Ock3002 <link>Baisies moy(Ockeghem)</link>
+Oke/kern/Ock3003-Dung_aultre_amer.krn	Ock3003	Y	.	Ock3003 <link>D'ung aultre amer(Ockeghem)</link>
+Oke/kern/Ock3004-Fors_seullement_contre.krn	Ock3004	Y	.	Ock3004 <link>Fors seullement contre(Ockeghem)</link>
+Oke/kern/Ock3005-Fors_seulement_lattente.krn	Ock3005	Y	.	Ock3005 <link>Fors seulement lattente(Ockeghem)</link>
+Oke/kern/Ock3006-Il_ne_men_chault.krn	Ock3006	Y	.	Ock3006 <link>Il ne men chault(Ockeghem)</link>
+Oke/kern/Ock3007-Je_nay_dueil.krn	Ock3007	Y	.	Ock3007 <link>Je n'ay dueil(Ockeghem)</link>
+Oke/kern/Ock3007.2-Je_nay_dueil.krn	Ock3007.2	Y	.	Ock3007.2 <link>Je n'ay dueil(Ockeghem)</link>
+Oke/kern/Ock3008-La_despourveue.krn	Ock3008	Y	.	Ock3008 <link>La despourveue(Ockeghem)</link>
+Oke/kern/Ock3009-Lautre_dantan.krn	Ock3009	Y	.	Ock3009 <link>L'autre d'antan(Ockeghem)</link>
+Oke/kern/Ock3010-Les_desleaulx.krn	Ock3010	Y	.	Ock3010 <link>Les desl&eacute;aulx(Ockeghem)</link>
+Oke/kern/Ock3011-Ma_bouche_rit.krn	Ock3011	Y	.	Ock3011 <link>Ma bouche rit(Ockeghem)</link>
+Oke/kern/Ock3012-Ma_maistresse.krn	Ock3012	Y	.	Ock3012 <link>Ma maistresse(Ockeghem)</link>
+Oke/kern/Ock3013-Mort_tu_as_navre__Miserere.krn	Ock3013	Y	.	Ock3013 <link>Mort tu as navr&eacute; / Miserere(Ockeghem)</link>
+Oke/kern/Ock3014-O_rosa_bella.krn	Ock3014	Y	.	Ock3014 <link>O rosa bella(Johannes Ockeghem)</link>
+Oke/kern/Ock3015-Prenez_sur_moy.krn	Ock3015	Y	.	Ock3015 <link>Prenez sur moy(Ockeghem)</link>
+Oke/kern/Ock3016-Presque_transi.krn	Ock3016	Y	.	Ock3016 <link>Presque transi(Ockeghem)</link>
+Oke/kern/Ock3017-Quant_de_vous_seul.krn	Ock3017	Y	.	Ock3017 <link>Quant de vous seul(Ockeghem)</link>
+Oke/kern/Ock3018-Ques_mi_vida.krn	Ock3018	Y	.	Ock3018 <link>Qu'es mi vida(Ockeghem)</link>
+Oke/kern/Ock3019-Selle_mamera__Petite_camusette.krn	Ock3019	Y	.	Ock3019 <link>Selle m'amera / Petite camusette(Ockeghem)</link>
+Oke/kern/Ock3020-Se_vostre_cuer.krn	Ock3020	Y	.	Ock3020 <link>Se vostre cuer(Ockeghem)</link>
+Oke/kern/Ock3021-Tant_fuz_gentement.krn	Ock3021	Y	.	Ock3021 <link>Tant fuz gentement(Ockeghem)</link>
+Oke/kern/Ock3022-Ung_aultre_la.krn	Ock3022	Y	.	Ock3022 <link>Ung aultre l'a(Ockeghem)</link>
+Oke/kern/Ock3025-Departes_vous.krn	Ock3025	Y	.	Ock3025 <link>Depart&eacute;s vous(Ockeghem)</link>
+Oke/kern/Ock3026-Malheur_me_bat.krn	Ock3026	Y	.	Ock3026 <link>Malheur me bat</link>
+Oke/kern/Ock3027-Permanent_vierge__Pulchra_es__Sancta_Dei_genitrix.krn	Ock3027	Y	.	Ock3027 <link>Permanent vierge / Pulchra es / Sancta Dei genitrix</link>
+Oke/kern/Ock7001-Aultre_Venus.krn	Ock7001	Y	.	Ock7001 <link>Aultre Venus(Ockeghem)</link>
+Oke/kern/Ock7002-Baisies_moy.krn	Ock7002	Y	.	Ock7002 <link>Baisies moy(Ockeghem)</link>
+Oke/kern/Ock7004-Fors_seullement_contre.krn	Ock7004	Y	.	Ock7004 <link>Fors seullement contre(Ockeghem)</link>
+Oke/kern/Ock7005-Fors_seulement_lattente.krn	Ock7005	Y	.	Ock7005 <link>Fors seulement l'attente(Ockeghem)</link>
+Oke/kern/Ock7008-La_despourveue.krn	Ock7008	Y	.	Ock7008 <link>La despourveue(Ockeghem)</link>
+Oke/kern/Ock7009-Lautre_dantan.krn	Ock7009	Y	.	Ock7009 <link>L'autre d'antan(Ockeghem)</link>
+Oke/kern/Ock7011-Ma_bouche_rit.krn	Ock7011	Y	.	Ock7011 <link>Ma bouche rit(Ockeghem)</link>
+Oke/kern/Ock7012-Ma_maistresse.krn	Ock7012	Y	.	Ock7012 <link>Ma maistresse(Ockeghem)</link>
+Oke/kern/Ock7016-Presque_transi.krn	Ock7016	Y	.	Ock7016 <link>Presque transi(Ockeghem)</link>
+Oke/kern/Ock7018-Ques_mi_vida.krn	Ock7018	Y	.	Ock7018 <link>Qu'es mi vida(Ockeghem)</link>
+Oke/kern/Ock7020-Se_vostre_cuer.krn	Ock7020	Y	.	Ock7020 <link>Se vostre cuer(Ockeghem)</link>
+Oke/kern/Ock7022-Ung_aultre_la.krn	Ock7022	Y	.	Ock7022 <link>Ung aultre l'a(Ockeghem)</link>
+Oke/kern/Ock7027-Permanent_vierge__Pulchra_es__Sancta_Dei_genitrix.krn	Ock7027	Y	.	Ock7027 <link>Permanent vierge / Pulchra es / Sancta Dei genitrix</link>
 Ort/kern/Ort1001a-Missa_Dominicalis-Kyrie.krn	Ort1001a	Y	.	Ort1001a <link>Kyrie(de Orto)</link>
 Ort/kern/Ort1001b-Missa_Dominicalis-Gloria.krn	Ort1001b	Y	.	Ort1001b <link>Gloria(de Orto)</link>
 Ort/kern/Ort1001c-Missa_Dominicalis-Credo.krn	Ort1001c	Y	.	Ort1001c <link>Credo(de Orto)</link>
@@ -1038,6 +1184,7 @@ Reg/kern/Reg2001-Ave_Maria_..._benedicta_tu.krn	Reg2001	Y	.	Reg2001 <link>Ave Ma
 Reg/kern/Reg2004-Clangat_plebs_flores__Sicut_lilium.krn	Reg2004	Y	.	Reg2004 <link>Clangat plebs flores / Sicut lilium(Regis)</link>
 Reg/kern/Reg2005-Lauda_Sion_salvatorem__Ego_sum_panis.krn	Reg2005	Y	.	Reg2005 <link>Lauda Sion salvatorem / Ego sum panis(Regis)</link>
 Reg/kern/Reg2006-Lux_solemnis__Repleti_sunt_omnes.krn	Reg2006	Y	.	Reg2006 <link>Lux solemnis / Repleti sunt omnes(Regis)</link>
+Reg/kern/Reg2007-O_admirabile_commercium__Verbum_caro_factum_est.krn	Reg2007	Y	.	Reg2007 <link>O admirabile commercium / Verbum caro factum est - Magnum nomen(Regis)</link>
 Rue/kern/Rue1001a-Missa_Alleluia-Kyrie.krn	Rue1001a	Y	.	Rue1001a <link>Kyrie(la Rue)</link>
 Rue/kern/Rue1001b-Missa_Alleluia-Gloria.krn	Rue1001b	Y	.	Rue1001b <link>Gloria(la Rue)</link>
 Rue/kern/Rue1002a-Missa_Almana-Kyrie.krn	Rue1002a	Y	.	Rue1002a <link>Kyrie(la Rue)</link>
@@ -1050,23 +1197,21 @@ Rue/kern/Rue1003b-Missa_Assumpta_est_Maria-Gloria.krn	Rue1003b	Y	.	Rue1003b <lin
 Rue/kern/Rue1003c-Missa_Assumpta_est_Maria-Credo.krn	Rue1003c	Y	.	Rue1003c <link>Credo(la Rue)</link>
 Rue/kern/Rue1003d-Missa_Assumpta_est_Maria-Sanctus.krn	Rue1003d	Y	.	Rue1003d <link>Sanctus(la Rue)</link>
 Rue/kern/Rue1003e-Missa_Assumpta_est_Maria-Agnus.krn	Rue1003e	Y	.	Rue1003e <link>Agnus Dei(la Rue)</link>
-Rue/kern/Rue1003e-Missa_Assumpta_est_Maria-Agnus_Dei.krn	Rue1003e	Y	.	Rue1003e <link>Agnus Dei(la Rue)</link>
 Rue/kern/Rue1004a-Missa_Ave_Maria-Kyrie.krn	Rue1004a	Y	.	Rue1004a <link>Kyrie(la Rue)</link>
 Rue/kern/Rue1004b-Missa_Ave_Maria-Gloria.krn	Rue1004b	Y	.	Rue1004b <link>Gloria(la Rue)</link>
 Rue/kern/Rue1004c-Missa_Ave_Maria-Credo.krn	Rue1004c	Y	.	Rue1004c <link>Credo(la Rue)</link>
 Rue/kern/Rue1004d-Missa_Ave_Maria-Sanctus.krn	Rue1004d	Y	.	Rue1004d <link>Sanctus(la Rue)</link>
 Rue/kern/Rue1004e-Missa_Ave_Maria-Agnus.krn	Rue1004e	Y	.	Rue1004e <link>Agnus Dei(la Rue)</link>
-Rue/kern/Rue1004e-Missa_Ave_Maria-Agnus_Dei.krn	Rue1004e	Y	.	Rue1004e <link>Agnus Dei(la Rue)</link>
 Rue/kern/Rue1005a-Missa_Ave_sanctissima_Maria-Kyrie.krn	Rue1005a	Y	.	Rue1005a <link>Kyrie(la Rue)</link>
 Rue/kern/Rue1005b-Missa_Ave_sanctissima_Maria-Gloria.krn	Rue1005b	Y	.	Rue1005b <link>Gloria(la Rue)</link>
 Rue/kern/Rue1005c-Missa_Ave_sanctissima_Maria-Credo.krn	Rue1005c	Y	.	Rue1005c <link>Credo(la Rue)</link>
 Rue/kern/Rue1005d-Missa_Ave_sanctissima_Maria-Sanctus.krn	Rue1005d	Y	.	Rue1005d <link>Sanctus(la Rue)</link>
 Rue/kern/Rue1005e-Missa_Ave_sanctissima_Maria-Agnus.krn	Rue1005e	Y	.	Rue1005e <link>Agnus Dei(la Rue)</link>
-Rue/kern/Rue1005e-Missa_Ave_sanctissima_Maria-Agnus_Dei.krn	Rue1005e	Y	.	Rue1005e <link>Agnus Dei(la Rue)</link>
 Rue/kern/Rue1005f-Missa_Ave_sanctissima_Maria-Loco_Deo_Gratias.krn	Rue1005f	Y	.	Rue1005f <link>Loco Deo Gratias(la Rue)</link>
 Rue/kern/Rue1006a-Missa_Conceptio_tua-Kyrie.krn	Rue1006a	Y	.	Rue1006a <link>Kyrie(la Rue)</link>
 Rue/kern/Rue1006b-Missa_Conceptio_tua-Gloria.krn	Rue1006b	Y	.	Rue1006b <link>Gloria(la Rue)</link>
 Rue/kern/Rue1006c-Missa_Conceptio_tua-Credo.krn	Rue1006c	Y	.	Rue1006c <link>Credo(la Rue)</link>
+Rue/kern/Rue1006d-Missa_Conceptio_tua-Sanctus.krn	Rue1006d	Y	.	Rue1006d <link>Sanctus(la Rue)</link>
 Rue/kern/Rue1006e-Missa_Conceptio_tua-Agnus.krn	Rue1006e	Y	.	Rue1006e <link>Agnus Dei(la Rue)</link>
 Rue/kern/Rue1007a-Missa_Cum_iocunditate-Kyrie.krn	Rue1007a	Y	.	Rue1007a <link>Kyrie</link>
 Rue/kern/Rue1007b-Missa_Cum_iocunditate-Gloria.krn	Rue1007b	Y	.	Rue1007b <link>Gloria</link>
@@ -1083,7 +1228,6 @@ Rue/kern/Rue1009b-Missa_De_feria-Gloria.krn	Rue1009b	Y	.	Rue1009b <link>Gloria(l
 Rue/kern/Rue1009c-Missa_De_feria-Credo.krn	Rue1009c	Y	.	Rue1009c <link>Credo(la Rue)</link>
 Rue/kern/Rue1009d-Missa_De_feria-Sanctus.krn	Rue1009d	Y	.	Rue1009d <link>Sanctus(la Rue)</link>
 Rue/kern/Rue1009e-Missa_De_feria-Agnus.krn	Rue1009e	Y	.	Rue1009e <link>Agnus Dei(la Rue)</link>
-Rue/kern/Rue1009e-Missa_De_feria-Agnus_Dei.krn	Rue1009e	Y	.	Rue1009e <link>Agnus Dei(la Rue)</link>
 Rue/kern/Rue1011a-Missa_De_sancta_cruce-Kyrie.krn	Rue1011a	Y	.	Rue1011a <link>Kyrie(la Rue)</link>
 Rue/kern/Rue1011b-Missa_De_sancta_cruce-Gloria.krn	Rue1011b	Y	.	Rue1011b <link>Gloria(la Rue)</link>
 Rue/kern/Rue1011c-Missa_De_sancta_cruce-Credo.krn	Rue1011c	Y	.	Rue1011c <link>Credo(la Rue)</link>
@@ -1094,7 +1238,6 @@ Rue/kern/Rue1012b-Missa_De_Sancto_Antonio-Gloria.krn	Rue1012b	Y	.	Rue1012b <link
 Rue/kern/Rue1012c-Missa_De_Sancto_Antonio-Credo.krn	Rue1012c	Y	.	Rue1012c <link>Credo(la Rue)</link>
 Rue/kern/Rue1012d-Missa_De_Sancto_Antonio-Sanctus.krn	Rue1012d	Y	.	Rue1012d <link>Sanctus(la Rue)</link>
 Rue/kern/Rue1012e-Missa_De_Sancto_Antonio-Agnus.krn	Rue1012e	Y	.	Rue1012e <link>Agnus Dei(la Rue)</link>
-Rue/kern/Rue1012e-Missa_De_Sancto_Antonio-Agnus_Dei.krn	Rue1012e	Y	.	Rue1012e <link>Agnus Dei(la Rue)</link>
 Rue/kern/Rue1013a-Missa_De_Sancto_Job-Kyrie.krn	Rue1013a	Y	.	Rue1013a <link>Kyrie(la Rue)</link>
 Rue/kern/Rue1013b-Missa_De_Sancto_Job-Gloria.krn	Rue1013b	Y	.	Rue1013b <link>Gloria(la Rue)</link>
 Rue/kern/Rue1013c-Missa_De_Sancto_Job-Credo.krn	Rue1013c	Y	.	Rue1013c <link>Credo(la Rue)</link>
@@ -1191,7 +1334,7 @@ Rue/kern/Rue1035a-Missa_De_beata_virgine-Kyrie.krn	Rue1035a	Y	.	Rue1035a <link>K
 Rue/kern/Rue1035b-Missa_De_beata_virgine-Gloria.krn	Rue1035b	Y	.	Rue1035b <link>Gloria(Josquin des Prez)</link>
 Rue/kern/Rue1035c-Missa_De_beata_virgine-Credo.krn	Rue1035c	Y	.	Rue1035c <link>Credo(Josquin des Prez)</link>
 Rue/kern/Rue1035d-Missa_De_beata_virgine-Sanctus.krn	Rue1035d	Y	.	Rue1035d <link>Sanctus(Josquin des Prez)</link>
-Rue/kern/Rue1035e-Missa_De_beata_virgine-Agnus.krn	Rue1035e	Y	.	Rue1035e <link>Agnus Dei(Josquin des Prez)</link>
+Rue/kern/Rue1035e-Missa_De_beata_virgine-Agnus.krn	Rue1035e	Y	.	Rue1035e <link>Agnus dei(Josquin des Prez)</link>
 Rue/kern/Rue1036-Credo_De_villagiis.krn	Rue1036	Y	.	Rue1036 <link>Credo de villagiis(la Rue)</link>
 Rue/kern/Rue1037-Credo_Lamour_de_moy.krn	Rue1037	Y	.	Rue1037 <link>Credo L'amour de moy(la Rue)</link>
 Rue/kern/Rue2001-Ave_regina_celorum.krn	Rue2001	Y	.	Rue2001 <link>Ave regina celorum(la Rue)</link>
@@ -1219,8 +1362,6 @@ Rue/kern/Rue2028-Si_dormiero.krn	Rue2028	Y	.	Rue2028 <link>Si dormiero</link>
 Rue/kern/Rue2030-Absalon_fili_mi.krn	Rue2030	Y	.	Rue2030 <link></link>
 Rue/kern/Rue2032-Magnificat_Quarti_toni.krn	Rue2032	Y	.	Rue2032 <link></link>
 Rue/kern/Rue3001-A_vous_non_autre.krn	Rue3001	Y	.	Rue3001 <link>A vous non autre(la Rue)</link>
-Rue/kern/Rue3001-Autant_en_emporte_le_vent.krn	Rue3001	Y	.	Rue3001 <link>Autant en emporte le vent(la Rue)</link>
-Rue/kern/Rue3002-A_vous_non_autre.krn	Rue3002	Y	.	Rue3002 <link>A vous non autre(la Rue)</link>
 Rue/kern/Rue3002-Autant_en_emporte_le_vent.krn	Rue3002	Y	.	Rue3002 <link>Autant en emporte le vent(la Rue)</link>
 Rue/kern/Rue3003-Ce_nest_pas_jeu.krn	Rue3003	Y	.	Rue3003 <link>Ce n'est pas jeu(la Rue)</link>
 Rue/kern/Rue3004-Cent_mille_regretz.krn	Rue3004	Y	.	Rue3004 <link>Cent mille regretz</link>

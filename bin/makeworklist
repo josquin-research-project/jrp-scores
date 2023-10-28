@@ -770,7 +770,7 @@ sub getDateNumber {
 	if ($string =~ /(\d{4})\/(\d{2})\/(\d{2})/) {
 		return "$1$2$3";
 	}
-	if ($string =~ /(\d{4})\/(\d{,2})\/(\d{,2})/) {
+	if ($string =~ /(\d{4})\/(\d{0,2})\/(\d{0,2})/) {
 		my $year  = $1;
 		my $month = $2;
 		my $day   = $3;
