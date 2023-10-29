@@ -1,0 +1,52 @@
+#!/usr/bin/env perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Sat Oct 28 14:31:11 PDT 2023
+# Last Modified: Sat Oct 28 14:31:14 PDT 2023
+# Filename:      jrp-scores/bin/getWorkIdList
+# Syntax:        perl 5
+#
+# Description:   Download work IDs for files from JRP metadata spreadsheet, such as:
+#
+#		Ano1001a
+#		Ano1001b
+#		Ano1001c
+#		Ano1001d
+#		Ano1001e
+#		Ano1002
+#		Ano1025a
+#		Ano1025b
+#		Ano1025c
+#		Ano1025d
+#                 This is copyied from the spreadsheet
+#                 https://bit.ly/jrp-metadata, column A.
+#
+
+use strict;
+use Getopt::Long;
+
+my $wget = `which wget`;
+chomp $wget;
+die "Cannot find wget program.  Install it first (with homebrew).\n" if $wget =~ /^\s*$/;
+
+my $cut = `which cut`;
+chomp $cut;
+die "Cannot find cut program.  Install it first somehow.\n" if $cut =~ /^\s*$/;
+
+
+# The $macroid is taken from cell B10 of the link:
+#    https://docs.google.com/spreadsheets/d/1KBXyuyE4pfJ61UtQBEfEwLp-vjoyFO_fbUU03DOsiGU/edit#gid=1415236658
+# It may need to be updated occasionally.
+
+my $macroid = "AKfycbxfvPNoV2Y29uohhaFy1mSPacuCOFEOcwI4XRp2HN9OfAbv_vzbV3Uxq7kZgyRV0kXdBA";
+
+my $url = "https://script.google.com/macros/s/$macroid/exec?sheet=works&format=tsv";
+
+my @result = `wget "$url" -O - 2> /dev/null | $cut -f 1`;
+
+my $headerList = shift @result;
+
+print @result;
+
+
+

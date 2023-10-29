@@ -29,8 +29,6 @@
 use strict;
 use Getopt::Long;
 
-die "Copy column A (excluding first row) from spreadsheet https://bit.ly/jrp-metadata\nand store in a file called ids.txt before running this program.\n" if !-r "ids.txt";
-
 my $prefixIds = 0;
 Getopt::Long::Configure("bundling");
 GetOptions (
@@ -41,7 +39,7 @@ my @list = <>;
 chomp @list;
 
 if (@list < 100) {
-	die "Usage: $0 ids.txt | pbcopy\n";
+	die "Usage: getWorkIdList | $0 | pbcopy\n";
 }
 
 foreach my $entry (@list) {

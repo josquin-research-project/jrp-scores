@@ -492,8 +492,35 @@ notecounts:
 
 fn: filenames
 filename: filenames
-filenames:
-	@bin/getFilenames ids.txt
+filenames: work-id-list
+	@bin/getWorkIdList | bin/getFilenames
+
+
+
+##############################
+##
+## make filenames-with-ids -- Extract the full filenames for each work ID, but prefix
+##     filenames with Work IDs column (separated by tabs).
+##
+
+fnp: filenames-with-ids
+fwi: filenames-with-ids
+filename-with-id: filenames-with-ids
+filenames-with-ids:
+	@bin/getWorkIdList | bin/getFilenames -p
+
+
+
+##############################
+##
+## make work-id-list -- Download work ID list from the JRP metatdata works spreadsheet.
+##
+
+wid: work-id-list
+wil: work-id-list
+works-id-list: work-id-list
+work-id-list:
+	@bin/getWorkIdList > work-ids.txt
 
 
 
