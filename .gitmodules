@@ -64,3 +64,6 @@
 [submodule "Gas/kern"]
 	path = Gas/kern
 	url = https://github.com/josquin-research-project/Gas.git
+[submodule "Bin/kern"]
+	path = Bin/kern
+	url = https://github.com/josquin-research-project/Bin.git

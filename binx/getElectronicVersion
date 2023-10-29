@@ -1,14 +1,14 @@
 #!/usr/bin/env perl
 #
 # Programmer:    Craig Stuart Sapp <craig.stanford.edu>
-# Creation Date: Sat Oct  7 02:08:07 PDT 2023
-# Last Modified: Sat Oct 28 13:27:46 PDT 2023
-# Filename:      jrp-scores/bin/getFilename
+# Creation Date: Sat Oct 28 21:52:06 PDT 2023
+# Last Modified: Sat Oct 28 21:52:12 PDT 2023
+# Filename:      jrp-scores/bin/getEncodingDate
 # Syntax:        perl 5
 #
-# Description:   Extract filenames for files according to the input
-#                file which contains a single ID for each file on
-#                each line, such as:
+# Description:   Extract encoding date from scores (EEV reference record).
+#                Input is a list of work IDs:
+#
 #		Ano1001a
 #		Ano1001b
 #		Ano1001c
@@ -20,10 +20,7 @@
 #		Ano1025c
 #		Ano1025d
 #                 This is copyied from the spreadsheet
-#                 https://bit.ly/jrp-metadata, column A and stored
-#                 into a file call jrp-scores/ids.txt Then the output
-#                 of this program is pasted into the "Filename"
-#                 column of the same spreadsheet.
+#                 https://bit.ly/jrp-metadata, column A.
 #
 
 use strict;
@@ -50,7 +47,8 @@ foreach my $entry (@list) {
 	}
 	my $composer = $1;
 		
-	my @files = glob("$composer/kern/$entry-*\.krn");
+	my $pattern = "$composer/kern/$entry-*\.krn";
+	my @files = glob($pattern);
 
 	if (@files == 0) {
 		print "$entry\tNO_FILE" if $prefixIds;
@@ -60,11 +58,29 @@ foreach my $entry (@list) {
 	if (@files > 1) {
 		die "Error: duplicate IDs in files: ", join("\t", @files), "\n";
 	}
-	my $base = $files[0];
-	$base =~ s/.*\///;
+	my $EEV = "";
+	my @contents;
+	open(FILE, $files[0]) or $EEV = "NO_FILE";
+	@contents = <FILE>;
+	close FILE;
+	foreach my $line (@contents) {
+		next if $line !~ /^!!!EEV:/;
+		chomp $line;
+		if ($line =~ /^!!!EEV:\s*(.*)\s*$/) {
+			my $value = $1;
+			if ($value !~ /^\s*$/) {
+				$EEV = $value;
+				last;
+			}
+		}
+	}
+	$EEV =~ s/\/$//;
+
 	print "$entry\t" if $prefixIds;
-	print "$base\n";
+	print "$EEV\n";
 }
 
 	
+
+
 

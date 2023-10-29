@@ -2,7 +2,7 @@
 #
 # Programmer:    Craig Stuart Sapp <craig.stanford.edu>
 # Creation Date: Sat Oct  7 02:03:41 PDT 2023
-# Last Modified: Sat Oct  7 02:03:46 PDT 2023
+# Last Modified: Sat Oct 28 23:11:30 PDT 2023
 # Filename:      jrp-scores/bin/getNoteCount
 # Syntax:        perl 5
 #
@@ -27,8 +27,6 @@
 
 
 use strict;
-
-die "Copy column A (excluding first row) from spreadsheet https://bit.ly/jrp-metadata\nand store in a file called ids.txt before running this program.\n" if !-r "ids.txt";
 
 my $notecount = `which notecount`;
 chomp $notecount;

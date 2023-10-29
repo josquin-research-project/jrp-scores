@@ -64,6 +64,7 @@
 ##
 ##
 
+BINDIR = binx
 
 # targets which don't actually refer to files/directories:
 .PHONY : 
@@ -386,7 +387,7 @@ notearray:
 
 mp3: web-mp3
 web-mp3:
-	bin/download-mp3s
+	$(BINDIR)/download-mp3s
 
 
 ##############################
@@ -465,11 +466,11 @@ census:
 index: humdrum-index jrp-index
 
 humdrum-index:
-	bin/makehmdindex > index.hmd
+	$(BINDIR)/makehmdindex > index.hmd
 
 worklist: jrp-index
 jrp-index:
-	bin/makeworklist > worklist.json
+	$(BINDIR)/makeworklist > worklist.json
 
 
 
@@ -481,7 +482,7 @@ jrp-index:
 notecount: notecounts
 nc: notecounts
 notecounts:
-	bin/getNoteCounts ids.txt
+	@$(BINDIR)/getWorkIdList | $(BINDIR)/getNoteCounts
 
 
 
@@ -493,7 +494,7 @@ notecounts:
 fn: filenames
 filename: filenames
 filenames: work-id-list
-	@bin/getWorkIdList | bin/getFilenames
+	@$(BINDIR)/getWorkIdList | $(BINDIR)/getFilenames
 
 
 
@@ -507,7 +508,7 @@ fnp: filenames-with-ids
 fwi: filenames-with-ids
 filename-with-id: filenames-with-ids
 filenames-with-ids:
-	@bin/getWorkIdList | bin/getFilenames -p
+	@$(BINDIR)/getWorkIdList | $(BINDIR)/getFilenames -p
 
 
 
@@ -520,7 +521,107 @@ wid: work-id-list
 wil: work-id-list
 works-id-list: work-id-list
 work-id-list:
-	@bin/getWorkIdList > work-ids.txt
+	@$(BINDIR)/getWorkIdList > work-ids.txt
+
+
+
+##############################
+##
+## make end -- make a list of the encoding dates of each file for 
+##    placement in the "Date added" column of the Works worksheet.
+##
+
+end:
+	@$(BINDIR)/getWorkIdList | $(BINDIR)/getEncodingDate
+
+
+
+##############################
+##
+## make endp -- make a list of the encoding dates of each file for 
+##    placement in the "Date added" column of the Works worksheet.
+##    Prefix the ID number of the file.
+##
+
+endp:
+	@$(BINDIR)/getWorkIdList | $(BINDIR)/getEncodingDate -p
+
+
+
+##############################
+##
+## make eev -- make a list of the encoding dates of each file for 
+##    placement in the "Date changed" column of the Works worksheet.
+##
+
+eev:
+	@$(BINDIR)/getWorkIdList | $(BINDIR)/getElectronicVersion
+
+
+
+##############################
+##
+## make eevp -- make a list of the electronic version of each file for 
+##    placement in the "Date changed" column of the Works worksheet.
+##    Prefix the ID number of the file.
+##
+
+eevp:
+	@$(BINDIR)/getWorkIdList | $(BINDIR)/getElectronicVersion -p
+
+
+
+##############################
+##
+## make text -- Check if files have **text spines or note.
+##    Place in the "Texted" column of the Works worksheet.
+##
+
+texted: text
+text:
+	@$(BINDIR)/getWorkIdList | $(BINDIR)/getTexted
+
+
+
+##############################
+##
+## make textp -- Check if files have **text spines or note.
+##    Place in the "Texted" column of the Works worksheet.
+##    Prefix the ID number of the file.
+##
+
+texted-p: textp
+textedp: textp
+text-p: textp
+textp:
+	@$(BINDIR)/getWorkIdList | $(BINDIR)/getTexted -p
+
+
+
+##############################
+##
+## make extant-voices -- Count the number of **kern spines in files.
+##    Place in the "Extant voices" column of the Works worksheet.
+##
+
+ev: extant-voices
+extant-voice: extant-voices
+extant-voices:
+	@$(BINDIR)/getWorkIdList | $(BINDIR)/getExtantVoices
+
+
+
+##############################
+##
+## make textp -- Check if files have **text spines or note.
+##    Place in the "Texted" column of the Works worksheet.
+##    Prefix the ID number of the file.
+##
+
+evp: extant-voices-p
+extant-voice-p: extant-voices-p
+extant-voices-p:
+	@$(BINDIR)/getWorkIdList | $(BINDIR)/getExtantVoices -p
 
 
 

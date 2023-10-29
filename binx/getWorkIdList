@@ -38,7 +38,7 @@ die "Cannot find cut program.  Install it first somehow.\n" if $cut =~ /^\s*$/;
 #    https://docs.google.com/spreadsheets/d/1KBXyuyE4pfJ61UtQBEfEwLp-vjoyFO_fbUU03DOsiGU/edit#gid=1415236658
 # It may need to be updated occasionally.
 
-my $macroid = "AKfycbxfvPNoV2Y29uohhaFy1mSPacuCOFEOcwI4XRp2HN9OfAbv_vzbV3Uxq7kZgyRV0kXdBA";
+my $macroid = "AKfycbxd74XE3MgVisPZ092KgtBvhfEu5OiVQxH-CXkSJIgP7OXwDN_7CEsBDYw-0RO-sgyiww";
 
 my $url = "https://script.google.com/macros/s/$macroid/exec?sheet=works&format=tsv";
 
