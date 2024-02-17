@@ -484,7 +484,7 @@ note-counts: notecounts
 notecount: notecounts
 nc: notecounts
 notecounts:
-	$(BINDIR)/getNoteCount
+	@$(BINDIR)/getNoteCount
 
 
 
@@ -507,7 +507,7 @@ notecount-composers: notecountsbycomposer
 notecountcomposers: notecountsbycomposer
 ncc: notecountsbycomposer
 notecountsbycomposer:
-	$(BINDIR)/getNoteCount -c
+	@$(BINDIR)/getNoteCount -c
 
 
 

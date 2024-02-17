@@ -152,10 +152,15 @@ at http://muse2ps.ccarh.org .  MuseData generated from the Humdrum
 data files can be downloaded with the command `make musedata`.
 
 Currently, composers with complete (or nearly complete) sets of
-encoded works include: Josquin, Okeghem, La Rue and de Orto.
+encoded works include: Gaspar, Josquin, La Rue, Okeghem, and de Orto.
 
 The relative size of each composer's work database can be viewed
-on the [JRP Census page](http://josquin.stanford.edu/census).
+on the [JRP Census page](http://josquin.stanford.edu/census).  You can
+count the number of works and notes for each composer by the command:
+
+```bash
+make note-counts-by-composer
+```
 
 
 # Filenames #
