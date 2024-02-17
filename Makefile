@@ -476,7 +476,7 @@ jrp-index:
 
 ##############################
 ##
-## make notecounts -- count notes in each file for spreadsheet.
+## make notecounts -- count notes for all files.
 ##
 
 note-count: notecounts
@@ -485,6 +485,29 @@ notecount: notecounts
 nc: notecounts
 notecounts:
 	$(BINDIR)/getNoteCount
+
+
+
+##############################
+##
+## make notecounts-by-composer -- count notes for all files by composer.
+##
+
+note-count-by-composer: notecountsbycomposer
+note-counts-by-composer: notecountsbycomposer
+note-count-composer: notecountsbycomposer
+note-counts-composer: notecountsbycomposer
+notecount-composer: notecountsbycomposer
+notecountcomposer: notecountsbycomposer
+note-count-by-composers: notecountsbycomposer
+note-counts-by-composers: notecountsbycomposer
+note-count-composers: notecountsbycomposer
+note-counts-composers: notecountsbycomposer
+notecount-composers: notecountsbycomposer
+notecountcomposers: notecountsbycomposer
+ncc: notecountsbycomposer
+notecountsbycomposer:
+	$(BINDIR)/getNoteCount -c
 
 
 
