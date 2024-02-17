@@ -9,8 +9,8 @@ interfaces to some online analysis tools.  These scores encompass
 music of the early Renaissance (ca. 1420 to ca. 1520), mostly
 representing the [Franco-Flemish
 School](http://en.wikipedia.org/wiki/Franco-Flemish_School) and are
-mainly intended for computational analysis.  As a result only a
-few works include text/lyrics suitable for vocal performance.
+mainly intended for computational analysis.  As a result only a few
+works include text/lyrics suitable for vocal performance.
 
 A peculiar aspect in music of the sixteenth century (from a modern
 viewpoint) is an incomplete notation of accidentals needed for
@@ -23,21 +23,22 @@ key signature, or an explicit accidental written immediately before
 the note.
 
 Another conceptual difference is the use of mensuration signs.
-These evolved (decayed) into time signatures.  The most common
-mensuration in the music is Cut-C, from which modern cut-time
+These evolved (decayed) into modern time signatures.  The most
+common mensuration in the music is Cut-C, from which modern cut-time
 originates.  In this mensuration the *beat* is at the whole-note
 rhythmic level, and the metric cycle is two beats (a breve). Circle
 mensuration is the second most common mensuration in the music.
-This represents three whole-note beats per rhythmic cycle (dotted
+This represents three whole-note beats per rhythmic cycle (dotted/perfect
 breve).  Mensuration signs also convey tempo, so MIDI files on the
 [JRP](http://josquin.stanford.edu) website made from these scores
 typically interpret tempo from the mensuration signs in the data
-(with the tempo slowing down over the generations due to smaller
-rhythmic values becoming more common).  Modern time signatures are
-present in the data as a result of using music notation software
-for data entry and are of secondary concern (notice that they are
-not displayed in the scores on the [JRP](http://josquin.stanford.edu)
-website.
+(with the tempo of the whole notes slowing down over the generations
+due to smaller rhythmic values becoming more common).  Modern time
+signatures are present in the data as a result of using music
+notation software for data entry and are of secondary concern (notice
+that they are not displayed in the scores on the
+[JRP](http://josquin.stanford.edu) website, but use rather for metric
+analyses.
 
 Barlines had not yet been invented in the fifteenth century, so all
 barlines in the data are interpreted; however, these are less open
@@ -46,8 +47,10 @@ barlines represent breves (double whole notes) durations, although
 they sometimes represent longs (quadruple whole notes), and may
 include patterns of dashed and solid lines to indicate the implied
 long (solid lines) and breve (dash line) metric grid of the music.
+In Circle mensuration the mensural breve is a dotted double whole
+note in modern notation.
 
-All parts are encoded in modern notation that is sensitive to the
+All parts are encoded in modern notation, but sensitive to the
 original mensural notation intent of the fifteenth century.  The
 main difference is that all rhythmic durations and augmentation
 dots are made explicit rather than dependent on a note's musical
@@ -57,42 +60,48 @@ layout during the fifteenth century (see an example of a
 mensuration changes sometimes do not occur at the same point in
 each part.  For example, one part may have a whole note in Cut-C
 mensuration while another part has a dotted whole note in 3
-mensuration.  This is represented in the data with the same rhythmic
-duration in each part, usually as a whole note and a triplet dotted
-whole note using an ```*rscale:3/2``` interpretation in the second
-part to indicate that it is to be displayed with a rhythmic duration
-3/2 longer (i.e., convert the triplet dotted whole note into a
-non-triplet dotted whole note).
+mensuration, called sesquialtera.  This is represented in the data
+with the same rhythmic duration in each part, usually as a whole
+note and a triplet dotted whole note using an `*rscale:3/2`
+interpretation in the second part to indicate that it is to be
+displayed with a rhythmic duration 3/2 longer (i.e., convert the
+triplet dotted whole note into a non-triplet dotted whole note).
 
 In mensural music (particularly in masses) the voices are sometimes
-notated in conflicting note values. (Colloquially we refer to a
-voice being "augmented" or "diminished" relative to the others.)
-The most common situation is for a half-note in the tenor to have
-the same duration as a whole-note in another part.  The ```*rscale```
-rhythmic-scaling interpretation will also be used in these cases.
-All parts in the data have a 1:1 rhythmic scaling against each other
-for analytic purposes.  Applying the ```*rscale``` factor will cause
-a part to be displayed in its original rhythmic values (i.e., reverse
-the resolution of the augmentation/diminution).
+notated in conflicting note values, related in part to using less
+common mensurals signs such as C-dot and O-dot. (Colloquially we
+refer to a voice being "augmented" or "diminished" relative to the
+others.) The most common situation is for a half-note in the tenor
+to have the same duration as a whole-note in another part.  The
+`*rscale` rhythmic-scaling interpretation will also be used in these
+cases.  All parts in the data have a 1:1 rhythmic scaling in the
+modern sense against each other for analytic purposes.  Applying
+the `*rscale` factor will cause a part to be displayed in its
+original rhythmic values (i.e., reverse the resolution of the
+augmentation/diminution).
 
 Triplet brackets are given explicitly in the data using "V" and "Z"
-characters.  Triplet brackets indicate music that was originally in 
-colored notation, which is a mensural equivalent of triplets.  Music in 
-3-mensuration (an alternate mensural method of showing triplets) may be 
-represented as modern rhythmic triplets in the data, but will not contain 
-triplet brackets.  Mostly commonly 3-mensurtion music is represented in
-3/1 modern time signatures, while colored notation are typically represented
-as triplets in 2/1 time signature.  When the perceived beat is at the triplet
-wholenote level in colored notation, the modern time signature is given as
-3/3%2.  3%2 represents 2/3rds of a whole notes, or in other words a triplet
-whole note.  So a 2/1 measure has the same duation as 3/3%2 (two wholenotes
-equals three triplet wholenotes).
+characters.  Triplet brackets indicate music that was originally
+in colored notation, which is a mensural equivalent of triplets
+(although coloration can be used for other purposes as well).  Music
+in 3-mensuration (an alternate mensural method of showing triplets)
+may be represented as modern rhythmic triplets in the data, but
+will not contain triplet brackets.  Mostly commonly 3-mensurtion
+music is represented in 3/1 modern time signatures to be played
+2/3rds faster, while colored notation are typically represented as
+triplets in 2/1 time signature.  When the perceived beat is at the
+triplet wholenote level in colored notation, the modern time signature
+is given as 3/3%2 (which is not a standard time signature in modern
+notation).  3%2 represents 2/3rds of a whole notes, or in other
+words a triplet whole note.  So a 2/1 measure has the same duation
+as 3/3%2 (two wholenotes equals three triplet wholenotes).
 
-Ligatures are groups of notes with their heads attached to each other which
-typically gives information about the rhythm of the notes in mensural
-notation.  Usually modern notation of mensural music will place brackets
-around individual notes which were originally part of a ligature group.
-However, ligatures are not indicated in this data.
+Ligatures are groups of notes with their heads attached to each
+other which typically gives information about the rhythm of the
+notes in mensural notation.  Usually modern notation of mensural
+music will place brackets around individual notes which were
+originally part of a ligature group.  However, ligatures are typically
+not indicated in this data.
 
 
 # Composers #
@@ -121,7 +130,7 @@ the meta-repository which contains each composer's works.
    <tr><td> <a href=https://github.com/josquin-research-project/Mar>Mar</a> </td><td> Johannes Martini		</td><td> (<a href=http://josquin.stanford.edu/browse-filter/?c=Mar>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Johannes_Martini>Wikipedia</a>) </td></tr>
    <tr><td> <a href=https://github.com/josquin-research-project/Mou>Mou</a> </td><td> Jean Mouton		</td><td> (<a href=http://josquin.stanford.edu/browse-filter/?c=Mou>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Jean_Mouton>Wikipedia</a>) </td></tr>
    <tr><td> <a href=https://github.com/josquin-research-project/Obr>Obr</a> </td><td> Jacob Obrecht		</td><td> (<a href=http://josquin.stanford.edu/browse-filter/?c=Obr>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Jacob_Obrecht>Wikipedia</a>) </td></tr>
-   <tr><td> <a href=https://github.com/josquin-research-project/Ock>Ock</a> </td><td> Johannes Ockeghem		</td><td> (<a href=http://josquin.stanford.edu/browse-filter/?c=Ock>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Johannes_Ockeghem>Wikipedia</a>) </td></tr>
+   <tr><td> <a href=https://github.com/josquin-research-project/Oke>Oke</a> </td><td> Johannes Okeghem		</td><td> (<a href=http://josquin.stanford.edu/browse-filter/?c=Oke>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Johannes_Okeghem>Wikipedia</a>) </td></tr>
    <tr><td> <a href=https://github.com/josquin-research-project/Ort>Ort</a> </td><td> Marbrianus de Orto	</td><td> (<a href=http://josquin.stanford.edu/browse-filter/?c=Ort>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Marbrianus_de_Orto>Wikipedia</a>) </td></tr>
    <tr><td> <a href=https://github.com/josquin-research-project/Pip>Pip</a> </td><td> Matthaeus Pipelare	</td><td> (<a href=http://josquin.stanford.edu/browse-filter/?c=Pip>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Matthaeus_Pipelare>Wikipedia</a>) </td></tr>
    <tr><td> <a href=https://github.com/josquin-research-project/Reg>Reg</a> </td><td> Johannes Regis		</td><td> (<a href=http://josquin.stanford.edu/browse-filter/?c=Reg>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Johannes_Regis>Wikipedia</a>) </td></tr>
@@ -129,36 +138,38 @@ the meta-repository which contains each composer's works.
    <tr><td> <a href=https://github.com/josquin-research-project/Tin>Tin</a> </td><td> Johannes Tinctoris</td><td> (<a href=http://josquin.stanford.edu/browse/?c=Tin>JRP</a>) </td><td> (<a href=http://en.wikipedia.org/wiki/Johannes_Tinctoris>Wikipedia</a>) </td></tr>
 </table>
 
-Within each directory of the repository is a subdirectory
-called ```kern``` that contains the actual scores in the **kern data
-type of the Humdrum data file format.  MIDI files can be downloaded from
-the JRP website by typing the command ```make midi``` in the root directory
-of the jrp-scores repository (provided that you have GNU make installed on
-your computer).  PDF files for the musical scores (which are generated from
-the Humdrum data files found in this repository) can be downloaded
-with the command ```make pdf```.  PDF scores are printed with the MuseData
-printing system.   A command-line version of this system is available at
-http://muse2ps.ccarh.org .  MuseData generated from the Humdrum data
-files can be downloaded with the command ```make musedata```.
+Within each directory of the repository is a subdirectory called
+`kern` that contains the actual scores in the `**kern` data type
+of the Humdrum data file format.  MIDI files can be downloaded from
+the JRP website by typing the command `make midi` in the root
+directory of the jrp-scores repository (provided that you have GNU
+make installed on your computer).  PDF files for the musical scores
+(which are generated from the Humdrum data files found in this
+repository) can be downloaded with the command `make pdf`.  PDF
+scores are printed with the [MuseData](https://musedata.ccarh.org)
+printing system.  A command-line version of this system is available
+at http://muse2ps.ccarh.org .  MuseData generated from the Humdrum
+data files can be downloaded with the command `make musedata`.
 
 Currently, composers with complete (or nearly complete) sets of
-encoded works include: Josquin, Ockeghem, La Rue and de Orto.
+encoded works include: Josquin, Okeghem, La Rue and de Orto.
 
-The relative size of each composer's work database can be viewed on the [JRP Census page](http://josquin.stanford.edu/census).
+The relative size of each composer's work database can be viewed
+on the [JRP Census page](http://josquin.stanford.edu/census).
 
 
 # Filenames #
 
 Each file in the database starts with a unique JRP catalog number.
-This consists of a three-letter composer ID as listed above,
-followed by a four-digit number to represent a specific work by
-that composer.  Typically the first digit of the catalog number
-will indicate the genre of the work: 1 for masses, 2 for motets,
-and 3 for secular songs (see the ```!!!AGN``` reference record
-inside of the file for the actual genre designations).  The music
-of Josquin is an exception, where the first two digits indicate its
-volume number in the New Josquin Edition, and the last two digits
-indicate the enumerated position of the work within that volume.
+This consists of a three-letter composer ID as listed above, followed
+by a four-digit number to represent a specific work by that composer.
+Typically the first digit of the catalog number will indicate the
+genre of the work: 1 for masses, 2 for motets, and 3 for secular
+songs (see the `!!!AGN` reference record inside of the file for the
+actual genre designations).  The music of Josquin is an exception,
+where the first two digits indicate its volume number in the New
+Josquin Edition, and the last two digits indicate the enumerated
+position of the work within that volume.
 
 After the four-digit work number, an optional letter indicates that
 a *movement*-level encoding of a work is found in the file.  This
@@ -189,14 +200,14 @@ encoded as underscore characters in the filenames.  Two underscores
 in a row indicate a slash in the title.  No accent marks are given
 in the filename titles since they are
 [POSIX](http://en.wikipedia.org/wiki/POSIX) compliant; see the
-```!!!OTL``` reference record within each file for the proper
-accentuation of work titles.
+`!!!OTL` reference record within each file for the proper accentuation
+of work titles.
 
 Title information in filenames are a courtesy for human beings.  As
 such they can be removed from filenames, leaving only the unique
-catalog numbers. (Removing catalog numbers will not result in
-unique filenames since a composer may write several songs with the
-same title).
+catalog numbers. (Removing catalog numbers will not result in unique
+filenames since a composer may write several songs with the same
+title).
 
 
 # Download #
@@ -206,15 +217,15 @@ To download this Github repository using
 
 <code>git clone --recursive https://github.com/josquin-research-project/jrp-scores</code>
 
-The ```--recursive``` option is needed to download each of the
+The `--recursive` option is needed to download each of the
 individual composer repositories inside of the meta-repository.
 
 In a unix terminal, you can check to see if git is installed by
-typing ```which git```.  If the terminal replies with a path to
+typing `which git`.  If the terminal replies with a path to
 git, then you can proceed with the above cloning to download the
 repository.  If not, then typically you can use a package manager
-to install git, such as ```apt-get install git``` or ```yum install
-git``` in linux.  On Apple OS X computers, git can be installed
+to install git, such as `apt-get install git` or `yum install
+git` in linux.  On Apple OS X computers, git can be installed
 directly from [here](http://git-scm.com/download/mac) or by more
 experienced users from a mac package manager such as
 [Homebrew](http://brew.sh).  If you have a comicbook-like view of the
@@ -223,41 +234,23 @@ computer world, you can download GUI interfaces for git
 plugin](http://eclipse.github.com) is also available for the Eclipse
 IDE ([watch video](http://www.youtube.com/watch?v=ptK9-CNms98)).
 
-This repository cannot be downloaded in a very useful format from
-the ZIP link on the Github website, since the included repositories
-for each composer will not be included in that ZIP file.  You must
-either use [git](http://en.wikipedia.org/wiki/Git_%29software%29)
-software or separately download each of the individual composer's
-ZIP files linked from the table above.  Use [this bash
-script](https://gist.github.com/josquin-research-project/8177804)
-to download manually using wget (usually for linux &
-[cygwin](http://www.cygwin.com)), or [this bash
-script](https://gist.github.com/josquin-research-project/8177884)
-for OS X.
+This repository collects individual composer repositories as submodules. You
+can also download the composer repositories separatly, such as for Josquin:
+
+```bash
+git clone http://github.com/josquin-research-project/Jos
+```
 
 
 # Update #
 
 After you have downloaded this repository with `git`, you can check 
-periodically for updates for all composers' works using this command:
+periodically for updates for all composers' works using this command
+in the `jrp-scores` directory:
 
-<code>
-git pull --recurse-submodules<br>
-  git submodule foreach git checkout master
-</code>
-
-Alternatively, the makefile in the base directory can be used to
-run this command:
-
-<code>make update</code>
-
-If the scores were downloaded manually with one of the two gist
-scripts below, you must re-download all files to check for updates.
-Re-run one of these two scripts using either
-[wget](https://gist.github.com/josquin-research-project/8177804)
-(linux & cygwin) or
-[curl](https://gist.github.com/josquin-research-project/8177884)
-(Apple OS X).
+```
+make update
+```
 
 # Processing scores #
 
@@ -341,7 +334,9 @@ modern rhythmic level for beats).  This can be done with the
 [rscale](http://extras.humdrum.org/man/rscale) tool to apply a
 rhythmic scaling of 1/4 to all notes in all scores:
 
-<code>rscale -f 1/4 oldfile > newfile</code>
+```bash
+rscale -f 1/4 oldfile > newfile
+```
 
 A makefile in the base directory of this repository ([this
 one](https://github.com/josquin-research-project/jrp-scores/blob/master/Makefile)
@@ -349,23 +344,25 @@ contains instructions to generate reduced rhythmic versions of all
 files.  Type (if [Humdrum Extras](https://github.com/craigsapp/humextra)
 is installed):
 
-<code>make reduced</code>
+```
+make reduced
+```
 
 or if humextras is not installed, type:
 
-<code>make web-reduced</code>
-
-to download the reduced form from the JRP website ([example](http://josquin.stanford.edu/data?a=humdrumreduced&f=Jos2721-La_Bernardina)).  This will create
-subdirectories in each composer directory named 
-```kern-reduced``` with the reduced rhythmic versions of the data files.
-
-
+```bash
+make web-reduced
+```
 
 ### Other example processing ###
 
 Here are some other interesting processing actions:
 
-* Determine works that include text/lyrics: <code>grep -rl '\\\*\\\*text' \*/kern/\*</code>
+* Determine works that include text/lyrics: 
+
+```bash
+grep -rl '\\\*\\\*text' \*/kern/\*
+```
 
 
 # Alternate data access #
@@ -374,37 +371,23 @@ Here are some other interesting processing actions:
 
 The website http://josquin.stanford.edu is a high-level interface
 to these scores, but also includes lower-level access to the data,
-data conversions, and analytic tools using URL parameters in the
-web address.  On the JRP website, each score has a "work info" page
-generated with this format:
+data conversions, and analytic tools using URL parameters from the
+https://data.josqu.in web address.  On the JRP website, each score
+has a "work info" page generated with this format:
 
-<code>http://josquin.stanford.edu/work?id=Jos2721</code>
+https://data.josqu.in/work?id=Jos2721.krn
 
-Where ```Jos2721``` is the JRP catalog number 2721 from Josquin's
-collection of works, and ```info``` is the *action* being applied
-to the given work (file) which causes the work-info page to be
-displayed.  A title may optionally follow the catalog number (with
-exact spelling of the title in the database):
+Example MIDI data file access by setting the file extensiom to `mid`:
 
-<code>http://josquin.stanford.edu/work?id=Jos2721-La_Bernardina</code>
-
-A file extension can also be given (.krn in this case) but will
-always be ignored.  Example Humdrum data file access by setting the
-*action* to "humdrum":
-
-<code>http://josquin.stanford.edu/data?a=humdrum&f=Jos2721-La_Bernardina</code>
-
-Example MIDI data file access by setting the *action* to "midi":
-
-<code>http://josquin.stanford.edu/data?a=midi&f=Jos2721-La_Bernardina</code>
+http://data.josqu.in/Jos2721-La_Bernardina.mid
 
 Example graphical music scores in PDF format with four possible styles:
-* Without editorial accidentals or text: <code>http://josquin.stanford.edu/data?a=notationnoedit&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie</code>
-* Without editorial accidentals but with text: <code>http://josquin.stanford.edu/data?a=notationnoeditwithtext&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie</code>
-* With editorial accidentals but without text: <code>http://josquin.stanford.edu/data?a=notationwitheditorial&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie</code>
-* With editorial accidentals and with text: <code>http://josquin.stanford.edu/data?a=notationwitheditorialwithtext&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie</code>
+* Without editorial accidentals or text: http://josquin.stanford.edu/data?a=notationnoedit&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie
+* Without editorial accidentals but with text: http://josquin.stanford.edu/data?a=notationnoeditwithtext&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie
+* With editorial accidentals but without text: http://josquin.stanford.edu/data?a=notationwitheditorial&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie
+* With editorial accidentals and with text: http://josquin.stanford.edu/data?a=notationwitheditorialwithtext&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie
 
-Scores are generated from the original Humdrum **kern scores found
+Scores are generated from the original Humdrum `**kern` scores found
 in this repository for each work, so music notation in the PDF files
 should match exactly.  Online PDF files of the scores are created
 using the [hum2muse](http://extra.humdrum.org/man/hum2muse) converter
@@ -428,8 +411,8 @@ The [Humdrum Extras](http://extra.humdrum.org) tools/library
 ([github](https://github.com/craigsapp/humextra)) contains internal
 knowledge for how to download the digital scores on the command
 line.  To download from the JRP website, the filename is prefixed
-by ```jrp://```.  To download from the kernScores website, the
-prefix is ```humdrum://```, or ```h://``` for short.  KernScores
+by `jrp://`.  To download from the kernScores website, the
+prefix is `humdrum://`, or `h://` for short.  KernScores
 access requires the exact file name (catalog number, title, file
 extension), while JRP access requires only the catalog number.
 
@@ -442,9 +425,9 @@ humcat jrp://Jos2721</code>
 Since it requires the full filename for accessing individual
 files, the kernScores downloading method is instead mostly useful
 for downloading an entire set of composer's works.  Try the following
-humextra command to download all of the works for Ockeghem:
+humextra command to download all of the works for Okeghem:
 
-<code>mkdir Ock; cd Ock; humsplit h://jrp/Ock</code>
+<code>mkdir Oke; cd Oke; humsplit h://jrp/Oke</code>
 
 The kernScores website has five meta-collections of the scores: two for Josquin
 authenticity levels, and three for the main genres of mass, motet and song.  These
@@ -481,11 +464,11 @@ All songs:
 
 </table>
 
-Type ```make genres``` in the base directory of the repository if 
+Type `make genres` in the base directory of the repository if 
 [Humdrum Extras](https://github.com/craigsapp/humextras) is installed to 
 download the Zma, Zmo, and Zso genre groupings from the kernScores website.
 
-Type ```make Joa; make Job``` in the base directory of the repository if 
+Type `make Joa; make Job` in the base directory of the repository if 
 [Humdrum Extras](https://github.com/craigsapp/humextras) is installed to 
 download the secure and not secure groupings of Josquin music.
 
