@@ -479,6 +479,8 @@ jrp-index:
 ## make notecounts -- count notes in each file for spreadsheet.
 ##
 
+note-count: notecounts
+note-counts: notecounts
 notecount: notecounts
 nc: notecounts
 notecounts:
