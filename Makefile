@@ -122,7 +122,7 @@ githubupdate: github-pull
 githubpull:   github-pull
 github-pull:
 	git pull --recurse-submodules
-	git submodule foreach git pull origin main
+	git submodule update --init --recursive
 
 
 
