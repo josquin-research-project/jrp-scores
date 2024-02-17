@@ -484,7 +484,7 @@ note-counts: notecounts
 notecount: notecounts
 nc: notecounts
 notecounts:
-	@$(BINDIR)/getWorkIdList | $(BINDIR)/getNoteCounts
+	$(BINDIR)/getNoteCount
 
 
 

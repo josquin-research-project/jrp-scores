@@ -2,7 +2,7 @@
 #
 # Programmer:    Craig Stuart Sapp <craig.stanford.edu>
 # Creation Date: Sat Oct  7 02:03:41 PDT 2023
-# Last Modified: Sat Oct 28 23:11:30 PDT 2023
+# Last Modified: Sat Feb 17 11:49:59 PST 2024
 # Filename:      jrp-scores/bin/getNoteCount
 # Syntax:        perl 5
 #
@@ -24,7 +24,6 @@
 #                https://bit.ly/jrp-metadata, column A.  Then the
 #                output of this program is pasted into the "Notes"
 #                column of the same spreadsheet.
-
 
 use strict;
 
@@ -70,5 +69,5 @@ foreach my $file (@list) {
 
 print "$sum notes in $filecount files\n";
 
-	
+
 
