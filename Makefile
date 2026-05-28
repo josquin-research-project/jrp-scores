@@ -122,7 +122,8 @@ githubupdate: github-pull
 githubpull:   github-pull
 github-pull:
 	git pull --recurse-submodules
-	git submodule update --init --recursive
+	git submodule update --init --recursive --remote
+	git status --short
 
 
 
@@ -647,6 +648,5 @@ evp: extant-voices-p
 extant-voice-p: extant-voices-p
 extant-voices-p:
 	@$(BINDIR)/getWorkIdList | $(BINDIR)/getExtantVoices -p
-
 
 
