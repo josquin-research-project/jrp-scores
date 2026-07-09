@@ -1,0 +1,298 @@
+!!!!SEGMENT: Gas/Gas0503.2-Bon_temps_Adieu_mes_amours.krn
+!!!COM: Gaspar van Weerbeke
+!!!CDT: ~1450-~1517
+!!!ONB: attrib. "Gaspart" #48 in FlorC Basevi 2442
+!!!OTL: Bon temps / Adieu mes amours
+!!!ONB: Bassus composed by Paul Kolb
+!!!AGN: Song; Chanson
+!!!SCT: Gas0503
+!!!SCA: Gas0503
+!!!jrpid: Gas0503.2
+!!!voices: 4
+!!!voices-extant: 3
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
+*I'B	*	*I'T	*	*I'A	*	*I'S	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:a:t=[Bassus composed by Paul Kolb]	!	!	!	!	!	!	!
+*	*edit	*	*	*	*	*	*
+1G	Bon	0r	.	0r	.	0r	.
+[1G	temps,	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+1G]	.	0r	.	1d	Bon	1g	Bon
+1D	je	.	.	[1d	temps,	2b-y	temps,
+.	.	.	.	.	.	2b-y	je
+=3	=3	=3	=3	=3	=3	=3	=3
+2.F	ne	0r	.	1d]	.	2a	ne
+.	.	.	.	.	.	2dd	te
+4F	te	.	.	.	.	.	.
+2G	puis	.	.	1e-X	ne	2dd	puis
+2A	lais-	.	.	.	.	2cc	lais-
+=4	=4	=4	=4	=4	=4	=4	=4
+1B-y	-sier:	1G	A-	0d	vien-	1dd	-sier:
+1r	.	1B-y	-dieu	.	.	1r	.
+=5	=5	=5	=5	=5	=5	=5	=5
+0r	.	1A	mes	1c	-dra	0r	.
+.	.	1G	a-	[1B-y	tu	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+1D	tu	0d	-mours,	2B-]	.	1r	.
+.	.	.	.	4A	.	.	.
+.	.	.	.	4G	.	.	.
+1F	m'as	.	.	1A	ja-	1a	tu
+!!LO:LB:g=original
+=7	=7	=7	=7	=7	=7	=7	=7
+1G	t'a-	1B-y	a-	1G	-mais?	2b-y	m'as
+.	.	.	.	.	.	2g	t'a-
+1F	-mour	1c	-dieu	1r	.	4a	-mour
+.	.	.	.	.	.	4g	.
+.	.	.	.	.	.	4f	.
+.	.	.	.	.	.	4e	.
+=8	=8	=8	=8	=8	=8	=8	=8
+2G	don-	2B-y	mon	1r	.	2d	.
+2E	-né-	2G	.	.	.	2.g	don-
+1D	-e,	1A	sou-	1d	Tu	.	.
+.	.	.	.	.	.	4f#i	.
+.	.	.	.	.	.	4f#i	-né-
+.	.	.	.	.	.	4e	.
+=9	=9	=9	=9	=9	=9	=9	=9
+1r	.	1G	-las,	0d	m'a	1g	-e.
+1BB-y	don-	2D	a-	.	.	1r	.
+.	.	2G	-dieu	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+1AA	-né-	2G	mes	1c	don-	0r	.
+.	.	2F#i	es-	.	.	.	.
+1GG	-e.	1G	-bas,	1B-y	-né	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+0r	.	1B-y	.	2.d	me-	0r	.
+.	.	.	.	4e	.	.	.
+.	.	1A	he-	2f	-ren-	.	.
+.	.	.	.	[2e	-co-	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+0r	.	4G	-las,	4e]	.	0r	.
+.	.	4F	.	4d	.	.	.
+.	.	4E	.	1d	-li-	.	.
+.	.	4D	.	.	.	.	.
+.	.	1E	he-	.	.	.	.
+.	.	.	.	2c#i	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+1r	.	1D	-las.	0d	-e:	0r	.
+2G	Le-	1r	.	.	.	.	.
+2G	-vez	.	.	.	.	.	.
+!!LO:LB:g=original
+=14	=14	=14	=14	=14	=14	=14	=14
+2E	vous	2r	.	0r	.	2g	Le-
+2E	hau	2G	Des-	.	.	2g	-vez
+2D	guil-	2A	-suls	.	.	2f	vous
+2D	-le-	2A	ton	.	.	2f	hau
+=15	=15	=15	=15	=15	=15	=15	=15
+2.E	-met-	2G	lict,	0r	.	2.g	guil-
+.	.	2G	ton	.	.	.	.
+4D	.	.	.	.	.	4f	-le-
+1C	.	2c	lict	.	.	1e	-met-
+.	.	2c	et	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+1G	-te	2B-y	la	0r	.	2d	-te
+.	.	2B-y	de-	.	.	2g	car
+1r	.	1A	-mour-	.	.	2g	il
+.	.	.	.	.	.	2f#i	est
+=17	=17	=17	=17	=17	=17	=17	=17
+1r	.	1G	-rons.	2d	il	0g	jour.
+.	.	.	.	2d	est	.	.
+1C	car	1r	.	2e	de	.	.
+.	.	.	.	2e	bon-	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+1D	il	2r	.	2f	-ne'heu-	0r	.
+.	.	2F	Chan-	2f	-re	.	.
+2E	est	2G	-tez	1e	né	.	.
+2C	.	2A	du	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+1G	jour.	1B-y	cueur	2d	qui	0r	.
+.	.	.	.	2d	tient	.	.
+1r	.	2G	fin	2e	s'a-	.	.
+.	.	2c	la	2e	-mi-	.	.
+!!LO:LB:g=original
+=20	=20	=20	=20	=20	=20	=20	=20
+1A	Son-	2c	bien	2f	-e'en	0r	.
+.	.	2c	ve-	2f	ung	.	.
+2A	-nez,	1c	-nue	1e	pré	.	.
+2A	chan-	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+2.B-y	-tez	0r	.	2.g	sur	0r	.
+4A	.	.	.	4f	.	.	.
+2G	.	.	.	2e	l'her-	.	.
+2B-y	du	.	.	2d	-be	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+1A	bon	0r	.	2f	jo-	0r	.
+.	.	.	.	2.e	-li-	.	.
+2G	.	.	.	.	.	.	.
+.	.	.	.	4d	.	.	.
+2F	.	.	.	[2d	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+1E	cueur	1G	de	2d]	.	1g	Son-
+.	.	.	.	2c#i	.	.	.
+1D	fin,	2A	mon-	1d	-e.	2f	-nez,
+.	.	2A	-sig-	.	.	2f	chan-
+=24	=24	=24	=24	=24	=24	=24	=24
+2r	.	1B-y	-neur	1d	Son-	1g	-tez
+2GG	du	.	.	.	.	.	.
+1AA	bon	1A	le	2c	-nez	2f	du
+.	.	.	.	2c	la	[2e	bon
+=25	=25	=25	=25	=25	=25	=25	=25
+1BB-y	.	2F	dauf-	2B-y	bien	4e]	.
+.	.	.	.	.	.	4d	.
+.	.	2G	.	2G	ve-	1d	cueur
+1AA	cueur	1E	.	1A	-nu-	.	.
+.	.	.	.	.	.	2c#i	.
+!!LO:PB:g=original
+=26	=26	=26	=26	=26	=26	=26	=26
+1D	fin,	1D	-fin.	1A	-e	1d	fin,
+2r	.	2r	.	2r	.	2r	.
+2D	son-	2d	Son-	2F	de	2f	son-
+=27	=27	=27	=27	=27	=27	=27	=27
+2D	-nez	2d	-nez	2F	mon-	2a	-nez
+2D	la	2d	bon-	2f	-sig-	2a	la
+2F	bien	2c	-bar-	2f	-neur	2a	bien
+2G	ve-	2B-y	-des,	2e	le	2b-y	ve-
+=28	=28	=28	=28	=28	=28	=28	=28
+1F	-nu-	1c	son-	2.f	dauf-	2b-y	-nu-
+.	.	.	.	.	.	2a	.
+.	.	.	.	4d	.	.	.
+1BB-y	-e	1B-y	-nez,	1d	-fin.	1b-y	-e
+=29	=29	=29	=29	=29	=29	=29	=29
+2r	.	2r	.	2r	.	2r	.
+2BB-y	de	2B-y	trom-	2d	Son-	2b-y	de
+*	*	*	*edit	*	*	*	*
+2F	mon-	2c	-pet-	2f	-nez	2a	mon-
+*	*	*	*Xedit	*	*	*	*
+2E	-sig-	2c	-tes	2g	bon-	2g	-sig-
+=30	=30	=30	=30	=30	=30	=30	=30
+1D	-neur	1d	et	2f	-bar-	2b-y	-neur
+.	.	.	.	1d	-des'et	2.a	le
+1E-X	le	2B-y	clai-	.	.	.	.
+.	.	.	.	.	.	4g	.
+.	.	4A	.	2c	clai-	[2g	dauf-
+.	.	4G	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+1D	dauf-	1A	.	[0d	-rons,	2g]	.
+.	.	.	.	.	.	2f#i	.
+1G	-fin.	1G	-rons.	.	.	1g	-fin.
+!!LO:LB:g=original
+=32	=32	=32	=32	=32	=32	=32	=32
+2r	.	2r	.	1d]	.	2r	.
+2G	Son-	2B-y	Il	.	.	2g	Son-
+2G	-nez	2B-y	est	2r	.	2g	-nez
+2G	trom-	2B-y	de	[2d	et	2g	trom-
+=33	=33	=33	=33	=33	=33	=33	=33
+1G	-pet-	2B-y	bon-	2d]	.	1g	-pet-
+.	.	2B-y	-ne'heu-	2d	le-	.	.
+1D	-tes,	2A	-re	1d	-vez	1f	-tes,
+.	.	2A	né	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+2r	.	2r	.	1G	vous	2r	.
+2C	son-	2G	qui	.	.	2g	son-
+2F	-nez	2A	tient	2rB	.	2f	-nez
+[2E-X	bon-	[2B-y	s'a	[2G	hau	[2g	bon-
+=35	=35	=35	=35	=35	=35	=35	=35
+2E-]	.	4B-]	.	4G]	.	4g]	.
+.	.	4A	mie	4A	.	4f	.
+2D	.	2F	en	2B-y	guil-	1f	-bar-
+1C	-bar-	1G	ung	1c	-le-	.	.
+.	.	.	.	.	.	2e	.
+=36	=36	=36	=36	=36	=36	=36	=36
+1F	-des,	1F	pré	1A	-met-	0f	-des,
+2r	.	2r	.	1d	-te,	.	.
+2D	son-	2F	sur	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+2E	-nez	2G	l'her-	1r	.	0r	.
+1F	fal-	2.A	.	.	.	.	.
+.	.	.	.	1d	le-	.	.
+.	.	4F	-be	.	.	.	.
+2D	.	[2B-y	jo-	.	.	.	.
+!!LO:LB:g=original
+=38	=38	=38	=38	=38	=38	=38	=38
+1C	.	2B-]	.	2e-X	-vez	1r	.
+.	.	2A	-li-	2e-	vous	.	.
+2BB-y	-cons,	1B-y	-e.	4d	car	1b-y	son-
+.	.	.	.	4c	.	.	.
+2GG	son-	.	.	4B-y	il	.	.
+.	.	.	.	4A	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+2GG	-nez	0r	.	1G	est	2b-y	-nez
+2GG	fal-	.	.	.	.	2b-y	fal-
+1D	-cons.	.	.	1F	jour.	1a	-cons.
+=40	=40	=40	=40	=40	=40	=40	=40
+2r	.	2r	.	2r	.	2r	.
+2F	Son-	2c	Son-	2f	Son-	2a	Son-
+2F	-nez,	2c	-nez,	2f	-nez,	2a	-nez
+2F	chan-	2c	chan-	2f	chan-	2a	chan-
+=41	=41	=41	=41	=41	=41	=41	=41
+1C	-tez	2.c	-tez	1e	-tez	1g	-tez
+.	.	4B-y	.	.	.	.	.
+2D	soir	2A	.	2d	soir	2f	soir
+2E	et	[2G	soir	2Bni	.	[2e	et
+=42	=42	=42	=42	=42	=42	=42	=42
+2C	ma-	2G]	.	2c	.	4e]	.
+.	.	.	.	.	.	4d	.
+2D	.	2F	et	1A	et	1d	ma-
+1AA	.	1E	ma-	.	.	.	.
+.	.	.	.	2A	ma-	2c#i	.
+=43	=43	=43	=43	=43	=43	=43	=43
+1D	-tin,	1D	-tin,	1A	-tin,	1d	-tin,
+2r	.	2r	.	2r	.	2r	.
+2D	son-	2d	son-	2A	son-	2f	son-
+!!LO:LB:g=original
+=44	=44	=44	=44	=44	=44	=44	=44
+2D	-nez	2d	-nez	2F	-nez	2a	-nez
+2D	la	2d	la	2f	la	2a	la
+2F	bien	2c	bien	2f	bien	2a	bien
+2G	ve-	2B-y	ve-	2e	ve-	2b-y	ve-
+=45	=45	=45	=45	=45	=45	=45	=45
+1F	-nu-	1c	-nu-	1f	-nu-	4b-y	-nu-
+.	.	.	.	.	.	4a	.
+.	.	.	.	.	.	4a	.
+.	.	.	.	.	.	4g	.
+1BB-y	-e	1B-y	-e	1d	-e	1b-y	-e
+=46	=46	=46	=46	=46	=46	=46	=46
+2r	.	2r	.	2r	.	2r	.
+2BB-y	de	2B-y	de	2d	de	2b-y	de
+2F	mon-	2c	mon-	2f	mon-	2a	mon-
+2E	-sig-	2c	-sig-	2g	-sig-	2g	-sig-
+=47	=47	=47	=47	=47	=47	=47	=47
+1D	-neur	1d	-neur	2f	-neur	2b-y	-neur
+.	.	.	.	2.d	le	2.a	le
+1E-X	le	2B-y	le	.	.	.	.
+.	.	.	.	4c	.	4g	.
+.	.	4A	.	4c	.	[2g	dauf-
+.	.	4G	.	4B-y	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48
+1D	dauf-	1A	dauf-	0d	dauf-	4g]	.
+.	.	.	.	.	.	4f#i	.
+.	.	.	.	.	.	4f#i	.
+.	.	.	.	.	.	4e	.
+[1GGl	-fin.	[1Gl	-fin.	.	.	[1gl	-fin.
+=49	=49	=49	=49	=49	=49	=49	=49
+0GG]	.	0G]	.	0dl	-fin.	0g]	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: j = editorial accidental, optional, paren up
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!PTL: Gaspar van Weerbeke: Collected Works. V. Settings of Liturgical Texts, Songs, and Instrumental Works
+!!!ISBN: 978-1-59551-544-5
+!!!PPR: American Institute of Musicology
+!!!PC#: Corpus Mensurabilis Musicae 106/V
+!!!PDT: 2020
+!!!PED: Kolb, Paul
+!!!YEC: Copyright 2018, Kolb, Paul
+!!!YEM: CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+!!!EED: Zybina, Karina
+!!!EEV: 2021/08/25
+!!!muse2ps: C^@{COM}^i2I150v90,90,90,120c122z18l2700t130
+!!!ONB: from http://www.gaspar-van-weerbeke.sbg.ac.at/gaspar-online-edition with doubled rhythms

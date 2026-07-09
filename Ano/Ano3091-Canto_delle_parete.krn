@@ -1,0 +1,227 @@
+!!!!SEGMENT: Ano/Ano3091-Canto_delle_parete.krn
+!!!COM: Anonymous
+!!!OTL: Canto delle parete
+!!!AGN: Song; Chanson
+!!!SCT: Ano3091
+!!!SCA: Ano3091
+!!!jrpid: Ano3091
+!!!SMS:
+!!!folio:
+!!!voices: 4
+**kern	**text	**text	**text	**text	**kern	**text	**text	**text	**text	**kern	**text	**text	**text	**text	**kern	**text	**text	**text	**text
+*staff4	*staff4	*staff4	*staff4	*staff4	*staff3	*staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1	*staff1
+*Ivox	*	*	*	*	*Ivox	*	*	*	*	*Ivox	*	*	*	*	*Ivox	*	*	*	*
+*I"Bassus	*	*	*	*	*I"Tenor	*	*	*	*	*I"Altus	*	*	*	*	*I"Superius	*	*	*	*
+*I'B	*	*	*	*	*I'T	*	*	*	*	*I'A	*	*	*	*	*I'S	*	*	*	*
+*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
+*>full[A,B,B,C,A,B,B,C]	*>full[A,B,B,C,A,B,B,C]	*>full[A,B,B,C,A,B,B,C]	*>full[A,B,B,C,A,B,B,C]	*>full[A,B,B,C,A,B,B,C]	*>full[A,B,B,C,A,B,B,C]	*>full[A,B,B,C,A,B,B,C]	*>full[A,B,B,C,A,B,B,C]	*>full[A,B,B,C,A,B,B,C]	*>full[A,B,B,C,A,B,B,C]	*>full[A,B,B,C,A,B,B,C]	*>full[A,B,B,C,A,B,B,C]	*>full[A,B,B,C,A,B,B,C]	*>full[A,B,B,C,A,B,B,C]	*>full[A,B,B,C,A,B,B,C]	*>full[A,B,B,C,A,B,B,C]	*>full[A,B,B,C,A,B,B,C]	*>full[A,B,B,C,A,B,B,C]	*>full[A,B,B,C,A,B,B,C]	*>full[A,B,B,C,A,B,B,C]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*clefF4	*	*	*	*	*clefGv2	*	*	*	*	*clefGv2	*	*	*	*	*clefG2	*	*	*	*
+*k[b-]	*	*	*	*	*k[b-]	*	*	*	*	*k[b-]	*	*	*	*	*k[b-]	*	*	*	*
+*M2/1	*	*	*	*	*M2/1	*	*	*	*	*M2/1	*	*	*	*	*M2/1	*	*	*	*
+*met(C)	*	*	*	*	*met(C)	*	*	*	*	*met(C)	*	*	*	*	*met(C)	*	*	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!!LO:TX:X=-80:Z=60:t=Florentine carnival song about the art of catching birds.
+!!LO:TX:X=-80:Z=40:t=Text by Guglielmo detto il Giuggiola
+1C	Don-	&	&	&	1c	Don-	&	&	&	1g	Don-	&	&	&	1cc	Don-	&	&	&
+2C	-ne,	.	.	.	2e	-ne,	.	.	.	2g	-ne,	.	.	.	2cc	-ne,	.	.	.
+2C	s'el	.	.	.	2e	s'el	.	.	.	2g	s'el	.	.	.	2cc	s'el	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+2F	can-	.	.	.	2f	can-	.	.	.	2c	can-	.	.	.	2a	can-	.	.	.
+2F	-tar	.	.	.	2f	-tar	.	.	.	2c	-tar	.	.	.	2a	-tar	.	.	.
+2C	no-	.	.	.	2e	no-	.	.	.	2c	no-	.	.	.	2g	no-	.	.	.
+2c	-stro a-	.	.	.	2e	-stro a-	.	.	.	2c	-stro a-	.	.	.	2g	-stro a-	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+2.A	-scol-	.	.	.	2f	-scol-	.	.	.	2r	.	.	.	.	2.cc	-scol-	.	.	.
+.	.	.	.	.	2e	-te-	.	.	.	2c	-scol-	.	.	.	.	.	.	.	.
+4G	-te-	.	.	.	.	.	.	.	.	.	.	.	.	.	4b-	-te-	.	.	.
+2F	-re-	.	.	.	4f	-re-	.	.	.	2c	-te-	.	.	.	2a	-re-	.	.	.
+.	.	.	.	.	2d	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+2E	.	.	.	.	.	.	.	.	.	2G	-re-	.	.	.	2g	.	.	.	.
+.	.	.	.	.	4c#i	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+1D	.	.	.	.	0d;	-te,	.	.	.	0A;	-te,	.	.	.	0f;	-te,	.	.	.
+1D;	-te,	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+1D	ghu-	.	.	.	1A	ghu-	.	.	.	1d	ghu-	.	.	.	1f	ghu-	.	.	.
+2D	-stan-	.	.	.	2A	-stan-	.	.	.	2d	-stan-	.	.	.	2f	-stan-	.	.	.
+2D	-do	.	.	.	2A	-do	.	.	.	2d	-do	.	.	.	2f	-do	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+2G	quel-	.	.	.	2B-	quel-	.	.	.	2d	quel-	.	.	.	2d	quel-	.	.	.
+2C	-lo	.	.	.	2c	-lo	.	.	.	2e	-lo	.	.	.	1g	-lo	.	.	.
+1D	a	.	.	.	1A	a	.	.	.	1d	a	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	2f	a	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+2E	pie-	.	.	.	2G	pie-	.	.	.	2B-	pie-	.	.	.	2g	pie-	.	.	.
+2G	-no, a	.	.	.	2d	-no, a	.	.	.	2B-	-no, a	.	.	.	2b-	-no, a	.	.	.
+2G	tut-	.	.	.	2d	tut-	.	.	.	2B-	tut-	.	.	.	2b-	tut-	.	.	.
+2G	-te in-	.	.	.	2e	-te in-	.	.	.	2B-	-te in-	.	.	.	2b-	-te in-	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+1F	-se-	.	.	.	2f	-se-	.	.	.	1c	-se-	.	.	.	1a	-se-	.	.	.
+.	.	.	.	.	1f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+1C	-gne-	.	.	.	.	.	.	.	.	1c	-gne-	.	.	.	1g	-gne-	.	.	.
+.	.	.	.	.	2e	-gne-	.	.	.	.	.	.	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+1F	-r&egrave;-	.	.	.	1f	-r&egrave;-	.	.	.	1c	-r&egrave;-	.	.	.	1a	-r&egrave;-	.	.	.
+1F	-no	.	.	.	1f	-no	.	.	.	1c	-no	.	.	.	1a	-no	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2r	.	.	.	.	2r	.	.	.	.	2r	.	.	.	.	2r	.	.	.	.
+2C	l'art-	.	.	.	2e	l'art-	.	.	.	2c	l'art-	.	.	.	2g	l'art-	.	.	.
+2.C	-te	.	.	.	2.e	-te	.	.	.	2.g	-te	.	.	.	2.cc	-te	.	.	.
+4C	del-	.	.	.	4e	del-	.	.	.	4g	del-	.	.	.	4cc	del-	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+2c	-l'uc-	.	.	.	2e	-l'uc-	.	.	.	2g	-l'uc-	.	.	.	2cc	-l'uc-	.	.	.
+2c	-cel-	.	.	.	2e	-cel-	.	.	.	2g	-cel-	.	.	.	2cc	-cel-	.	.	.
+2F	-la-	.	.	.	2f	-la-	.	.	.	2a	-la-	.	.	.	2a	-la-	.	.	.
+2B-	-re al-	.	.	.	2d	-re al-	.	.	.	2g	-re al-	.	.	.	[2dd	-re al-	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+1A	-le	.	.	.	1e	-le	.	.	.	2.a	-le	.	.	.	2dd]	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	2cc	-le	.	.	.
+.	.	.	.	.	.	.	.	.	.	4g	.	.	.	.	.	.	.	.	.
+2D	pa-	.	.	.	2d	pa-	.	.	.	2.f	pa-	.	.	.	2b-	pa-	.	.	.
+2F	.	.	.	.	2c	.	.	.	.	.	.	.	.	.	[2a	-re-	.	.	.
+.	.	.	.	.	.	.	.	.	.	4e	.	.	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+2G	-re-	.	.	.	2B-	-re-	.	.	.	2d	-re-	.	.	.	4a]	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4g	.	.	.	.
+2C	.	.	.	.	2c	.	.	.	.	2e	.	.	.	.	1g	.	.	.	.
+1D	.	.	.	.	1A	.	.	.	.	1d	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	2f#i	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+0G	-te.	.	.	.	0G	-te.	.	.	.	0d	-te.	.	.	.	0g	-te.	.	.	.
+!!LO:LB:i:g=z
+=15!|:	=15!|:	=15!|:	=15!|:	=15!|:	=15!|:	=15!|:	=15!|:	=15!|:	=15!|:	=15!|:	=15!|:	=15!|:	=15!|:	=15!|:	=15!|:	=15!|:	=15!|:	=15!|:	=15!|:
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
+*clefF4	*	*	*	*	*clefGv2	*	*	*	*	*clefGv2	*	*	*	*	*clefG2	*	*	*	*
+*k[b-]	*	*	*	*	*k[b-]	*	*	*	*	*k[b-]	*	*	*	*	*k[b-]	*	*	*	*
+*M2/1	*	*	*	*	*M2/1	*	*	*	*	*M2/1	*	*	*	*	*M2/1	*	*	*	*
+*met(C)	*	*	*	*	*met(C)	*	*	*	*	*met(C)	*	*	*	*	*met(C)	*	*	*	*
+1G	No'	et	Per	et	1d	No'	et	Per	et	1g	No'	et	Per	et	1dd	No'	et	Per	et
+2G	sap-	son	can-	qual-	2d	sap-	son	can-	qual-	2g	sap-	son	can-	qual-	2dd	sap-	son	can-	qual-
+2G	-pi&agrave;n	di	-tar,	-che	2d	-pi&agrave;n	di	-tar,	-che	2g	-pi&agrave;n	di	-tar,	-che	2dd	-pi&agrave;n	di	-tar,	-che
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2D	c'o-	noi	don-	na-	2.a	c'o-	noi	don-	na-	2.f	c'o-	noi	don-	na-	2.ff	c'o-	noi	don-	na-
+2D	-gni	mi-	-ne, uc-	-tu-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	4g	-gni	mi-	-ne, uc-	-tu-	4f	-gni	mi-	-ne, uc-	-tu-	4ee	-gni	mi-	-ne, uc-	-tu-
+2d	don-	-glior	-ce'	-ra-	2f	don-	-glior	-ce'	-ra-	2a	don-	-glior	-ce'	-ra-	2dd	don-	-glior	-ce'	-ra-
+2A	-na	ma-	di	-le et	2e	-na	ma-	di	-le et	2a	-na	ma-	di	-le et	2cc	-na	ma-	di	-le et
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+2d	sem-	-e-	piu	buon	2d	sem-	-e-	piu	buon	2f	sem-	-e-	piu	buon	2ff	sem-	-e-	piu	buon
+2c	-pre	-stre as-	ra-	pin-	2e	-pre	-stre as-	ra-	pin-	2g	-pre	-stre as-	ra-	pin-	2ee	-pre	-stre as-	ra-	pin-
+1B-	ma-	-sa-	-gio-	-cio-	2f	ma-	-sa-	-gio-	-cio-	1d	ma-	-sa-	-gio-	-cio-	1dd	ma-	-sa-	-gio-	-cio-
+.	.	.	.	.	2g	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+0A;	-i	-i	-ne	-ne	0a;	-i	-i	-ne	-ne	0e;	-i	-i	-ne	-ne	0cc;	-i	-i	-ne	-ne
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+1D	d'uc-	d'in-	d'a-	so-	1f	d'uc-	d'in-	d'a-	so-	1d	d'uc-	d'in-	d'a-	so-	1dd	d'uc-	d'in-	d'a-	so-
+2D	-cel-	-pa-	-ver	-pra-	2d	-cel-	-pa-	-ver	-pra-	2f	-cel-	-pa-	-ver	-pra-	2dd	-cel-	-pa-	-ver	-pra-
+2D	-lar	-niar	sem-	-tut-	2d	-lar	-niar	sem-	-tut-	2f	-lar	-niar	sem-	-tut-	2dd	-lar	-niar	sem-	-tut-
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2.F	si	la	-pre	-to in-	1c	si	la	-pre	-to in-	1f	si	la	-pre	-to in-	2.a	si	la	-pre	-to in-
+4E	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4g	.	.	.	.
+2D	.	.	.	.	2f	.	.	.	.	2r	.	.	.	.	4a	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4b-	.	.	.	.
+2C	di-	fra-	cer-	-gab-	2e	di-	fra-	cer-	-gab-	2g	di-	fra-	cer-	-gab-	2cc	di-	fra-	cer-	-gab-
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+2D	-let-	-schet-	-ca-	-bia-	2d	-let-	-schet-	-ca-	-bia-	2.f	-let-	-schet-	-ca-	-bia-	2b-	-let-	-schet-	-ca-	-bia-
+2F	.	.	.	.	2c	.	.	.	.	.	.	.	.	.	1a	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4e	.	.	.	.	.	.	.	.	.
+1G	.	.	.	.	1B-	.	.	.	.	1d	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	2g	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+0D	-ta;&	-ta:&	-te;&	-te:&	0A	-ta;&	-ta:&	-te;&	-te:&	0d	-ta;&	-ta:&	-te;&	-te:&	0a	-ta;&	-ta:&	-te;&	-te:&
+!!LO:LB:i:g=z
+=23:|!	=23:|!	=23:|!	=23:|!	=23:|!	=23:|!	=23:|!	=23:|!	=23:|!	=23:|!	=23:|!	=23:|!	=23:|!	=23:|!	=23:|!	=23:|!	=23:|!	=23:|!	=23:|!	=23:|!
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
+*clefF4	*	*	*	*	*clefGv2	*	*	*	*	*clefGv2	*	*	*	*	*clefG2	*	*	*	*
+*k[b-]	*	*	*	*	*k[b-]	*	*	*	*	*k[b-]	*	*	*	*	*k[b-]	*	*	*	*
+*M2/1	*	*	*	*	*M2/1	*	*	*	*	*M2/1	*	*	*	*	*M2/1	*	*	*	*
+*met(C)	*	*	*	*	*met(C)	*	*	*	*	*met(C)	*	*	*	*	*met(C)	*	*	*	*
+1r	.	.	.	.	1A	ma	ma,	.	.	0r	.	.	.	.	0r	.	.	.	.
+1D	ma	ma,	.	.	2d	per-	te-	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	2d	-ch&egrave;	-nen-	.	.	.	.	.	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+2G	per-	te-	.	.	1e	spes-	-do-	.	.	1r	.	.	.	.	0r	.	.	.	.
+2G	-ch&egrave;	-nen-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+1A	spes-	-do-	.	.	1c	-so	-lo	.	.	2r	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	2e	in	in	.	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+1F	-so	-lo	.	.	2r	.	.	.	.	2f	van	man,	.	.	0r	.	.	.	.
+.	.	.	.	.	2c	in	in	.	.	2f	l'uc-	pri-	.	.	.	.	.	.	.
+2r	.	.	.	.	2f	van	man,	.	.	2d	-cel	-ma	.	.	.	.	.	.	.
+2C	in	in	.	.	2e	l'uc-	pri-	.	.	2g	s'a-	pro-	.	.	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+2D	van	man,	.	.	2d	-cel	-ma	.	.	2.f	-spet-	-va-	.	.	0r	.	.	.	.
+2F	l'uc-	pri-	.	.	2a	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4d	.	.	.	.	.	.	.	.	.
+2C	-cel	-ma	.	.	2g	.	.	.	.	2e	.	.	.	.	.	.	.	.	.
+2D	s'a-	pro-	.	.	2f	s'a-	pro-	.	.	[2d	.	.	.	.	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+1A	-spet-	-va-	.	.	1e	-spet-	-va-	.	.	2d]	.	.	.	.	0r	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	2c#i	.	.	.	.	.	.	.	.	.
+1D	-ta,	-te,	.	.	1d	-ta,	-te,	.	.	1d	-ta,	-te,	.	.	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+2r	.	.	.	.	2r	.	.	.	.	2r	.	.	.	.	2r	.	.	.	.
+2G	et	ch&egrave;,	.	.	2d	et	ch&egrave;,	.	.	2B-	et	ch&egrave;,	.	.	2g	et	ch&egrave;,	.	.
+2G	po-	se e'	.	.	2d	po-	se e'	.	.	2B-	po-	se e'	.	.	2g	po-	se e'	.	.
+2G	-cho	mo-	.	.	2d	-cho	mo-	.	.	2B-	-cho	mo-	.	.	2g	-cho	mo-	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+1C	frut-	-zas-	.	.	2e	frut-	-zas-	.	.	2.c	frut-	-zas-	.	.	1cc	frut-	-zas-	.	.
+.	.	.	.	.	2c	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8B-L	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8AJ	.	.	.	.	.	.	.	.	.
+1G	-to	-si el	.	.	2d	-to	-si el	.	.	1B-	-to	-si el	.	.	1b-	-to	-si el	.	.
+.	.	.	.	.	2e	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+1F	fa-	ver-	.	.	2.f	fa-	ver-	.	.	1c	fa-	ver-	.	.	2.a	fa-	ver-	.	.
+.	.	.	.	.	4e	.	.	.	.	.	.	.	.	.	4g	.	.	.	.
+2BB-	.	.	.	.	2d	.	.	.	.	2f	.	.	.	.	2b-	.	.	.	.
+2C	.	.	.	.	2c	.	.	.	.	2e	.	.	.	.	[2a	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+2D	.	.	.	.	2B-	.	.	.	.	2d	.	.	.	.	4a]	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4g	.	.	.	.
+2E-i	.	.	.	.	4A	.	.	.	.	2c	.	.	.	.	1g	.	.	.	.
+.	.	.	.	.	4G	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+1D	.	.	.	.	1A	.	.	.	.	1d	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	2f#i	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+0G;	-te,	-so,	.	.	0G;	-te,	-so,	.	.	0d;	-te,	-so,	.	.	0g;	-te,	-so,	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+*M3/1	*	*	*	*	*M3/1	*	*	*	*	*M3/1	*	*	*	*	*M3/1	*	*	*	*
+*met(3)	*	*	*	*	*met(3)	*	*	*	*	*met(3)	*	*	*	*	*met(3)	*	*	*	*
+1F	uc-	in	.	.	1c	uc-	in	.	.	1f	uc-	in	.	.	1a	uc-	in	.	.
+1F	-cel-	lui	.	.	1c	-cel-	lui	.	.	1f	-cel-	lui	.	.	1a	-cel-	lui	.	.
+1F	-la-	gut-	.	.	1c	-la-	gut-	.	.	1f	-la-	gut-	.	.	1a	-la-	gut-	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+0C	-re in-	-to in-	.	.	0e	-re in-	-to in-	.	.	0g	-re in-	-to in-	.	.	0cc	-re in-	-to in-	.	.
+1c	-pa-	-van	.	.	1e	-pa-	-van	.	.	1g	-pa-	-van	.	.	1cc	-pa-	-van	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+1B-	-ra-	per-	.	.	0f	-ra-	per-	.	.	1d	-ra-	per-	.	.	0dd	-ra-	per-	.	.
+1d	.	.	.	.	.	.	.	.	.	1f	.	.	.	.	.	.	.	.	.
+1c	-te al-	-so el	.	.	1g	-te al-	-so el	.	.	1e	-te al-	-so el	.	.	1ee	-te al-	-so el	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+0F	-le	ten-	.	.	1.a	-le	ten-	.	.	0c	-le	ten-	.	.	1.ff	-le	ten-	.	.
+.	.	.	.	.	2g	.	.	.	.	.	.	.	.	.	2ee	.	.	.	.
+1B-	pa-	-po a-	.	.	1f	pa-	-po a-	.	.	1d	pa-	-po a-	.	.	1dd	pa-	-po a-	.	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+1.c	-re-	-re-	.	.	1.e	-re-	-re-	.	.	1.g	-re-	-re-	.	.	1cc	-re-	-re-	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	1ee	.	.	.	.
+2A	.	.	.	.	2c	.	.	.	.	2f	.	.	.	.	.	.	.	.	.
+1B-	.	.	.	.	1f	.	.	.	.	1d	.	.	.	.	1dd	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+1c	.	.	.	.	1e	.	.	.	.	1g	.	.	.	.	0cc	.	.	.	.
+0G	.	.	.	.	0d	.	.	.	.	0g	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	1bni	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+0.Cl	-te.	-te.	.	.	0.cl	-te.	-te.	.	.	0.gl	-te.	-te.	.	.	0.ccl	-te.	-te.	.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Jesse Rodin
+!!!END: 2016/03/22/
+!!!EED: Jesse Rodin
+!!!EEV: 2016/03/22/
+!!!ONB: Translated from MusicXML and edited on 2016/03/22/ by Craig Sapp
+!!muse2ps: C^@{COM}^v90,90,90,100z18t300l2400c109Q4
+!!muse2ps: u^Magl. XIX .141; Banco Rari 337^

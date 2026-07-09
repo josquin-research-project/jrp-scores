@@ -1,0 +1,269 @@
+!!!!SEGMENT: Jos/Jos3013-Vous_larez.krn
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL@@FRE: Vous l'arez
+!!!AGN: Chanson
+!!!SCT: NJE 30.13
+!!!SCA: New Josquin Edition 30.13
+!!!jrpid: Jos3013
+!!!voices: 6
+**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
+*I"Bassus	*	*I"Sexta pars	*	*I"Tenor	*	*I"Quinta pars	*	*I"Altus	*	*I"Superius	*
+*I'B	*	*I'Sx	*	*I'T	*	*I'Q	*	*I'Ct	*	*I'S	*
+*clefF4	*	*clefF4	*	*clefGv2	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!	!	!	!	!LO:TX:Z=10:t=Canon at the lower 4th (tenor-->sextus, four breves)	!	!	!	!	!	!	!
+0r	.	0r	.	1r	.	1d	Vous	0r	.	0r	.
+.	.	.	.	1d	Vous	1d	l'a-	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+0r	.	0r	.	1d	l'a-	1G	-rez	0r	.	1d	Vous
+.	.	.	.	1G	-rez	[1d	s'il	.	.	1d	l'a-
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+0r	.	0r	.	1.d	s'il	2d\]	.	0r	.	1G	-rez
+.	.	.	.	.	.	2c\	vous	.	.	.	.
+.	.	.	.	.	.	2B-\	plaist	.	.	2.g/	s'il
+.	.	.	.	2c\	vous	2A/	ma-	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4f/	vous
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+0r	.	0r	.	2B-\	plaist	2G/	-da-	0r	.	2e-i/	plaist
+.	.	.	.	2A/	ma-	2F/	.	.	.	2d/	ma-
+.	.	.	.	1G	-da-	1E-i	.	.	.	1c	-da-
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+1A	Vous	1r	.	0A	-me,	0D	-me,	0r	.	0d	-me,
+1A	l'a-	1A	Vous	.	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+1D	-rez	1A	l'a-	0r	.	0r	.	1A	Vous	0r	.
+[1A	s'il	1D	-rez	.	.	.	.	1A	l'a-	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+2A\]	.	1.A	s'il	0r	.	0r	.	1D	-rez	0r	.
+2G\	vous	.	.	.	.	.	.	.	.	.	.
+2F\	plaist	.	.	.	.	.	.	2.d\	s'il	.	.
+2E\	ma-	2G\	vous	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4c\	vous	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+2.D\	-da-	2F\	plaist	0r	.	0r	.	2B-\	plaist	0r	.
+.	.	2E\	ma-	.	.	.	.	2A/	ma-	.	.
+4C/	.	.	.	.	.	.	.	.	.	.	.
+1BB-	.	1D	-da-	.	.	.	.	1G	-da-	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+0AA	-me,	0E	-me,	1r	.	1r	.	0A	-me,	1r	.
+.	.	.	.	1c	Mon	1C	Mon	.	.	1a	Mon
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+0r	.	0r	.	1B-	cueur,	1G	cueur,	0r	.	1b-	cueur,
+.	.	.	.	1G	mon	1G	mon	.	.	1b-	mon
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+0r	.	0r	.	1A	corps,	1F	corps,	0r	.	1a	corps,
+.	.	.	.	1d	mon	2.D/	mon	.	.	1a	mon
+.	.	.	.	.	.	4E/	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+0r	.	0r	.	2c\	bien,	2F/	bien,	0r	.	2a/	bien,
+.	.	.	.	2B-\	mon	2G/	mon	.	.	2b-\	mon
+.	.	.	.	1c	a-	1C	a-	.	.	2.g/	a-
+.	.	.	.	.	.	.	.	.	.	4a/	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+1r	.	1r	.	0B-	-me,	1G	-me,	1r	.	0b-	-me,
+1GG	Mon	1G	Mon	.	.	2r	.	1d	Mon	.	.
+.	.	.	.	.	.	2G/	mon	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+1D	cueur,	1F	cueur,	0r	.	1A	cueur,	1f	cueur,	0r	.
+1D	mon	1D	mon	.	.	1A	mon	1f	mon	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+1C	corps,	1E	corps,	0r	.	1c	corps,	1e	corps,	0r	.
+2.AA/	mon	1A	mon	.	.	1c	mon	1e	mon	.	.
+4BB-/	.	.	.	.	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2C/	bien,	2G\	bien,	0r	.	2c\	bien,	2e\	bien,	0r	.
+2D\	mon	2F\	mon	.	.	2A/	mon	2f\	mon	.	.
+1GG	a-	1G	a-	.	.	1B-	a-	2.d\	a-	.	.
+.	.	.	.	.	.	.	.	4e\	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+0D	-me,	0F	-me,	1r	.	2A/	-me,	0f	-me,	1r	.
+.	.	.	.	.	.	2d\	Vous	.	.	.	.
+.	.	.	.	1d	Vous	1d	l'a-	.	.	1a	Vous
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+2r	.	0r	.	1d	l'a-	1G	-rez,	2r	.	1b-	l'a-
+2G\	Vous	.	.	.	.	.	.	2d\	Vous	.	.
+1G	l'a-	.	.	1G	-rez	2r	.	1g	l'a-	1b-	-rez
+.	.	.	.	.	.	2G/	vous	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+1D	-rez	0r	.	1.d	a	1A	l'a-	1f	-rez	1a	a
+2r	.	.	.	.	.	1D	-rez,	2r	.	2a/	vos-
+2BB-/	a	.	.	2d\	vos-	.	.	2f\	a	[2b-\	-tre ha-
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2F\	vos-	0r	.	1c	-tre ha-	1r	.	2f\	vos-	4b-\]	.
+.	.	.	.	.	.	.	.	.	.	4a/	.
+2F\	-tre ha-	.	.	.	.	.	.	2f\	-tre ha-	1a	-ban-
+1G	-ban-	.	.	1B-	-ban-	2r	.	2.d\	-ban-	.	.
+.	.	.	.	.	.	2d\	vous	.	.	2g/	.
+.	.	.	.	.	.	.	.	4e\	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+0D	-don,	1r	.	0A	-don,	1d	l'a-	0f	-don,	[0a	-don,
+.	.	1A	Vous	.	.	1A	-rez,	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+2r	.	1A	l'a-	0r	.	2r	.	2r	.	0a]	.
+2D\	vous	.	.	.	.	2f\	vous	2A/	vous	.	.
+1D	l'a-	1D	-rez	.	.	1f	l'a-	1d	l'a-	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+!LO:TX:Z=10:t=M. 23, last note&colon; sources give A	!	!	!	!	!	!	!	!	!	!	!
+1AA	-rez	1.A	a	0r	.	2e\	-rez	1c	-rez	0r	.
+.	.	.	.	.	.	2e\	a	.	.	.	.
+2r	.	.	.	.	.	2e\	vos-	2r	.	.	.
+2FF/	a	2A\	vos-	.	.	[2f\	-tre ha-	2c\	a	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+2C/	vos-	1G	-tre ha-	0r	.	2f\]	.	2c\	vos-	0r	.
+2C/	-tre ha-	.	.	.	.	2e\	.	2c\	-tre ha-	.	.
+1D	-ban-	1F	-ban-	.	.	1d	-ban-	1B-	-ban-	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+0AA	-don,	0E	-don,	1r	.	0c	-don,	0A	-don,	2r	.
+.	.	.	.	.	.	.	.	.	.	2cc\	S'il
+.	.	.	.	1c	S'il	.	.	.	.	1cc	vous
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+2r	.	0r	.	1c	vous	1r	.	1r	.	1g	plaist,
+2C/	S'il	.	.	.	.	.	.	.	.	.	.
+1C	vous	.	.	1G	plaist,	2r	.	2r	.	2r	.
+.	.	.	.	.	.	2g\	s'il	2G/	S'il	2g/	s'il
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+4GG/	plaist	0r	.	1.d	me	2g\	vous	1G	vous	2.b-\	vous
+4AA/	.	.	.	.	.	.	.	.	.	.	.
+4BB-/	.	.	.	.	.	2d\	plaist	.	.	.	.
+4C/	.	.	.	.	.	.	.	.	.	4b-\	plaist
+4D\	.	.	.	.	.	2.f\	me	1F	plaist,	2b-\	me
+4E\	.	.	.	.	.	.	.	.	.	.	.
+2F\	me	.	.	2c\	fai-	.	.	.	.	[2a/	fai-
+.	.	.	.	.	.	4e\	fai-	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+2G\	fai-	0r	.	2B-\	.	2d\	-re	1r	.	4a/]	.
+.	.	.	.	.	.	.	.	.	.	4g/	.
+2E\	-re	.	.	2G/	-re	2c\	le	.	.	1g	-re
+1D	le	.	.	1A	le	[1d	don,	2r	.	.	.
+.	.	.	.	.	.	.	.	2A/	s'il	2f#i/	le
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+0GG	don,	1r	.	0G	don,	1d]	.	1B-	vous	1g	don,
+.	.	1G	S'il	.	.	2r	.	1G	plaist,	2r	.
+.	.	.	.	.	.	2d\	s'il	.	.	2b-\	s'il
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+1r	.	1G	vous	0r	.	1g	vous	2r	.	1b-	vous
+.	.	.	.	.	.	.	.	2d\	s'il	.	.
+2r	.	1D	plaist,	.	.	2f\	plaist,	[1d	vous	1a	plaist,
+2D\	s'il	.	.	.	.	2d\	s'il	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+1D	vous	1.A	me	0r	.	2f\	vous	2d\]	.	0r	.
+.	.	.	.	.	.	2f\	plaist	2A/	plaist	.	.
+2AA/	plaist	.	.	.	.	2f\	me	2.c\	me	.	.
+2C/	me	2G\	fai-	.	.	[2e\	fai-	.	.	.	.
+.	.	.	.	.	.	.	.	4B-\	fai-	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+2D\	fai-	2F\	.	0r	.	4e\]	.	2A/	-re	0r	.
+.	.	.	.	.	.	4d\	.	.	.	.	.
+2BB-/	-re	2D\	-re	.	.	1d	-re	2G/	le	.	.
+1AA	le	1E	le	.	.	.	.	1A	don	.	.
+.	.	.	.	.	.	2c#i\	le	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+0D	don	0D	don	1r	.	1d	don	2r	.	1r	.
+.	.	.	.	.	.	.	.	2F/	De	.	.
+.	.	.	.	1d	De	2r	.	2F/	ce	1a	De
+.	.	.	.	.	.	2d\	De	2F/	qui	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+2r	.	0r	.	1d	ce	2B-\	ce	1G	est	1b-	ce
+2GG/	De	.	.	.	.	2G/	qui	.	.	.	.
+2GG/	ce	.	.	1d	qui	[1d	est	1G	plus	1b-	qui
+2GG/	qui	.	.	.	.	.	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+1.D	est	0r	.	1.f	est	2d\]	.	2F/	doulx	1.a	est
+.	.	.	.	.	.	2d\	plus	2D/	que	.	.
+.	.	.	.	.	.	2d\	doulx	1A	bas-	.	.
+2AA/	plus	.	.	2e\	plus	2c\	que	.	.	2cc\	plus
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+2BB-/	doulx	0r	.	2d\	doulx	2.f\	bas=	1F	-me,	2b-\	doulx
+2F\	que	.	.	2c\	que	.	.	.	.	2a/	que
+.	.	.	.	.	.	4e\	.	.	.	.	.
+1G	bas-	.	.	1B-	bas-	1d	-me,	2r	.	1g	bas-
+.	.	.	.	.	.	.	.	2d\	de	.	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+1D	-me,	1r	.	0A	-me,	2r	.	2d\	ce	0f	-me,
+.	.	.	.	.	.	2D/	de	2d\	qui	.	.
+2r	.	1A	De	.	.	2D/	ce	[1f	est	.	.
+2D\	de	.	.	.	.	2D/	qui	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+2D\	ce	1A	ce	0r	.	1F	est,	2f\]	.	0r	.
+2D\	qui	.	.	.	.	.	.	4e\	plus	.	.
+.	.	.	.	.	.	.	.	4d\	.	.	.
+[1F	est	1A	qui	.	.	2r	.	1c	doulx,	.	.
+.	.	.	.	.	.	2A/	de	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+2F\]	.	1.c	est	0r	.	2A/	ce	1r	.	0r	.
+4E\	.	.	.	.	.	2A/	qui	.	.	.	.
+4D\	.	.	.	.	.	.	.	.	.	.	.
+2C/	.	.	.	.	.	2c\	est	2r	.	.	.
+2E\	plus	2B-\	plus	.	.	2G/	plus	2g\	plus	.	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
+2F\	doulx	2A\	doulx	0r	.	2c\	doulx	2f\	doulx	0r	.
+2C/	que	2G\	que	.	.	2c\	que	2e\	que	.	.
+1D	bas-	1F	bas-	.	.	2.B-\	bas-	1d	bas-	.	.
+.	.	.	.	.	.	4A/	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+0AA	-me,	0E	-me,	1r	.	1A	-me,	0c	-me,	2r	.
+.	.	.	.	.	.	.	.	.	.	2a/	de
+.	.	.	.	1c	de	2r	.	.	.	2a/	ce
+.	.	.	.	.	.	2A/	de	.	.	2a/	qui
+=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
+2r	.	0r	.	1c	ce	2A/	ce	1r	.	1.cc	est
+2AA/	de	.	.	.	.	2A/	qui	.	.	.	.
+2AA/	ce	.	.	1c	qui	[1c	est	2r	.	.	.
+2AA/	qui	.	.	.	.	.	.	2c\	de	4b-\	plus
+.	.	.	.	.	.	.	.	.	.	4a/	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
+!LO:TX:Z=8:t=NJE emends bassus G to B-flat	!	!	!	!	!	!	!	!	!	!	!
+1.C	est	0r	.	1.e-	est	2c\]	.	2c\	ce	1.g	doulx,
+.	.	.	.	.	.	4B-\	.	2c\	qui	.	.
+.	.	.	.	.	.	4A/	.	.	.	.	.
+.	.	.	.	.	.	2G/	.	2g\	est	.	.
+2GG/	plus	.	.	2d\	plus	2G/	plus	2g\	plus	2b-\	plus
+=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
+!	!	!	!	!	!	!	!	!LO:TX:Z=10:t=Sources, semiminim&colon; e'	!	!	!
+2F\	doulx	0r	.	2c\	doulx	2A/	doulx	2f\	doulx	2a/	doulx
+2G\	que	.	.	2B-\	que	2B-\	que	2d\	que	2g/	que
+1D	bas-	.	.	1A	bas-	1F	bas-	2.f\	bas-	4f#i/	bas-
+.	.	.	.	.	.	.	.	.	.	4g/	.
+.	.	.	.	.	.	.	.	.	.	4a/	.
+.	.	.	.	.	.	.	.	4d\	.	4f#i/	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
+1GG	-me,	1r	.	[0G	-me.	1B-	-me,	1d	-me,	[0g	-me.
+2r	.	1G	de	.	.	2r	.	2r	.	.	.
+2C/	plus	.	.	.	.	2E-i/	plus	2c\	plus	.	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
+2BB-/	doulx	1G	ce	0G_	.	2D/	doulx	2d\	doulx	0g_	.
+2BB-/	que	.	.	.	.	2D/	que	2d\	que	.	.
+1C	bas-	1G	qui	.	.	1E-i	bas-	4c\	bas-	.	.
+.	.	.	.	.	.	.	.	4d\	.	.	.
+.	.	.	.	.	.	.	.	4e-i\	.	.	.
+.	.	.	.	.	.	.	.	4c\	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
+1GG	-me,	1.B-	est	0G_	.	1D	-me,	1d	-me,	0g_	.
+2r	.	.	.	.	.	2r	.	2r	.	.	.
+2C/	plus	2A\	plus	.	.	2E-i/	plus	2c\	plus	.	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
+2BB-/	doulx	2G\	doulx	0G]	.	2D/	doulx	2d\	doulx	0g]	.
+2BB-/	que	2F\	que	.	.	2D/	que	2d\	que	.	.
+1C	bas-	1E-i	bas-	.	.	2.G/	bas-	4c\	bas-	.	.
+.	.	.	.	.	.	.	.	4d\	.	.	.
+.	.	.	.	.	.	.	.	4e-i\	.	.	.
+.	.	.	.	.	.	4A/	.	4c\	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
+0GGl	-me.	0Dl	-me.	0Gl	.	0B-l	-me.	0dl	-me.	0gl	.
+==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Will Watson 09/09/2011
+!!!END: 2011/09/09/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/12/01/
+!!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
+!!!ONB: Translated from MusicXML and edited on 2011/12/01/ by Craig Sapp
+!!muse2ps: C^@{COM}^i2I150v85,85,85,85,85,100z18l2550t200c115

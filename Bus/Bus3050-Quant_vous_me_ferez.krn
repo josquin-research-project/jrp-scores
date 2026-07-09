@@ -1,0 +1,175 @@
+!!!!SEGMENT: Bus/Bus3050-Quant_vous_me_ferez.krn
+!!!COM: Busnoys, Antoine
+!!!CDT: ~1430///-1492/11/06
+!!!OTL: Quant vous me ferez
+!!!AGN: Song; Chanson
+!!!SCT: Bus3050
+!!!SCA: Bus3050
+!!!jrpid: Bus3050
+!!!voices: 3
+**kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
+*staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
+*Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*
+*I"Contra	*	*	*	*I"Tenor	*	*	*	*I"Discantus	*	*	*
+*I'C	*	*	*	*I'T	*	*	*	*I'D	*	*	*
+*clefF4	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*
+*k[b-]	*	*	*	*k[]	*	*	*	*k[]	*	*	*
+*M3/1	*	*	*	*M3/1	*	*	*	*M3/1	*	*	*
+*met(O)	*	*	*	*met(O)	*	*	*	*met(O)	*	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!	!	!	!	!	!	!	!	!LO:TX:Z=12:t=Rondeau	!	!	!
+0.r	.	.	.	0.r	.	.	.	0.r	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1r	.	.	.	1r	.	.	.	1r	.	.	.
+1r	.	.	.	1r	.	.	.	1r	.	.	.
+1D	Quant	Mon	Con-	1d	Quant	Mon	Con-	1d	Quant	Mon	Con-
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+1.D	vous	cueur	-gnois-	1.d	vous	cueur	-gnois-	1.f	vous	cueur	-gnois-
+2AA	.	.	.	2c	.	.	.	2e	.	.	.
+2D	me	est	-tre	1A	me	est	-tre	1f	me	est	-tre
+2F	.	.	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+1E	fe-	vo-	po-	1B	fe-	vo-	po-	1g	fe-	vo-	po-
+0AA	-rez	-tre,	-vez	1.c	-rez	-tre,	-vez	2.a	-rez	-tre,	-vez
+.	.	.	.	.	.	.	.	4g	.	.	.
+.	.	.	.	.	.	.	.	2.e	.	.	.
+.	.	.	.	2B	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4d	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+1BB-	plus	non	as-	1d	plus	non	as-	1d	plus	non	as-
+1AA	.	.	.	2c	.	.	.	2e	.	.	.
+.	.	.	.	2A	.	.	.	2f	.	.	.
+1E	de	pas	-sez	1B	de	pas	-sez	4g	de	pas	-sez
+.	.	.	.	.	.	.	.	4f	.	.	.
+.	.	.	.	.	.	.	.	4e	.	.	.
+.	.	.	.	.	.	.	.	4d	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+0AA	bien	mien,	bien	1.A	bien	mien,	bien	0.c	bien	mien,	bien
+.	.	.	.	4G	.	.	.	.	.	.	.
+.	.	.	.	4F	.	.	.	.	.	.	.
+2r	.	.	.	1E	.	.	.	.	.	.	.
+2C	Que	Et	Qu'a	.	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+2D	ne	le	vous	1D	.	.	.	2r	.	.	.
+2F	.	.	.	.	.	.	.	2d	Que	Et	Qu'a
+1G	me	se-	ser-	1r	.	.	.	1e	ne	le	vous
+2.F	fai-	-ra,	-vir	2r	.	.	.	1f	me	se-	ser-
+.	.	.	.	2D	Que	Et	Qu'a	.	.	.	.
+4E	.	.	.	.	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+1C	-ctes	.	.	1E	ne	le	vous	2.g	fai-	-ra,	-vir
+.	.	.	.	.	.	.	.	4f	.	.	.
+1r	.	.	.	1F	me	se-	ser-	1d	.	.	.
+[1GG	a	je	tous-	2.G	fai-	-ra,	-vir	2e	-ctes	je	.
+.	.	.	.	.	.	.	.	[2d	.	.	.
+.	.	.	.	4F	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2GG]	.	.	.	1D	.	.	.	2d]	.	.	.
+2D	.	.	.	.	.	.	.	2f	.	.	.
+2C	.	.	.	2E	-ctes	je	tous-	2g	.	.	.
+2F	.	.	.	2D	.	.	.	1a	.	.	.
+2D	.	.	.	2F	.	.	.	.	.	.	.
+2E	.	vous	-jours	2G	a	vous	-jours	2g	a	vous	tous-
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2F	ces-	as-	la-	2A	ces-	as-	la-	2cc	ces-	as-	-jours
+2G	.	.	.	2G	.	.	.	2.b	.	.	.
+1A	-te heu-	-seu-	-beu-	1c	-te heu-	-seu-	-beu-	.	.	.	.
+.	.	.	.	.	.	.	.	4a	.	.	.
+.	.	.	.	.	.	.	.	1a	.	.	.
+1E	.	.	.	1B	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2g#i	.	.	la-
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+1AA	.	.	.	2r	.	.	.	1a	-te heu-	-seu-	-beu-
+.	.	.	.	2A	.	.	.	.	.	.	.
+1E	.	.	.	2B	.	.	.	2g	.	.	.
+.	.	.	.	2c	.	.	.	2e	.	.	.
+1D	.	.	.	1d	.	.	.	2.f	.	.	.
+.	.	.	.	.	.	.	.	4g	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+0AAN	-re,	-re,	-re,	0c#iN	-re,	-re,	-re,	0.eN	-re,	&	-re,
+1r	.	.	.	1r	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+1F	A-	&	Et	1d	A-	&	Et	1r	.	.	.
+2E	-lors	.	pri-	2c	-lors	.	pri-	1r	.	.	.
+2E	se-	.	-e a	2c	se-	.	-e a	.	.	.	.
+2.D	-rez	.	dieu	1f	-rez	.	dieu	1d	A-	.	Et
+4C	.	.	.	.	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+1AA	.	.	.	1e	de	.	que	2c	-lors	.	pri-
+.	.	.	.	.	.	.	.	2c	se-	.	-e a
+2r	.	.	.	2.d	moi	.	bref	1f	-rez	.	dieu
+2BB-	de	.	que	.	.	.	.	.	.	.	.
+.	.	.	.	4c	.	.	.	.	.	.	.
+1C	moi	.	bref	1A	.	.	.	1e	de	.	que
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+1GG	.	.	.	2r	.	.	.	2.d	moi	.	bref
+.	.	.	.	2B	tant	.	je	.	.	.	.
+.	.	.	.	.	.	.	.	4c	.	.	.
+2AA	tant	.	je	1c	.	.	.	1A	.	.	.
+2C	.	.	.	.	.	.	.	.	.	.	.
+2BB-	.	.	.	2d	.	.	.	2B-i	tant	.	je
+[2AA	.	.	.	[2c	.	.	.	[2c	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2AA]	.	.	.	4c]	.	.	.	2c]	.	.	.
+.	.	.	.	4A	.	.	.	.	.	.	.
+2GG	.	.	.	2B	.	.	.	2d	.	.	.
+2.AA	.	.	.	2c	.	.	.	2c	.	.	.
+.	.	.	.	2A	.	.	.	1f	.	.	.
+4BB-	.	.	.	.	.	.	.	.	.	.	.
+1C	.	.	.	1G	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2e	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+2r	.	.	.	1F	seu-	.	meu-	2.a	seu-	.	meu-
+2D	seu-	.	meu-	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4g	.	.	.
+2BB-	.	.	.	2B-i	.	.	.	4g	.	.	.
+.	.	.	.	.	.	.	.	4f	.	.	.
+2D	.	.	.	2F	.	.	.	1f	.	.	.
+1C	-re	.	-re	1G	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2e	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+2r	.	.	.	1F	-re	.	-re	0f	-re	.	-re
+1D	Qu'on	.	Ou	.	.	.	.	.	.	.	.
+.	.	.	.	2r	.	.	.	.	.	.	.
+2BB-	.	.	.	1B-i	Qu'on	.	Ou	.	.	.	.
+2GG	ne	.	.	.	.	.	.	2r	roit	.	.
+[2D	sca-	.	cas	2A	ne	.	cas	[2f	Qu'on	.	Ou
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+2D]	.	.	.	2F	sca-	.	que	2f]	.	.	.
+1C	-roit	.	que	2.G	-roit	.	je	2.e	ne	.	cas
+.	.	.	.	4F	.	.	.	4d	.	.	.
+2BB-	.	.	.	2D	.	.	.	1d	sca-	.	que
+1AA	.	.	.	1E	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2c#i	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2r	.	.	.	1D	.	.	.	2d	-roit	.	.
+2D	di-	.	je	.	.	.	.	2f	di-	.	je
+2C	.	.	vous	2E	di-	.	vous	2g	.	.	vous
+1F	.	.	fail-	1D	.	.	fail-	2.a	.	.	fail-
+.	.	.	.	.	.	.	.	4b-i	.	.	.
+2D	.	.	.	2F	.	.	.	4a	.	.	.
+.	.	.	.	.	.	.	.	8gL	.	.	.
+.	.	.	.	.	.	.	.	8fJ	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+2C	.	.	.	2G	.	.	.	2e	-re	.	.
+2AA	-re	.	.	2A	-re	.	.	2.f	com-	.	-le en
+1BB-	com-	.	-le en	1D	com-	.	-le en	.	.	.	.
+.	.	.	.	.	.	.	.	4g	.	.	.
+.	.	.	.	.	.	.	.	4f	.	.	.
+.	.	.	.	.	.	.	.	8eL	.	.	.
+.	.	.	.	.	.	.	.	8dJ	.	.	.
+1AA	.	.	.	1E	.	.	.	2.c#i	.	.	.
+.	.	.	.	.	.	.	.	4B	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+0.Al	-bien.	.	rien.	0.Dl	-bien.	.	rien.	0.dl	-bien.	.	rien.
+==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
+!!!ENC: Chris Gage 03-28-2015
+!!!END: 2015/10/29/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/10/30/
+!!!ONB: Translated from MusicXML and edited on 2015/10/30/ by Craig Sapp
+!!muse2ps: C^@{COM}^i2I150v110,100,120Q16z18c85l2600

@@ -1,0 +1,175 @@
+!!!!SEGMENT: Gas/Ano0422-Ave_panis_angelorum.krn
+!!!COM: Anonymous
+!!!OTL: Ave panis angelorum
+!!!AGN: Motet
+!!!SCT: Ano0422
+!!!SCA: Ano0422
+!!!jrpid: Ano0422
+!!!voices: 4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
+*I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
+*>AvePanis[A]	*>AvePanis[A]	*>AvePanis[A]	*>AvePanis[A]	*>AvePanis[A]	*>AvePanis[A]	*>AvePanis[A]	*>AvePanis[A]
+*>TuEsNostra[B]	*>TuEsNostra[B]	*>TuEsNostra[B]	*>TuEsNostra[B]	*>TuEsNostra[B]	*>TuEsNostra[B]	*>TuEsNostra[B]	*>TuEsNostra[B]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Ave panis
+=1	=1	=1	=1	=1	=1	=1	=1
+0C;	A-	0c;	A-	0g;	A-	0cc;	A-
+=2	=2	=2	=2	=2	=2	=2	=2
+0c;	-ve	0e;	-ve	0g;	-ve	0cc;	-ve
+=3	=3	=3	=3	=3	=3	=3	=3
+0A;	pa-	0f;	pa-	0c;	pa-	0cc;	pa-
+=4	=4	=4	=4	=4	=4	=4	=4
+0G;	-nis	0g;	-nis	0d;	-nis	0b;	-nis
+=5	=5	=5	=5	=5	=5	=5	=5
+0C;	an-	0e;	an-	0g;	an-	0cc;	an-
+=6	=6	=6	=6	=6	=6	=6	=6
+0D;	-ge-	0f;	-ge-	0d;	-ge-	0a;	-ge-
+=7	=7	=7	=7	=7	=7	=7	=7
+0G;	-lo-	0g;	-lo-	0d;	-lo-	0b;	-lo-
+!!LO:LB:g=original
+=8	=8	=8	=8	=8	=8	=8	=8
+0G;	-rum,	0d;	-rum,	0g;	-rum,	0b;	-rum,
+=9	=9	=9	=9	=9	=9	=9	=9
+*	*edit	*	*edit	*	*edit	*	*
+1C	Dei-	1e	Dei-	1g	Dei-	1cc	Dei-
+1C	-ta-	1e	-ta-	1g	-ta-	1cc	-ta-
+=10	=10	=10	=10	=10	=10	=10	=10
+1G	-tis-	1d	-tis-	1g	-tis-	1b	-tis-
+1G	-que	1d	-que	1g	-que	1b	-que
+=11	=11	=11	=11	=11	=11	=11	=11
+1A	lux	1c	lux	1e	lux	1cc	lux
+1A	san-	1c	san-	1c	san-	1a	san-
+=12	=12	=12	=12	=12	=12	=12	=12
+*	*	*lig	*	*	*	*	*
+0F	-cto-	1c	-cto-	0A	-cto-	2.cc	-cto-
+.	.	.	.	.	.	4b	.
+.	.	1d	.	.	.	2.a	.
+*	*	*Xlig	*	*	*	*	*
+.	.	.	.	.	.	4g	.
+=13	=13	=13	=13	=13	=13	=13	=13
+0E;	-rum!	0e;	-rum!	0B;	-rum!	0g;	-rum!
+!!LO:TX:t=[whole] = [whole-dot]
+=14||	=14||	=14||	=14||	=14||	=14||	=14||	=14||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
+*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+*met(O/3)	*	*met(O/3)	*	*met(O/3)	*	*met(O/3)	*
+!!section: Tu es nostra gloria
+0E	Tu	0B	Tu	0G	Tu	0g	Tu
+1E	es	1B	es	1G	es	1g	es
+!!LO:LB:g=original
+=15	=15	=15	=15	=15	=15	=15	=15
+0E	no-	0B	no-	0G	no-	0g	no-
+1E	-stra	1c	-stra	1G	-stra	1e	-stra
+=16	=16	=16	=16	=16	=16	=16	=16
+0D	glo-	0d	glo-	0A	glo-	0f	glo-
+1D	-ri-	1d	-ri-	1A	-ri-	1f	-ri-
+=17	=17	=17	=17	=17	=17	=17	=17
+0.E;	-a,	0.B;	-a,	0.G;	-a,	0.g;	-a,
+=18	=18	=18	=18	=18	=18	=18	=18
+0C	vir-	0c	vir-	0e	vir-	0g	vir-
+1C	-rus	1G	-tus	1e	-tus	1g	-tus
+=19	=19	=19	=19	=19	=19	=19	=19
+1C	et	1G	et	1e	et	1g	et
+1C	eu-	1G	eu-	1e	eu-	1cc	eu-
+1C	-ca-	1A	-ca-	1e	-ca-	1cc	-ca-
+=20	=20	=20	=20	=20	=20	=20	=20
+0BB	-re-	0B	-re-	0d	-re-	0dd	-re-
+1BB	-sti-	1B	-sti-	1d	-sti-	1dd	-sti-
+=21	=21	=21	=21	=21	=21	=21	=21
+0.C;	-a,	0.G;	-a,	0.c;	-a,	0.ee;	-a,
+!!LO:LB:g=original
+=22	=22	=22	=22	=22	=22	=22	=22
+0.C;	ca-	0.e;	ca-	0.g;	ca-	0.cc;	ca-
+=23	=23	=23	=23	=23	=23	=23	=23
+0.G;	-ro,	0.d;	-ro,	0.g;	-ro,	0.b;	-ro,
+=24	=24	=24	=24	=24	=24	=24	=24
+0.A;	ci-	0.c;	ci-	0.e;	ci-	0.a;	ci-
+=25	=25	=25	=25	=25	=25	=25	=25
+0.E;	-bus,	0.B;	-bus,	0.e;	-bus,	0.g;	-bus,
+=26	=26	=26	=26	=26	=26	=26	=26
+0.F;	sa-	0.A;	sa-	0.c;	sa-	0.a;	sa-
+=27	=27	=27	=27	=27	=27	=27	=27
+0.C;	-cra-	0.c;	-cra-	0.e;	-cra-	0.g;	-cra-
+=28	=28	=28	=28	=28	=28	=28	=28
+0.D;	-men-	0.A;	-men-	0.d;	-men-	0.f;	-men-
+=29	=29	=29	=29	=29	=29	=29	=29
+0.G;	-tum,	0.B;	-tum,	0.d;	-tum,	0.g;	-tum,
+!!LO:PB:g=original
+=30	=30	=30	=30	=30	=30	=30	=30
+1G	quo	0.r	.	1d	quo	0.r	.
+1G	non	.	.	1d	non	.	.
+1G	est	.	.	1d	est	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+1c	ma-	0.r	.	1e	ma-	0.r	.
+1c	-ius	.	.	1e	-ius	.	.
+1d	in-	.	.	1f	in-	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+1e	-ven-	1G	quo	1.g	-ven-	0.r	.
+1.d	.	1G	non	.	.	.	.
+.	.	.	.	2f	.	.	.
+.	.	1G	est	1d	.	.	.
+2c	.	.	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+1.A	.	1c	ma-	1e	.	0.r	.
+.	.	1c	-ius	1c	.	.	.
+2G	.	.	.	.	.	.	.
+1F	.	1d	in-	1A	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+0E	-tum,	1.e	-ven-	1B	.	1g	quo
+.	.	.	.	1G	.	1g	non
+.	.	2d	.	.	.	.	.
+1G	in-	2c	.	1g	.	1g	est
+.	.	2B	.	.	.	.	.
+!!LO:LB:g=original
+=35	=35	=35	=35	=35	=35	=35	=35
+1.F	-ven-	0A	.	1.a	.	1cc	ma-
+.	.	.	.	.	.	1cc	-ius
+2E	.	.	.	2g	.	.	.
+1D	.	1B	.	1f	.	1dd	in-
+=36	=36	=36	=36	=36	=36	=36	=36
+1C	.	1.c	-tum,	0e	-tum,	1.ee	-ven-
+2c	.	.	.	.	.	.	.
+2B	.	2d	.	.	.	2dd	.
+2A	.	1e	.	1r	.	2cc	.
+2G	.	.	.	.	.	2b	.
+=37	=37	=37	=37	=37	=37	=37	=37
+*	*	*col	*	*	*	*	*
+1F	.	0f	in-	1c	in-	2a	.
+.	.	.	.	.	.	2g	.
+1D	.	.	.	1d	-ven-	1.dd	.
+1E	.	1g	-ven-	1B	.	.	.
+.	.	.	.	.	.	2cc	.
+=38	=38	=38	=38	=38	=38	=38	=38
+*	*	*	*	*lig	*	*	*
+1C	.	1e	.	1c	.	0cc	.
+0G	.	0d	.	1G	.	.	.
+*	*	*Xcol	*	*	*	*	*
+*	*	*	*	*Xlig	*	*	*
+.	.	.	.	1g	.	1b	.
+=39	=39	=39	=39	=39	=39	=39	=39
+0Cl	-tum.	0cl	-tum.	0gl	-tum.	0ccl	-tum.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: j = editorial accidental, optional, paren up
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!PTL: Gaspar van Weerbeke: Collected Works. IV. Motets
+!!!PPR: American Institute of Musicology
+!!!PC#: Corpus Mensurabilis Musicae 106/IV
+!!!PDT: 2010
+!!!PED: Pavanello, Agnese
+!!!YEC: Copyright 2008, Pavanello, Agnese
+!!!YEM: CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+!!!EED: Mair-Gruber, Roland
+!!!EEV: 2021/09/24
+!!!muse2ps: C^@{COM}^i2I150v90,90,90,120c122z18l2700t130
+!!!ONB: from http://www.gaspar-van-weerbeke.sbg.ac.at/gaspar-online-edition with doubled rhythms

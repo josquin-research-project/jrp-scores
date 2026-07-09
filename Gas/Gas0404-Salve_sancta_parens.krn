@@ -1,0 +1,243 @@
+!!!!SEGMENT: Gas/Gas0404-Salve_sancta_parens.krn
+!!!COM: Gaspar van Weerbeke
+!!!CDT: ~1450-~1517
+!!!OTL: Salve sancta parens
+!!!AGN: Motet
+!!!SCT: Gas0404
+!!!SCA: Gas0404
+!!!jrpid: Gas0404
+!!!voices: 4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
+*I'B	*	*I'T	*	*I'A	*	*I'S	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*d:	*	*d:	*	*d:	*	*d:	*
+*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+=1	=1	=1	=1	=1	=1	=1	=1
+1G	San-	1G	San-	1d	San-	0g	San-
+*lig	*	*lig	*	*	*	*	*
+1E	-cta	1G	-cta	1e	.	.	.
+1D	.	1F	.	2.f	-cta	1a	-cta
+*Xlig	*	*Xlig	*	*	*	*	*
+.	.	.	.	4e	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+2r	.	1G	pa-	2d	pa-	2b-y	pa-
+2GG	pa-	.	.	4c	.	4a	.
+.	.	.	.	4B-y	.	4g	.
+*lig	*	*	*	*	*	*	*
+1D	-rens,	1A	.	2A	.	1f	.
+.	.	.	.	2d	.	.	.
+1GG	.	2.B-y	.	2.d	.	2.g	.
+*Xlig	*	*	*	*	*	*	*
+.	.	4A	.	4c	.	4f	.
+=3	=3	=3	=3	=3	=3	=3	=3
+2r	.	2G	.	2B-y	.	2e-i	.
+*	*edit	*	*	*	*	*lig	*
+2D	pa-	2F	.	2A	.	1d	.
+2BB-y	.	1G	.	2.B-y	.	.	.
+2GG	.	.	.	.	.	1g	.
+*	*	*	*	*	*	*Xlig	*
+.	.	.	.	4c	.	.	.
+1D	.	1A	.	1d	-rens,	.	.
+.	.	.	.	.	.	2f#i	.
+!!LO:LB:g=original
+=4	=4	=4	=4	=4	=4	=4	=4
+1GG	-rens,	1G	-rens,	1e	.	1g	-rens,
+1r	.	1F	e-	1f	.	1a	e-
+*	*Xedit	*	*	*	*	*	*
+1G	e-	1G	.	1d	.	2.b-y	.
+.	.	.	.	.	.	4a	.
+=5	=5	=5	=5	=5	=5	=5	=5
+2E-i	.	1.B-y	-ni-	1r	.	2g	.
+*	*	*	*	*	*	*lig	*
+2D	.	.	.	.	.	1f	-ni-
+*lig	*	*	*	*	*	*	*
+1BB-y	-ni-	.	.	1.f	e-	.	.
+.	.	2d	.	.	.	1b-y	.
+*	*	*	*	*	*	*Xlig	*
+1F	.	1c	.	.	.	.	.
+*Xlig	*	*	*	*	*	*	*
+.	.	.	.	2f	-ni-	2a	.
+=6	=6	=6	=6	=6	=6	=6	=6
+1BB-y	-xa	1B-y	-xa	1d	-xa	1b-y	-xa
+1GG	pu-	1B-y	pu-	2r	.	1dd	pu-
+.	.	.	.	2.g	pu-	.	.
+2GG	-er-	2B-y	-er-	.	.	2dd	-er-
+.	.	.	.	8fL	.	.	.
+.	.	.	.	8eJ	.	.	.
+2GG	-pe-	2B-y	-pe-	[2d	-er-	2dd	-pe-
+=7	=7	=7	=7	=7	=7	=7	=7
+*	*	*lig	*	*	*	*	*
+*lig	*	*	*	*	*	*	*
+1G	-ra	1B-y	-ra	2d]	.	1dd	-ra
+.	.	.	.	2e	.	.	.
+1F	.	1A	.	1f	.	1cc	.
+*Xlig	*	*Xlig	*	*	*	*	*
+1G	re-	2r	.	1d	-pe-	2b-y	re-
+.	.	2B-y	re-	.	.	2g	.
+!!LO:LB:g=original
+=8	=8	=8	=8	=8	=8	=8	=8
+2F	.	2c	.	2.f	-ra	2a	.
+2D	.	2d	.	.	.	2.b-y	.
+.	.	.	.	4e	.	.	.
+1G	.	2G	.	0d	.	.	.
+.	.	.	.	.	.	4a	.
+.	.	2B-y	.	.	.	1g	.
+1D	-gem,	1A	.	.	.	.	.
+.	.	.	.	.	.	2f#i	.
+=9	=9	=9	=9	=9	=9	=9	=9
+*	*edit	*	*	*	*	*	*
+*lig	*	*	*	*	*	*	*
+1GG	re-	1G	-gem,	2.B-y	re-	1g	-gem,
+.	.	.	.	4c	.	.	.
+1.G	.	2r	.	1d	.	1g	qui
+*Xlig	*	*	*	*	*	*	*
+.	.	1B-y	qui	.	.	.	.
+.	.	.	.	1G	-gem,	1b-y	ce-
+2D	.	[2d	ce-	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+2F	.	2d]	.	1r	.	1a	-lum
+2A	.	2c	-lum	.	.	.	.
+*	*	*	*	*	*edit	*	*
+*	*	*	*	*lig	*	*	*
+1G	.	2d	.	1d	re-	2b-y	.
+.	.	2B-y	ter-	.	.	2g	ter-
+1F	.	2c	.	1f	.	2a	.
+*	*	*	*	*Xlig	*	*	*
+.	.	2A	.	.	.	2cc	.
+=11	=11	=11	=11	=11	=11	=11	=11
+2.G	.	2G	-ram-	2e-i	.	2b-y	-ram-
+.	.	2B-y	.	2d	.	4a	.
+4E	.	.	.	.	.	2g	.
+2F	.	2A	.	2c	.	.	.
+.	.	.	.	.	.	4f	.
+2D	.	2F	.	1f	.	1f	-que
+1GG	-gem,	1G	-que	.	.	.	.
+.	.	.	.	2enj	.	2b-y	re-
+!!LO:LB:g=original
+=12	=12	=12	=12	=12	=12	=12	=12
+2r	.	2F	re-	2f	-gem,	2a	.
+*	*Xedit	*	*	*	*	*	*
+2C	qui	2E	.	2c	.	2.g	.
+2D	.	2F	.	2r	.	.	.
+.	.	.	.	.	.	4f	.
+*	*	*	*	*	*Xedit	*	*
+2F	.	2A	.	1.c	qui	1f	.
+1C	ce-	1G	.	.	.	.	.
+.	.	.	.	.	.	2e	.
+=13	=13	=13	=13	=13	=13	=13	=13
+*	*	*	*	*	*	*lig	*
+0D	.	0F	-git	2A	.	1f	-git
+.	.	.	.	2.d	ce-	.	.
+.	.	.	.	.	.	1a	.
+*	*	*	*	*	*	*Xlig	*
+.	.	.	.	4c	.	.	.
+.	.	.	.	2d	.	.	.
+1GG	-lum	1G	in	2B-y	.	1b-y	in
+.	.	.	.	[2G	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+*	*	*lig	*	*	*	*	*
+1r	.	1B-y	se-	2G]	.	2g	se-
+.	.	.	.	2B-y	.	1dd	.
+*	*	*	*	*lig	*	*	*
+1r	.	1A	.	1c	-lum	.	.
+*	*	*Xlig	*	*	*	*	*
+.	.	.	.	.	.	2cc	.
+1G	ter-	1B-y	.	1d	.	2b-y	.
+*	*	*	*	*Xlig	*	*	*
+.	.	.	.	.	.	2g	.
+=15	=15	=15	=15	=15	=15	=15	=15
+2.F	-ram-	1c	-cu-	2r	.	2a	.
+.	.	.	.	2A	ter-	2cc	.
+4E	.	.	.	.	.	.	.
+2D	.	2d	.	2B-y	.	2b-y	.
+2E	.	2G	.	2c	.	1g	-cu-
+1D	.	1A	.	[1d	-ram-	.	.
+.	.	.	.	.	.	2f#i	.
+!!LO:PB:g=original
+=16	=16	=16	=16	=16	=16	=16	=16
+0GG	-que	0G	-la	2d]	.	0g	-la
+.	.	.	.	2e-j	.	.	.
+*	*	*	*	*	*edit	*	*
+.	.	.	.	2d	-que	.	.
+.	.	.	.	1g	re-	.	.
+1D	re-	1r	.	.	.	1a	se-
+.	.	.	.	2f#i	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+1GG	-git	1G	se-	1g	-git	1b-y	-cu-
+1r	.	1A	.	1e	.	2.cc	-lo-
+.	.	.	.	.	.	4b-y	.
+1G	in	1B-y	.	1d	.	1g	.
+=18	=18	=18	=18	=18	=18	=18	=18
+1F	se-	2.c	-cu-	1r	.	1a	.
+.	.	4B-y	.	.	.	.	.
+2.G	.	1G	.	1d	in	2.b-y	.
+4F	.	.	.	.	.	4a	.
+1D	.	1A	.	2d	se-	1f	.
+.	.	.	.	2d	-cu-	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+*lig	*	*	*	*	*	*	*
+1GG	-cu-	2.B-y	-lo-	2d	-la	1g	.
+.	.	.	.	4c	.	.	.
+.	.	4A	.	4B-y	.	.	.
+*	*	*	*	*lig	*	*	*
+1D	.	1F	.	1A	.	1a	.
+*Xlig	*	*	*	*	*	*	*
+1GG	-la	2.G	.	1G	.	1b-y	.
+*	*	*	*	*Xlig	*	*	*
+.	.	4F	.	.	.	.	.
+!!LO:LB:g=original
+=20	=20	=20	=20	=20	=20	=20	=20
+2r	.	1D	.	0.r	.	2a	-rum,
+2D	se-	.	.	.	.	2f	.
+2.D	.	2r	.	.	.	2.a	se-
+.	.	2.d	.	.	.	.	.
+4E	.	.	.	.	.	4g	.
+2F	.	.	.	.	.	4f	.
+.	.	4c	.	.	.	4e	.
+2G	.	4B-y	.	.	.	2d	.
+.	.	4A	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+2E	.	2G	.	2c	se-	2e	.
+2D	.	2A	.	2d	.	2f	.
+2G	.	2B-y	.	2e	.	2g	.
+2F	.	2c	.	2f	.	2a	.
+1C	-cu-	1e-X	.	2e-i	.	2g	.
+.	.	.	.	[2g	-cu-	2cc	-cu-
+=22	=22	=22	=22	=22	=22	=22	=22
+2G	-lo-	1d	.	2g]	.	2b-y	.
+2D	.	.	.	2.f	-lo-	2.a	-lo-
+2F	.	2c	.	.	.	.	.
+.	.	.	.	4e-i	.	4g	.
+2G	.	2B-y	.	1.d	.	2.g	.
+1D	.	1A	.	.	.	.	.
+.	.	.	.	.	.	4f#i	.
+.	.	.	.	.	.	4f#i	.
+.	.	.	.	.	.	4e	.
+=23	=23	=23	=23	=23	=23	=23	=23
+*	*	*	*	*col	*	*	*
+0.GGl	-rum.	0.Gl	-rum.	1B-	-rum.	0.gl	-rum.
+.	.	.	.	0dl	.	.	.
+*	*	*	*	*Xcol	*	*	*
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: j = editorial accidental, optional, paren up
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!PTL: Gaspar van Weerbeke: Collected Works. IV. Motets
+!!!ISBN: 978-1-59551-500-1 / 1-59551-500-3
+!!!PPR: American Institute of Musicology
+!!!PC#: Corpus Mensurabilis Musicae 106/IV
+!!!PDT: 2010
+!!!PED: Pavanello, Agnese
+!!!YEC: Copyright 2008, Pavanello, Agnese
+!!!YEM: CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+!!!EED: Mair-Gruber, Roland
+!!!EEV: 2021/08/04
+!!!muse2ps: C^@{COM}^i2I150v90,90,90,120c122z18l2700t130
+!!!ONB: from http://www.gaspar-van-weerbeke.sbg.ac.at/gaspar-online-edition with doubled rhythms

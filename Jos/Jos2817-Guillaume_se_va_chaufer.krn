@@ -1,0 +1,149 @@
+!!!!SEGMENT: Jos/Jos2817-Guillaume_se_va_chaufer.krn
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL@@FRA: Guillaume se va chaufer
+!!!AGN: Chanson
+!!!SCT: NJE 28.17
+!!!SCA: New Josquin Edition 28.17
+!!!jrpid: Jos2817
+!!!voices: 4
+**kern	**kern	**kern	**kern
+*staff4	*staff3	*staff2	*staff1
+*Ivox	*Ivox	*Ivox	*Ivox
+*I"Bassus	*I"Tenor	*I"Superius2	*I"Superius1
+*I'B	*I'T	*I'S2	*I'S1
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
+=1-	=1-	=1-	=1-
+!	!	!	!LO:TX:X=-40:Z=6:t=Canon at the unison
+!	!LO:N:vis=000	!	!
+1GG	[0dl	0r	1r
+1D	.	.	1a
+=2	=2	=2	=2
+1GG	0d_	0r	1b-
+1D	.	.	2a/
+.	.	.	2a/
+=3	=3	=3	=3
+1GG	0d_	1r	2g/
+.	.	.	2g/
+1D	.	1a	1f
+=4	=4	=4	=4
+1GG	0d_	1b-	1r
+1D	.	2a\	1a
+.	.	2a\	.
+=5	=5	=5	=5
+1GG	0d_	2g\	1b-
+.	.	2g\	.
+1D	.	1f	2a/
+.	.	.	2a/
+=6	=6	=6	=6
+1GG	0d_	1r	2g/
+.	.	.	2g/
+1D	.	1a	1f
+=7	=7	=7	=7
+1GG	0d_	1b-	1g
+1D	.	2a\	2r
+.	.	2a\	2a/
+=8	=8	=8	=8
+1GG	0d_	2g\	1b-
+.	.	2g\	.
+1D	.	1f	2a/
+.	.	.	2a/
+=9	=9	=9	=9
+1GG	0d_	1g	2g/
+.	.	.	2g/
+1D	.	2r	1f
+.	.	2a\	.
+=10	=10	=10	=10
+1GG	0d_	1b-	1r
+1D	.	2a\	1a
+.	.	2a\	.
+=11	=11	=11	=11
+1GG	0d_	2g\	1b-
+.	.	2g\	.
+1D	.	1f	2a/
+.	.	.	2a/
+=12	=12	=12	=12
+1GG	0d_	1r	2g/
+.	.	.	2g/
+1D	.	1a	1f
+=13	=13	=13	=13
+1GG	0d_	1b-	1g
+1D	.	2a\	1r
+.	.	2a\	.
+=14	=14	=14	=14
+1GG	0d_	2g\	1r
+.	.	2g\	.
+1D	.	1f	1a
+=15	=15	=15	=15
+1GG	0d_	1g	1b-
+1D	.	1r	2a/
+.	.	.	2a/
+=16	=16	=16	=16
+1GG	0d_	1r	2g/
+.	.	.	2g/
+1D	.	1a	1f
+=17	=17	=17	=17
+1GG	0d_	1b-	1r
+1D	.	2a\	1a
+.	.	2a\	.
+=18	=18	=18	=18
+1GG	0d_	2g\	1b-
+.	.	2g\	.
+1D	.	1f	2a/
+.	.	.	2a/
+=19	=19	=19	=19
+1GG	0d_	1r	2g/
+.	.	.	2g/
+1D	.	1a	1f
+=20	=20	=20	=20
+1GG	0d_	1b-	1g
+1D	.	2a\	2r
+.	.	2a\	2a/
+=21	=21	=21	=21
+1GG	0d_	2g\	1b-
+.	.	2g\	.
+1D	.	1f	2a/
+.	.	.	2a/
+=22	=22	=22	=22
+1GG	0d_	1g	2g/
+.	.	.	2g/
+1D	.	2r	1f
+.	.	2a\	.
+=23	=23	=23	=23
+1GG	0d_	1b-	1r
+1D	.	2a\	1a
+.	.	2a\	.
+=24	=24	=24	=24
+1GG	0d_	2g\	1b-
+.	.	2g\	.
+1D	.	1f	2a/
+.	.	.	2a/
+=25	=25	=25	=25
+1GG	0d_	1r	2g/
+.	.	.	2g/
+1D	.	1a	1f
+=26	=26	=26	=26
+!	!	!LO:N:vis=1	!
+0GGl	0d]	0b-	0gl
+==	==	==	==
+*-	*-	*-	*-
+!!!RDF**kern: V=start of tuplet marker
+!!!RDF**kern: Z=end of tuplet marker
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Jesse Rodin; Victoria Chang 2011/10/21
+!!!END: 2011/10/21/
+!!!SMS: SGallS 462: anon.
+!!!SMS: Corvinus 1646: anon.
+!!!SMS: Danckerts 1538: anon.
+!!!SMS: Glareanus 1547: anon.
+!!!SMS: Mersenne 1636: Josquin
+!!!SMS: Wilphlingseder 1563: anon.
+!!!EED: Jesse Rodin
+!!!EEV: 2011/11/02/
+!!attribution-level@Jos: 3 (problematic [question mark])
+!!!ONB: Translated from MusicXML and edited on 2011/11/02/ by Craig Sapp
+!!muse2ps:  C^@{COA}?^v90,100,90,150I150Q16z18

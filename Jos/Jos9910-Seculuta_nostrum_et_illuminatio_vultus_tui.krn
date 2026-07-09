@@ -1,0 +1,46 @@
+!!!!SEGMENT: Jos/Jos9910-Seculuta_nostrum_et_illuminatio_vultus_tui.krn
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Seculum nostrum
+!!!AGN: Fragment; Motet
+!!!SCT: Jos9910
+!!!SCA: Jos9910
+!!!jrpid: Jos9910
+!!!voices: ?
+**kern
+*staff1
+*Ivox
+*I"Altus
+*I'A
+*clefGv2
+*k[b-]
+*M3/1
+*met(O|3/2)
+=1-
+!LO:TX:Z=10:t=mensuration&colon; cut circle 3 over 2
+0G
+1G
+=2
+1B-
+0B-
+=3
+0.c
+=4
+1B-
+1A
+1G
+=5
+0B-
+1F
+=6
+0.Gl
+==
+*-
+!!!RDF**kern: l=long note in original notation
+!!!ENC: Victoria Chang 2012/02/27
+!!!END: 2012/02/27/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/03/20/
+!!attribution-level@Jos: 4a (the rest [double question mark])
+!!!ONB: Translated from MusicXML and edited on 2012/03/20/ by Craig Sapp
+!!muse2ps: C^@{COA}?^i2I150v150Q16z18

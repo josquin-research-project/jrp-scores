@@ -1,0 +1,269 @@
+!!!!SEGMENT: Jos/Jos2920-Pleine_de_dueil.krn
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL@@FRA: Plaine de deuil
+!!!AGN: Chanson
+!!!SCT: NJE 29.20
+!!!SCA: New Josquin Edition 29.20
+!!!jrpid: Jos2920
+!!!voices: 5
+**kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
+*staff5	*	*	*	*staff4	*	*	*	*staff3	*	*	*	*staff2	*	*	*	*staff1	*	*	*
+*Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*
+*I"Bassus	*I"Bassus	*	*	*I"Tenor	*	*	*	*I"Contratenor	*	*	*	*I"Quintus	*	*	*	*I"Superius	*	*	*
+*I'B	*	*	*	*I'T	*	*	*	*I'Ct	*	*	*	*I'Q	*	*	*	*I'S	*	*	*
+*clefF4	*	*	*	*clefGv2	*	*	*	*clefGv2	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*
+*k[]	*	*	*	*k[]	*	*	*	*k[]	*	*	*	*k[]	*	*	*	*k[]	*	*	*
+*M2/1	*	*	*	*M2/1	*	*	*	*M2/1	*	*	*	*M2/1	*	*	*	*M2/1	*	*	*
+*met(C)	*	*	*	*met(C)	*	*	*	*met(C)	*	*	*	*met(C)	*	*	*	*met(C)	*	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:Z=10:t=Canon at the upper 5th (Q-->S, one breve)	!	!	!	!	!	!	!
+0r	.	.	.	1A	Plai-	Je	Il	1r	.	.	.	0r	.	.	.	0r	.	.	.
+.	.	.	.	1A	-ne	te	ne	1A	Plai-	Je	Il	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1r	.	.	.	1A	de	re-	me	1A	-ne	te	ne	1A	Plai-	Je	Il	0r	.	.	.
+1AA	Plai-	Je	Il	1c	deuil,	-quiers,	chault,	1A	de	re-	me	1A	-ne	te	ne	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+1AA	-ne	te	ne	1r	.	.	.	0c	deuil,	-quiers,	chault,	1A	de	re-	me	1e	Plai-	Je	Il
+1AA	de	re-	me	1E	plai-	je	il	.	.	.	.	1c	deuil	-quiers	chault	1e	-ne	te	ne
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+0C	deuil,	-quiers,	chault,	1E	-ne	te	ne	1r	.	.	.	1r	.	.	.	1e	de	re-	me
+.	.	.	.	1E	de	re-	me	1E	plai-	je	il	1c	et	et	quy	1g	deuil	-quiers	chault
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+1C	et	et	quy	0G	deuil,	-quiers,	chault,	1E	-ne	te	ne	1.c	de	hum-	quy	1r	.	.	.
+[1C	de	hum-	quy	.	.	.	.	1E	de	re-	me	.	.	.	.	1g	et	et	quy
+.	.	.	.	.	.	.	.	.	.	.	.	2c\	me-	-ble-	en	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+2C/]	.	.	.	1r	.	.	.	1G	deuil,	-quiers,	chault,	2G/	-lan-	-ment	pleu-	1.g	de	hum-	quy
+2C/	me-	-ble-	en	.	.	.	.	.	.	.	.	2G/	-co-	sup-	re ou	.	.	.	.
+1GG	-lan-	-ment	pleu-	2r	.	.	.	1r	.	.	.	[1B-	-li-	-pli-	ri-	.	.	.	.
+.	.	.	.	2G	et	et	quy	.	.	.	.	.	.	.	.	2g/	me-	-ble-	en
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+1GG	-co-	sup-	re ou	2G	de	hum-	quy	1r	.	.	.	1B-]	.	.	.	2d/	-lan-	-ment	pleu-
+.	.	.	.	2G	me-	-ble-	en	.	.	.	.	.	.	.	.	2d/	-co-	sup-	re ou
+[1D	-li-	-pli-	ri-	1F	-lan-	-ment	pleu-	2r	.	.	.	1A	-e,	-e,	-e,	[1f	-li-	-pli-	ri-
+.	.	.	.	.	.	.	.	2d\	et	et	quy	.	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+1D]	.	.	.	1D	-co-	sup-	re ou	2d\	de	hum-	quy	0r	.	.	.	1f]	.	.	.
+.	.	.	.	.	.	.	.	2d\	me-	-ble-	en	.	.	.	.	.	.	.	.
+1AA	-e,	-e,	-e,	[1A	-li-	-pli-	ri-	2c\	-lan-	-ment	pleu-	.	.	.	.	1e	-e,	-e,	-e,
+.	.	.	.	.	.	.	.	2A/	-co-	sup-	re ou	.	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2r	.	.	.	1A]	.	.	.	0e	-li-	-pli-	ri-	0r	.	.	.	0r	.	.	.
+2AA/	et	et	quy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+2C/	de	hum-	quy	2E	-e,	-e,	-e,	.	.	.	.	.	.	.	.	.	.	.	.
+2C/	me-	-ble-	en	2G	et	et	quy	.	.	.	.	.	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2GG/	-lan-	-ment	pleu-	2G	de	hum-	quy	1d	-e,	-e,	-e,	0r	.	.	.	0r	.	.	.
+2GG/	-co-	sup-	re ou	2G	me-	-ble-	en	.	.	.	.	.	.	.	.	.	.	.	.
+[1D	-li-	-pli-	ri-	1F	-lan-	-ment	pleu-	2r	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2d\	et	et	quy	.	.	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+1D]	.	.	.	1D	-co-	sup-	re ou	2d\	de	hum-	quy	0r	.	.	.	0r	.	.	.
+.	.	.	.	.	.	.	.	2d\	me-	-ble-	en	.	.	.	.	.	.	.	.
+1AA	-e,	-e,	-e,	[1A	-li-	-pli-	ri-	2c\	-lan-	-ment	pleu-	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2A/	-co-	sup-	re ou	.	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+1r	.	.	.	1A]	.	.	.	1c	-li-	-pli-	ri-	1e	Voy-	Pour	A	0r	.	.	.
+1E	Voy-	Pour	A	1E	-e,	-e,	-e,	1B	-e,	-e,	-e,	1e	-ant	les	toy	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+1E	-ant	les	toy	1r	.	.	.	0r	.	.	.	1e	mon	dou-	je	1b	Voy-	Pour	A
+1E	mon	dou-	je	1B	Voy-	Pour	A	.	.	.	.	1g	mal	leurs	suis	1b	-ant	les	toy
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+0G	mal	leurs	suis	1B	-ant	les	toy	0r	.	.	.	1r	.	.	.	1b	mon	dou-	je
+.	.	.	.	1B	mon	dou-	je	.	.	.	.	1g	qui	de	be-	1dd	mal	leurs	suis
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+1G	qui	de	be-	0d	mal	leurs	suis	1B	Voy-	Pour	A	1.g	tous-	quoy	-soing	1r	.	.	.
+[1G	tous-	quoy	-soing	.	.	.	.	1B	-ant	les	toy	.	.	.	.	1dd	qui	de	be-
+.	.	.	.	.	.	.	.	.	.	.	.	2g\	-jours	je	n'est	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2G\]	.	.	.	1r	.	.	.	1B	mon	dou-	je	2d\	mul-	suis	que	1.dd	tous-	quoy	-soing
+2G\	-jours	je	n'est	.	.	.	.	.	.	.	.	2d\	-ti-	rem-	le	.	.	.	.
+1F	mul-	suis	que	2r	.	.	.	1d	mal	leurs	suis	[1f	-pli-	-pli-	ni-	.	.	.	.
+.	.	.	.	2d\	qui	de	be-	.	.	.	.	.	.	.	.	2dd\	-jours	je	n'est
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+1D	-ti-	rem-	le	2d\	tous-	quoy	-soing	2r	.	.	.	1f]	.	.	.	2a/	mul-	suis	que
+.	.	.	.	2d\	-jours	je	n'est	2d\	qui	de	be-	.	.	.	.	2a/	-ti-	rem-	le
+[1A	-pli-	-pli-	ni-	1c	mul-	suis	que	2e\	tous-	quoy	-soing	1e	-e,	-e,	-e,	[1cc	-pli-	-pli-	ni-
+.	.	.	.	.	.	.	.	2A/	-jours	je	n'est	.	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+1A]	.	.	.	1A	-ti-	rem-	le	2e\	mul-	suis	que	0r	.	.	.	1cc]	.	.	.
+.	.	.	.	.	.	.	.	2f\	-ti-	rem-	le	.	.	.	.	.	.	.	.
+1E	-e,	-e,	-e,	[1e	-pli-	-pli-	ni-	[1g	-pli-	-pli-	ni-	.	.	.	.	1b	-e,	-e,	-e,
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+2r	.	.	.	1e]	.	.	.	1g]	.	.	.	0r	.	.	.	0r	.	.	.
+2E\	qui	de	be-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+2G\	tous-	quoy	-soing	2B\	-e,	-e,	-e,	1d	-e,	-e,	-e,	.	.	.	.	.	.	.	.
+2G\	-jours	je	n'est	2d\	qui	de	be-	.	.	.	.	.	.	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2D\	mul-	suis	que	2d\	tous-	quoy	-soing	2r	.	.	.	0r	.	.	.	0r	.	.	.
+2D\	-ti-	rem-	le	2d\	-jours	je	n'est	2d\	qui	de	be-	.	.	.	.	.	.	.	.
+[1A	-pli-	-pli-	ni-	1c	mul-	suis	que	2e\	tous-	quoy	-soing	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2A/	-jours	je	n'est	.	.	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+1A]	.	.	.	1A	-ti-	rem-	le	2e\	mul-	suis	que	0r	.	.	.	0r	.	.	.
+.	.	.	.	.	.	.	.	2f\	-ti-	rem-	le	.	.	.	.	.	.	.	.
+1E	-e,	-e,	-e,	[1e	-pli-	-pli-	ni-	[1g	-pli-	-pli-	ni-	.	.	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+1r	.	.	.	1e]	.	.	.	1g]	.	.	.	1g	Et	Ne	Plus	0r	.	.	.
+1G	Et	Ne	Plus	1B	-e,	-e,	-e,	1d	-e,	-e,	-e,	1g	qu'en	me	n'est	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+1G	qu'en	me	n'est	1r	.	.	.	0r	.	.	.	1g	la	vou-	pos-	1dd	Et	Ne	Plus
+1G	la	vou-	pos-	2r	.	.	.	.	.	.	.	1d	fin	-loir	-sible	1dd	qu'en	me	n'est
+.	.	.	.	[2d\	Et	Ne	Plus	.	.	.	.	.	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+1D	fin,	-loir,	-sible,	2d\]	.	.	.	1.f	Et	Ne	Plus	0r	.	.	.	1dd	la	vou-	pos-
+.	.	.	.	2d\	qu'en	me	n'est	.	.	.	.	.	.	.	.	.	.	.	.
+2D\	et	ne	plus	1d	la	vou-	pos-	.	.	.	.	.	.	.	.	1a	fin	-loir	-sible
+2D\	qu'en	me	n'est	.	.	.	.	2f\	qu'en	me	n'est	.	.	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+1D	la	vou-	pos-	1A	fin	-loir	-sible	1f	la	vou-	pos-	2r	.	.	.	0r	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	2d\	plus	ja-	a	.	.	.	.
+1AA	fin,	-loir,	-sible,	2r	.	.	.	1e	fin	-loir	-sible	2c\	ne	-mais	moy	.	.	.	.
+.	.	.	.	2A	plus	ja-	a	.	.	.	.	2c\	le	a-	dis-	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+2r	.	.	.	2F	ne	-mais	moy	2r	.	.	.	1d	puis	-ban-	-si-	2r	.	.	.
+2D\	plus	ja-	a	2D	le	a-	dis-	2f\	plus	ja-	a	.	.	.	.	2a/	plus	ja-	a
+2GG/	ne	-mais	moy	1G	puis	-ban-	-si-	2g\	ne	-mais	moy	1B	por-	-don-	-mu-	2g/	ne	-mais	moy
+2GG/	le	a-	dis-	.	.	.	.	2d\	le	a-	dis-	.	.	.	.	2g/	le	a-	dis-
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+1D	puis	-ban-	-si-	1F	por-	-don-	-mu-	2d\	puis	-ban-	-si-	0A	-ter,	-ner,	-ler,	1a	puis	-ban-	-si-
+.	.	.	.	.	.	.	.	1f	por-	-don-	-mu-	.	.	.	.	.	.	.	.
+1D	por-	-don-	-mu-	1D	-ter,	-ner,	-ler,	.	.	.	.	.	.	.	.	1f	por-	-don-	-mu-
+.	.	.	.	.	.	.	.	4e\	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4d\	.	.	.	.	.	.	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+0AA	-ter,	-ner,	-ler,	1r	.	.	.	0c	-ter,	-ner,	-ler,	0r	.	.	.	0e	-ter,	-ner,	-ler,
+.	.	.	.	1A	plus	ja-	a	.	.	.	.	.	.	.	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+1.F	plus	ja-	a	1.A	ne	-mais	moy	2r	.	.	.	0r	.	.	.	0r	.	.	.
+.	.	.	.	.	.	.	.	2c\	plus	ja-	a	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2c\	ne	-mais	moy	.	.	.	.	.	.	.	.
+2E\	ne	-mais	moy	2G	le	a-	dis-	2c\	le	a-	dis-	.	.	.	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+2D\	le	a-	dis-	2F	puis	-ban-	-si-	2B\	puis	-ban-	-si-	0r	.	.	.	0r	.	.	.
+2C/	puis	-ban-	-si-	2E	.	.	.	2.A/	por-	-don-	-mu-	.	.	.	.	.	.	.	.
+1BB	por-	-don-	-mu-	1D	por-	-don-	-mu-	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4G#i/	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4G#i/	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4F#i/	.	.	.	.	.	.	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+0AA	-ter,	-ner,	-ler,	0E	-ter,	-ner,	-ler,	0A	-ter,	-ner,	-ler,	1r	.	.	.	0r	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	1c	Con-	Mais	Par	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+1C	Con-	Mais	Par	0r	.	.	.	0r	.	.	.	1c	-strain-	es-	quoy	1r	.	.	.
+1C	-strain-	es-	quoy	.	.	.	.	.	.	.	.	1c	-te	-tre a	je	1g	Con-	Mais	Par
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+1C	-te	-tre a	je	1r	.	.	.	1r	.	.	.	1G	suis	moy	dis-	1g	-strain-	es-	quoy
+1GG	suis	moy	dis-	1G	Con-	Mais	Par	1B-i	Con-	Mais	Par	1r	.	.	.	1g	-te	-tre a	je
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+0r	.	.	.	1G	-strain-	es-	quoy	1B-i	-strain-	es-	quoy	1r	.	.	.	1d	suis	moy	dis-
+.	.	.	.	1G	-te	-tre a	je	1B-i	-te	-tre a	je	2r	.	.	.	1r	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	2G/	pour	et	en	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+2r	.	.	.	0D	suis	moy	dis-	2A/	suis	moy	dis-	1A	me	ne	par-	1r	.	.	.
+2D\	pour	et	en	.	.	.	.	2F/	pour	et	en	.	.	.	.	.	.	.	.
+2D\	me	ne	par-	.	.	.	.	2F/	me	ne	par-	1B	re-	te	-lant	2r	.	.	.
+2D\	re-	te	-lant	.	.	.	.	2F/	re-	te	-lant	.	.	.	.	2d/	pour	et	en
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+1C	-con-	des-	de	0r	.	.	.	2G/	-con-	des-	de	1c	-con-	des-	de	1e	me	ne	par-
+.	.	.	.	.	.	.	.	1A	-for-	-tour-	cuer	.	.	.	.	.	.	.	.
+1D	-for-	-tour-	cuer	.	.	.	.	.	.	.	.	1A	-for-	-tour-	cuer	1f	re-	te	-lant
+.	.	.	.	.	.	.	.	2D/	-ter,	-ner,	cler,	.	.	.	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+2GG/	-ter,	-ner,	cler,	2r	.	.	.	2r	.	.	.	0G	-ter,	-ner,	cler,	1g	-con-	des-	de
+2GG/	pour	et	en	2B-\	pour	et	en	2d\	pour	et	en	.	.	.	.	.	.	.	.
+2C/	me	ne	par-	2c\	me	ne	par-	2c\	me	ne	par-	.	.	.	.	1e	-for-	-tour-	cuer
+2C/	re-	te	-lant	2G	re-	te	-lant	2c\	re-	te	-lant	.	.	.	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+1GG	-con-	des-	de	1B-i	-con-	des-	de	4d\	-con-	des-	de	0r	.	.	.	0d	-ter,	-ner,	cler,
+.	.	.	.	.	.	.	.	4G/	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2.g\	.	.	.	.	.	.	.	.	.	.	.
+1D	-for-	-tour-	cuer	1A	-for-	-tour-	cuer	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4f#i\	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4f#i\	-for-	-tour-	cuer	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4e\	.	.	.	.	.	.	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+2GG/	-ter,	-ner,	cler,	2G	-ter,	-ner,	cler,	2g\	-ter,	-ner,	cler,	0r	.	.	.	0r	.	.	.
+2G\	pour	et	en	2B-i\	pour	et	en	2d\	pour	et	en	.	.	.	.	.	.	.	.
+2C/	me	ne	par-	2c\	me	ne	par-	2e\	me	ne	par-	.	.	.	.	.	.	.	.
+2C/	re-	te	-lant	2G	re-	te	-lant	2e\	re-	te	-lant	.	.	.	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
+1G	-con-	des-	de	1B-i	-con-	des-	de	4d\	-con-	des-	de	0r	.	.	.	0r	.	.	.
+.	.	.	.	.	.	.	.	4G/	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2.g\	.	.	.	.	.	.	.	.	.	.	.
+1D	-for-	-tour-	cuer	1A	-for-	-tour-	cuer	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4f#i\	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4f#i\	-for-	-tour-	cuer	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4e\	.	.	.	.	.	.	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+0GG	-ter,	-ner,	cler,	0G	-ter,	-ner,	cler,	1g	-ter,	-ner,	cler,	1.B-	Me	Puis	Qu'a	0r	.	.	.
+.	.	.	.	.	.	.	.	[1d	Me	Puis	Qu'a	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	2B-i\	ren-	qu'a	toy	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
+1.D	Me	Puis	Qu'a	1r	.	.	.	2d\]	.	.	.	1B-i	-dre a	toy	me	1.f	Me	Puis	Qu'a
+.	.	.	.	.	.	.	.	2d\	ren-	qu'a	toy	.	.	.	.	.	.	.	.
+.	.	.	.	2r	.	.	.	1d	-dre a	toy	me	1A	toy	suis	rend	.	.	.	.
+2D\	ren-	qu'a	toy	2D	Me	Puis	Qu'a	.	.	.	.	.	.	.	.	2f/	ren-	qu'a	toy
+=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
+1D	-dre a	toy	me	2.F	ren-	qu'a	toy	1A	toy,	suis,	rend,	0r	.	.	.	1f	-dre a	toy	me
+.	.	.	.	4G	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+1AA	toy,	suis,	rend,	1A	-dre a	toy	me	2c\	me	puis	qu'a	.	.	.	.	1e	toy	suis	rend
+.	.	.	.	.	.	.	.	2c\	ren-	qu'a	toy	.	.	.	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
+2C/	me	puis	qu'a	1E	toy,	suis,	rend,	1c	-dre a	toy	me	2r	.	.	.	0r	.	.	.
+2C/	ren-	qu'a	toy	.	.	.	.	.	.	.	.	2c\	le	la	la	.	.	.	.
+1C	-dre a	toy	me	2r	.	.	.	1G	toy,	suis,	rend,	2c\	sur-	res-	res-	.	.	.	.
+.	.	.	.	[2G	me	puis	qu'a	.	.	.	.	2c\	-plus	-te	-te	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
+2GG/	toy	suis	rend	2G]	.	.	.	1r	.	.	.	2B-i\	de	de	de	2r	.	.	.
+2C/	le	la	la	2G	ren-	qu'a	toy	.	.	.	.	2G/	ma	ma	ma	2g/	le	la	la
+2BB-i/	sur-	res-	res-	1G	-dre a	toy	me	[1d	me	puis	qu'a	[1B-i	vi-	vi-	vi-	2g/	sur-	res-	res-
+2GG/	-plus	-te	-te	.	.	.	.	.	.	.	.	.	.	.	.	2g/	-plus	-te	-te
+=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
+2D\	de	de	de	2D	toy	suis	rend	2d\]	.	.	.	1B-]	.	.	.	2f/	de	de	de
+2GG/	ma	ma	ma	2G	le	la	la	2d\	ren-	qu'a	toy	.	.	.	.	2d/	mal	ma	ma
+[1D	vi-	vi-	vi-	2F	sur-	res-	res-	1d	-dre a	toy	me	1A	-e,	-e,	-e,	[1f	vi-	vi-	vi-
+.	.	.	.	2D	-plus	-te	-te	.	.	.	.	.	.	.	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
+1D]	.	.	.	2F	de	de	de	1A	toy	suis	rend	2r	.	.	.	1f]	.	.	.
+.	.	.	.	2D	ma	ma	ma	.	.	.	.	2d\	le	la	la	.	.	.	.
+1AA	-e,	-e,	-e,	1A	vi-	vi-	vi-	1r	.	.	.	2c\	sur-	res-	res-	1e	-e,	-e,	-e,
+.	.	.	.	.	.	.	.	.	.	.	.	2c\	-plus	-te	-te	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
+2r	.	.	.	1D	-e,	-e,	-e,	2r	.	.	.	2d\	de	de	de	2r	.	.	.
+2F\	le	la	la	.	.	.	.	2d\	le	la	la	2A/	ma	ma	ma	2a/	le	la	la
+2G\	sur-	res-	res-	1r	.	.	.	2d\	sur-	res-	res-	1B-	vi-	vi-	vi-	2g/	sur-	res-	res-
+2GG/	-plus	-te	-te	.	.	.	.	2d\	-plus	-te	-te	.	.	.	.	2g/	-plus	-te	-te
+=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
+2D\	de	de	de	1r	.	.	.	2f\	de	de	de	[0Al	-e.	-e.	-e.	2a/	de	de	de
+2C/	ma	ma	ma	.	.	.	.	2e\	ma	ma	ma	.	.	.	.	2e/	mal	ma	ma
+1D	vi-	vi-	vi-	2r	.	.	.	1d	vi-	vi-	vi-	.	.	.	.	1f	vi-	vi-	vi-
+.	.	.	.	2d\	le	la	la	.	.	.	.	.	.	.	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50
+[0AAl	-e.	-e.	-e.	2e\	sur-	res-	res-	2c\	-e,	-e,	-e,	0A_	.	.	.	[0el	-e.	-e.	-e.
+.	.	.	.	2c\	-plus	-te	-te	2A/	le	la	la	.	.	.	.	.	.	.	.
+.	.	.	.	2A	de	de	de	2c\	sur-	res-	res-	.	.	.	.	.	.	.	.
+.	.	.	.	[2c\	ma	ma	ma	2A/	-plus	-te	-te	.	.	.	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51
+0AA_	.	.	.	4c\]	.	.	.	2c\	de	de	de	0A_	.	.	.	0e_	.	.	.
+.	.	.	.	4B\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	1A	vi-	vi-	vi-	2c\	mal	ma	ma	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2.A/	vi-	vi-	vi-	.	.	.	.	.	.	.	.
+.	.	.	.	4G	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	4F	.	.	.	4B\	.	.	.	.	.	.	.	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52
+0AA]	.	.	.	0El	-e.	-e.	-e.	0cl	-e.	-e.	-e.	0A]	.	.	.	0e]	.	.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: V=start of tuplet marker
+!!!RDF**kern: Z=end of tuplet marker
+!!!ENC: Will Watson 30/10/2011
+!!!END: 2011/10/30/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/12/01/
+!!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
+!!!ONB: Translated from MusicXML and edited on 2011/12/01/ by Craig Sapp
+!!muse2ps: C^@{COM}^i2I150v85,85,85,85,120z18c80l2670

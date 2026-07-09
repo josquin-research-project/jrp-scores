@@ -1,0 +1,213 @@
+!!!!SEGMENT: Ano/Ano3003-A_cheval--Escorial_B.krn
+!!!COM: Anonymous
+!!!OTL: &Agrave; cheval
+!!!AGN: Song; Chanson; Rondeau
+!!!SCT: Ano3003
+!!!SCA: Ano3003
+!!!jrpid: Ano3003
+!!!SMS: Escorial B
+!!!folio: 63v-64r
+!!!voices: 3
+!!!ONB: As a reminder, rondeaux are in the form ABaAabAB	!	!	!
+**kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
+*staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
+*Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*
+*I"Contra	*	*	*	*I"Tenor	*	*	*	*I"Superius	*	*	*
+*I'C	*	*	*	*I'T	*	*	*	*I'S	*	*	*
+*clefGv2	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*
+*k[b-]	*	*	*	*k[]	*	*	*	*k[]	*	*	*
+*M3/1	*	*	*	*M3/1	*	*	*	*M3/1	*	*	*
+*met(O)	*	*	*	*met(O)	*	*	*	*met(O)	*	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!	!	!	!	!	!	!	!	!LO:TX:Z=20:t=Rondeau	!	!	!
+0.r	.	.	.	1r	.	.	.	2cc	1., 4., 7. &Agrave;	3. Vous	5. Pour
+.	.	.	.	.	.	.	.	2cc	che-	qui	vray
+.	.	.	.	1r	.	.	.	1cc	-val,	es-	d'a-
+.	.	.	.	2f	&Agrave;	Vous	Pour	2cc	tout	-tes	-mant
+.	.	.	.	2f	che-	qui	vray	2cc	homme	du	vient
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1r	.	.	.	1f	-val,	es-	d'a-	2cc	&agrave;	sang	en
+.	.	.	.	.	.	.	.	2cc	che-	re-	ce
+2F	&Agrave;	Vous	Pour	2f	tout	-tes	-mant	1cc	-val,	-al,	val,
+2F	che-	qui	vray	2f	homme	du	vient	.	.	.	.
+1F	-val,	es-	d'a-	2f	&agrave;	sang	en	2r	.	.	.
+.	.	.	.	2f	che-	re-	ce	2a	tout	du	vient
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+2F	tout	-tes	-mant	1f	-val,	-al,	val,	1a	homme	sang	en
+2F	homme	du	vient	.	.	.	.	.	.	.	.
+2F	&agrave;	sang	en	2r	.	.	.	2a	&agrave;	re-	ce
+2F	che-	re-	ce	2c	&Agrave;	Vous	Pour	2a	che-	-al,	val,
+1F	-val,	-al,	val,	1c	che-	qui	vray	1a	-val,	du	vient
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+2r	.	.	.	1F	-val,	es-	d'a-	1cc	tout	sang	.
+2f	&agrave;	du	en	.	.	.	.	.	.	.	.
+2e	.	sang	.	2G	tout	-tes	-mant	2b-i	.	.	.
+2f	che-	re-	ce	2F	.	du	.	2a	.	.	.
+1e	-val,	-al,	val,	1c	homme	sang	vient	2g	homme	re-	.
+.	.	.	.	.	.	.	.	2a	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+2f	&agrave;	re-	en	2d	&agrave;	re-	en	2b-i	&agrave;	.	en
+2e	.	.	.	2c	.	.	.	2a	.	.	.
+2d	.	.	.	2B-	.	.	.	4g	.	.	.
+.	.	.	.	.	.	.	.	4f	.	.	.
+2c	.	.	.	2A	.	.	.	2.f	.	.	.
+2.B-	che-	.	ce	1G	che-	.	ce	.	.	.	.
+.	.	.	.	.	.	.	.	4e	.	.	.
+.	.	.	.	.	.	.	.	4e	che-	.	ce
+4A	.	.	.	.	.	.	.	4d	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+0.c	-val,	-al,	val,	[0.F	-val,	-al,	val,	0.f	-val,	-al,	val,
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+0.f	Gen-	Et	&Agrave;	0F]	.	.	.	1r	.	.	.
+.	.	.	.	.	.	.	.	1r	.	.	.
+.	.	.	.	1F	Gen-	Et	&Agrave;	1a	Gen-	Et	&Agrave;
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+0e	-tis	qui	com-	0A	-tis	qui	com-	0cc	-tis	qui	com-
+1f	com-	des-	-pag-	1A	com-	des-	-pag-	1cc	com-	des-	-pag-
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+0g	-pa-	-pen-	-nie	0G	-pa-	-pen-	-nie	1dd	-pa-	-pen-	-nie
+.	.	.	.	.	.	.	.	1b	-gnons	-des	des
+1d	-gnons	-des	des	[1G	-gnons	-des	des	2b	met-	des	gens
+.	.	.	.	.	.	.	.	2b	-t&eacute;s	esc-	tr&egrave;s
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+*	*	*	*	*k[b-]	*	*	*	*	*	*	*
+1d	met-	des	gens	1G]	.	.	.	2b	sel-	-quel-	bel-
+.	.	.	.	.	.	.	.	2b	-les,	-les,	-les,
+2g	-t&eacute;s	esc-	tr&egrave;s	2G	met-	des	gens	1r	.	.	.
+2g	sel-	-quel-	bel-	2G	-t&eacute;s	esc-	tr&egrave;s	.	.	.	.
+1g	-les,	-les,	-les,	2G	sel-	-quel-	bel-	1b	met-	des	gens
+.	.	.	.	2G	-les,	-les,	-les,	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+2d	met-	des	gens	1r	.	.	.	1a	-t&eacute;s	esc-	tr&egrave;s
+2d	-t&eacute;s	esc-	tr&egrave;s	.	.	.	.	.	.	.	.
+2d	sel-	-quel-	bel-	0G	met-	des	gens	2b	sel-	-quel-	bel-
+2d	-les,	-les,	-les,	.	.	.	.	2dd	.	.	.
+1r	.	.	.	.	.	.	.	2b	.	.	.
+.	.	.	.	.	.	.	.	4a	.	.	.
+.	.	.	.	.	.	.	.	4b	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+1f	sel-	esc-	tr&egrave;s	1F	-t&eacute;s	esc-	tr&egrave;s	2cc	.	.	.
+.	.	.	.	.	.	.	.	2a	.	.	.
+2d	.	.	.	2B-	sel-	-quel-	bel-	2f	.	.	.
+2e	.	.	.	2c	.	.	.	1g	.	.	.
+2.c	.	-quel-	bel-	1A	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2f#i	.	.	.
+4B-	.	.	.	.	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+!LO:TX:Z=2:t=..	!	!	!	!LO:TX:Z=2:t=..	!	!	!	!LO:TX:Z=2:t=..	!	!	!
+!LO:TX:i:Z=9:t=S	!	!	!	!LO:TX:i:Z=9:t=S	!	!	!	!LO:TX:i:Z=9:t=S	!	!	!
+1d	-les,	-les,	-les,&	1G	-les,	-les,	-les,&	0.g	-les,	-les,	-les,&
+0e	Las-	pu-	.	1r	.	.	.	.	.	.	.
+.	.	.	.	1c	Las-	Il	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+1f	-si&eacute;s	-ni-	.	2d	-si&eacute;s	pu-	.	1r	.	.	.
+.	.	.	.	2d	da-	-ni-	.	.	.	.	.
+1c	.	-ra	.	2e	-mes	-ra	.	1g	2., 8. Las-	6. Il	.
+.	.	.	.	2e	et	bien	.	.	.	.	.
+1r	.	.	.	2f	da-	les	.	2a	-si&eacute;s	pu-	.
+.	.	.	.	2f	-moy-	re-	.	2a	da-	-ni-	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+1G	Las-	Il	.	1g	-sel-	-bel-	.	2b	-mes	-ra	.
+.	.	.	.	.	.	.	.	2b	et	bien	.
+2c	-si&eacute;s	pu-	.	1e	.	.	.	2cc	da-	les	.
+2c	da-	-ni-	.	.	.	.	.	2cc	-moy-	re-	.
+2G	-mes	-ra	.	1d	-les,	-les,	.	1dd	-sel-	-bel-	.
+2G	et	bien	.	.	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2G	da-	les	.	2r	.	.	.	1b	.	.	.
+2G	-moy-	re-	.	2g	et	bien	.	.	.	.	.
+1d	-sel-	-bel-	.	1f	da-	les	.	1a	-les,	-les,	.
+1A	.	.	.	1e	-moy-	re-	.	2r	.	.	.
+.	.	.	.	.	.	.	.	2cc	et	les	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+1G	-les,	-les,	.	1g	-sel-	-bel-	.	2b	da-	re-	.
+.	.	.	.	.	.	.	.	2.dd	-moy-	-bel-	.
+2r	.	.	.	2e	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4cc	.	.	.
+2g	et	bien	.	2c	.	.	.	1cc	-sel-	.	.
+2f	da-	les	.	1d	.	.	.	.	.	.	.
+2e	-moy-	re-	.	.	.	.	.	2b	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+1g	-sel-	-bel-	.	1c	-les,	-les,	.	1cc	-les,	-les,	.
+0d	.	.	.	0f	.	.	.	2r	.	.	.
+.	.	.	.	.	.	.	.	2a	Ser-	S'il	.
+.	.	.	.	.	.	.	.	2a	-v&eacute;s	en	.
+.	.	.	.	.	.	.	.	2a	le	treu-	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+0f	-les,	-les,	.	2r	.	.	.	1a	roy	-ve	.
+.	.	.	.	2F	Ser-	S'il	.	.	.	.	.
+.	.	.	.	2F	-v&eacute;s	en	.	2r	.	.	.
+.	.	.	.	2F	le	treu-	.	2a	de	nul	.
+2r	.	.	.	1F	roy	-ve	.	2a	cuer	des	.
+2f	Ser-	S'il	.	.	.	.	.	2a	loi-	loi-	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2f	-v&eacute;s	en	.	2r	.	.	.	1cc	-al.	-al.	.
+2f	le	treu-	.	2F	de	nul	.	.	.	.	.
+1f	roy	-ve	.	2F	cuer	des	.	2r	.	.	.
+.	.	.	.	2F	loi-	loi-	.	1cc	Ser-	S'il	.
+2r	.	.	.	1A	-al.	-al.	.	.	.	.	.
+2e	de	nul	.	.	.	.	.	2b-i	.	en	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+2e	cuer	des	.	2r	.	.	.	2cc	-v&eacute;s	treu-	.
+2e	loi-	loi-	.	2G	de	nul	.	2b-i	le	-ve	.
+1f	-al.	-al.	.	1F	cuer	des	.	4a	roy	nul	.
+.	.	.	.	.	.	.	.	4b-i	.	.	.
+.	.	.	.	.	.	.	.	1cc	.	.	.
+2r	.	.	.	2A	.	loi-	.	.	.	.	.
+2e	de	nul	.	2c	.	.	.	2a	de	des	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+1d	cuer	.	.	2B-	.	.	.	2g	cuer	loi-	.
+.	.	.	.	2G	.	.	.	2b-	.	.	.
+2f	.	.	.	2F	.	.	.	2a	.	.	.
+2e	.	.	.	2c	.	.	.	2.g	.	.	.
+2c	.	.	.	2A	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4f	.	.	.
+2d	.	des	.	2B-	.	.	.	[2f	loi-	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+1B-	loi-	loi-	.	1G	loi-	.	.	4f]	.	.	.
+.	.	.	.	.	.	.	.	4e	.	.	.
+.	.	.	.	.	.	.	.	4e	.	.	.
+.	.	.	.	.	.	.	.	4d	.	.	.
+0cl	-al.	-al.	.	0Fl	-al.	-al.	.	0fl	-al.	-al.	.
+==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!verse1a@@FRE:	&Agrave; cheval, tout homme &agrave; cheval, 
+!!verse1b@@FRE:	Gentis compagnons mett&eacute;s selles, 
+!!verse1c@@FRE:	Lassi&eacute;s dames et damoyselles, 
+!!verse1d@@FRE:	Serv&eacute;s le roy de cuer loial.
+!!verse1a@ENG:	To horse, every man to horse,
+!!verse1b@ENG:	Gentle companions, put on your saddles, 
+!!verse1c@ENG:	Leave the ladies and the damsels,
+!!verse1d@ENG:	Serve the king with loyal hearts.
+!!verse2a@@FRE:	Vous qui estes du sang real,
+!!verse2b@@FRE:	Et qui despendes des escquelles, 
+!!verse2c@@FRE:	&Agrave; cheval, tout homme &agrave; cheval, 
+!!verse2d@@FRE:	Gentis compagnons mett&eacute;s selles,
+!!verse2a@ENG:	You who are of royal blood,
+!!verse2b@ENG:	And who have charge of battle formations, 
+!!verse2c@ENG:	To horse, every man to horse,
+!!verse2d@ENG:	Gentle companions, put on your saddles,
+!!verse3a@@FRE:	Pour vray d'amant vient en ce val, 
+!!verse3b@@FRE:	&Agrave; compagnie des gens tr&egrave;s belles, 
+!!verse3c@@FRE:	Il punira bien les rebelles,
+!!verse3d@@FRE:	S'il en treuve nul des loial.
+!!verse3a@ENG:	In truth he comes through this valley in love, 
+!!verse3b@ENG:	Accompanied by troops most fine;
+!!verse3c@ENG:	He will truly punish the rebels,
+!!verse3d@ENG:	If he finds any of them disloyal.
+!!verse4a@@FRE:	&Agrave; cheval, tout homme &agrave; cheval, 
+!!verse4b@@FRE:	Gentis compagnons mett&egrave;s selles, 
+!!verse4c@@FRE:	Lassi&egrave;s dames et damoyselles, 
+!!verse4d@@FRE:	Serv&egrave;s le roy de cuer loial.
+!!verse4a@ENG:	To horse, every man to horse,
+!!verse4b@ENG:	Gentle companions, put on your saddles, 
+!!verse4c@ENG:	Leave the ladies and the damsels,
+!!verse4d@ENG:	Serve the king with loyal hearts.
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Jesse Rodin 8/14/2013
+!!!END: 2013/08/14/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/08/14/
+!!!ONB: Translated from MusicXML and edited on 2013/08/14/ by Craig Sapp
+!!muse2ps: C^@{COM}\n@{SMS}, @{folio}^v125,125,130Q16l2500t200

@@ -1,0 +1,185 @@
+!!!!SEGMENT: Rue/Rue1005f-Missa_Ave_sanctissima_Maria-Loco_Deo_Gratias.krn
+!!!COM: la Rue, Pierre de
+!!!CDT: ~1452///-1518/11/20
+!!!OPR: Missa Ave sanctissima Maria
+!!!ONM: 6
+!!!OTL: Loco Deo Gratias
+!!!AGN: Mass; Loco Deo Gratias
+!!!SCT: Rue1005f
+!!!SCA: Rue1005f
+!!!jrpid: Rue1005f
+!!!voices: 5
+!!!voices-OPR: 6(-5)
+**kern	**kern	**kern	**kern	**kern
+*staff5	*staff4	*staff3	*staff2	*staff1
+*Ivox	*Ivox	*Ivox	*Ivox	*Ivox
+*I"Bassus	*I"Tenor2	*I"Tenor1	*I"Contra	*I"Discantus
+*I'B	*I'T2	*I'T1	*I'C	*I'D
+*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!section: Te decet laus
+!!!OMD: Te decet laus
+=1-	=1-	=1-	=1-	=1-
+[0D	0d	[0F	[0f	0a
+=2	=2	=2	=2	=2
+0D]	1.d	0F]	0f]	1b-i
+.	.	.	.	[1a
+.	4c\	.	.	.
+.	4B\	.	.	.
+=3	=3	=3	=3	=3
+0D	1A	0F	0d	2a/]
+.	.	.	.	4g/
+.	.	.	.	4f/
+.	1D	.	.	2b-i\
+.	.	.	.	[2a/
+=4	=4	=4	=4	=4
+0D	0A	0F	0d	2a/]
+.	.	.	.	2g/
+.	.	.	.	2f/
+.	.	.	.	4e/
+.	.	.	.	4d/
+=5	=5	=5	=5	=5
+0AA;	0A;	0E;	0e;	0c;
+=6	=6	=6	=6	=6
+0r	0A	0F	1.c	0a
+.	.	.	4B\	.
+.	.	.	4A/	.
+=7	=7	=7	=7	=7
+0AA	0A	2E/	2c\	0a
+.	.	2D/	1d	.
+.	.	1E	.	.
+.	.	.	2c#i\	.
+=8	=8	=8	=8	=8
+1.BB-	0F	0D	1.d	1d
+.	.	.	.	1f
+2AA/	.	.	2c\	.
+=9	=9	=9	=9	=9
+1GG	0r	1E	1B	1g
+1FF	.	[1F	1A	1a
+=10	=10	=10	=10	=10
+0BB-i	0D	2F/]	1r	0d
+.	.	2E/	.	.
+.	.	1D	1F	.
+=11	=11	=11	=11	=11
+[0AA	[0A	[0C	1c	1e
+.	.	.	1F	1f
+=12	=12	=12	=12	=12
+0AA;]	0A;]	0C;]	0c;	0e;
+=13	=13	=13	=13	=13
+0AA	0A	0C	0c	0a
+=14	=14	=14	=14	=14
+0AA	0A	0C	1e	0cc
+.	.	.	1e	.
+=15	=15	=15	=15	=15
+0GG	0B	0D	0g	1b
+.	.	.	.	1g
+=16	=16	=16	=16	=16
+0D	0A	0F	1f	1a
+.	.	.	1d	1a
+=17	=17	=17	=17	=17
+1D	1A	1F	2r	2r
+.	.	.	1f	1a
+1D	1d	1F	.	.
+.	.	.	[2f\	[2a/
+=18	=18	=18	=18	=18
+2r	2r	2r	2f\]	2a/]
+2D\	2A/	1F	2d\	1f
+1D	[1A	.	2.f\	.
+.	.	[2F/	.	4e/
+.	.	.	4e\	4d/
+=19	=19	=19	=19	=19
+1D	1A]	2F/]	2d\	2f/
+.	.	4E/	1d	2g/
+.	.	4D/	.	.
+1AA	1A	1E	.	1a
+.	.	.	2c#i\	.
+=20	=20	=20	=20	=20
+2r	0A	1D	1d	2r
+2D\	.	.	.	2f/
+2C/	.	2r	1r	2e/
+2D\	.	2F/	.	2d/
+=21	=21	=21	=21	=21
+2AA/	0r	2.E/	0r	2c/
+2BB/	.	.	.	2.d/
+.	.	4D/	.	.
+1AA	.	1E	.	.
+.	.	.	.	4c#i/
+.	.	.	.	2c#i/
+=22	=22	=22	=22	=22
+0r	1.A	0D	2r	0d
+.	.	.	1f	.
+.	2A/	.	2f\	.
+=23	=23	=23	=23	=23
+0D	1A	1r	1f	0r
+.	1A	2r	1f	.
+.	.	[2F/	.	.
+=24	=24	=24	=24	=24
+0D	0A	2F/]	0d	2r
+.	.	2F/	.	1a
+.	.	2F/	.	.
+.	.	2F/	.	2a/
+=25	=25	=25	=25	=25
+1AA	0c	0E	0r	2a/
+.	.	.	.	2a/
+1C	.	.	.	1g
+=26	=26	=26	=26	=26
+[0GG	1B	0r	2r	0r
+.	.	.	1d	.
+.	1G	.	.	.
+.	.	.	2d\	.
+=27	=27	=27	=27	=27
+0GG]	0r	2r	2B\	0r
+.	.	1G	2B\	.
+.	.	.	1d	.
+.	.	2G/	.	.
+=28	=28	=28	=28	=28
+0r	0r	2E/	1e	1r
+.	.	2E/	.	.
+.	.	1G	2d\	2r
+.	.	.	2B\	[2g/
+=29	=29	=29	=29	=29
+0r	0r	0A	1c	2g/]
+.	.	.	.	2f/
+.	.	.	1c	2e/
+.	.	.	.	2e/
+=30	=30	=30	=30	=30
+1r	1r	2G/	2B\	1g
+.	.	2E/	1e	.
+1D	1A	1F	.	1a
+.	.	.	2d\	.
+=31	=31	=31	=31	=31
+2.E\	2c\	1E	1e	2g/
+.	2B\	.	.	2e/
+4F\	.	.	.	.
+1D	1d	1r	1r	1f
+=32	=32	=32	=32	=32
+1AA	1e	1A	1c	0e
+1AA	1E	1A	2c\	.
+.	.	.	2c\	.
+=33	=33	=33	=33	=33
+1C	1E	2G/	2c\	0r
+.	.	2E/	2.e\	.
+1D	1A	1F	.	.
+.	.	.	4d\	.
+.	.	.	2d\	.
+=34	=34	=34	=34	=34
+0AA	0A	[0El	[0el	1cc
+.	.	.	.	1cc
+=35	=35	=35	=35	=35
+1r	1r	0E_	0e_	2b\
+.	.	.	.	2g/
+1AA	1A	.	.	1a
+=36	=36	=36	=36	=36
+0EEl	0Bl	0E]	0e]	0gl
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Chris Gage 01-02-2013
+!!!END: 2013/07/19/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/07/19/
+!!!ONB: Translated from MusicXML and edited on 2013/07/19/ by Craig Sapp
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,85,130Q16

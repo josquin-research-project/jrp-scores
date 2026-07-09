@@ -1,0 +1,302 @@
+!!!!SEGMENT: Duf/Duf3077-Helas_mon_dueil_a_ce_cop_sui_je_mort.krn
+!!!COM: Du Fay, Guillaume
+!!!CDT: ~1397/08/05/-1474/11/27
+!!!OTL: Helas mon dueil a ce cop sui je mort
+!!!AGN: Song; Chanson
+!!!SCT: Duf3077
+!!!SCA: Duf3077
+!!!jrpid: Duf3077
+!!!voices: 3
+**kern	**text	**text	**kern	**kern	**text	**text
+*staff3	*staff3	*staff3	*staff2	*staff1	*staff1	*staff1
+*Ivox	*	*	*Ivox	*Ivox	*	*
+*I"Tenor	*	*	*I"Contratenor	*I"Cantus	*	*
+*I'T	*	*	*I'Ct	*I'Cn	*	*
+*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*clefGv2	*	*	*clefGv2	*clefG2	*	*
+*k[b-]	*	*	*k[b-]	*k[]	*	*
+*M2/1	*	*	*M2/1	*M2/1	*	*
+*met(C)	*	*	*met(C)	*met(C)	*	*
+*MM336	*	*	*MM336	*MM336	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!!LO:TX:Z=16:t=Virelai
+1A	1.5. He-	4. Mal-	[0D	0a	1.5. He-	4. Mal-
+[1d	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+2d\]	.	.	0D]	0f#	-las,	-heu-
+2c\	.	.	.	.	.	.
+1A	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+1G	-las,	-heu-	1.d	0b-	mon	-reux
+1G	mon	-reux	.	.	.	.
+.	.	.	2e\	.	.	.
+=4	=4	=4	=4	=4	=4	=4
+1F	dueil,	cuer,	0f	0a	dueil,	cuer,
+1D	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5
+1A	a	pri-	0e	1cc	a	pri-
+1A	ce	-v&eacute;	.	1cc	ce	-v&eacute;
+=6	=6	=6	=6	=6	=6	=6
+1d	cop	de	1f	2b-i\	cop	de
+.	.	.	.	2a/	.	.
+1c	sui	le	1F	[1a	sui	le
+=7	=7	=7	=7	=7	=7	=7
+0B-	ie	con-	2r	2a/]	.	.
+.	.	.	1.G	1g	ie	con-
+.	.	.	.	2f/	.	.
+=8	=8	=8	=8	=8	=8	=8
+[0A	mort.	-fort	[0D	0a	mort.	-fort
+=9	=9	=9	=9	=9	=9	=9
+0A]	.	.	1D]	1r	.	.
+.	.	.	2r	1f	Puis-	De
+.	.	.	2D/	.	.	.
+=10	=10	=10	=10	=10	=10	=10
+1r	.	.	2E/	1g	-que	ton
+.	.	.	2F/	.	.	.
+1B-	Puis-	De	1G	1g	re-	a-
+=11	=11	=11	=11	=11	=11	=11
+1A	-que	ton	0D	1a	-fus	-mour,
+1F	re-	a-	.	1a	l'es-	et
+=12	=12	=12	=12	=12	=12	=12
+1B-	-fus	-mour,	1r	2g/	-ra-	la
+.	.	.	.	2f/	.	.
+1B-	l'es-	et	1G	1d	.	.
+=13	=13	=13	=13	=13	=13	=13
+1.A	-ra-	la	2A/	2c/	.	.
+.	.	.	2F/	2d/	.	.
+.	.	.	1D	1f	.	.
+2F/	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14
+1G	-gi&eacute;	clar-	1B-	2e/	-gi&eacute;	clar-
+.	.	.	.	2d/	.	.
+1F	si	-t&eacute;	1A	[1d	si	-t&eacute;
+=15	=15	=15	=15	=15	=15	=15
+0E	me	qui	2G/	2d/]	.	.
+.	.	.	1G	2c#i/	.	.
+.	.	.	.	2c#i/	me	qui
+.	.	.	2F/	2B/	.	.
+=16	=16	=16	=16	=16	=16	=16
+0D	mort.	sort	0A	1d	mort.	sort
+.	.	.	.	1r	.	.
+=17	=17	=17	=17	=17	=17	=17
+1r	.	.	1F	0a	Cer-	De
+1F	Cer-	De	1D	.	.	.
+=18	=18	=18	=18	=18	=18	=18
+1G	-tes,	ces	0d	1b	-tes,	ces
+1G	c'est	beaux	.	1b	c'est	beaux
+=19	=19	=19	=19	=19	=19	=19
+0A	fait	yeux	1r	1cc	fait	yeux
+.	.	.	1c	1cc	de	qui
+=20	=20	=20	=20	=20	=20	=20
+1G	de	qui	1d	1b	ma	te
+1d	ma	te	1G	1b	do-	don-
+=21	=21	=21	=21	=21	=21	=21
+2d\	do-	don-	0D	0a	-len-	-nent
+2e\	.	.	.	.	.	.
+1f	-len-	-nent	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22
+1e	.	.	2E/	2g/	.	.
+.	.	.	2F/	2a/	.	.
+2d\	-te	la	1G	1b-i	.	.
+[2d\	vy-	vy-	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23
+2d\]	.	.	1F	2a/	-te	la
+2A/	.	.	.	2.a/	vy-	vy-
+1d	.	.	1D	.	.	.
+.	.	.	.	4g/	.	.
+.	.	.	.	2f/	.	.
+=24	=24	=24	=24	=24	=24	=24
+[0c#i	-e;	-e;	0A	0e	-e;	-e;
+=25	=25	=25	=25	=25	=25	=25
+1c#i]	.	.	2A/	1r	.	.
+.	.	.	2G/	.	.	.
+2r	.	.	1E	1e	Tout	Ton
+2c#i\	Tout	Ton	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26
+1d	le	es-	1D	1f	le	es-
+1d	mon-	-poir	1B-	2f/	mon-	-poir
+.	.	.	.	2e/	.	.
+=27	=27	=27	=27	=27	=27	=27
+1.e	-de	mort	0A	1c	-de	mort
+.	.	.	.	2c/	ne	et
+2e\	ne	et	.	2c/	me	ta
+=28	=28	=28	=28	=28	=28	=28
+2f\	me	ta	[0D	1.d	sau-	joy-
+2f\	sau-	joy-	.	.	.	.
+1f	-ve-	-e	.	.	.	.
+.	.	.	.	2d/	-ve-	-e
+=29	=29	=29	=29	=29	=29	=29
+1f	-roit	fi-	1D]	1d	-roit	fi-
+1e	my-	-ni-	1r	2A/	my-	-ni-
+.	.	.	.	2c/	.	.
+=30	=30	=30	=30	=30	=30	=30
+2d\	.	.	1D	2d/	.	.
+1d	.	.	.	2f/	.	.
+.	.	.	1A	1e	.	.
+2c#i\	.	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31
+1d	-e.	-e	3%2B-V	0d	-e.	-e
+.	.	.	3%2G	.	.	.
+1r	.	.	.	.	.	.
+.	.	.	3%2B-Z	.	.	.
+=32	=32	=32	=32	=32	=32	=32
+2D/	Puis-	Par	0A	0r	.	.
+2E/	-que	un	.	.	.	.
+1F	m'a-	dou-	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33
+1G	-mour	-leur	1r	2d/	Puis-	Par
+.	.	.	.	2e/	-que	un
+1A	en	qui	1D	1f	m'a-	dou-
+=34	=34	=34	=34	=34	=34	=34
+2.B-\	a	va	2d\	1g	-mour	-leur
+.	.	.	2e\	.	.	.
+4A/	.	.	.	.	.	.
+1F	.	.	1f	1a	en	qui
+=35	=35	=35	=35	=35	=35	=35
+1G	es-	jusqu'	1d	2.b-\	a	va
+.	.	.	.	4a/	.	.
+1A	-t&eacute;	a	1D	1f	.	.
+=36	=36	=36	=36	=36	=36	=36
+1B-	d'a-	la	2r	1g	es-	jusqu'
+.	.	.	2G/	.	.	.
+2.c\	.	.	1F	1a	-t&eacute;	a
+4B-\	.	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37
+2G/	.	.	2E-/	1b-i	d'a-	la
+2d\	.	.	2D/	.	.	.
+2c\	.	.	2r	2.cc\	.	.
+[2e-\	.	.	[2C/	.	.	.
+.	.	.	.	4b-i\	.	.
+=38	=38	=38	=38	=38	=38	=38
+2e-\]	.	.	2C/]	2g/	.	.
+1d	.	.	1D	2f/	.	.
+.	.	.	.	2b-i\	.	.
+[2c\	.	.	[2F/	4a/	.	.
+.	.	.	.	[4a/	.	.
+=39	=39	=39	=39	=39	=39	=39
+2c\]	.	.	2F/]	4a/]	.	.
+.	.	.	.	4g/	.	.
+2B-\	.	.	2G/	2.g/	.	.
+1A	.	.	1D	.	.	.
+.	.	.	.	4f#i/	.	.
+.	.	.	.	4f#i/	.	.
+.	.	.	.	4e/	.	.
+=40	=40	=40	=40	=40	=40	=40
+0Gl	-cort.	mort.	0dl	0gl	-cort.	mort.
+!!LO:TX:i:rj:Z=16:t=fine
+!!LO:LB:i:g=z
+=41||	=41||	=41||	=41||	=41||	=41||	=41||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+*clefGv2	*	*	*clefGv2	*clefG2	*	*
+*k[b-]	*	*	*k[b-]	*k[]	*	*
+*M2/1	*	*	*M2/1	*M2/1	*	*
+*met(C)	*	*	*met(C)	*met(C)	*	*
+=	=	=	=	=	=	=
+!!section: Il ne fault ja
+!!!OMD: Il ne fault ja
+1.Bn	2. Il	3. La	0G	1d	2. Il	3. La
+.	.	.	.	2d/	ne	mor-
+2c\	.	.	.	2e/	.	.
+=42	=42	=42	=42	=42	=42	=42
+1d	ne	mor-	0D	1.f#i	fault	-su-
+1d	fault	-su-	.	.	.	.
+.	.	.	.	2e/	.	.
+=43	=43	=43	=43	=43	=43	=43
+1G	ja	-re	3%2E-V	0g	ja	-re
+.	.	.	3%2C	.	.	.
+1G	que	me	.	.	.	.
+.	.	.	3%2E-iZ	.	.	.
+=44	=44	=44	=44	=44	=44	=44
+1d	je	don-	1D	1a	que	me
+1d	voi-	-ne	1G	1b	je	don-
+=45	=45	=45	=45	=45	=45	=45
+0c	-se a	tant	1A	1cc	voi-	-ne
+.	.	.	1F	[1cc	-se a	tant
+=46	=46	=46	=46	=46	=46	=46
+0e-	la	d'a-	0C	2cc\]	.	.
+.	.	.	.	2b-i\	.	.
+.	.	.	.	1g	la	d'a-
+=47	=47	=47	=47	=47	=47	=47
+1d	mer	-mer	[0D	1.f#	mer	-mer
+1d	N'a	Que	.	.	.	.
+.	.	.	.	2g/	.	.
+=48	=48	=48	=48	=48	=48	=48
+1.f	saint	de	0D]	1a	.	.
+.	.	.	.	1d	.	.
+4e-i\	.	.	.	.	.	.
+4d\	.	.	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49
+1.c	Hu-	ce	0E-	0r	.	.
+2B-\	.	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50
+0d	-bert	mal	0D	2.f/	N'a	Que
+.	.	.	.	4g/	.	.
+.	.	.	.	2a/	.	.
+.	.	.	.	2b\	.	.
+=51	=51	=51	=51	=51	=51	=51
+1A	pour	il	1r	2.cc\	saint	de
+.	.	.	.	8b/L	.	.
+.	.	.	.	8a/J	.	.
+1B-	moy	me	1d	2.g/	Hu-	ce
+.	.	.	.	4f/	.	.
+=52	=52	=52	=52	=52	=52	=52
+0A	fai-	faul-	2e\	1a	-bert	mal
+.	.	.	1.c	.	.	.
+.	.	.	.	1f	pour	il
+=53	=53	=53	=53	=53	=53	=53
+0G	-re	-dra	0d	1b-	moy	me
+.	.	.	.	1b-i	fai-	faul-
+=54	=54	=54	=54	=54	=54	=54
+1D	ga-	mou-	2r	1a	-re	-dra
+.	.	.	2d\	.	.	.
+2E/	.	.	2.G/	2.g/	ga-	mou-
+[2G/	.	.	.	.	.	.
+.	.	.	[4B-\	4f/	.	.
+=55	=55	=55	=55	=55	=55	=55
+2G/]	.	.	2B-\]	4e/	.	.
+.	.	.	.	4d/	.	.
+2F/	.	.	2.A/	1d	.	.
+1E	.	.	.	.	.	.
+.	.	.	2.G/	.	.	.
+.	.	.	.	2c#i/	.	.
+=56	=56	=56	=56	=56	=56	=56
+2.DN/	-rir.	-rir,	1.AN	2d/N	-rir.	-rir,
+.	.	.	.	2r	.	.
+4E/	.	.	.	.	.	.
+2F/	.	mou-	.	2.d/	.	mou-
+2G/	.	.	2Bn\	.	.	.
+.	.	.	.	4e/	.	.
+=57	=57	=57	=57	=57	=57	=57
+2A/	.	.	2c\	2f/	.	.
+2G/	.	.	2d\	2g/	.	.
+2.c\	.	.	1e	2a/	.	.
+.	.	.	.	2g/	.	.
+4B-\	.	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58
+2A/	.	.	2c\	2.cc\	.	.
+2G/	.	.	2d\	.	.	.
+.	.	.	.	4b-\	.	.
+2d\	.	.	2D/	2a/	.	.
+2e-\	.	.	[2G/	2g/	.	.
+=59	=59	=59	=59	=59	=59	=59
+3.d\V	.	.	1G]	3.b-i\V	.	.
+6c\	.	.	.	6a/	.	.
+3B-\Z	.	.	.	3g/Z	.	.
+1A	.	.	1D	2.f#i/	.	.
+.	.	.	.	4e/	.	.
+=60	=60	=60	=60	=60	=60	=60
+0Gl	.	-rir.	0dl	0gl	.	-rir.
+=||	=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: V=start of tuplet marker
+!!!RDF**kern: Z=end of tuplet marker
+!!!RDF**kern: N=signum congruentiae
+!!!ENC: Alejandro Planchart
+!!!END: 2013///
+!!!EED: Jesse Rodin
+!!!EEV: 2016/03/28/
+!!!ONB: Translated from SCORE and edited on 2016/03/28/ by Craig Sapp
+!!muse2ps: C^@{COM}^i2I150v95,95,150Q16z16l2550

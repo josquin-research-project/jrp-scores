@@ -1,0 +1,268 @@
+!!!!SEGMENT: Mar/Mar1002a-Missa_Coda_di_pavon-Kyrie.krn
+!!!COM: Martini, Johannes
+!!!CDT: ~1440///-~1497//
+!!!OPR: Missa Coda di pavon
+!!!ONM: 1
+!!!OTL: Kyrie
+!!!AGN: Mass; Kyrie
+!!!SCT: Mar1002a
+!!!SCA: Mar1002a
+!!!jrpid: Mar1002a
+!!!voices: 4
+!!!voices-OPR: 4
+**kern	**kern	**kern	**kern
+*Ivox	*Ivox	*Ivox	*Ivox
+*I"Bassus	*I"Tenor	*I"Altus	*I"Superius
+*I'B	*I'T	*I'A	*I'S
+*staff4	*staff3	*staff2	*staff1
+*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
+*>A	*>A	*>A	*>A
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C)	*met(C)	*met(C)	*met(C)
+=1-	=1-	=1-	=1-
+!!section: Kyrie I
+!!!OMD: Kyrie I
+0G	0g	1d	0g
+.	.	2e\	.
+.	.	[2d\	.
+=2	=2	=2	=2
+0D	0f	2d\]	0a
+.	.	4c\	.
+.	.	4B\	.
+.	.	2A/	.
+.	.	[2d\	.
+=3	=3	=3	=3
+1G	1.g	2d\]	2.b\
+.	.	2e\	.
+.	.	.	4a/
+2E\	.	2g\	4b\
+.	.	.	4cc\
+2D\	2f\	[2a\	[2dd\
+=4	=4	=4	=4
+1A	2e\	4a\]	4dd\]
+.	.	4g\	4cc\
+.	2c\	4f\	1cc
+.	.	4e\	.
+1G	1d	1g	.
+.	.	.	2b\
+=5	=5	=5	=5
+0C	2.c\	1e	2cc\
+.	.	.	4b\
+.	4d\	.	4a/
+.	1e	1c	2g/
+.	.	.	2cc\
+=6	=6	=6	=6
+1G	2d\	2d\	2b\
+.	1d	2e\	4a/
+.	.	.	4g/
+[1D	.	2f\	2f/
+.	4c\	[2d\	[2g/
+.	4B\	.	.
+=7	=7	=7	=7
+1D]	1A	4d\]	2g/]
+.	.	4c\	.
+.	.	2d\	2f#i/
+[1E	1G	2B\	[1g
+.	.	[2e\	.
+=8	=8	=8	=8
+2E\]	0B	2e\]	1g]
+2F\	.	1d	.
+1G	.	.	2r
+.	.	[2g\	2d/
+=9	=9	=9	=9
+1C	1c	2g\]	2e/
+.	.	2a\	4d/
+.	.	.	4c/
+1G	2r	[1g	1d
+.	2B\	.	.
+=10	=10	=10	=10
+1C	2.c\	1g]	2.e/
+.	4d\	.	4f/
+2r	2e\	1c	2g/
+2F\	2f\	.	2a/
+=11	=11	=11	=11
+2G\	2d\	2B\	2b\
+2E\	2e\	2G/	2cc\
+2D\	2f\	2A/	2dd\
+2C/	[2g\	[2c\	[2ee\
+=12	=12	=12	=12
+1c	4g\]	4c\]	4ee\]
+.	4f\	4d\	4cc\
+.	2e\	4e\	1cc
+.	.	4f\	.
+1G	1d	1g	.
+.	.	.	2b\
+=13	=13	=13	=13
+0Cl	0cl	0gl	0ccl
+!!LO:LB:i:g=z
+=14||	=14||	=14||	=14||
+*>B	*>B	*>B	*>B
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C)	*met(C)	*met(C)	*met(C)
+!!section: Christe
+!!!OMD: Christe
+1G	1g	0d	1g
+1D	1f	.	1a
+=15	=15	=15	=15
+1G	1g	1d	1b
+1A	1c	1f	[1cc
+=16	=16	=16	=16
+0G	0d	[0g	2cc\]
+.	.	.	4b\
+.	.	.	4a/
+.	.	.	1b
+=17	=17	=17	=17
+0C	0c	0g]	1.cc
+.	.	.	4b\
+.	.	.	4a/
+=18	=18	=18	=18
+1C	1c	1e	1g
+1G	[1d	1g	1b
+=19	=19	=19	=19
+2F\	2d\]	2a\	2a/
+2A\	2c\	2f\	2cc\
+1G	2d\	2g\	2b\
+.	2B\	2e\	[2g/
+=20	=20	=20	=20
+1D	1A	1d	2g/]
+.	.	.	2f#i/
+1G	1G	1B	1g
+=21	=21	=21	=21
+0G	0B	1d	1r
+.	.	1g	1d
+=22	=22	=22	=22
+0C	1.c	[0g	1.e
+.	4B\	.	4d/
+.	4A/	.	4c/
+=23	=23	=23	=23
+1.G	1.B	0g]	1.d
+2C/	[2c\	.	[2e/
+=24	=24	=24	=24
+2E\	2c\]	1r	2e/]
+2D\	2d\	.	2f/
+2C/	2e\	[1c	2g/
+2F\	2f\	.	2a/
+=25	=25	=25	=25
+2E\	2g\	2c\]	2b\
+2C/	2e\	1.g	1cc
+1G	1d	.	.
+.	.	.	2b\
+=26	=26	=26	=26
+2.A\	[0cl	1.e	1cc
+4G\	.	.	.
+2E\	.	.	2g/
+[2A\	.	[2c\	[2cc\
+=27	=27	=27	=27
+4A\]	0c_	1c]	4cc\]
+4G\	.	.	4b\
+1F	.	.	1a
+.	.	1f	.
+4E\	.	.	4g/
+4D\	.	.	4f/
+=28	=28	=28	=28
+0C;l	0c;]	0g;l	0e;l
+!!LO:LB:i:g=z
+=29||	=29||	=29||	=29||
+*>C	*>C	*>C	*>C
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C)	*met(C)	*met(C)	*met(C)
+!!section: Kyrie II
+!!!OMD: Kyrie II
+0r	1r	0r	1d
+.	1c	.	2e/
+.	.	.	2e/
+=30	=30	=30	=30
+1r	2B\	0r	1d
+.	2B\	.	.
+2.C/	2c\	.	2c/
+.	4B\	.	[2g/
+4D\	4A/	.	.
+=31	=31	=31	=31
+2E\	2G/	0r	2g/]
+2F\	2A/	.	4f/
+.	.	.	4e/
+1G	1B	.	1d
+=32	=32	=32	=32
+1C	2c\	1r	1c
+.	1e	.	.
+1c	.	1c	2r
+.	2c\	.	2g/
+=33	=33	=33	=33
+1A	2f\	1c	2a/
+.	2e\	.	2cc\
+2.G\	2g\	1d	2b\
+.	4f\	.	4a/
+4F\	4e\	.	4g/
+=34	=34	=34	=34
+1D	4f\	1d	4a/
+.	4e\	.	4g/
+.	4d\	.	4f/
+.	4c\	.	4e/
+2G\	2B\	2d\	2d/
+[2F\	[2c\	[2f\	[2a/
+=35	=35	=35	=35
+2F\]	2c\]	2f\]	4a/]
+.	.	.	4g/
+2G\	2B\	2e\	1g
+1D	1A	1d	.
+.	.	.	2f#i/
+=36	=36	=36	=36
+1E	1G	2r	1g
+.	.	1g	.
+2C/	1c	.	2r
+2F\	.	2f\	2a/
+=37	=37	=37	=37
+2G\	2r	2d\	2b\
+2B-i\	2d\	2g\	1dd
+1A	1e	1a	.
+.	.	.	2cc#i\
+=38	=38	=38	=38
+1D	2.f\	2f\	1dd
+.	.	2.a\	.
+.	4e\	.	.
+1A	1c	.	2r
+.	.	4g\	.
+.	.	2a\	2ee\
+=39	=39	=39	=39
+1D	2r	2f\	2.ff\
+.	2d\	1d	.
+.	.	.	4ee\
+2BB-/	2f\	.	2dd\
+2C/	2e\	2g\	2cc\
+=40	=40	=40	=40
+2D\	2d\	2f\	2ff\
+1E	2c\	1g	2ee\
+.	2e\	.	2cc\
+2D\	2f\	2a\	[2dd\
+=41	=41	=41	=41
+2G\	1g	2d\	2dd\]
+2C/	.	2c\	2ee\
+2r	1f	2d\	4dd\
+.	.	.	2ff\
+2D\	.	2f\	.
+.	.	.	4ee\
+=42	=42	=42	=42
+2E\	2g\	2e\	4dd\
+.	.	.	4cc\
+2F\	4f\	2a\	1cc
+.	4e\	.	.
+1G	1d	1g	.
+.	.	.	2b\
+=43	=43	=43	=43
+0Cl	0cl	0el	0ccl
+==	==	==	==
+*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Chris Gage 10-31-2013
+!!!END: 2014/06/20/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/03/09/
+!!!ONB: Translated from MusicXML and edited on 2015/03/09/ by Craig Sapp
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,150Q16

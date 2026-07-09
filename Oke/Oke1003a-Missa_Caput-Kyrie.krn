@@ -1,0 +1,429 @@
+!!!!SEGMENT: Oke/Oke1003a-Missa_Caput-Kyrie.krn
+!!!COM: Okeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OPR: Missa Caput
+!!!ONM: 1
+!!!OTL: Kyrie
+!!!AGN: Mass; Kyrie
+!!!voices: 4
+!!!voices-OPR: 4
+**kern	**kern	**kern	**kern
+*staff4	*staff3	*staff2	*staff1
+*Ivox	*Ivox	*Ivox	*Ivox
+*I"Tenor1	*I"Tenor2	*I"Contratenor	*I"Discantus
+*I'T1	*I'T2	*I'Ct	*I'D
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
+*>Kyrie1[A]	*>Kyrie1[A]	*>Kyrie1[A]	*>Kyrie1[A]
+*>Christus[B]	*>Christus[B]	*>Christus[B]	*>Christus[B]
+*>Kyrie2[C]	*>Kyrie2[C]	*>Kyrie2[C]	*>Kyrie2[C]
+*>A	*>A	*>A	*>A
+*k[]	*k[]	*k[]	*k[]
+*M3/1	*M3/1	*M3/1	*M3/1
+*met(O)	*met(O)	*met(O)	*met(O)
+=1-	=1-	=1-	=1-
+!!section: Kyrie I
+!!!OMD: Kyrie I
+0.r	0.D	0.A	[0.d
+=2	=2	=2	=2
+[0.BB	1.D	0.B	0.d]
+.	2E/	.	.
+.	1F#	.	.
+=3	=3	=3	=3
+0.BB]	1G	1B	1.d
+.	0B	0d	.
+.	.	.	2e/
+.	.	.	1g
+=4	=4	=4	=4
+[0.D	1A	1.d	2.f/
+.	.	.	4d/
+.	2B\	.	2.f/
+.	1d	2B\	.
+.	.	.	4g/
+.	.	1A	1a
+.	2c\	.	.
+=5	=5	=5	=5
+0.D]	2B\	2r	1d
+.	1A	1F	.
+.	.	.	1r
+.	4G/	2F/	.
+.	4A/	.	.
+.	2.F/	2.A/	1a
+.	4E/	4B\	.
+=6	=6	=6	=6
+[0.C	0E	1.c	1a
+.	.	.	1.g
+.	.	2d\	.
+.	1G	1e	.
+.	.	.	2e/
+=7	=7	=7	=7
+!!linebreak:original
+0.C]	1A	1c	1.e
+.	0c	0G	.
+.	.	.	1c
+.	.	.	2e/
+=8	=8	=8	=8
+0.D	1B	1r	2d/
+.	.	.	1f#
+.	0A	0d	.
+.	.	.	2g/
+.	.	.	2f#i/
+.	.	.	2e/
+=9	=9	=9	=9
+1r	1.G	2d\	0g
+.	.	1d	.
+1r	.	.	.
+.	2E/	2c\	.
+1BB	1D	2.B\	1r
+.	.	4A/	.
+=10	=10	=10	=10
+0.E	0C	2.c\	1.g
+.	.	4B\	.
+.	.	0G	.
+.	.	.	2f/
+.	1c	.	1e
+=11	=11	=11	=11
+0G	0B-	1r	1d
+.	.	2.d\	1g
+.	.	4e\	.
+1D	1A	1f	2r
+.	.	.	2f/
+=12	=12	=12	=12
+1E	0G	2e\	2g/
+.	.	1e	2a/
+1BB	.	.	1b
+.	.	2d\	.
+1D	[1F	[1f	1a
+=13	=13	=13	=13
+0.D	2.F/]	1f]	2.d/
+.	4G/	.	4e/
+.	1A	2.d\	2.f/
+.	.	4c\	4g/
+.	2D/	1A	2.a/
+.	2F/	.	.
+.	.	.	4g/
+=14	=14	=14	=14
+!!linebreak:original
+1C	2G/	2.c\	1e
+.	1A	.	.
+.	.	4d\	.
+0AA	.	2e\	1r
+.	2F/	1d	.
+.	1E	.	1a
+.	.	2c#i\	.
+=15	=15	=15	=15
+1r	1D	1d	1a
+1r	0d	0B	1.g
+1BB	.	.	.
+.	.	.	2f/
+=16	=16	=16	=16
+[0.D	1r	1A	2.f/
+.	.	.	4g/
+.	1A	0d	2a/
+.	.	.	4g/
+.	.	.	4a/
+.	[1F	.	2b-i\
+.	.	.	[2a/
+=17	=17	=17	=17
+1D]	2F/]	1B	2a/]
+.	4E/	.	2f/
+.	4F/	.	.
+0C	1G	2c\	1.e
+.	.	2d\	.
+.	1c	1e	.
+.	.	.	2g/
+=18	=18	=18	=18
+[0.D	1A	1d	2f/
+.	.	.	1d
+.	2F/	2r	.
+.	2G/	1d	2B/
+.	2A/	.	1A
+.	[2D/	2B\	.
+=19	=19	=19	=19
+1D]	2D/]	1A	2.d/
+.	1F	.	.
+.	.	.	4e/
+0BB	.	2B\	2f/
+.	2E/	1G	2.g/
+.	1D	.	.
+.	.	.	4f/
+.	.	2F/	2d/
+=20	=20	=20	=20
+[0.AA	1C	0A	2e/
+.	.	.	1e
+.	2E/	.	.
+.	2F/	.	2.a/
+.	2E/	1c	.
+.	.	.	4g/
+.	[2A/	.	4f/
+.	.	.	4e/
+=21	=21	=21	=21
+!!pagebreak:original
+0.AA]	1A]	2r	2f/
+.	.	1c	1e
+.	2E/	.	.
+.	2F/	2.A/	1d
+.	1E	.	.
+.	.	4G/	.
+.	.	2A/	2c#i/
+=22	=22	=22	=22
+0.Dl	0.Dl	2.F/	0.dl
+.	.	4G/	.
+.	.	1A	.
+.	.	1Al	.
+!!LO:LB:i:g=z
+=23||	=23||	=23||	=23||
+*>B	*>B	*>B	*>B
+!!section: Christe
+!!!OMD: Christe
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
+0r	[0A	[0c#	0e
+=24	=24	=24	=24
+0r	0A]	0c#]	1f#i
+.	.	.	[1a
+=25	=25	=25	=25
+0r	0B	0d	2a/]
+.	.	.	2g/
+.	.	.	[1g
+=26	=26	=26	=26
+0r	0c	1r	2g/]
+.	.	.	2f/
+.	.	1A	1e
+=27	=27	=27	=27
+0r	0d	1B	1d
+.	.	1d	1f
+=28	=28	=28	=28
+!!linebreak:original
+0r	1r	1.c	1e
+.	1A	.	[1a
+.	.	2d\	.
+=29	=29	=29	=29
+0r	0A	1e	1a]
+.	.	1c	1f
+=30	=30	=30	=30
+0r	0B	1d	1g
+.	.	1B	1d
+=31	=31	=31	=31
+0r	0c	0A	0e
+=32	=32	=32	=32
+0r	[0d	1r	0d
+.	.	1f	.
+=33	=33	=33	=33
+0r	0d]	[0f	1a
+.	.	.	1b
+=34	=34	=34	=34
+0r	1r	0f]	2cc\
+.	.	.	1dd
+.	[1d	.	.
+.	.	.	2cc\
+=35	=35	=35	=35
+!!linebreak:original
+0r	1d]	1f	2b\
+.	.	.	2a/
+.	1c	1e	[1a
+=36	=36	=36	=36
+0r	0B	0d	1a]
+.	.	.	1g#i
+=37	=37	=37	=37
+1r	0A	1e	[0a
+1D	.	1d	.
+=38	=38	=38	=38
+0D	0d	0f	0a]
+=39	=39	=39	=39
+1E	0c	1g	0r
+1F	.	1a	.
+=40	=40	=40	=40
+[0G	0B	1g	1d
+.	.	1e	2e/
+.	.	.	[2g/
+=41	=41	=41	=41
+1G]	1G	0d	2g/]
+.	.	.	2e/
+1D	1A	.	1f
+=42	=42	=42	=42
+!!linebreak:original
+1E	1G	1r	1g
+1F	1D	1d	1a
+=43	=43	=43	=43
+0G	0r	1.B	1d
+.	.	.	1e
+.	.	2G/	.
+=44	=44	=44	=44
+1D	1d	1A	1f
+[1G	[1B	2r	1g
+.	.	[2G/	.
+=45	=45	=45	=45
+1G]	2B\]	2G/]	1d
+.	2G/	2E/	.
+1D	1A	1F	1r
+=46	=46	=46	=46
+1E	1G	1r	0g
+1C	1E	1c	.
+=47	=47	=47	=47
+0D	1D	1A	1f
+.	1F	1B	1d
+=48	=48	=48	=48
+1E	1G	1E	1c
+1C	1E	1A	2e/
+.	.	.	[2g/
+=49	=49	=49	=49
+!!pagebreak:original
+0BB	0D	1B	2g/]
+.	.	.	2f/
+.	.	1G	1d
+=50	=50	=50	=50
+*	*	*	*^
+[0AAl	1r	[0cl	[0c\l	[0e/l
+.	1A	.	.	.
+=51	=51	=51	=51	=51
+0AA_	1.A	0c_	0c_yy	0e_yy
+.	4G/	.	.	.
+.	4F/	.	.	.
+=52	=52	=52	=52	=52
+0AA]	0El	0c]	0c]yy	0e]yy
+*	*	*	*v	*v
+!!LO:LB:i:g=z
+=53||	=53||	=53||	=53||
+*>C	*>C	*>C	*>C
+!!section: Kyrie II
+!!!OMD: Kyrie II
+*M3/1	*M3/1	*M3/1	*M3/1
+*met(O)	*met(O)	*met(O)	*met(O)
+0.C	1G	0.c	1.e
+.	1A	.	.
+.	.	.	2f/
+.	1G	.	1g
+=54	=54	=54	=54
+1C	1c	1e	1g
+0D	2r	0d	1.f
+.	1B	.	.
+.	2A/	.	2e/
+=55	=55	=55	=55
+0.C	2c\	1G	2.e/
+.	2d\	.	.
+.	.	.	4f/
+.	1e	2.c\	2g/
+.	.	.	1a
+.	.	4d\	.
+.	2.c\	2.e\	.
+.	.	.	2g/
+.	4B\	4d\	.
+=56	=56	=56	=56
+!!linebreak:original
+0.r	2A/	2c\	2f/
+.	1G	1B	1e
+.	2F/	1A	1d
+.	1E	.	.
+.	.	2G/	2c#i/
+=57	=57	=57	=57
+0.D	1r	1A	0.d
+.	1A	1r	.
+.	1F	1B	.
+=58	=58	=58	=58
+0.C	2G/	1.c	1r
+.	4F/	.	.
+.	4G/	.	.
+.	2A/	.	1r
+.	2G/	2d\	.
+.	1E	1e	1g
+=59	=59	=59	=59
+0.D	1D	0.A	2.f/
+.	.	.	4g/
+.	0d	.	2b-i\
+.	.	.	1a
+.	.	.	2f/
+=60	=60	=60	=60
+0.E	1c	0G	1.g
+.	[0B	.	.
+.	.	.	2e/
+.	.	1E	2.g/
+.	.	.	4a/
+=61	=61	=61	=61
+0BB	1B]	0.D	[0.b
+.	0G	.	.
+[1GG	.	.	.
+=62	=62	=62	=62
+1GG]	1B	1r	1b]
+0AA	0A	1E	1.cc
+.	.	1F	.
+.	.	.	2b\
+=63	=63	=63	=63
+!!linebreak:original
+1BB	2r	1G	1g
+.	2G/	.	.
+0AA	2A/	1r	2f/
+.	2E/	.	2g/
+.	1F	1c	1a
+=64	=64	=64	=64
+0.GG	1.G	[0.B	1d
+.	.	.	2e/
+.	2E/	.	1g
+.	1D	.	.
+.	.	.	2f/
+=65	=65	=65	=65
+1.BB	1r	0.B]	1d
+.	2D/	.	1r
+2AA/	2E/	.	.
+1BB	2D/	.	[1d
+.	[2G/	.	.
+=66	=66	=66	=66
+1GG	1.G]	1B	2d/]
+.	.	.	1.e
+0AA	.	1c	.
+.	2E/	.	.
+.	1F	2r	2.c/
+.	.	2c\	.
+.	.	.	4B/
+=67	=67	=67	=67
+[0.GG	1G	2d\	1B
+.	.	1e	.
+.	2B\	.	1r
+.	2c\	4d\	.
+.	.	4c\	.
+.	2d\	2B\	1b
+.	[2e\	2G/	.
+=68	=68	=68	=68
+0.GG]	2e\]	0G	2cc\
+.	2d\	.	2.dd\
+.	1B	.	.
+.	.	.	4cc\
+.	.	.	4b\
+.	.	.	4a/
+.	2r	1D	2g/
+.	[2d\	.	[2b\
+=69	=69	=69	=69
+0.r	2d\]	2r	2b\]
+.	2c\	2F/	1a
+.	1B	2D/	.
+.	.	2E/	2g/
+.	2A/	1F	1a
+.	2F/	.	.
+=70	=70	=70	=70
+!!linebreak:original
+0.r	1E	1C	2g/
+.	.	.	1e
+.	1A	1c	.
+.	.	.	2.a/
+.	2B\	2d\	.
+.	.	.	4g/
+.	2c\	2e\	2g/
+=71	=71	=71	=71
+0.r	2d\	2B\	2f/
+.	2.A/	2.c\	2.e/
+.	4G/	4B\	4d/
+.	2F/	1A	1d
+.	1E	.	.
+.	.	2G/	2c#i/
+=72	=72	=72	=72
+0.Dl	0.Dl	0.Al	0.dl
+==	==	==	==
+*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Will Watson 24/2/2012
+!!!END: 2012/02/24/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/03/17/
+!!!ONB: Translated from MusicXML and edited on 2012/03/17/ by Craig Sapp
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I100v85,90,85,150Q16

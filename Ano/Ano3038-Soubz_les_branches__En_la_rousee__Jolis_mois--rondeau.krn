@@ -1,0 +1,213 @@
+!!!!SEGMENT: Ano/Ano3038-Soubz_les_branches__En_la_rousee__Jolis_mois--rondeau.krn
+!!!COM: Anonymous
+!!!OTL: Soubz les branches / En la rous&eacute;e / Jolis mois
+!!!AGN: Song; Combinative Chanson; Rondeau
+!!!SCT: Ano3038
+!!!SCA: Ano3038
+!!!jrpid: Ano3038
+!!!SMS: Dijon Chansonnier
+!!!folio: 174v-175r
+!!!voices: 4
+**kern	**kern	**kern	**kern
+*staff4	*staff3	*staff2	*staff1
+*Ivox	*Ivox	*Ivox	*Ivox
+*I"Contratenor	*I"Tenor2	*I"Tenor1	*I"Discantus
+*I'Ct	*I'T2	*I'T1	*I'D
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
+=1-	=1-	=1-	=1-
+!LO:TX:i:Y=32:t=Soubz	!	!	!LO:TX:Y=32:t=Soubz les branches...
+1G	0r	0r	0g
+2E	.	.	.
+2F	.	.	.
+=2	=2	=2	=2
+!	!LO:TX:Y=32:t=Jolis mois de may...	!	!
+1G	1B	0r	1e
+1A	1c	.	1f
+=3	=3	=3	=3
+[0G	0d	0r	1.g
+.	.	.	2f
+=4	=4	=4	=4
+0G]	0B	0r	1d
+.	.	.	[1dd
+=5	=5	=5	=5
+!	!	!LO:TX:Y=32:t=En la rous&eacute;e...	!
+1r	0G	1B	2dd]
+.	.	.	2cc
+1G	.	1d	2b
+.	.	.	2g
+=6	=6	=6	=6
+1F	0r	1d	1a
+1E	.	1e	1g
+=7	=7	=7	=7
+0A	0r	1e	2a
+.	.	.	1cc
+.	.	1c	.
+.	.	.	2b
+=8	=8	=8	=8
+0E	0r	0B	0g
+=9	=9	=9	=9
+1e	1c	1A	1a
+1c	1c	1A	1f
+=10	=10	=10	=10
+0d	0B	0G	1r
+.	.	.	1g
+=11	=11	=11	=11
+1D	0A	0d	2f
+.	.	.	1a
+1F	.	.	.
+.	.	.	4g
+.	.	.	4f
+=12	=12	=12	=12
+1C	0G	1c	1e
+1G	.	1B	2d
+.	.	.	[2g
+=13	=13	=13	=13
+0D	0r	1A	4g]
+.	.	.	4f
+.	.	.	2g
+.	.	1A	2a
+.	.	.	2f#i
+=14	=14	=14	=14
+0d	0r	0G	1g
+.	.	.	1r
+=15	=15	=15	=15
+1G	0r	0d	1g
+1D	.	.	2f
+.	.	.	2g
+=16	=16	=16	=16
+1F	0r	1c	1a
+1G	.	1B	1d
+=17	=17	=17	=17
+0E	1B	0r	1.g
+.	1c	.	.
+.	.	.	2e
+=18	=18	=18	=18
+1D	0d	0r	1f
+[1G	.	.	2r
+.	.	.	[2d
+=19	=19	=19	=19
+2G]	0B	0r	2d]
+2E	.	.	2g
+1D	.	.	2f
+.	.	.	2d
+=20	=20	=20	=20
+1C	1c	0r	1e
+1F	1c	.	1a
+=21	=21	=21	=21
+2G	1B	0r	2b
+2B	.	.	1g
+1A	1c	.	.
+.	.	.	2f#i
+=22	=22	=22	=22
+1.G	0d	1B	0gN
+.	.	1d	.
+2F	.	.	.
+=23	=23	=23	=23
+1G	0B	1d	1r
+1E	.	1e	1g
+=24	=24	=24	=24
+0C	0c	1e	1.g
+.	.	1c	.
+.	.	.	2a
+=25	=25	=25	=25
+0G	0r	0B	2b
+.	.	.	2cc
+.	.	.	[1dd
+=26	=26	=26	=26
+1r	0r	1B	2dd]
+.	.	.	1b
+1G	.	1d	.
+.	.	.	2g
+=27	=27	=27	=27
+2F	0r	1d	2a
+1G	.	.	1b
+.	.	1e	.
+[2C	.	.	[2g
+=28	=28	=28	=28
+2C]	1B	1e	2g]
+2G	.	.	2e
+1A	1c	1c	1f#i
+=29	=29	=29	=29
+[0G	0d	0B	2r
+.	.	.	1g
+.	.	.	2f
+=30	=30	=30	=30
+1G]	0B	0r	1d
+[1E	.	.	[1g
+=31	=31	=31	=31
+2E]	1G	0r	1g]
+2C	.	.	.
+[1C	1G	.	[1e
+=32	=32	=32	=32
+2C]	1c	0r	2e]
+2D	.	.	2f
+2E	1c	.	2g
+[2F	.	.	[2a
+=33	=33	=33	=33
+2F]	1c	0r	2a]
+2E	.	.	2g
+1C	1c	.	2.cc
+.	.	.	8bL
+.	.	.	8aJ
+=34	=34	=34	=34
+1.G	0d	1B	0b
+.	.	1d	.
+2F	.	.	.
+=35	=35	=35	=35
+1G	0B	1d	1r
+1E	.	1e	[1g
+=36	=36	=36	=36
+1.c	0r	1e	2g]
+.	.	.	2f
+.	.	1c	1e
+2B	.	.	.
+=37	=37	=37	=37
+1G	0r	0B	1d
+2E	.	.	[1g
+2F	.	.	.
+=38	=38	=38	=38
+1G	1B	0r	1g]
+1A	1c	.	1e
+=39	=39	=39	=39
+0D	0d	1A	1f
+.	.	1A	[1d
+=40	=40	=40	=40
+0d	0B	0G	1d]
+.	.	.	[1dd
+=41	=41	=41	=41
+0B-	0G	0d	1dd]
+.	.	.	1g
+=42	=42	=42	=42
+1A	0r	1c	1f
+1G	.	1B	1g
+=43	=43	=43	=43
+0F	1c	1A	1a
+.	1c	1A	2r
+.	.	.	2a
+=44	=44	=44	=44
+1G	0B	1G	2b
+.	.	.	1dd
+1G	.	[1d	.
+.	.	.	2g
+=45	=45	=45	=45
+0D	0A	2d]	2a
+.	.	2c	1f#i
+.	.	2.A	.
+.	.	.	2e
+.	.	4G	.
+=46	=46	=46	=46
+0dl	0Gl	0Gl 0Bl	0gl
+==	==	==	==
+*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
+!!!ENC: Chris Gage 03-06-2015
+!!!END: 2015/03/13/
+!!!EED: Jesse Rodin
+!!!EEV: 2016/02/22/
+!!!ONB: Translated from MusicXML and edited on 2016/02/22/ by Craig Sapp
+!!muse2ps: C^@{COM}\n@{SMS}, @{folio}^v85,85,85,150Q16

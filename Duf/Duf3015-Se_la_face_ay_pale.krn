@@ -1,0 +1,199 @@
+!!!!SEGMENT: Duf/Duf3015-Se_la_face_ay_pale.krn
+!!!COA: Du Fay, Guillaume
+!!!CDT: ~1397/08/05/-1474/11/27/
+!!!OTL: Se la face ay pale
+!!!AGN: Chanson
+!!!SCT: Duf3080
+!!!voices: 3
+**kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
+*staff3	*	*	*	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
+*Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*
+*I"Contratenor	*	*	*	*I"Tenor	*	*	*	*I"Cantus	*	*	*
+*I'Ct	*	*	*	*I'T	*	*	*	*I'Cn	*	*	*
+*clefGv2	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*
+*k[]	*	*	*	*k[]	*	*	*	*k[]	*	*	*
+*M3/1	*	*	*	*M3/1	*	*	*	*M3/1	*	*	*
+*met(O)	*	*	*	*met(O)	*	*	*	*met(O)	*	*	*
+=1-	=	=	=	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+0C	Se	Se ay	C'est	0c	Se	Se ay	C'est	0cc	Se	Se ay	C'est
+1C	la	pe-	la	1c	la	pe-	la	1cc	la	pe-	la
+=2	=	=	=	=2	=2	=2	=2	=2	=2	=2	=2
+0G	face	san-	plus	0B	face	-san-	plus	0dd	face	-san-	plus
+1c	ay	-te	re-	1A	ay	-te	re-	1ee	ay	-te	re-
+=3	=	=	=	=3	=3	=3	=3	=3	=3	=3	=3
+1r	.	.	.	2c\	pa-	mal-	-a-	2ee\	pa-	mal-	-a-
+.	.	.	.	2d\	.	.	.	2dd\	.	.	.
+1g	pa-	ma-	-a-	1e	.	.	.	2cc\	.	.	.
+.	.	.	.	.	.	.	.	1b	.	.	.
+1d	.	.	.	1f	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2a/	.	.	.
+=4	=	=	=	=4	=4	=4	=4	=4	=4	=4	=4
+1.g	-le,	-le	-le	1e	-le,	-le	-le	0b	-le,	-le	-le
+.	.	.	.	0d	.	.	.	.	.	.	.
+1.f#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	1r	.	.	.
+=5	=	=	=	=5	=5	=5	=5	=5	=5	=5	=5
+2g\	La	De	Qu'on	1c	La	De	Qu'on	2cc\	La	De	Qu'on
+1e	cause	dueil	puist	.	.	.	.	2cc\	cause	dueil	puist
+.	.	.	.	2G/	cause	dueil	puist	2b\	.	.	.
+2c\	est	a	re-	1A	est	a	re-	1a	est	a	re-
+1d	a-	por-	-gar-	.	.	.	.	.	.	.	.
+.	.	.	.	2B\	a-	por-	-gar-	2f/	a-	por-	-gar-
+=6	=	=	=	=6	=6	=6	=6	=6	=6	=6	=6
+1c	-mer,	-ter,	-der,	0c	-mer,	-ter,	-der,	0e	-mer,	-ter,	-der,
+0C	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	1r	.	.	.	1r	.	.	.
+=7	=	=	=	=7	=7	=7	=7	=7	=7	=7	=7
+1r	.	.	.	0g	C'est	Ceste	De	0dd	C'est	Ceste	De
+0G	C'est	Ceste	De	.	.	.	.	.	.	.	.
+.	.	.	.	1g	la	a-	s'a-	1dd	la	a-	s'a-
+=8	=	=	=	=8	=8	=8	=8	=8	=8	=8	=8
+2r	.	.	.	0c	prin-	-mour	-mour	0ee	prin-	-mour	-mour
+2g\	la	a-	s'a-	.	.	.	.	.	.	.	.
+2e\	prin-	-mour	-mour	.	.	.	.	.	.	.	.
+2c\	.	.	.	.	.	.	.	.	.	.	.
+2r	.	.	.	1B	-ci-	est	le-	1dd	-ci-	est	le-
+2G/	-ci-	-est	le-	.	.	.	.	.	.	.	.
+=9	=	=	=	=9	=9	=9	=9	=9	=9	=9	=9
+2A/	-pa-	ma-	-ia-	2c\	-pa-	ma-	-ia-	2cc\	-pa-	ma-	-ia-
+2B\	.	.	.	2d\	.	.	.	2b\	.	.	.
+1c	.	.	.	2e\	.	.	.	2g/	.	.	.
+.	.	.	.	2f\	.	.	.	2cc\	.	.	.
+1G	.	.	.	1d	.	.	.	2b\	.	.	.
+.	.	.	.	.	.	.	.	2a/	.	.	.
+=10	=	=	=	=10	=10	=10	=10	=10	=10	=10	=10
+1C	-le,	-le	-le	0c	-le,	-le	-le	0cc	-le,	-le	-le
+1r	.	.	.	.	.	.	.	.	.	.	.
+1r	.	.	.	1r	.	.	.	1r	.	.	.
+=11	=	=	=	=11	=11	=11	=11	=11	=11	=11	=11
+0d	m'est	de	puis	1a	En	Pour	Ne	1f	En	Pour	Ne
+.	.	.	.	2a\	tant	moy	me	2f/	tant	moy	me
+.	.	.	.	1a	m'est	de	puis	1f	m'est	de	puis
+1d	a-	por-	gar-	.	.	.	.	.	.	.	.
+.	.	.	.	2a\	a-	por-	gar-	2f/	a-	por-	gar-
+=12	=	=	=	=12	=12	=12	=12	=12	=12	=12	=12
+0e	-mer	-ter;	-der,	0g	-mer	-ter;	-der,	0.c	-mer	-ter;	-der,
+[1g	.	.	.	2r	.	.	.	.	.	.	.
+.	.	.	.	2c\	A-	Car	Fol	.	.	.	.
+=13	=	=	=	=13	=13	=13	=13	=13	=13	=13	=13
+1g]	.	.	.	2d\	.	.	.	2r	.	.	.
+.	.	.	.	2e\	.	.	.	2c/	A-	Car	Fol
+0d	A-	Car	Fol	1f	-mer,	soy	sui	2d/	.	.	.
+.	.	.	.	.	.	.	.	2e/	.	.	.
+.	.	.	.	1d	.	.	.	1f	-mer,	soy	sui
+=14	=	=	=	=14	=14	=14	=14	=14	=14	=14	=14
+1e-	-mer,	soy	sui	1c	.	.	.	2r	.	.	.
+.	.	.	.	.	.	.	.	1cc	qu'en	de-	d'a-
+1c	.	.	.	1r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2a/	la	-por-	-gar-
+1B	qu'en	de	d'a	1d	qu'en	de-	d'a-	1f	mer	-ter	-der
+=15	=	=	=	=15	=15	=15	=15	=15	=15	=15	=15
+1e-i	la	por-	-gar-	1c	la	-por-	-gar-	2g/	me	Ne	Ne
+.	.	.	.	.	.	.	.	2g/	vou-	veult	fai-
+1d	mer	-ter	-der	1G	mer	-ter	-der	2g/	-droy-	de-	-re
+.	.	.	.	.	.	.	.	2g/	-e	-vou-	de-
+1r	.	.	.	2g\	me	Ne	Ne	1c	voir:	-loir,	-voir
+.	.	.	.	2g\	vou-	veult	fai-	.	.	.	.
+=16	=	=	=	=16	=16	=16	=16	=16	=16	=16	=16
+1c	Or	Fors	D'a	2g\	-droy-	de-	-re	1r	.	.	.
+.	.	.	.	2g\	-e	-vou-	de-	.	.	.	.
+2g\	.	.	.	1c	voir;	-loir,	-voir	1cc	Or	Fors	D'a
+1g	c'est	qu'a	-mours	.	.	.	.	.	.	.	.
+.	.	.	.	2r	.	.	.	1b	.	.	.
+2f\	.	.	.	2d\	Or	Fors	D'a	.	.	.	.
+=17	=	=	=	=17	=17	=17	=17	=17	=17	=17	=17
+1e	.	.	.	1c	scet	qu'a	mours	1a	scet	qu'a	mours
+1d	bien	son	re-	1B-	bien	son	re-	2g/	bien	son	re-
+.	.	.	.	.	.	.	.	1f#i	.	.	.
+1c#	de	vou-	-ce-	1A	de	vou-	-ce-	.	.	.	.
+.	.	.	.	.	.	.	.	2e/	de	vou-	-ce-
+=18	=	=	=	=18	=18	=18	=18	=18	=18	=18	=18
+0d	voir	-loir	-voir	1G	voir	-loir	-voir	1g	voir	-loir	-voir
+.	.	.	.	1r	.	.	.	1r	.	.	.
+1g	.	.	.	1r	.	.	.	1r	.	.	.
+=19	=	=	=	=19	=19	=19	=19	=19	=19	=19	=19
+1e	La	O-	Fors	0c	La	O-	Fors	0ee	La	O-	Fors
+1c	.	.	.	.	.	.	.	.	.	.	.
+1G	bel-	-be-	d'el-	1B	bel-	-be-	d'el-	1dd	bel-	-be-	d'el-
+=20	=	=	=	=20	=20	=20	=20	=20	=20	=20	=20
+2r	.	.	.	0c	-le a	-is-	-le,	1cc	-le a	-is-	-le,
+1g	-le a	-is	-le,	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	1b	.	.	.
+2e\	.	.	.	.	.	.	.	.	.	.	.
+2f\	qui	-se et	je	1d	qui	-se, et	je	1a	qui	-se, et	je
+2e\	.	.	.	.	.	.	.	.	.	.	.
+=21	=	=	=	=21	=21	=21	=21	=21	=21	=21	=21
+1c	suis	puis	cuis	1e	suis	puis	cuis	1g	suis	puis	cuis
+2g\	Que	Qu'el-	Se	1c	.	.	.	2cc\	Que	Qu'el-	Se
+2e\	nul	-le a	ne	.	.	.	.	2cc\	nul	-le a	ne
+1c	a-	po-	dou-	1r	.	.	.	2cc\	bien	tel	veil
+.	.	.	.	.	.	.	.	2a/	a-	po-	dou-
+=22	=	=	=	=22	=22	=22	=22	=22	=22	=22	=22
+1G	-voir	oir,	-loir,	2g\	Que	Qu'el-	Se	0b	-voir	-oir,	-loir,
+.	.	.	.	2g\	nul	-le a	ne	.	.	.	.
+1r	.	.	.	2e\	bien	tel	veil	.	.	.	.
+.	.	.	.	2f\	a-	po-	dou-	.	.	.	.
+1G	Sans	Sans	Sans	1g	-voir	-oir,	-loir,	1r	.	.	.
+=23	=	=	=	=23	=23	=23	=23	=23	=23	=23	=23
+1c	.	.	.	1r	.	.	.	0cc	Sans	Sans	Sans
+2r	.	.	.	1c	Sans	Sans	Sans	.	.	.	.
+2C/	el-	el-	el-	.	.	.	.	.	.	.	.
+2F/	.	.	.	2d\	el-	el-	el-	2a/	el-	el-	el-
+2E/	.	.	.	2e\	.	.	.	2g/	.	.	.
+=24	=	=	=	=24	=24	=24	=24	=24	=24	=24	=24
+1D	-le	-le	-le	2f\	-le	-le	-le	1f	-le	-le	-le
+.	.	.	.	2e\	.	.	.	.	.	.	.
+1C	.	.	.	2c\	.	.	.	1e	.	.	.
+.	.	.	.	2G/	.	.	.	.	.	.	.
+1F	ne	ne	ne	2A/	ne	ne	ne	1d	ne	ne	ne
+.	.	.	.	2B\	.	.	.	.	.	.	.
+=25	=	=	=	=25	=25	=25	=25	=25	=25	=25	=25
+0C	puis.	puis.	puis.	2c\	puis.	puis.	puis.	1c	puis.	puis.	puis.
+.	.	.	.	1e	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2r	.	.	.
+.	.	.	.	2c\	.	.	.	2g/	.	.	.
+2r	.	.	.	2g\	.	.	.	2e/	.	.	.
+2g\	.	.	.	2e\	.	.	.	2c/	.	.	.
+=26	=	=	=	=26	=26	=26	=26	=26	=26	=26	=26
+2e\	.	.	.	2c\	.	.	.	2r	.	.	.
+2c\	.	.	.	2r	.	.	.	2g/	.	.	.
+2r	.	.	.	2g\	.	.	.	2e/	.	.	.
+2g\	.	.	.	2e\	.	.	.	2g/	.	.	.
+1e	.	.	.	2g\	.	.	.	2r	.	.	.
+.	.	.	.	2f\	.	.	.	2cc\	.	.	.
+=27	=	=	=	=27	=27	=27	=27	=27	=27	=27	=27
+1f	.	.	.	1d	.	.	.	2b\	.	.	.
+.	.	.	.	.	.	.	.	2a/	.	.	.
+2r	.	.	.	1c	.	.	.	3cc/V	.	.	.
+.	.	.	.	.	.	.	.	3r	.	.	.
+1g	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	3c/Z	.	.	.
+.	.	.	.	2r	.	.	.	2e/	.	.	.
+2f\	.	.	.	2d\	.	.	.	2f/	.	.	.
+=28	=	=	=	=28	=28	=28	=28	=28	=28	=28	=28
+1e	.	.	.	2c\	.	.	.	2g/	.	.	.
+.	.	.	.	1A	.	.	.	2a/	.	.	.
+2c\	.	.	.	.	.	.	.	2e/	.	.	.
+2f\	.	.	.	2B\	.	.	.	2d/	.	.	.
+2e\	.	.	.	2c\	.	.	.	2e/	.	.	.
+2c\	.	.	.	2A/	.	.	.	2f/	.	.	.
+=29	=	=	=	=29	=29	=29	=29	=29	=29	=29	=29
+2d\	.	.	.	2G/	.	.	.	2g/	.	.	.
+2e\	.	.	.	1c	.	.	.	2c/	.	.	.
+1c	.	.	.	.	.	.	.	2cc\	.	.	.
+.	.	.	.	2e\	.	.	.	2g/	.	.	.
+1G	.	.	.	1d	.	.	.	2a/	.	.	.
+.	.	.	.	.	.	.	.	2b\	.	.	.
+=30	=	=	=	=30	=30	=30	=30	=30	=30	=30	=30
+0.Cl	.	.	.	0.cl	.	.	.	0.ccl	.	.	.
+==	=	=	=	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Alejandro Planchart
+!!!END: 2012/12/20/
+!!!EED: Alejandro Planchart
+!!!EEV: 2012/12/20/
+!!!ONB: Translated from SCORE and edited on 2012/12/20/ by Craig Sapp
+!!muse2ps: C^@{COM}^I150v100,100,130c65Q16z18l2600
+!!oldmuse2ps: T^@{OTL}^C^@{COM}^i2I200v100,100,130Q1c140

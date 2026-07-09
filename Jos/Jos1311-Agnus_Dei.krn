@@ -1,0 +1,166 @@
+!!!!SEGMENT: Jos/Jos1311-Agnus_Dei.krn
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Agnus Dei
+!!!AGN: Mass section; Agnus Dei
+!!!SCT: NJE 13.11
+!!!SCA: New Josquin Edition 13.11
+!!!jrpid: Jos1311
+!!!voices: 2
+**kern	**text	**kern	**text
+*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*
+*I"Inferior	*	*I"Superior	*
+*I'If	*	*I'Sp	*
+*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*
+*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*
+=1-	=1-	=1-	=1-
+0d	A-	1r	.
+.	.	[1a	A-
+=2	=2	=2	=2
+1c	-gnus	1a]	.
+1B	de-	1g	-gnus
+=3	=3	=3	=3
+1A	-i	1f	de-
+2r	.	1e	-i
+[2c\	a-	.	.
+=4	=4	=4	=4
+2c\]	.	2r	.
+2c\	-gnus	1g	a-
+2.B\	de-	.	.
+.	.	2g/	-gnus
+4c\	.	.	.
+=5	=5	=5	=5
+1A	.	2.f/	de-
+.	.	4g/	.
+2G/	-i	1e	.
+[2g\	a-	.	.
+=6	=6	=6	=6
+2g\]	.	2d/	-i
+2g\	-gnus	1dd	a-
+2.f\	de-	.	.
+.	.	2dd\	-gnus
+4g\	.	.	.
+=7	=7	=7	=7
+1e	.	2.cc\	de-
+.	.	4dd\	.
+1d	-i	1b	.
+=8	=8	=8	=8
+2r	.	2a/	.
+1c	a-	4cc\	.
+.	.	4b\	.
+.	.	4a/	.
+.	.	4g/	.
+2c\	-gnus	[2a/	.
+=9	=9	=9	=9
+2.B\	de-	4a/]	.
+.	.	4g/	.
+.	.	1g	.
+4c\	.	.	.
+1A	-i	.	.
+.	.	2f#i/	.
+=10	=10	=10	=10
+2r	.	1g	-i
+1e	qui	.	.
+.	.	2r	.
+2e\	tol-	[2b\	qui
+=11	=11	=11	=11
+2g\	-lis	2b\]	.
+2d\	pec-	2b\	tol-
+1f	-ca-	2dd\	-lis
+.	.	2a/	pec-
+=12	=12	=12	=12
+1c	-ta	1cc	-ca-
+2r	.	1g	-ta
+[2e\	qui	.	.
+=13	=13	=13	=13
+2e\]	.	2r	.
+2e\	tol-	1b	qui
+2g\	-lis	.	.
+2d\	pec-	2b\	tol-
+=14	=14	=14	=14
+2.f\	-ca-	2dd\	-lis
+.	.	2a/	pec-
+8e\L	.	.	.
+8d\J	.	.	.
+2c\	-ta	1cc	-ca-
+2d\	mun-	.	.
+=15	=15	=15	=15
+1e	-di	2g/	-ta
+.	.	2a/	mun-
+2d\	mi-	1b	-di
+2g\	-se-	.	.
+=16	=16	=16	=16
+2g\	-re-	2a/	mi-
+2f\	-re	2cc\	-se-
+2.e\	no-	2cc\	-re-
+.	.	2b\	-re
+4d\	.	.	.
+=17	=17	=17	=17
+2c\	.	2.a/	no-
+2B\	.	.	.
+.	.	4g/	.
+2A/	.	2f/	.
+4G/	.	2e/	.
+4A/	.	.	.
+=18	=18	=18	=18
+4B\	.	2d/	.
+4c\	.	.	.
+2d\	.	2f/	.
+4c#i\	.	1e	.
+4d\	.	.	.
+4B\	.	.	.
+4c#i\	.	.	.
+=19	=19	=19	=19
+1d	-bis	0d	-bis
+2r	.	.	.
+2f\	mi-	.	.
+=20	=20	=20	=20
+2e\	.	2r	.
+2c\	-se-	2cc\	mi-
+2d\	-re-	2b\	.
+2B\	.	2g/	-se-
+=21	=21	=21	=21
+2A/	.	2.a/	-re-
+2f\	-re	.	.
+.	.	8g/L	.
+.	.	8f/J	.
+2g\	no-	2e/	.
+2e\	.	2cc\	-re
+=22	=22	=22	=22
+2f\	.	2dd\	no-
+2d\	.	2b\	.
+2c\	-bis	2.cc\	.
+2f\	mi-	.	.
+.	.	8b/L	.
+.	.	8a/J	.
+=23	=23	=23	=23
+2e\	.	2.g/	.
+2c\	-se-	.	.
+.	.	4a/	.
+2.d\	-re-	2b\	.
+.	.	[2a/	.
+8c\L	.	.	.
+8B\J	.	.	.
+=24	=24	=24	=24
+4c\	-re	2a/]	.
+4B\	.	.	.
+4A/	no-	1g	.
+4G/	.	.	.
+1A	-bis	.	.
+.	.	2f#i/	.
+=25	=25	=25	=25
+0Gl	bis	0gl	-bis
+==	==	==	==
+*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Jesse Rodin 8/17/2013
+!!!END: 2013/08/17/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/01/08/
+!!attribution-level@Jos: 4a (the rest [double question mark])
+!!!ONB: Translated from MusicXML and edited on 2014/01/08/ by Craig Sapp
+!!muse2ps: C^@{COA}?^i2I150v85,130Q16z18

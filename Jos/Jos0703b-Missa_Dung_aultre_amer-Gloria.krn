@@ -1,0 +1,288 @@
+!!!!SEGMENT: Jos/Jos0703b-Missa_Dung_aultre_amer-Gloria.krn
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OPR: Missa D'ung aultre amer--Tu solus
+!!!ONM: 2
+!!!OTL: Gloria
+!!!AGN: Mass; Gloria; Missa Brevis
+!!!SCT: NJE 7.3
+!!!SCA: New Josquin Edition 7.3
+!!!jrpid: Jos0703b
+!!!voices: 4
+!!!voices-OPR: 4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
+*I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
+*I'B	*	*I'T	*	*I'A	*	*I'S	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*>A	*	*>A	*	*>A	*	*>A	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!!section: Et in terra pax
+!!!OMD: Et in terra pax
+!	!	!LO:TX:Z=6:t=T quotes Okeghem song T	!	!	!	!	!
+*MM260	*	*MM260	*	*MM260	*	*MM260	*
+2.GG/	Et	0G	Et	2.d\	Et	2g./	Et
+.	.	.	.	.	.	.	.
+4GG/	in	.	.	4d\	in	4g/	in
+2GG/	ter-	.	.	2d\	ter-	2g/	ter-
+2GG/	-ra	.	.	2d\	-ra	2g/	-ra
+=2	=2	=2	=2	=2	=2	=2	=2
+2D\	pax	1F	in	2d\	pax	2.a/	pax
+2D\	ho-	.	.	2D/	ho-	.	.
+.	.	.	.	.	.	4b-\	ho-
+2C/	-mi-	1G	ter-	2E/	-mi-	2cc\	-mi-
+2C/	-ni-	.	.	2E/	-ni-	2cc\	-ni-
+=3	=3	=3	=3	=3	=3	=3	=3
+2BB-/	-bus	0B-	-ra	2F/	-bus	2dd\	-bus
+2BB-/	bo-	.	.	2F/	bo-	2dd\	bo-
+2BB-/	-ne	.	.	2F/	-ne	2dd\	-ne
+2BB-/	vo-	.	.	2G/	vo-	2dd\	vo-
+=4	=4	=4	=4	=4	=4	=4	=4
+1F	-lun-	0c	.	2.A/	-lun-	2.cc\	-lun-
+.	.	.	.	4F/	.	4b-\	.
+1E	-ta-	.	.	1G	-ta-	1g/	-ta-
+.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+2D\	-tis.	1.d	pax	2A/	-tis.	1f	-tis.
+2D\	Lau-	.	.	2A/	Lau-	.	.
+2D\	-da-	.	.	2A/	-da-	2r	.
+2D\	-mus	2c\	ho-	2A/	-mus	2f/	Lau-
+=6	=6	=6	=6	=6	=6	=6	=6
+1GG	te,	1B-	-mi-	1G	te,	2g/	-da-
+.	.	.	.	.	.	2d/	-mus
+1r	.	1A	-ni-	1r	.	2e/	te,
+.	.	.	.	.	.	2f/	be-
+=7	=7	=7	=7	=7	=7	=7	=7
+2GG/	ad-	1.G	-bus...	0r	.	2g/	-ne-
+2GG/	-o-	.	.	.	.	1b-	-di-
+2BB-/	-ra-	.	.	.	.	.	.
+2C/	-mus	4F/	.	.	.	4a/	-ci-
+.	.	4E/	.	.	.	4g/	-mus
+=8	=8	=8	=8	=8	=8	=8	=8
+1D	te,	0D	.	2d\	glo-	[0f	te.
+.	.	.	.	2d\	-ri-	.	.
+[1BB-	glo-	.	.	2d\	-fi-	.	.
+.	.	.	.	[2f\	-ca-	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+1BB-]	.	1B-	...Gra-	2f\]	.	0f]	.
+.	.	.	.	2d\	.	.	.
+1F	-ri-	1A	-ti-	1c	-mus	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+2BB-/	-fi-	1B-	-as	0B-	te.	2r	.
+2GG/	-ca-	.	.	.	.	2d/	Gra-
+2.BB-/	-mus	1G	.	.	.	2d/	-ti-
+.	.	.	.	.	.	2e-/	-as
+4C/	.	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+0D	te.	2F/	a-	0r	.	2.d/	a-
+.	.	1F	-gi-	.	.	.	.
+.	.	.	.	.	.	4c/	-gi-
+.	.	.	.	.	.	2B-/	-mus
+.	.	4E/	.	.	.	2A/	ti-
+.	.	4F/	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+0r	.	1G	-mus	1d	Prop-	2G/	-bi
+.	.	.	.	.	.	1g	prop-
+.	.	[1C	ti-	1c	-ter	.	.
+.	.	.	.	.	.	2g/	-ter
+=13	=13	=13	=13	=13	=13	=13	=13
+0r	.	1C]	.	1c	ma-	2g/	ma-
+.	.	.	.	.	.	2g/	-gnam
+.	.	1G	.	1B-	-gnam	2g/	glo-
+.	.	.	.	.	.	2g/	-ri-
+=14	=14	=14	=14	=14	=14	=14	=14
+1r	.	2F/	.	2A/	glo-	2a/	-am
+.	.	1G	.	2G/	-ri-	1b-	tu-
+1GG	Do-	.	.	1d	am	.	.
+.	.	4F/	.	.	.	4a/	.
+.	.	4E/	.	.	.	4g/	.
+=15	=15	=15	=15	=15	=15	=15	=15
+2D\	-mi-	2F/	.	2A/	tu-	1f	-am.
+2BB-/	-ne	2D/	.	2B-\	.	.	.
+1AA	de-	1C	-bi...	1c	.	1r	.
+=16	=16	=16	=16	=16	=16	=16	=16
+2GG/	-us,	0G	...Do-	0B-	-am.	2.d/	Do-
+2GG/	rex	.	.	.	.	.	.
+.	.	.	.	.	.	4d/	-mi-
+2GG/	ce-	.	.	.	.	2d/	-ne
+2GG/	-les-	.	.	.	.	2d/	de-
+=17	=17	=17	=17	=17	=17	=17	=17
+0D	-tis,	1D	-mi-	0r	.	2d/	-us,
+.	.	.	.	.	.	2d/	rex
+.	.	1F	-me-	.	.	2d/	ce-
+.	.	.	.	.	.	2d/	-les
+=18	=18	=18	=18	=18	=18	=18	=18
+0AA	de-	0E	-de-	0r	.	2c/	-tis,
+.	.	.	.	.	.	2c/	de-
+.	.	.	.	.	.	2c/	-us,
+.	.	.	.	.	.	2c/	pa-
+=19	=19	=19	=19	=19	=19	=19	=19
+1F	-us	0D	-us...	1r	.	2.d/	-ter
+.	.	.	.	.	.	4c/	om-
+1F	pa-	.	.	1d	Do-	2B-/	-ni-
+.	.	.	.	.	.	2A/	-po-
+=20	=20	=20	=20	=20	=20	=20	=20
+1G	-ter	0B-	...Do-	2d\	-mi-	1G	-tens.
+.	.	.	.	2d\	-ne	.	.
+1G	om-	.	.	2d\	fi-	1r	.
+.	.	.	.	2e\	-li	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+1F	-ni-	1c	-mi-	2.f\	u-	0r	.
+.	.	.	.	4f\	-ni-	.	.
+1F	-po-	1c	-ne-	2f\	-ge-	.	.
+.	.	.	.	2f\	-ni-	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+0BB-	-tens...	0d	de-	1f	-te,	2.b-\	Do-
+.	.	.	.	.	.	4b-\	-mi-
+.	.	.	.	1d	Ie-	2b-\	-ne
+.	.	.	.	.	.	2b-\	de-
+=23	=23	=23	=23	=23	=23	=23	=23
+0r	.	0e-i	.	1c	-su	2cc\	-us,
+.	.	.	.	.	.	2cc\	a-
+.	.	.	.	1c	Chri-	2cc\	-gnus
+.	.	.	.	.	.	2cc\	de-
+=24	=24	=24	=24	=24	=24	=24	=24
+1.BB-	Qui	1d	-us	1B-	-te.	2dd\	-i,
+.	.	.	.	.	.	2dd\	fi-
+.	.	[1f	a-	1r	.	2dd\	-li-
+2BB-/	tol-	.	.	.	.	2dd\	-us
+=25	=25	=25	=25	=25	=25	=25	=25
+2FF/	-lis	1f]	.	2r	.	1cc	pa-
+2FF/	pec-	.	.	2f\	Mi-	.	.
+2.BB-/	-ca-	[1B-	-gnus	2f\	-se-	[1dd	-tris.
+.	.	.	.	2d\	-re-	.	.
+4C/	.	.	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26
+2D\	.	1B-]	.	2.f\	-re	1dd]	.
+2BB-/	-ta	.	.	.	.	.	.
+.	.	.	.	4e\	.	.	.
+1F	mun-	1A	de-	1c	no-	1r	.
+=27	=27	=27	=27	=27	=27	=27	=27
+0BB-	-di,	0B-	-i...	1B-	-bis.	2r	.
+.	.	.	.	.	.	2dd\	Qui
+.	.	.	.	1r	.	2dd\	tol-
+.	.	.	.	.	.	2dd\	-lis
+=28	=28	=28	=28	=28	=28	=28	=28
+0r	.	1f	...pec-	1F	Sus-	2.cc\	pec-
+.	.	.	.	.	.	4b-\	-ca-
+.	.	1e	.	1c	-ci-	2a/	-ta
+.	.	.	.	.	.	2g/	mun-
+=29	=29	=29	=29	=29	=29	=29	=29
+2.F\	de-	1f	-ca-	2F/	-pe	1f	-di.
+.	.	.	.	2F/	de-	.	.
+4F\	-pre-	.	.	.	.	.	.
+2F\	-ca-	[1d	.	2F/	-pre-	1r	.
+2D\	-ti-	.	.	2F/	-ca-	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+2BB-/	-o-	1d]	.	2F/	-ti-	2r	.
+2D\	-nem	.	.	2F/	-o-	2b-\	Qui
+1C	nos-	1e	-ta	2G/	-nem	2cc\	se-
+.	.	.	.	2A/	nos-	2cc\	-des
+=31	=31	=31	=31	=31	=31	=31	=31
+0BB-	-tram.	1f	mun-	0B-	-tram.	2dd\	ad
+.	.	.	.	.	.	2.ff\	dex-
+.	.	1B-	-di	.	.	.	.
+.	.	.	.	.	.	4ee-i\	-te-
+.	.	.	.	.	.	4dd\	-ram
+.	.	.	.	.	.	4cc\	.
+=32	=32	=32	=32	=32	=32	=32	=32
+1r	.	0c	mi-	1r	.	4ee-i\	pa-
+.	.	.	.	.	.	4dd\	.
+.	.	.	.	.	.	4cc\	.
+.	.	.	.	.	.	4b-\	.
+1FF	Mi-	.	.	1c	Mi-	2.a/	.
+.	.	.	.	.	.	4g/	.
+=33	=33	=33	=33	=33	=33	=33	=33
+2.BB-/	-se-	1.B-	se-	1.d	-se-	0b-	-tris.
+4C/	.	.	.	.	.	.	.
+4D\	.	.	.	.	.	.	.
+4E\	.	.	.	.	.	.	.
+2F\	-re-	2A/	-re-	2c\	-re-	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+1G	-re-	1G	-re	2B-\	-re	1r	.
+.	.	.	.	4A/	.	.	.
+.	.	.	.	4G/	.	.	.
+1D	no-	1F#i	no-	1A	no-	1a	Quo-
+=35	=35	=35	=35	=35	=35	=35	=35
+0GG	-bis.	0G	-bis...	0G	-bis.	2b-\	.
+.	.	.	.	.	.	2g/	-ni-
+.	.	.	.	.	.	2b-\	-am
+.	.	.	.	.	.	2cc\	tu
+=36	=36	=36	=36	=36	=36	=36	=36
+1r	.	0D	...Tu	0r	.	2.dd\	so-
+.	.	.	.	.	.	4cc\	-lus
+2r	.	.	.	.	.	1a	sanc-
+2F\	Tu	.	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+2G.\	so-	0E	so-	2r	.	1g	-tus.
+.	.	.	.	1g	Tu	.	.
+4A\	-lus	.	.	.	.	.	.
+2B-\	do-	.	.	.	.	1r	.
+2c\	-mi-	.	.	2g\	so-	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+0A	-nus.	0F	-lus	2.f\	-lus	1r	.
+.	.	.	.	4e\	al-	.	.
+.	.	.	.	2d\	-tis-	1a	Ie-
+.	.	.	.	2c\	-si-	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+1r	.	0G	al-	2B-\	-mus,	2b-\	-su
+.	.	.	.	2G/	Ie-	2.dd\	Chri-
+1G	Cum	.	.	2B-\	-su	.	.
+.	.	.	.	.	.	4cc\	.
+.	.	.	.	2c\	Chri-	[2b-\	.
+=40	=40	=40	=40	=40	=40	=40	=40
+1G	sanc-	1B-	-tis-	1d	-ste.	2b-\]	.
+.	.	.	.	.	.	4a/	.
+.	.	.	.	.	.	4g/	.
+1D	-to	1A	-si-	2r	.	2f/	-ste.
+.	.	.	.	2d\	Cum	2a/	Cum
+=41	=41	=41	=41	=41	=41	=41	=41
+1A	spi-	0c	-mus...	2e\	sanc-	2.a/	sanc-
+.	.	.	.	2e\	-to	.	.
+.	.	.	.	.	.	4g/	-to
+1A	-ri-	.	.	2c\	spi-	2f/	spi-
+.	.	.	.	2c\	-ri-	2e/	-ri-
+=42	=42	=42	=42	=42	=42	=42	=42
+2D\	-tu,	1d	...In	1f	-tu,	2d/	-tu,
+2D\	in	.	.	.	.	2f/	in
+2G\	glo-	2B-\	glo-	2r	.	2g/	glo-
+2F\	-ri-	2c\	-ri-	2f\	in	2a/	-ri-
+=43	=43	=43	=43	=43	=43	=43	=43
+2BB-/	-a	2.d\	-a	2f\	glo-	2b-\	-a
+1F	de-	.	.	2f\	-ri-	2a/	de-
+.	.	4c\	de-	.	.	.	.
+.	.	2A/	-i	2f\	-a	2cc\	-i
+2G\	-i	[2G/	pa-	2d\	de-	[2b-\	pa-
+=44	=44	=44	=44	=44	=44	=44	=44
+2E\-i	pa-	2G/]	.	2e\-i	-i	4b-\]	.
+.	.	.	.	.	.	4a/	-tris.
+2G\	-tris.	2B-\	-tris.	2.d\	pa-	1g/	A-
+1D	A-	1A	A-	.	.	.	.
+.	.	.	.	4c\	.	.	.
+.	.	.	.	2A/	-tris.	2f#i/	.
+=45	=45	=45	=45	=45	=45	=45	=45
+[0GGl 0Gl	-men.	[0Gl	-men,	4B-\	A-	[0gl	-men.
+.	.	.	.	4A/	.	.	.
+.	.	.	.	4G/	.	.	.
+.	.	.	.	4F/	.	.	.
+.	.	.	.	2E-i/	.	.	.
+.	.	.	.	2D/	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46
+0GG]	.	0G]	.	0Dl 0dl	-men.	0g]	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: V=start of tuplet marker
+!!!RDF**kern: Z=end of tuplet marker
+!!!ENC: Jesse Rodin 2012/02/27
+!!!END: 2012/02/27/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/03/22/
+!!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
+!!!ONB: Translated from MusicXML and edited on 2012/03/22/ by Craig Sapp
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v90,90,90,120c122z18l2700t130

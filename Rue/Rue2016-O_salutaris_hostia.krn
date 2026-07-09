@@ -1,0 +1,147 @@
+!!!!SEGMENT: Rue/Rue2016-O_salutaris_hostia.krn
+!!!COM: la Rue, Pierre de
+!!!CDT: ~1452///-1518/11/20
+!!!OTL: O salutaris hostia
+!!!AGN: Motet
+!!!SCT: Rue2016
+!!!SCA: Rue2016
+!!!jrpid: Rue2016
+!!!voices: 4
+**kern	**kern	**kern	**kern
+*staff4	*staff3	*staff2	*staff1
+*Ivox	*Ivox	*Ivox	*Ivox
+*I"Bassus	*I"Tenor	*I"Contra	*I"Discantus
+*I'B	*I'T	*I'C	*I'D
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!section: O salutaris hostia
+!!!OMD: O salutaris hostia
+=1-	=1-	=1-	=1-
+0F	[0c	0f	0a
+=2	=2	=2	=2
+1F	0c]	1f	1a
+1F	.	1f	1a
+=3	=3	=3	=3
+1C	1c	1e	1g
+1F	1c	1f	1a
+=4	=4	=4	=4
+1C	1c	1e	1g
+1D	1A	1d	1f
+=5	=5	=5	=5
+0A	0c	2.c\	1e
+.	.	4d\	.
+.	.	2e\	2r
+.	.	[2f\	[2a/
+=6	=6	=6	=6
+0D	0d	2f\]	2a/]
+.	.	4e\	4g/
+.	.	4d\	4f/
+.	.	1f	2.a/
+.	.	.	4b-\
+=7	=7	=7	=7
+0AA; 0A;	0c;	0e;	0cc;
+=8	=8	=8	=8
+0F	0c	0f	0a
+=9	=9	=9	=9
+0B-	0d	0f	0b-
+=10	=10	=10	=10
+0F	0c	0f	0a
+=11	=11	=11	=11
+0G	0B-	0d	0g
+=12	=12	=12	=12
+0C	0c	0e	0g
+=13	=13	=13	=13
+0D	0A	0d	0f
+=14	=14	=14	=14
+0BB-	0B-	0d	1.f
+.	.	.	4e/
+.	.	.	4d/
+=15	=15	=15	=15
+0C;	0G;	0c;	0e;
+=16	=16	=16	=16
+0D	0r	0f	0a
+=17	=17	=17	=17
+1D	0A	1d	1a
+1D	.	[1f	1a
+=18	=18	=18	=18
+1.F	1.A	2f\]	0a
+.	.	4e\	.
+.	.	4d\	.
+.	.	2c\	.
+4E\	4G/	2d\	.
+4D\	4F/	.	.
+=19	=19	=19	=19
+0C	0G	0e	1.cc
+.	.	.	4b-\
+.	.	.	4a/
+=20	=20	=20	=20
+1C	1c	1e	2g/
+.	.	.	2a/
+[1BB-	[1d	[1f	[1b-
+=21	=21	=21	=21
+1BB-]	1d]	1f]	1b-]
+1F	1c	1f	[1a
+=22	=22	=22	=22
+1G	0B-	1d	2a/]
+.	.	.	2g/
+1E	.	1e	1g
+=23	=23	=23	=23
+2.F\	[0A	1.c	1.a
+4G\	.	.	.
+1A	.	.	.
+.	.	2d\	2f/
+=24	=24	=24	=24
+0D;	0A;]	0d;	0f;
+=25	=25	=25	=25
+0D	0A	0f	0a
+=26	=26	=26	=26
+0A	1c	0e	0a
+.	1c	.	.
+=27	=27	=27	=27
+1.D	[0d	1d	1f
+.	.	[1f	1d
+2BB-/	.	.	.
+=28	=28	=28	=28
+1BB-	0d]	2f\]	1.b-
+.	.	4e\	.
+.	.	4d\	.
+1BB-	.	2f\	.
+.	.	2g\	2g/
+=29	=29	=29	=29
+0C	2r	0e	1g
+.	1c	.	.
+.	.	.	[1cc
+.	2B-\	.	.
+=30	=30	=30	=30
+1r	2A/	1.f	2cc\]
+.	2G/	.	2b-\
+[1F	1F	.	2a/
+.	.	2e\	2g/
+=31	=31	=31	=31
+2F\]	1.f	2d\	1f
+2E\	.	2c\	.
+2D\	.	2B-\	[1b-
+2C/	2e\	2c\	.
+=32	=32	=32	=32
+0BB-	2d\	0d	2b-\]
+.	2c\	.	2a/
+.	2B-\	.	2g/
+.	2A/	.	2f/
+=33	=33	=33	=33
+0C	2.G/	[0cl	2.e/
+.	4F/	.	4d/
+.	1G	.	1e
+=34	=34	=34	=34
+0Fl	0Fl	0c]	0fl
+==	==	==	==
+*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Chris Gage 01-04-2013
+!!!END: 2013/07/22/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/08/05/
+!!!ONB: Translated from MusicXML and edited on 2013/08/05/ by Craig Sapp
+!!muse2ps: C^@{COM}^i2I150v85,85,85,150Q16

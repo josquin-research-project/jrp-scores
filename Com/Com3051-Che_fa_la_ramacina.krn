@@ -1,0 +1,151 @@
+!!!!SEGMENT: Com/Com3051-Che_fa_la_ramacina.krn
+!!!COM: Compere, Loyset
+!!!CDT: ~1445///-1518/08/16
+!!!OTL: Che fa la ramacina
+!!!AGN: Song; Chanson
+!!!SCT: Com3051
+!!!SCA: Com3051
+!!!jrpid: Com3051
+!!!voices: 4
+**kern	**kern	**kern	**kern
+*staff4	*staff3	*staff2	*staff1
+*Ivox	*Ivox	*Ivox	*Ivox
+*I"Bassus	*I"Tenor	*I"Altus	*I"Superius
+*I'B	*I'T	*I'A	*I'S
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
+=1-	=1-	=1-	=1-
+0r	0r	1r	0r
+.	.	1G	.
+=2	=2	=2	=2
+1r	0r	1G	0r
+1GG	.	1d	.
+=3	=3	=3	=3
+1GG	2r	1d	1r
+.	2D	.	.
+1D	2D	1d	1d
+.	2A	.	.
+=4	=4	=4	=4
+1D	2A	1d	1f
+.	2A	.	.
+1D	1A	2r	1f
+.	.	[2d	.
+=5	=5	=5	=5
+0D	4A	4d]	1f
+.	4G	4c	.
+.	4F	4B-	.
+.	4E	4A	.
+.	1F	1B-	1f
+=6	=6	=6	=6
+1.C	[0G	1c	1.e
+.	.	1c	.
+4BB-	.	.	4d
+4AA	.	.	4c
+=7	=7	=7	=7
+1BB-	0G_	0r	1d
+1C	.	.	1e
+=8	=8	=8	=8
+0C	0G]	1r	1e
+.	.	[1c	2r
+.	.	.	[2e
+=9	=9	=9	=9
+0r	0r	2c]	2e]
+.	.	2B-	2d
+.	.	2B-	2d
+.	.	2A	2c
+=10	=10	=10	=10
+1r	1r	2A	2B-
+.	.	2G	2B-
+[1F	[1A	1A	1A
+=11	=11	=11	=11
+2F]	2A]	0r	0r
+2E	2G	.	.
+2E	2G	.	.
+2D	2F	.	.
+=12	=12	=12	=12
+2D	2E	0r	1r
+2C#i	2E	.	.
+[1D	1D	.	2r
+.	.	.	2f
+=13	=13	=13	=13
+1D]	2r	2r	2f
+.	2d	2B-	2f
+1r	2d	2B-	1f
+.	2d	2B-	.
+=14	=14	=14	=14
+0r	2d	2B-	1f
+.	2d	2B-	.
+.	[1d	[1B-	2f
+.	.	.	[2g
+=15	=15	=15	=15
+0r	2d]	2B-]	4g]
+.	.	.	4f
+.	2c	2A	1f
+.	2B-	2G	.
+.	2B-	2G	2e
+=16	=16	=16	=16
+2r	2c	1F	1f
+2BB-	2F	.	.
+2BB-	2F	1B-	1d
+2BB-	2F	.	.
+=17	=17	=17	=17
+2BB-	2F	0r	0r
+2BB-	2F	.	.
+[1BB-	[1G	.	.
+=18	=18	=18	=18
+2BB-]	2G]	0r	0r
+2AA	2F	.	.
+2GG	2F	.	.
+2GG	2E	.	.
+=19	=19	=19	=19
+1FF	1F	1.A	1.f
+1r	1r	.	.
+.	.	2G	2e
+=20	=20	=20	=20
+0r	0r	2.G	2e
+.	.	.	2d
+.	.	4F	.
+.	.	2E	2d
+.	.	2E	2c#i
+=21	=21	=21	=21
+1.D	1.B-	1.D	1d
+.	.	.	1r
+2C	2A	2r	.
+=22	=22	=22	=22
+2.C	2A	0r	0r
+.	2G	.	.
+4BB-	.	.	.
+2AA	2G	.	.
+2AA	2F	.	.
+=23	=23	=23	=23
+1GG	4G	1.d	1.b-
+.	4A	.	.
+.	4B-	.	.
+.	4c	.	.
+2r	4d	.	.
+.	4B-	.	.
+2C	[2c	2e	2a
+=24	=24	=24	=24
+2C	4c]	2e	2a
+.	4G	.	.
+2BB-	2B-	2d	2g
+2C	1A	2e	2g
+2D	.	2d	2f#i
+=25	=25	=25	=25
+[0GGl	[0Gl	1.B-	[0gl
+.	.	4A	.
+.	.	4G	.
+=26	=26	=26	=26
+0GG]	0G]	0dl	0g]
+==	==	==	==
+*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Megan K. Eagen 2013/11/29
+!!!END: 2013/11/29/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/02/23/
+!!!ONB: Translated from MusicXML and edited on 2014/02/23/ by Craig Sapp
+!!muse2ps: C^@{COM}^i2I150v85,85,85,150Q16

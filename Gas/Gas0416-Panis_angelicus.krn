@@ -1,0 +1,217 @@
+!!!!SEGMENT: Gas/Gas0416-Panis_angelicus.krn
+!!!COM: Gaspar van Weerbeke
+!!!CDT: ~1450-~1517
+!!!OTL: Panis angelicus
+!!!AGN: Motet
+!!!SCT: Gas0416
+!!!SCA: Gas0416
+!!!jrpid: Gas0416
+!!!voices: 4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
+*I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
+*>Panis[A]	*>Panis[A]	*>Panis[A]	*>Panis[A]	*>Panis[A]	*>Panis[A]	*>Panis[A]	*>Panis[A]
+*>Pauper[B]	*>Pauper[B]	*>Pauper[B]	*>Pauper[B]	*>Pauper[B]	*>Pauper[B]	*>Pauper[B]	*>Pauper[B]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Panis angelicus
+=1	=1	=1	=1	=1	=1	=1	=1
+0c	Pa-	0c	Pa-	0g	Pa-	0cc	Pa-
+=2	=2	=2	=2	=2	=2	=2	=2
+0c	-nis	0e	-nis	0g	-nis	0cc	-nis
+=3	=3	=3	=3	=3	=3	=3	=3
+*lig	*	*lig	*	*lig	*	*lig	*
+1A	an-	1f	an-	1c	an-	1cc	an-
+1G	.	1g	.	1d	.	1b	.
+*Xlig	*	*Xlig	*	*Xlig	*	*Xlig	*
+=4	=4	=4	=4	=4	=4	=4	=4
+*lig	*	*lig	*	*lig	*	*lig	*
+1C	-ge-	1e	-ge-	1g	-ge-	1cc	-ge-
+1D	.	1f	.	1d	.	1a	.
+*Xlig	*	*Xlig	*	*Xlig	*	*Xlig	*
+=5	=5	=5	=5	=5	=5	=5	=5
+0G	-li-	0g	-li-	0d	-li-	0b	-li-
+=6	=6	=6	=6	=6	=6	=6	=6
+0Gl;	-cus	0dl;	-cus	0gl;	-cus	0bl;	-cus
+=7	=7	=7	=7	=7	=7	=7	=7
+0C	fit	0e	fit	0g	fit	0cc	fit
+!!LO:LB:g=original
+=8	=8	=8	=8	=8	=8	=8	=8
+0G	pa-	0d	pa-	0g	pa-	0b	pa-
+=9	=9	=9	=9	=9	=9	=9	=9
+*	*	*	*	*lig	*	*lig	*
+0A	-nis	0c	-nis	1e	-nis	1cc	-nis
+.	.	.	.	1c	.	1a	.
+*	*	*	*	*Xlig	*	*Xlig	*
+=10	=10	=10	=10	=10	=10	=10	=10
+1F	ho-	1c	ho-	1A	ho-	2.cc	ho-
+.	.	.	.	.	.	4b	.
+1F	-mi-	1d	-mi-	1A	-mi-	2.a	-mi-
+.	.	.	.	.	.	4g	.
+=11	=11	=11	=11	=11	=11	=11	=11
+0El;	-num,	0el;	-num,	0Bl;	-num,	0gl;	-num,
+=12	=12	=12	=12	=12	=12	=12	=12
+1r	.	1r	.	1r	.	1r	.
+1E	dat	1B	dat	1G	dat	1g	dat
+=13	=13	=13	=13	=13	=13	=13	=13
+0E	pa-	0B	pa-	0G	pa-	0g	pa-
+=14	=14	=14	=14	=14	=14	=14	=14
+1E	-nis	1c	-nis	1G	-nis	1e	-nis
+[1D	ce-	[1d	ce-	[1A	ce-	[1f	ce-
+=15	=15	=15	=15	=15	=15	=15	=15
+1D]	.	1d]	.	1A]	.	1f]	.
+1D	-li-	1d	-li-	1A	-li-	1f	-li-
+!!LO:LB:g=original
+=16	=16	=16	=16	=16	=16	=16	=16
+0El;	-cus	0Bl;	-cus	0Gl;	-cus	0gl;	-cus
+=17	=17	=17	=17	=17	=17	=17	=17
+1r	.	1r	.	1r	.	1r	.
+1C	fi-	1G	fi-	1e	fi-	1g	fi-
+=18	=18	=18	=18	=18	=18	=18	=18
+*	*	*	*	*	*	*lig	*
+0C	-gu-	0G	-gu-	0e	-gu-	1g	-gu-
+.	.	.	.	.	.	1cc	.
+*	*	*	*	*	*	*Xlig	*
+=19	=19	=19	=19	=19	=19	=19	=19
+1C	-ris	1A	-ris	1e	-ris	1cc	-ris
+[1BB	ter-	[1B	ter-	[1d	ter-	[1dd	ter-
+=20	=20	=20	=20	=20	=20	=20	=20
+1BB]	.	1B]	.	1d]	.	1dd]	.
+1BB	-mi-	1B	-mi-	1d	-mi-	1dd	-mi-
+=21	=21	=21	=21	=21	=21	=21	=21
+0Cl;	-num.	0Gl;	-num.	0cl;	-num.	0eel;	-num.
+=22	=22	=22	=22	=22	=22	=22	=22
+0r	.	0r	.	1g	O	1ee	O
+.	.	.	.	1g	res	1ee	res
+=23	=23	=23	=23	=23	=23	=23	=23
+0r	.	0r	.	1g	mi-	1ee	mi-
+.	.	.	.	[1g	-ra-	[1ee	-ra-
+!!LO:LB:g=original
+=24	=24	=24	=24	=24	=24	=24	=24
+0r	.	0r	.	2g]	.	2ee]	.
+.	.	.	.	2f	.	2dd	.
+*	*	*	*	*lig	*	*lig	*
+.	.	.	.	1e	.	1cc	.
+=25	=25	=25	=25	=25	=25	=25	=25
+0r	.	0r	.	1d	.	1b	.
+*	*	*	*	*Xlig	*	*Xlig	*
+*	*	*	*	*lig	*	*lig	*
+.	.	.	.	1g	.	1ee	.
+=26	=26	=26	=26	=26	=26	=26	=26
+0r	.	0r	.	1f	.	1dd	.
+*	*	*	*	*Xlig	*	*Xlig	*
+.	.	.	.	1e	.	[1cc	.
+=27	=27	=27	=27	=27	=27	=27	=27
+0r	.	0r	.	0d	-bi-	1cc]	.
+.	.	.	.	.	.	1b	-bi-
+=28	=28	=28	=28	=28	=28	=28	=28
+0r	.	0r	.	1c	-lis!	1cc	-lis!
+.	.	.	.	1r	.	1r	.
+=29	=29	=29	=29	=29	=29	=29	=29
+0C	Man-	0e	Man-	0g	Man-	0cc	Man-
+=30	=30	=30	=30	=30	=30	=30	=30
+0G	-du-	0d	-du-	0g	-du-	0b	-du-
+=31	=31	=31	=31	=31	=31	=31	=31
+0A	-cat	0c	-cat	0e	-cat	0a	-cat
+=32	=32	=32	=32	=32	=32	=32	=32
+*lig	*	*lig	*	*	*	*lig	*
+0E	Do-	0B	Do-	0e	Do-	0g	Do-
+!!LO:PB:g=original
+=33	=33	=33	=33	=33	=33	=33	=33
+0F	.	0A	.	0c	.	0a	.
+*Xlig	*	*Xlig	*	*	*	*Xlig	*
+=34	=34	=34	=34	=34	=34	=34	=34
+*lig	*	*	*	*lig	*	*lig	*
+0C	-mi-	0c	-mi-	0e	-mi-	0g	-mi-
+=35	=35	=35	=35	=35	=35	=35	=35
+0D	.	0A	.	0d	.	0f	.
+*Xlig	*	*	*	*Xlig	*	*Xlig	*
+=36	=36	=36	=36	=36	=36	=36	=36
+0Gl;	.	0Bl;	.	0dl;	.	0gl;	.
+!!LO:TX:t=[whole] = [whole-dot]
+=37||	=37||	=37||	=37||	=37||	=37||	=37||	=37||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
+*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+*met(O/3)	*	*met(O/3)	*	*met(O/3)	*	*met(O/3)	*
+!!section: Pauper servus et
+1G	pau-	0.r	.	1d	pau-	0.r	.
+1G	-per,	.	.	1d	-per,	.	.
+1G	ser-	.	.	1d	ser-	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+0c	-vus	0.r	.	0e	-vus	0.r	.
+1d	et	.	.	1f	et	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+1e	hu-	1G	-pau-	1.g	hu-	0.r	.
+1.d	.	1G	-per,	.	.	.	.
+.	.	.	.	4f	.	.	.
+.	.	.	.	4e	.	.	.
+.	.	1G	ser-	1d	.	.	.
+4c	.	.	.	.	.	.	.
+4B	.	.	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40
+*	*	*	*	*lig	*	*	*
+1.A	.	0c	-vus	1e	.	0.r	.
+.	.	.	.	1c	.	.	.
+*	*	*	*	*Xlig	*	*	*
+2G	.	.	.	.	.	.	.
+1F	.	1d	et	1A	.	.	.
+!!LO:LB:g=original
+=41	=41	=41	=41	=41	=41	=41	=41
+*	*	*	*	*lig	*	*	*
+0E	.	1.e	hu-	1B	.	1g	-pau-
+.	.	.	.	1G	.	1g	-per,
+*	*	*	*	*Xlig	*	*	*
+.	.	2d	.	.	.	.	.
+1G	.	2c	.	1g	.	1g	ser-
+.	.	2B	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42
+1.F	.	0A	.	1.a	-mi-	0cc	-vus
+2E	.	.	.	2g	.	.	.
+1D	.	1B	.	1f	.	1dd	et
+=43	=43	=43	=43	=43	=43	=43	=43
+1C	.	1.c	.	0e	-lis,	1.ee	hu-
+2c	.	.	.	.	.	.	.
+2B	.	2d	.	.	.	2dd	.
+2A	.	1e	.	1rB	.	2cc	.
+2G	.	.	.	.	.	2b	.
+=44	=44	=44	=44	=44	=44	=44	=44
+*	*	*	*	*	*edit	*	*
+*	*	*	*	*lig	*	*	*
+1F	.	0f	.	1c	hu-	2a	.
+.	.	.	.	.	.	2g	.
+1D	.	.	.	1d	.	1.dd	.
+*	*	*	*	*Xlig	*	*	*
+1E	.	1g	.	1B	.	.	.
+.	.	.	.	.	.	2cc	.
+=45	=45	=45	=45	=45	=45	=45	=45
+*	*	*	*	*lig	*	*	*
+1C	.	1e	.	1c	.	0cc	-mi-
+0G	-mi-	0d	-mi-	1G	.	.	.
+*	*	*	*	*Xlig	*	*	*
+.	.	.	.	1g	-mi-	1b	.
+=46	=46	=46	=46	=46	=46	=46	=46
+0.Cl	-lis.	0.cl	-lis.	0.gl	-lis.	0.ccl	-lis.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: j = editorial accidental, optional, paren up
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!PTL: Gaspar van Weerbeke: Collected Works. IV. Motets
+!!!ISBN: 978-1-59551-500-1 / 1-59551-500-3
+!!!PPR: American Institute of Musicology
+!!!PC#: Corpus Mensurabilis Musicae 106/IV
+!!!PDT: 2010
+!!!PED: Pavanello, Agnese
+!!!YEC: Copyright 2008, Pavanello, Agnese
+!!!YEM: CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+!!!EED: Mair-Gruber, Roland
+!!!EEV: 2021/09/08
+!!!muse2ps: C^@{COM}^i2I150v90,90,90,120c122z18l2700t130
+!!!ONB: from http://www.gaspar-van-weerbeke.sbg.ac.at/gaspar-online-edition with doubled rhythms

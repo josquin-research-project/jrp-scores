@@ -1,0 +1,207 @@
+!!!!SEGMENT: Ano/Ano3229-Par_malle_bouche--Leuven_Chansonnier.krn
+!!!COM: Anonymous
+!!!OTL: Par malle bouche
+!!!AGN: Song; Chanson
+!!!SCT: Ano3229
+!!!SCA: Ano3229
+!!!jrpid: Ano3229
+!!!SMS: Leuven Chansonnier
+!!!folio: 50v-51r
+!!!voices: 3
+!!!ONB: Contra, m. 21/2: a
+**kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
+*staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
+*Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*
+*I"Contra	*	*	*	*I"Tenor	*	*	*	*I"Discantus	*	*	*
+*I'C	*	*	*	*I'T	*	*	*	*I'D	*	*	*
+*clefGv2	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*
+*k[]	*	*	*	*k[]	*	*	*	*k[]	*	*	*
+*M2/1	*	*	*	*M2/1	*	*	*	*M2/1	*	*	*
+*met(C)	*	*	*	*met(C)	*	*	*	*met(C)	*	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!!LO:TX:Z=12:t=Form&colon; rondeau
+!!LO:TX:Z=36:t=Sig. cong. editorial
+1r	.	.	.	0r	.	.	.	0r	.	.	.
+1c	Par	A	On-	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+2A	Mal-	quoy	-ques	1c	Par	A	On-	1cc	Par	A	On-
+2A	-le	fault	ny	.	.	.	.	.	.	.	.
+1c	Bou-	[il]	eut	2e	Mal-	quoy	-ques	2g	Mal-	quoy	-ques
+.	.	.	.	2e	-le	fault	ny	2g	-le	fault	ny
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+1F	-che	.	.	2.f	Bou-	[il]	eut	2a	Bou-	[il]	eut
+.	.	.	.	.	.	.	.	4g	.	.	.
+.	.	.	.	4e	.	.	.	4f	.	.	.
+1r	.	.	.	1c	-che	.	.	2e	.	.	.
+.	.	.	.	.	.	.	.	2e	-che	que	en
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+1e	la	que	en	2r	.	.	.	2g	la	je	ma
+.	.	.	.	2c	la	que	en	2g	cru-	vous	que-
+2e	cru-	je	ma	2c	cru-	je	ma	2.a	-el-	cel-	-rel-
+2e	-el-	vous	que-	2c	-el-	vous	que-	.	.	.	.
+.	.	.	.	.	.	.	.	4g	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+1d	-le,	cel-	-rel-	1G	-le,	cel-	-rel-	1b	-le,	-le,	-le
+1c	.	.	.	2A	.	.	.	1r	.	.	.
+.	.	.	.	2c	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+1d	.	-le,	-le	1B	.	-le,	-le	1g	En-	Ja	Que
+2r	.	.	.	1A	.	.	.	2cc	.	.	lo-
+[2e	En-	Ja	Que	.	.	.	.	2cc	-ne-	soit	-yau-
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+2e]	.	.	.	2r	.	.	.	2.cc	-my-	que	-t&eacute;:
+2c	.	.	.	2A	En-	Ja	Que	.	.	.	.
+.	.	.	.	.	.	.	.	4a	.	.	.
+2d	.	soit	lo-	2G	.	soit	lo-	2b	.	.	.
+2c	-ne-	que	-yau-	2A	-ne-	que	-yau-	[2cc	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+2f	-my-	.	-t&eacute;:	1F	-my-	vous	-t&eacute;:	4cc]	.	.	.
+.	.	.	.	.	.	.	.	4a	.	.	.
+2.f	.	vous	.	.	.	.	.	2.a	.	vous	.
+.	.	.	.	1c	.	.	.	.	.	.	.
+4e	.	.	.	.	.	.	.	4g	.	.	.
+4e	.	.	.	.	.	.	.	4g	.	.	.
+4d	.	.	.	.	.	.	.	4f	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2f	-e,	.	.	0F	-e,	.	.	1a	-e,	.	.
+2r	.	.	.	.	.	.	.	.	.	.	.
+1c	faul-	[me]	en-	.	.	.	.	2r	.	.	.
+.	.	.	.	.	.	.	.	2a	faul-	[me]	en-
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2d	-se et	soi-	-que-	2r	.	.	.	2a	-se et	soi-	-que-
+2d	re-	-ez	-r&eacute;s	2F	faul-	[me]	en-	2a	re-	-ez	-r&eacute;s
+2e	-bel-	cel-	.	2E	-se et	soi-	-que-	2g	-bel-	cel-	.
+2c	.	.	.	2F	re-	-ez	-r&eacute;s	[2a	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+1d	.	.	.	1D	-bel-	cel-	.	2a]	.	.	.
+.	.	.	.	.	.	.	.	2b	.	.	.
+2e	.	.	.	2C	.	.	.	2cc	.	.	.
+[2c	.	.	.	2F	.	.	.	[2a	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+2c]	.	.	.	2C	.	.	.	4a]	.	.	.
+.	.	.	.	.	.	.	.	4g	.	.	.
+2A	.	.	.	2F	.	.	.	2.f	.	.	.
+1B	.	.	.	1G	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4d	.	.	.
+.	.	.	.	.	.	.	.	2e	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+1c	-le,	-le	le	0F	-le,	-le	le	1f	-le,	-le	le
+2d	.	.	.	.	.	.	.	1r	.	.	.
+2c	.	.	.	.	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+1A	.	.	.	0r	.	.	.	1cc	Ai	Pour	Et
+1G	.	.	.	.	.	.	.	2b	ge	qui	y
+.	.	.	.	.	.	.	.	2b	per-	en	met-
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+2r	.	.	.	1f	Ai	Pour	Et	2cc	-du	ay	-t&eacute;s
+2F	Ai	Pour	Et	.	.	.	.	4b	.	.	.
+.	.	.	.	.	.	.	.	4a	.	.	.
+1c	.	.	.	2e	ge	qui	y	2g	.	.	.
+.	.	.	.	2e	per-	en	met-	2g	vos-	tel	tel-
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+1F	ge	qui	y	2f	-du	ay	-t&eacute;s	2a	-tre a-	des-	-le or-
+.	.	.	.	4e	.	.	.	2a	-coin-	-play-	-don-
+.	.	.	.	4d	.	.	.	.	.	.	.
+2r	.	.	.	2c	.	.	.	2e	-tan-	-san-	-nan-
+[2F	per-	en	met-	2c	vos-	tel	tel-	[2a	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+2F]	.	.	.	2d	-tre a-	des-	-le or-	2a]	.	.	.
+2G	-du	ay	-t&eacute;s	2d	-coin-	-play-	-don-	2b	.	.	.
+2A	vos-	tel	tel-	2A	-tan-	-san-	-nan-	2cc	.	.	.
+2G	-tre a-	des-	-le or-	2B	.	.	.	[2dd	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+2A	-coin-	-play-	-don-	2c	.	.	.	4dd]	.	.	.
+.	.	.	.	.	.	.	.	4cc	.	.	.
+2c	.	.	.	2e	.	.	.	1cc	.	.	.
+1G	-tan-	-san-	-nan-	1d	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2b	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+2A	-ce,	-ce?	-ce	1c	-ce,	-ce?	-ce	1ccN	-ce,	-ce?	-ce
+2F	.	.	.	.	.	.	.	.	.	.	.
+2fN	Gen-	A	Que	1FN	.	.	.	1r	.	.	.
+2e	-til-	quoy	brief	.	.	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2d	-le	fault	puis-	1r	.	.	.	2f	Gen-	A	Que
+2c	pu-	[il]	-se a-	.	.	.	.	2e	-til-	quoy	brief
+2d	-cel-	que	-voir	2f	Gen-	A	Que	2d	-le	fault	puis-
+2A	.	.	.	2e	-til-	quoy	brief	2c	pu-	[il]	-se a-
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+2D	.	.	.	2d	-le	fault	puis-	2f	-cel-	que	-voir
+2c	.	.	.	2c	pu-	[il]	-se a-	2g	.	.	.
+2c	.	.	.	2F	-cel-	que	-voir	2a	.	.	.
+2B	.	.	.	2G	-le	je	a-	2g	-le	je	a-
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+2c	-le	je	a-	2A	de	vous	-le-	2cc	de	vous	-le-
+2d	de	vous	-le-	2G	.	.	.	1b	Fran-	cel-	-gean-
+2e	Fran-	cel-	-gean-	2c	Fran-	cel-	-gean-	.	.	.	.
+2f	.	.	.	2d	.	.	.	[2a	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+1d	-ce,	-le,	-ce	1B	.	.	.	4a]	.	.	.
+.	.	.	.	.	.	.	.	4g	.	.	.
+.	.	.	.	.	.	.	.	4g	.	.	.
+.	.	.	.	.	.	.	.	4f	.	.	.
+2r	.	.	.	1A	-ce,	-le,	-ce	1a	-ce,	-le,	-ce
+2c	Dont	Ja	De	.	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+2A	.	.	.	2c	Dont	Ja	De	2r	.	.	.
+2.c	j'ay	soit	ma	2A	.	.	.	2cc	Dont	Ja	De
+.	.	.	.	2.c	j'ay	soit	ma	2a	.	.	.
+4B	.	.	.	.	.	.	.	.	.	.	.
+4A	.	.	.	.	.	.	.	[2cc	j'ay	soit	ma
+4G	.	.	.	4B	.	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+2F	au	que	do-	4A	.	.	.	4cc]	.	.	.
+.	.	.	.	4G	.	.	.	4b	.	.	.
+2.A	cueur	vous	-leur	2F	au	que	do-	4a	.	.	.
+.	.	.	.	.	.	.	.	4g	.	.	.
+.	.	.	.	2.A	cueur	vous	-leur	2f	au	que	do-
+4G	.	.	.	.	.	.	.	.	.	.	.
+4F	.	.	.	.	.	.	.	[2a	cueur	vous	-leur
+4E	.	.	.	4G	.	.	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+2D	.	.	.	4F	.	.	.	4a]	.	.	.
+.	.	.	.	4E	.	.	.	4g	.	.	.
+2.d	do-	[me]	qui	2D	.	.	.	4f	.	.	.
+.	.	.	.	.	.	.	.	4e	.	.	.
+.	.	.	.	2.G	do-	[me]	qui	2d	.	.	.
+4c	.	.	.	.	.	.	.	.	.	.	.
+4B	.	.	.	.	.	.	.	[2g	do-	[me]	qui
+4A	.	.	.	4F	.	.	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+2G	.	.	.	4E	.	.	.	4g]	.	.	.
+.	.	.	.	4D	.	.	.	4f	.	.	.
+2c	.	soi-	.	2C	.	.	.	4e	.	.	.
+.	.	.	.	.	.	.	.	4d	.	.	.
+2.A	-leur	.	re-	2.F	-leur	soi-	re-	2c	.	.	.
+.	.	.	.	.	.	.	.	[2f	-leur	soi-	re-
+4G	.	.	.	4G	.	.	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+4F	.	.	.	4A	.	.	.	4f]	.	.	.
+4E	.	.	.	4B-i	.	.	.	4g	.	.	.
+2F	.	.	.	2A	.	.	.	4a	.	.	.
+.	.	.	.	.	.	.	.	4b-i	.	.	.
+4c	mor-	-ez	-nou-	2F	mor-	-ez	-nou-	2a	.	.	.
+4d	.	.	.	.	.	.	.	.	.	.	.
+2e	.	.	.	2C	.	.	.	[2g	mor-	-ez	-nou-
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+2c	.	.	.	2F	-tel-	cel-	-vel-	4g]	.	.	.
+.	.	.	.	.	.	.	.	4f	.	.	.
+1c	-tel-	cel-	-vel-	2A	.	.	.	1f	-tel-	cel-	-vel-
+.	.	.	.	1G	.	.	.	.	.	.	.
+2B	.	.	.	.	.	.	.	2e	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+0cl	-le.	-le	.	0Fl	-le.	-le	.	0fl	-le.	-le	.
+==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l = long note in original notation
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: V = start of tuplet marker
+!!!RDF**kern: Z = end of tuplet marker
+!!!ENC: Jesse Rodin
+!!!END: 2018/06/14
+!!!EED: Jesse Rodin
+!!!EED2: David Burn
+!!!EED3: Fabrice Fitch
+!!!EEV: 2018/07/29
+!!!ONB: Translated from MusicXML and edited on 2018/07/29/ by Craig Sapp
+!!muse2ps: C^@{SMS} (@{folio})\nEd. @{EED}, with help from @{EED2} and @{EED3}^v95,95,150Q16z18l2600c80

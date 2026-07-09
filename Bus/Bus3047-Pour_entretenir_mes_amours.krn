@@ -1,0 +1,316 @@
+!!!!SEGMENT: Bus/Bus3047-Pour_entretenir_mes_amours.krn
+!!!COM: Busnoys, Antoine
+!!!CDT: ~1430///-1492/11/06
+!!!OTL: Pour entretenir mes amours
+!!!AGN: Song; Chanson
+!!!SCT: Bus3047
+!!!SCA: Bus3047
+!!!jrpid: Bus3047
+!!!voices: 3
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*Ivox	*Ivox	*Ivox
+*I"Contratenor	*I"Tenor	*I"Cantus
+*I'Ct	*I'T	*I'Cn
+*clefF4	*clefG2	*clefG2
+*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)
+=1-	=1-	=1-
+!!LO:TX:Z=12:t=Rondeau
+*^	*	*
+1.d	0D	0r	0r
+[2f	.	.	.
+=2	=2	=2	=2
+4f]	1D	0r	0r
+4e	.	.	.
+1d	.	.	.
+.	1D	.	.
+4c	.	.	.
+4B	.	.	.
+=3	=3	=3	=3
+2c	0E	0r	0r
+1d	.	.	.
+2c#i	.	.	.
+=4	=4	=4	=4
+0d	1.D	0d	0r
+.	[2F	.	.
+*v	*v	*	*
+=5	=5	=5
+4F]	1d	0r
+4E	.	.
+1D	.	.
+.	1d	.
+4C	.	.
+4BB	.	.
+=6	=6	=6
+2C	0e	0r
+1D	.	.
+2C#i	.	.
+=7	=7	=7
+[0D	1.d	0dd
+.	[2f	.
+=8	=8	=8
+0D]	4f]	1dd
+.	4e	.
+.	1d	.
+.	.	1dd
+.	4c	.
+.	4B	.
+=9	=9	=9
+0A	2c	0ee
+.	1d	.
+.	2c#i	.
+=10	=10	=10
+[0D	1.d	1.dd
+.	[2a	[2ff
+=11	=11	=11
+0D]	4a]	4ff]
+.	4g	4ee
+.	1f	1dd
+.	4e	4cc
+.	4d	4b
+=12	=12	=12
+0r	2e	2cc
+.	2.f	1dd
+.	4g	.
+.	2a	2cc#i
+=13	=13	=13
+0r	2b-i	2dd
+.	2.a	2.ff
+.	4g	4ee
+.	4f	4ff
+.	4e	4gg
+=14	=14	=14
+1D	2d	2ff
+.	2f	4ee
+.	.	4dd
+1A	1e	2.cc#i
+.	.	4b
+=15	=15	=15
+2.B-	2d	0dd
+.	2r	.
+4A	.	.
+2F	1d	.
+[2G	.	.
+=16	=16	=16
+4G]	1e	0r
+4F	.	.
+4E	.	.
+4D	.	.
+2.C#i	1e	.
+4BB	.	.
+=17	=17	=17
+1D	1d	1r
+1r	1B	1dd
+=18	=18	=18
+0A	1c	1ee
+.	1c	1ee
+=19	=19	=19
+1B-	1.d	1dd
+1G	.	1b
+.	[2e	.
+=20	=20	=20
+1A	4e]	1cc
+.	4c	.
+.	2.f	.
+1A	.	1cc
+.	4g	.
+.	2a	.
+=21	=21	=21
+1G	2b	2dd
+.	4a	4cc
+.	4b	4b
+2.F	2cc	2a
+.	[2a	[2cc
+4E	.	.
+=22	=22	=22
+2F	2a]	2cc]
+2G	2g	2b
+1D	2f	2a
+.	4e	4g
+.	4d	4f
+=23	=23	=23
+1A	1c#	0e
+2A	1r	.
+[2A	.	.
+=24	=24	=24
+2A]	0c#i	1r
+4G	.	.
+4F	.	.
+1E	.	1e
+=25	=25	=25
+2D	1.d	1.f
+2.F	.	.
+4G	.	.
+2A	2c	2e
+=26	=26	=26
+2F	1d	1f
+4E	.	.
+4D	.	.
+2C	1e	1g
+[2c	.	.
+=27	=27	=27
+2c]	1c	1e
+2A	.	.
+2.B-i	2d	1d
+.	[2f	.
+4A	.	.
+=28	=28	=28
+2B-i	2f]	1r
+2G	2g	.
+1A	1e	1cc
+=29	=29	=29
+2.B-i	1d	2dd
+.	.	1ff
+4c	.	.
+2d	1r	.
+2G	.	2gg
+=30	=30	=30
+1A	1c	1ee
+1D	2.d	2dd
+.	.	[2aa
+.	4e	.
+=31	=31	=31
+0r	2f	4aa]
+.	.	4gg
+.	2g	2ee
+.	2a	2ff
+.	[2b-i	[2gg
+=32	=32	=32
+1G	4b-]	4gg]
+.	4a	4ff
+.	4g	4ee
+.	4f	4dd
+2A	2e	2cc
+[2F	[2f	[2dd
+=33	=33	=33
+4F]	2f]	2dd]
+4G	.	.
+2A	2e	2cc
+1D	2.f	2.dd
+.	4g	4ee
+=34	=34	=34
+1AN	1eN	1ccN
+1r	1r	1r
+=35	=35	=35
+1D	0d	0dd
+1F	.	.
+=36	=36	=36
+1E	1c	1ee
+1D	[1d	[1ff
+=37	=37	=37
+1F	2d]	2ff]
+.	2c	2ee
+1G	1B	1dd
+=38	=38	=38
+1A	1A	1ff
+[1c	1A	[1ee
+=39	=39	=39
+2c]	0a	1ee]
+2B	.	.
+1A	.	1cc
+=40	=40	=40
+1G	1b	1dd
+1A	[1cc	[1cc
+=41	=41	=41
+0F	2cc]	1cc]
+.	2b	.
+.	1a	[1ff
+=42	=42	=42
+0c	0g	2ff]
+.	.	2ee
+.	.	2ee
+.	.	2dd
+=43	=43	=43
+0F	1f	[0ff
+.	1r	.
+=44	=44	=44
+1r	0d	0ff]
+1B-i	.	.
+=45	=45	=45
+1.A	1e	0r
+.	[1f	.
+2G	.	.
+=46	=46	=46
+1F	2f]	0dd
+.	2e	.
+1G	1d	.
+=47	=47	=47
+1E	1c	1ee
+1D	[1d	[1ff
+=48	=48	=48
+0d	1d]	2ff]
+.	.	2ee
+.	1f	2.dd
+.	.	4a
+=49	=49	=49
+0A	0e	2dd
+.	.	1cc#i
+.	.	2b
+=50	=50	=50
+1D	1d	1dd
+1r	2c	2ee
+.	[2d	[2ff
+=51	=51	=51
+1D	2d]	2ff]
+.	2f	4ee
+.	.	4dd
+[1A	2e	2.cc
+.	[2a	.
+.	.	4b
+=52	=52	=52
+2A]	4a]	2cc
+.	4g	.
+1.B	4f	1dd
+.	4e	.
+.	2f	.
+.	4e	2ff
+.	4d	.
+=53	=53	=53
+2.c	2.c	2.ee
+8BL	4d	4ff
+8AJ	.	.
+2G	2e	2gg
+2F	[2f	[2aa
+=54	=54	=54
+2D	4f]	4aa]
+.	4g	4gg
+1d	2.a	4ff
+.	.	4ee
+.	.	2ff
+.	4b	.
+2A	[2cc	[2ee
+=55	=55	=55
+2c	2cc]	4ee]
+.	.	4dd
+2d	2f	1dd
+2.A	1e	.
+.	.	2cc
+4G	.	.
+=56	=56	=56
+2F	2d	2dd
+2D	1a	2ff
+1c	.	2ee
+.	4g	[2gg
+.	4a	.
+=57	=57	=57
+1d	4b	4gg]
+.	4a	4ff
+.	4g	4ee
+.	4f	4dd
+1A	2.e	2.cc#i
+.	4d	4b
+=58	=58	=58
+0Dl	0dl	0ddl
+==	==	==
+*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
+!!!ENC: Chris Gage 02-10-2015
+!!!END: 2015/02/20/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/05/10/
+!!!ONB: Translated from MusicXML and edited on 2015/05/10/ by Craig Sapp
+!!muse2ps: C^@{COM}^i2I150v95,95,150Q16

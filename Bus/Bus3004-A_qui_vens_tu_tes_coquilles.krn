@@ -1,0 +1,221 @@
+!!!!SEGMENT: Bus/Bus3004-A_qui_vens_tu_tes_coquilles.krn
+!!!COM: Busnoys, Antoine
+!!!CDT: ~1430///-1492/11/06
+!!!OTL: A qui vens tu tes coquilles
+!!!AGN: Song; Chanson; Rondeau
+!!!SCT: Bus3004
+!!!SCA: Bus3004
+!!!jrpid: Bus3004
+!!!voices: 3
+**kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
+*staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
+*Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*
+*I"Contra	*	*	*	*I"Tenor	*	*	*	*I"Discantus	*	*	*
+*I'C	*	*	*	*I'T	*	*	*	*I'D	*	*	*
+*clefGv2	*	*	*	*clefG2	*	*	*	*clefG2	*	*	*
+*k[b-]	*	*	*	*k[]	*	*	*	*k[]	*	*	*
+*M2/1	*	*	*	*M2/1	*	*	*	*M2/1	*	*	*
+*met(C|)	*	*	*	*met(C|)	*	*	*	*met(C|)	*	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!!LO:TX:Z=12:t=Rondeau
+0D	A	Car	Tu	1.A	A	Car	Tu	0r	.	.	.
+.	.	.	.	2B	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1E	qui	pour	sces	1c	qui	pour	sces	0r	.	.	.
+1E	vens	le	que,	1c	vens	le	que,	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+1D	tu	de-	quant	1d	tu	de-	quant	1.a	A	Car	Tu
+1D	tes	-duit	pour	1d	tes	-duit	pour	.	.	.	.
+.	.	.	.	.	.	.	.	2b	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+1A	co-	des	tes	1e	co-	des	tes	1cc	qui	pour	sces
+1A	-quil-	fil-	pil-	[1f	-quil-	fil-	pil-	1cc	vens	le	que,
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+1.B-	.	.	.	2f]	.	.	.	1dd	tu	de-	quant
+.	.	.	.	2e	.	.	.	.	.	.	.
+.	.	.	.	1f	.	.	.	1dd	tes	-duit	pour
+2A	.	.	.	.	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+2.G	.	.	.	1g	.	.	.	1ee	co-	des	tes
+4F	.	.	.	.	.	.	.	.	.	.	.
+1F	-les,	-les	-les	1a	.	.	.	[1ff	-quil-	fil-	pil-
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+1r	.	.	.	0d	.	.	.	2ff]	.	.	.
+.	.	.	.	.	.	.	.	2ee	.	.	.
+1B-	Viel-	Faut	T'ont	.	.	.	.	2.dd	.	.	.
+.	.	.	.	.	.	.	.	4a	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+1A	-lart	bien	fes-	0e	.	.	.	2dd	.	.	.
+.	.	.	.	.	.	.	.	1cc#i	.	.	.
+1A	aux	ga-	-to-	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2b	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+1.B-	pau-	-lans	-i&eacute;	0d	-les,	-les	-les	1.dd	-les,	-les	-les
+4A	.	.	.	.	.	.	.	4cc	.	.	.
+4G	.	.	.	.	.	.	.	4b	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+1F	.	.	.	1r	.	.	.	0a	.	.	.
+1F	-pie-	plus,	fi-	1f	Viel-	Faut	T'ont	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+1.G	-res,	.	-nes,	1e	-lart	bien	fes-	0r	.	.	.
+.	.	.	.	1e	aux	ga-	-to-	.	.	.	.
+4F	.	.	.	.	.	.	.	.	.	.	.
+4E	.	.	.	.	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+0D	.	.	.	1.f	pau-	-lans	-i&eacute;	1r	.	.	.
+.	.	.	.	.	.	.	.	1ff	Viel-	Faut	T'ont
+.	.	.	.	4e	.	.	.	.	.	.	.
+.	.	.	.	4d	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+0r	.	.	.	1c	.	.	.	1ee	-lart	bien	fes-
+.	.	.	.	1c	-pie-	plus	fi-	1ee	aux	ga-	-to-
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+1.D	pau-	plus	fi-	1.d	-res	ha-	-nes	1.ff	pau-	-lans	-i&eacute;
+2E	.	.	.	4c	.	.	.	4ee	.	.	.
+.	.	.	.	4B	.	.	.	4dd	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+1F	-pie-	.	.	1A	.	.	.	1cc	-pie-	plus	fi-
+1D	-res	ha-	-nes	1B	.	.	.	1dd	-res	ha-	-nes
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+1C	rou-	-rou-	gou-	1c	.	.	.	1ee	rou-	-rou-	gou-
+[1F	.	.	.	1A	.	.	.	[1cc	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+2F]	.	.	.	1a	rou-	-rou-	gou-	1cc]	.	.	.
+2G	.	.	.	.	.	.	.	.	.	.	.
+1A	.	.	.	1f	.	.	.	[1ff	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+1B-	.	.	.	1.g	.	.	.	2ff]	.	.	.
+.	.	.	.	.	.	.	.	2ee	.	.	.
+1c	.	.	.	.	.	.	.	2ee	.	.	.
+.	.	.	.	2f	.	.	.	2dd	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+1F	.	.	.	2.f	.	.	.	1ff	.	.	.
+.	.	.	.	4e	.	.	.	.	.	.	.
+1A	.	.	.	2c	.	.	.	2ee	.	.	.
+.	.	.	.	[2f	.	.	.	2cc	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+1G	.	.	.	2f]	.	.	.	2dd	.	.	.
+.	.	.	.	2e	.	.	.	4cc	.	.	.
+.	.	.	.	.	.	.	.	4b-i	.	.	.
+2F	.	.	.	2f	.	.	.	2a	.	.	.
+[2E	.	.	.	[2g	.	.	.	[2b-	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+4E]	.	.	.	4g]	.	.	.	4b-]	.	.	.
+4F	.	.	.	4f	.	.	.	4a	.	.	.
+4C	.	.	.	4e	.	.	.	4g	.	.	.
+4F	.	.	.	4d	.	.	.	4f	.	.	.
+1c	.	.	.	1e	.	.	.	1g	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+1FN	-ges?	-ges.&	-ges,	1fN	-ges?	-ges.&	-ges,	[0fN	-ges?	-ges.&	-ges,
+1B-	Trous-	.	Qu'el-	1r	.	.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+2A	-se	.	-les	1a	Trous-	&	Qu'el-	0f]	.	.	.
+1F	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	1cc	-se	.	-les	.	.	.	.
+2A	.	.	.	.	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+1G	ton	.	cri-	1b-i	ton	.	cri-	1r	.	.	.
+1F	.	.	-ent,	[1a	sac	.	-ent,	1a	Trous-	.	Qu'el-
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+1r	.	.	.	3a]V	.	.	.	1cc	-se	.	-les
+.	.	.	.	3g	.	.	.	.	.	.	.
+.	.	.	.	3fZ	.	.	.	.	.	.	.
+1e	sac	.	quant	2.g	.	.	.	1b-i	ton	.	cri-
+.	.	.	.	4f	.	.	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+1.f	.	.	.	0d	.	.	.	3%4aV	sac	.	-ent,
+.	.	.	.	.	.	.	.	3g	.	.	.
+2d	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	3fZ	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+1e	.	.	.	1c	.	.	.	2.g	.	.	.
+.	.	.	.	.	.	.	.	4f	.	.	.
+1f	et	.	.	1d	et	.	quant	[1d	et	.	quant
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+1d	.	.	.	1f	.	.	.	1d]	.	.	.
+1A	tes	.	tu	[1e	tes	.	tu	1c	tes	.	tu
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+2.B-	bou-	.	bou-	2e]	.	.	.	1d	bou-	.	bou-
+.	.	.	.	2d	.	.	.	.	.	.	.
+4A	.	.	.	.	.	.	.	.	.	.	.
+1F	.	.	.	[1d	bou-	.	bou-	1f	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+1G	-ges,	.	-ges,	1d]	.	.	.	0e	.	.	.
+1A	.	.	.	1c#i	.	.	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+1r	.	.	.	[0d	-ges,	.	-ges,	0d	-ges,	.	-ges,
+[1D	Et	.	A-	.	.	.	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+2D]	.	.	.	0d]	.	.	.	1r	.	.	.
+2E	.	.	.	.	.	.	.	.	.	.	.
+1F	.	.	.	.	.	.	.	1a	Et	.	A-
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+1G	si	.	-dieu	1r	.	.	.	1b	si	.	-dieu
+1A	.	.	.	1a	Et	.	A-	1cc	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+1r	.	.	.	1b	si	.	-dieu	1dd	por-	.	Clais!
+1A	por-	.	Clais!	1cc	por-	.	Clais!	1ee	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+1B-	-te ail-	.	ou	1dd	-te ail-	.	ou	1dd	-te ail-	.	ou
+1d	-leurs	.	a-	[1a	-leurs	.	a-	[1ff	-leurs	.	a-
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+0c	tes	.	-dieu	1a]	.	.	.	2ff]	.	.	.
+.	.	.	.	.	.	.	.	2ee	.	.	.
+.	.	.	.	1g	tes	.	-dieu	[1ee	tes	.	-dieu
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+0d	.	.	.	0f	.	.	.	2ee]	.	.	.
+.	.	.	.	.	.	.	.	2dd	.	.	.
+.	.	.	.	.	.	.	.	2.dd	.	.	.
+.	.	.	.	.	.	.	.	4cc	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+1.A	quil-	.	Gil-	1.e	quil-	.	Gil-	1ee	quil-	.	Gil-
+.	.	.	.	.	.	.	.	2cc	.	.	.
+[2B-	.	.	.	2d	.	.	.	[2dd	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+1B-]	.	.	.	2f	.	.	.	2dd]	.	.	.
+.	.	.	.	2g	.	.	.	2b	.	.	.
+[1F	.	.	.	1a	.	.	.	2cc	.	.	.
+.	.	.	.	.	.	.	.	[2a	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
+2F]	.	.	.	2f	.	.	.	2a]	.	.	.
+1.E	.	.	.	1g	.	.	.	2g	.	.	.
+.	.	.	.	.	.	.	.	2b	.	.	.
+.	.	.	.	2e	.	.	.	2cc	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+1.D	.	.	.	2f	.	.	.	1dd	.	.	.
+.	.	.	.	1d	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2ff	.	.	.
+[2A	.	.	.	2c	.	.	.	[2ee	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
+1A]	.	.	.	2e	.	.	.	2ee]	.	.	.
+.	.	.	.	2f	.	.	.	4dd	.	.	.
+.	.	.	.	.	.	.	.	4cc	.	.	.
+[1G	.	.	.	1g	.	.	.	2ee	.	.	.
+.	.	.	.	.	.	.	.	[2dd	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
+2G]	.	.	.	2b-i	.	.	.	2dd]	.	.	.
+2.A	.	.	.	1a	.	.	.	2cc	.	.	.
+.	.	.	.	.	.	.	.	2a	.	.	.
+4G	.	.	.	.	.	.	.	.	.	.	.
+2E	.	.	.	4g	.	.	.	2b	.	.	.
+.	.	.	.	4f	.	.	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
+2F	.	.	.	2a	.	.	.	2a	.	.	.
+2B-	.	.	.	2d	.	.	.	1dd	.	.	.
+1A	.	.	.	1e	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2cc#i	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
+0Dl	-les.	.	-les.	0dl	-les.	.	-les.	0ddl	-les.	.	-les.
+==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: V=start of tuplet marker
+!!!RDF**kern: Z=end of tuplet marker
+!!!RDF**kern: N=signum congruentiae
+!!!ENC: Chris Gage 02-10-2015
+!!!END: 2015/10/29/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/10/30/
+!!!ONB: Translated from MusicXML and edited on 2015/10/30/ by Craig Sapp
+!!muse2ps: C^@{COM}^i2I150v100,100,150Q16z18c60l2650

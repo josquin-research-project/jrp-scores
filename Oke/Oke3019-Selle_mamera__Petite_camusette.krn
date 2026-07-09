@@ -1,0 +1,230 @@
+!!!!SEGMENT: Oke/Oke3019-Selle_mamera__Petite_camusette.krn
+!!!COM: Okeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OTL: S'elle m'amera / Petite camusette
+!!!AGN: Song; Chanson
+!!!SCA: Oke3019
+!!!jrpid: Oke3019
+!!!voices: 4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text	**text	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
+*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*	*
+*I"Tenor II	*	*I"Tenor I	*	*I"Contra	*	*I"Discantus	*	*	*
+*I'T	*	*I'T	*	*I'C	*	*I'D	*	*	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*
+*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!!LO:TX:Z=8:t=Sig. congr. are editorial
+!!LO:TX:Z=36:t=Combinative chanson (D text in rondeau form)
+0r	.	0A	Pe	0r	.	1e	S'el-	L'aul-	Puis
+.	.	.	.	.	.	1e	-le	-tre	a-
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+0r	.	0r	.	0e	Pe-	1A	m'a-	jour	-pres
+.	.	.	.	.	.	1e	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+0r	.	0A	Pe-	1A	-ti-	1f	.	.	.
+.	.	.	.	1e	-te	2e	-me-	tant	le
+.	.	.	.	.	.	2c	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+0r	.	1D	-ti-	1f	ca-	1d	-ra	je	coup
+.	.	1A	-te	1e	-mu-	1c	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+0r	.	1B-i	ca-	1d	-set-	2r	.	.	.
+.	.	.	.	.	.	2.f	je	m'a-	me
+.	.	1A	-mu-	1c	-te,	.	.	.	.
+.	.	.	.	.	.	4g	.	.	.
+.	.	.	.	.	.	2a	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+0r	.	1G	-set-	0d	A	2b-i	.	.	.
+.	.	.	.	.	.	2g	.	.	.
+.	.	1F	-te,	.	.	1a	ne	-ven-	pen-
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+0E	Pe-	0G	A	1e	la	2.g	scay,	-&ccedil;ay,	-&ccedil;ay
+.	.	.	.	.	.	4a	.	.	.
+.	.	.	.	1e	mort	2.bni	.	.	.
+.	.	.	.	.	.	8a/L	.	.	.
+.	.	.	.	.	.	8b/J	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+1AA	-ti-	1A	la	1c	m'a-	2cc	.	.	.
+.	.	.	.	.	.	2a	.	.	.
+1E	-te	1G	mort	1B	-vez	2r	.	.	.
+.	.	.	.	.	.	2g	Mais	Que	Que
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+1F	ca-	1F	m'a-	2A	mis,	1a	je	pres-	long
+.	.	.	.	1d	.	.	.	.	.
+1E	-mu-	1G	-vez	.	.	2g	.	.	.
+.	.	.	.	2c#i	.	2e	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+1D	-set-	0A	mis.	1d	.	1f	.	.	temps
+1C	-te,	.	.	1r	.	1e	me	-que	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+0D	A	1.F	m'a-	0f	mis.	2d	met-	tout	a
+.	.	.	.	.	.	1d	-tray	mon	que
+.	.	4E	.	.	.	2c	.	.	.
+.	.	4F	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+1E	la	1G	.	0e	.	2.B	en	cuer	ne
+.	.	.	.	.	.	4A	.	.	.
+1E	mort	[1E	.	.	.	2c	.	.	.
+.	.	.	.	.	.	[2B	es-	las-	ces-
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+1C	m'a-	1E]	.	0r	.	2B]	.	.	.
+.	.	.	.	.	.	1A	.	.	.
+1BB	-vez	1D	-vez	.	.	.	.	.	.
+.	.	.	.	.	.	2G#i	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+0AA	mis.	0E	mis.	0c	Ro-	0A	-say,	-say,	-say,
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+0C	.	0r	.	1e	-bin	0r	.	.	.
+.	.	.	.	1e	et	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+0D	.	0F	Ro-	1d	Ma-	0a	D'ac-	A-	Ne
+.	.	.	.	2c	-ri-	.	.	.	.
+.	.	.	.	2B	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+0r	.	1A	-bin	0A	-on,	1cc	.	-ler	.
+.	.	1A	et	.	.	1cc	-que-	sans	ne
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+0r	.	1G	Ma-	0r	.	1b-i	-rir	que	fut
+.	.	1E	-ri-	.	.	2.g	quel-	luy	que
+.	.	.	.	.	.	4a	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+0F	Ro-	0D	-on,	0r	.	2b-i	.	.	.
+.	.	.	.	.	.	2.a	-que	de-	je
+.	.	.	.	.	.	4g	.	.	.
+.	.	.	.	.	.	2a	.	.	ne
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+1A	-bin	0r	.	0c	S'en	2f	peu	-man-	l'ai-
+.	.	.	.	.	.	2e	sa	.	.
+1A	et	.	.	.	.	[1e	gra-	-das-	-mas-
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+1G	Ma-	0r	.	1B	vont	2e]	.	.	.
+.	.	.	.	.	.	2d	.	.	.
+1E	-ri-	.	.	1c	au	1g	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+0D	-on,	0r	.	1d	bois	2f	.	.	.
+.	.	.	.	.	.	1f	.	.	.
+.	.	.	.	2c	jo-	.	.	.	.
+.	.	.	.	2B	.	2d	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+1.F	Ilz	0r	.	0A	-ly,	1c	.	.	.
+.	.	.	.	.	.	1d	.	.	.
+4E	.	.	.	.	.	.	.	.	.
+4D	.	.	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+1C	s'en	0A	Ilz	0r	.	1e	.	.	.
+1D	vont	.	.	.	.	1f	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+1C	bras	1A	s'en	0e	Ilz	1.e	.	.	.
+[1AA	.	1A	vont	.	.	.	.	.	.
+.	.	.	.	.	.	2c	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+1AA]	.	1A	bras	1e	s'en	0cN	-ce.	-se,	-se;&
+1AA	a	1A	a	1e	vont	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+0AAN	bras,	0AN	bras,	1e	bras	1r	.	.	.
+.	.	.	.	1e	a	1a	For-	Mais	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+1r	.	1.c	Ilz	0eN	bras,	1a	-ce	c'est	.
+[1AA	Ilz	.	.	.	.	1a	m'est	ung	.
+.	.	2B	.	.	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+1AA]	.	1A	s'en	1.e	Ilz	1cc	que	jeu	.
+1AA	s'en	1A	sont	.	.	1cc	par	de	.
+.	.	.	.	2f	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+1.E	sont	1G	en-	1g	s'en	0bni	la	passe	.
+.	.	1G	-dor-	1g	sont	.	.	.	.
+2F	.	.	.	.	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+1.G	en-	1.B-i	-mis.	1d	en-	1r	.	.	.
+.	.	.	.	1d	-dor-	1g	je	pas-	.
+4F	-dor-	4A	.	.	.	.	.	.	.
+4E	.	4G	.	.	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+1D	-mis.	1F	.	1f	-mis.	1a	pas-	.	.
+1E	.	1G	.	2e	.	1g	.	.	.
+.	.	.	.	2d	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+1.F	.	0A	.	1c	.	1f	.	.	.
+.	.	.	.	1d	.	[1a	.	.	.
+4E	.	.	.	.	.	.	.	.	.
+4D	.	.	.	.	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+0C	.	0r	.	0e	Pe-	2a]	.	.	.
+.	.	.	.	.	.	2g	.	.	.
+.	.	.	.	.	.	1g	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+1D	Pe-	0A	Pe-	1A	-ti-	1f	.	.	.
+1C	.	.	.	1e	-te	1e	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+1D	-ti-	1D	-ti-	1f	ca-	1d	.	.	.
+1AA	-te,	1A	-te	1e	-mu-	1c	-se;	-se,	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+0r	.	1B-i	ca-	1d	-set-	2r	.	.	.
+.	.	.	.	.	.	2.f	Ces-	J'en	.
+.	.	1A	-mu-	1c	-te,	.	.	.	.
+.	.	.	.	.	.	4e	.	.	.
+.	.	.	.	.	.	2f	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+0r	.	1G	-set-	0d	A	2g	.	suis	.
+.	.	.	.	.	.	2b-i	-te	.	.
+.	.	1F	.	.	.	1a	fois	.	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+0E	Pe-	0G	-te,	1e	la	2r	.	.	.
+.	.	.	.	.	.	1g	j'en	com-	.
+.	.	.	.	1e	mort	.	.	.	.
+.	.	.	.	.	.	4f	.	.	.
+.	.	.	.	.	.	4g	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
+1AA	-ti-	1r	.	1c	m'a-	2a	.	.	.
+.	.	.	.	.	.	2f	.	.	.
+1E	-te	1G	A	1B	-vez	1e	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+1F	ca-	1A	la	1A	mis.	2d	.	.	.
+.	.	.	.	.	.	1d	fe-	-me	.
+1E	-mu-	1G	mort	1r	.	.	.	.	.
+.	.	.	.	.	.	2c	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
+1D	-set-	1F	m'a-	1A	A	1d	-ray	je	.
+1C	-te,	1E	-vez	1c	la	1e	l'es-	com-	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
+0D	A	1D	mis,	2B-i	mort	1.f	.	-men-	.
+.	.	.	.	1A	.	.	.	.	.
+.	.	1F	a	.	.	.	.	.	.
+.	.	.	.	2F	.	4e	.	.	.
+.	.	.	.	.	.	4d	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
+1E	la	1E	la	2.G	m'a-	1c	.	.	.
+.	.	.	.	4A	.	.	.	.	.
+1E	mort	1G	mort	2Bni	.	[1e	.	.	.
+.	.	.	.	4A	.	.	.	.	.
+.	.	.	.	4B	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
+1C	m'a-	1A	m'a-	2c	.	2e]	.	.	.
+.	.	.	.	1A	.	4d	.	.	.
+.	.	.	.	.	.	4e	.	.	.
+1BB	.	1D	.	.	.	2f	.	.	.
+.	.	.	.	2G	-vez	[2d	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
+0AA	-vez	0E	-vez	[0Al	mis.	2d]	.	.	.
+.	.	.	.	.	.	2c#i	.	.	.
+.	.	.	.	.	.	2.c#i	.	.	.
+.	.	.	.	.	.	4B	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
+0Dl	mis.	0Dl	mis.	0A]	.	0dl	-say.	-cay.	.
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l = long note in original notation
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: V = start of tuplet marker
+!!!RDF**kern: Z = end of tuplet marker
+!!!RDF**kern: N = signum congruentiae
+!!!ENC: Jesse Rodin 17 April 2018
+!!!END: 2018/04/17/
+!!!EED: Jesse Rodin
+!!!EEV: 2018/07/23/
+!!!ONB: Translated from MusicXML and edited on 2018/07/23/ by Craig Sapp
+!!muse2ps: C^@{COM}\nEd. @{EED}^i2I150v85,85,85,120Q16z18l2650t120

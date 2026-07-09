@@ -1,0 +1,156 @@
+!!!!SEGMENT: Rue/Rue2003-Da_pacem_Domine.krn
+!!!COM: la Rue, Pierre de
+!!!CDT: ~1452///-1518/11/20
+!!!OTL: Da pacem Domine
+!!!AGN: Motet
+!!!SCT: Rue2003
+!!!SCA: Rue2003
+!!!jrpid: Rue2003
+!!!voices: 4
+**kern	**kern	**kern	**kern
+*staff4	*staff3	*staff2	*staff1
+*Ivox	*Ivox	*Ivox	*Ivox
+*I"Bassus	*I"Tenor	*I"Contra	*I"Discantus
+*I'B	*I'T	*I'C	*I'D
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!section: Da pacem Domine
+!!!OMD: Da pacem Domine
+=1-	=1-	=1-	=1-
+!	!	!	!LO:TX:X=-40:Z=8:t=4-ex-2 canon at the upper fourth (B-->T, C-->D)
+1D	1r	1d	1r
+1E	1G	1c	1g
+=2	=2	=2	=2
+1D	1A	1d	1f
+1G	1G	1r	1g
+=3	=3	=3	=3
+1A	1c	1f	1r
+1G	1d	1g	1b
+=4	=4	=4	=4
+1A	1c	1f	1cc
+2G\	1d	1r	1b
+2B\	.	.	.
+=5	=5	=5	=5
+1A	2c\	1e	1r
+.	2e\	.	.
+1D	1d	1f	1a
+=6	=6	=6	=6
+2r	1G	1g	1b
+2G\	.	.	.
+1A	2r	2f\	1cc
+.	2c\	[2e\	.
+=7	=7	=7	=7
+1D	1d	2e\]	2b\
+.	.	1d	1a
+1E	1G	.	.
+.	.	2c#i\	[2g/
+=8	=8	=8	=8
+1D	1A	1d	2g/]
+.	.	.	2f#i/
+2r	1G	1r	1g
+2G\	.	.	.
+=9	=9	=9	=9
+2F\	2r	2f\	1r
+2F\	2c\	2f\	.
+1G	2B\	2e\	2b\
+.	2B\	[2d\	2b\
+=10	=10	=10	=10
+2r	1c	2d\]	2a/
+2C/	.	2g\	1g
+2G\	2r	2e\	.
+2A\	2F/	[2f\	2cc\
+=11	=11	=11	=11
+2F\	2c\	2f\]	2a/
+2D\	2d\	2f\	1b
+1G	2B\	2g\	.
+.	2G/	[2b-\	2b\
+=12	=12	=12	=12
+1A	1c	2b-\]	2cc\
+.	.	1a	1ee
+1B	1d	.	.
+.	.	2g\	[2dd\
+=13	=13	=13	=13
+1A	1e	1a	2dd\]
+.	.	.	2cc#i\
+1r	1d	1r	1dd
+=14	=14	=14	=14
+1A	1r	2a\	1r
+.	.	2a\	.
+1B	1d	[1g	2dd\
+.	.	.	2dd\
+=15	=15	=15	=15
+1c	1e	2g\]	1.cc
+.	.	1a	.
+1F	1f	.	.
+.	.	[2f\	[2dd\
+=16	=16	=16	=16
+1G	1B-i	2f\]	2dd\]
+.	.	2e\	1b-i
+1F	1c	1f	.
+.	.	.	2a/
+=17	=17	=17	=17
+1r	1B-i	1r	1b-i
+2F\	1r	2f\	1r
+2F\	.	2f\	.
+=18	=18	=18	=18
+2.G\	2B-i\	2d\	2b-i\
+.	2B-i\	2.g\	2b-i\
+4F\	.	.	.
+4E\	2.c\	.	2g/
+4D\	.	4f\	.
+[2C/	.	[2e\	[2cc\
+.	4B-i\	.	.
+=19	=19	=19	=19
+2C/]	4A/	2e\]	4cc\]
+.	4G/	.	4b-i\
+2.F\	1F	2.a\	1a
+4E\	.	4g\	.
+2D\	[2B-i\	4f\	[2dd\
+.	.	4e\	.
+=20	=20	=20	=20
+2.G\	4B-\]	2d\	4dd\]
+.	4A/	.	4cc\
+.	2G/	2.g\	4b-i\
+4F\	.	.	4a/
+4E\	2.c\	.	2g/
+4D\	.	4f\	.
+2C/	.	[2e\	[2cc\
+.	4B-i\	.	.
+=21	=21	=21	=21
+1D	4A/	4e\]	4cc\]
+.	4G/	4d\	4b-i\
+.	2F/	1d	2.a/
+1E	1G	.	.
+.	.	.	4g/
+.	.	2c#i\	[2g/
+=22	=22	=22	=22
+1D	1A	2d\	2g/]
+.	.	2f\	2f/
+1r	1G	2e\	2g/
+.	.	[2d\	2b-i\
+=23	=23	=23	=23
+2D\	1r	2d\]	2a/
+1E	.	2B\	1g
+.	2G/	2c\	.
+2C/	[2A/	[2e\	2e/
+=24	=24	=24	=24
+1D	2A/]	2e\]	2f/
+.	2F/	1d	1a
+1E	1G	.	.
+.	.	2c#i\	[2g/
+=25	=25	=25	=25
+1D	1A	0dl	2g/]
+.	.	.	2f#i/
+1Gl	1Gl	.	1gl
+==	==	==	==
+*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Jesse Rodin; Chris Gage 01-02-2013
+!!!END: 2013/05/17/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/07/20/
+!!!ONB: Translated from MusicXML and edited on 2013/07/20/ by Craig Sapp
+!!muse2ps: C^@{COM}^i2I150v90,90,90,150Q16

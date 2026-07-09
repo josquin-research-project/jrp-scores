@@ -1,0 +1,189 @@
+!!!!SEGMENT: Jos/Jos2830-Scaramella.krn
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL@@FRE: Scaramella
+!!!AGN: Chanson
+!!!SCT: NJE 28.30
+!!!SCA: New Josquin Edition 28.30
+!!!jrpid: Jos2830
+!!!voices: 4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
+*I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
+*I'B	*	*I'T	*	*I'A	*	*I'S	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+*met(C|3)	*	*met(C|3)	*	*met(C|3)	*	*met(C|3)	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+0D	Sca-	0.r	.	0d	Sca-	0f	Sca-
+1E	-ra-	.	.	1B	-ra-	1g	-ra-
+=2	=2	=2	=2	=2	=2	=2	=2
+0F	-mel-	0.r	.	0A	-mel-	0a	-mel-
+1F	-la	.	.	1A	-la	1a	-la
+=3	=3	=3	=3	=3	=3	=3	=3
+0F	va al-	0c	Sca-	0A	va al-	0a	va al-
+1F	-la	1d	-ra-	1A	-la	1a	-la
+=4	=4	=4	=4	=4	=4	=4	=4
+0C	guer-	0e	-mel-	0c	guer-	0g	guer-
+[1C	-ra	1e	-la	1G	-ra	[1e	-ra
+=5	=5	=5	=5	=5	=5	=5	=5
+1C]	.	0e	va al-	1.c	Col-	1e]	.
+0C	Col-	.	.	.	.	1g	Col-
+.	.	.	.	2B\	.	.	.
+.	.	1e	-la	1c	-la	1g	-la
+=6	=6	=6	=6	=6	=6	=6	=6
+0D	-la	0d	guer-	0A	lan-	0f	lan-
+1G	.	[1B	-ra	1B	-cia et	1d	-cia et
+=7	=7	=7	=7	=7	=7	=7	=7
+1E	lan-	1B]	.	1G	la	1e	la
+0D	-cia et	1d	Col-	1.A	ro-	0f	ro-
+.	.	1d	-la	.	.	.	.
+.	.	.	.	2B\	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+1.A	la	0c	lan-	2c\	-tel-	1.e	-tel-
+.	.	.	.	2d\	.	.	.
+.	.	.	.	0e	.	.	.
+2G\	.	.	.	.	.	2f/	.
+1E	ro-	1B	-cia et	.	.	1g	.
+=9	=9	=9	=9	=9	=9	=9	=9
+1F	-tel-	1A	la	1c	.	1.f	.
+0D	.	0B	ro-	0d	.	.	.
+.	.	.	.	.	.	2e/	.
+.	.	.	.	.	.	1d	.
+=10	=10	=10	=10	=10	=10	=10	=10
+1C	-la.	1c	tel-	1G	-la.	0e	-la.
+0E	La	1B	-la.	1r	.	.	.
+.	.	1c	La	1G	La	1e	La
+=11	=11	=11	=11	=11	=11	=11	=11
+1.D	zom-	1.d	zom-	0A	zom-	1.f	zom-
+2C/	-be-	2e\	-be-	.	.	2e/	-be-
+1D	-ro	[1d	-ro	1A	-be-	1f	-ro
+=12	=12	=12	=12	=12	=12	=12	=12
+1GG	bo-	1d]	.	0G	-ro	0g	bo-
+0C	-ro	1.c	-bo-	.	.	.	.
+.	.	.	.	1E	bo-	1g	-ro
+.	.	2B\	-ro	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+1.D	bo-	1A	bo-	1F	-ro	1.f	-bo-
+.	.	0B	-rom-	0D	bo-	.	.
+2C/	-rom-	.	.	.	.	2e/	-rom-
+1BB	-bet-	.	.	.	.	1d	-bet-
+=14	=14	=14	=14	=14	=14	=14	=14
+1AA	-ta,	1c	-bet-	1A	-rom,	0e	-ta,
+0E	La	1B	-ta,	1r	.	.	.
+.	.	1c	La	1G	La	1e	La
+=15	=15	=15	=15	=15	=15	=15	=15
+1.D	zom-	1.d	zom-	0A	zom-	1.f	zom-
+2C/	-be-	2e\	-be-	.	.	2e/	-be-
+1D	-ro	[1d	-ro	1A	-be-	1f	-ro
+=16	=16	=16	=16	=16	=16	=16	=16
+1GG	bo-	1d]	.	0G	-ro	1g	bo-
+1.C	.	1.c	bo-	.	.	1.e	.
+.	.	.	.	1c	bo-	.	.
+2D\	-ro	2B\	-ro	.	.	2f/	-ro
+=17	=17	=17	=17	=17	=17	=17	=17
+1F	bo-	1A	bo-	1d	.	0a	-bo-
+0E	-rom-	0B	-rom-	0e	-rom-	.	.
+.	.	.	.	.	.	1g#i	-rom-
+=18	=18	=18	=18	=18	=18	=18	=18
+0AA	-bo.	[0.A	-bo.	[0.c	-bo.	0.a	-bo.
+1r	.	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+0F	Sca-	0.A]	.	0.c]	.	0.r	.
+1G	-ra-	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+0A	-mel-	0.r	.	0.r	.	0f	Sca-
+1G	-la	.	.	.	.	1g	-ra-
+=21	=21	=21	=21	=21	=21	=21	=21
+1F	fa	0.r	.	0F	Sca-	0a	-mel-
+1D	.	.	.	.	.	.	.
+1E	la	.	.	1G	-ra-	1g	-la
+=22	=22	=22	=22	=22	=22	=22	=22
+1D	gal-	0F	Sca-	1.A	-mel-	1f	fa
+1F	.	.	.	.	.	1a	.
+.	.	.	.	2B\	.	.	.
+1E	.	1G	-ra-	1c	-la	1g	la
+=23	=23	=23	=23	=23	=23	=23	=23
+0D	.	0A	-mel-	0d	fa	1f	gal-
+.	.	.	.	.	.	1e	.
+1D	-la	1A	-la	1d	la	1f	.
+=24	=24	=24	=24	=24	=24	=24	=24
+0AA	Col-	0A	fa	0c	gal-	0e	-la
+1AA	-la	1A	la	1A	-la	1r	.
+=25	=25	=25	=25	=25	=25	=25	=25
+0E	scar-	0G	gal-	0B	Col-	0g	Col-
+1E	-pa et	[1E	-la	1B	-la	1g	-la
+=26	=26	=26	=26	=26	=26	=26	=26
+0C	la	1E]	.	1.c	scar-	0e	scar-
+.	.	1G	Col-	.	.	.	.
+.	.	.	.	2d\	.	.	.
+1C	sti-	1G	-la	1e	-pa et	1e	-pa et
+=27	=27	=27	=27	=27	=27	=27	=27
+0D	-va-	0F	scar-	0A	la	1.f	la
+.	.	.	.	.	.	2e/	.
+1AA	.	1E	-pa et	1A	sti-	1c	sti-
+=28	=28	=28	=28	=28	=28	=28	=28
+1BB	-la.	1D	la	1G	-va-	1d	-va-
+0AA	La	0E	sti-	0A	.	1.c	.
+.	.	.	.	.	.	2c/	-la.
+=29	=29	=29	=29	=29	=29	=29	=29
+1D	zom-	1F	va-	1A	-la	1d	.
+1C	-be-	1E	-la.	0c	La	1e	La
+1AA	-ro	1F	La	.	.	1c	.
+=30	=30	=30	=30	=30	=30	=30	=30
+1GG	bo-	1.G	zom-	2.B\	zom-	1d	zom-
+.	.	.	.	4A/	-be-	.	.
+0C	ro	.	.	2G/	-ro	1.e	-be-
+.	.	2A/	-be-	2F/	bo-	.	.
+.	.	[1G	-ro	[1E	-ro	.	.
+.	.	.	.	.	.	2d/	.
+=31	=31	=31	=31	=31	=31	=31	=31
+1r	.	1G]	.	1E]	.	2c/	-ro
+.	.	.	.	.	.	2B/	.
+0D	bo-	1.F	bo-	1A	bo-	1.A	bo-
+.	.	.	.	1F	-rom-	.	.
+.	.	2E/	-ro	.	.	2B/	-ro
+=32	=32	=32	=32	=32	=32	=32	=32
+1BB	-ro,	1D	bo-	1G	-bet-	0d	bo-
+0AA	La	0E	-rom-	0A	.	.	.
+.	.	.	.	.	.	1c	-rom-
+=33	=33	=33	=33	=33	=33	=33	=33
+1D	zom-	1F	-bet-	1A	-ta,	1d	-bet-
+1C	-be-	1E	-ta,	0c	La	1e	-ta,
+1AA	-ro	1F	La	.	.	1c	La
+=34	=34	=34	=34	=34	=34	=34	=34
+1GG	bo-	1.G	zom-	2.B\	zom-	1d	zom-
+.	.	.	.	4A/	-be-	.	.
+0C	-ro	.	.	2G/	-ro	1.e	-be-
+.	.	2A/	-be-	2F/	bo-	.	.
+.	.	[1G	-ro	[1E	-ro	.	.
+.	.	.	.	.	.	2d/	.
+=35	=35	=35	=35	=35	=35	=35	=35
+1r	.	1G]	.	1E]	.	2c/	-ro
+.	.	.	.	.	.	2B/	.
+0D	bo-	1.F	bo-	1A	bo-	1.A	bo-
+.	.	.	.	1F	-rom-	.	.
+.	.	2E/	-ro	.	.	2B/	-ro
+=36	=36	=36	=36	=36	=36	=36	=36
+1BB	.	1D	bo-	1G	-bet-	0d	bo-
+0AA	-rom-	0E	-rom-	0A	-ta,	.	.
+.	.	.	.	.	.	1c#i	-rom-
+=37	=37	=37	=37	=37	=37	=37	=37
+[0.Dl	-bo.	[0.Dl	-bo.	1A	bo-	[0.dl	-bo.
+.	.	.	.	1.B-i	-rom-	.	.
+.	.	.	.	2A/	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+0.D]	.	0.D]	.	0.Al	-bo.	0.d]	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Will Watson 18/08/2011
+!!!END: 2011/08/18/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/09/20/
+!!attribution-level@Jos: 1 (secure, core group [checkmark])
+!!!ONB: Translated from MusicXML and edited on 2011/09/20/ by Craig Sapp
+!!muse2ps: C^@{COM}^i2I150v90,90,90,120c80z18l2700t130

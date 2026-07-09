@@ -1,0 +1,230 @@
+!!!!SEGMENT: Jos/Jos1901-Christus_mortuus_est.krn
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL@@LAT: Christus mortuus est
+!!!AGN: Motet
+!!!SCT: NJE 19.1
+!!!SCA: New Josquin Edition 19.1
+!!!jrpid: Jos1901
+!!!voices: 6
+!!!ONB: Christus mortuus est / c.p.f. Circumdederunt me
+!!!ONB: Can we find a way to indicate the canon?
+**kern	**kern	**kern	**kern	**kern	**kern
+*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox
+*I"Bassus2	*I"Bassus1	*I"Tenor2	*I"Tenor1	*I"Altus	*I"Superius
+*I'B2	*I'B1	*I'T2	*I'T1	*I'A	*I'S
+*clefF4	*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
+=1-	=1-	=1-	=1-	=1-	=1-
+0F	1.F	0r	0r	1.c	0r
+.	2F\	.	.	2c\	.
+=2	=2	=2	=2	=2	=2
+1F	1A	1.F	0r	1c	0r
+1F	1A	.	.	1c	.
+.	.	2F/	.	.	.
+=3	=3	=3	=3	=3	=3
+1.D	1.A	1F	0r	0d	0r
+.	.	1F	.	.	.
+2BB-/	2D\	.	.	.	.
+=4	=4	=4	=4	=4	=4
+1BB-	0F	1.B-	0r	1d	0r
+1BB-	.	.	.	1d	.
+.	.	4A/	.	.	.
+.	.	4G/	.	.	.
+=5	=5	=5	=5	=5	=5
+1F	1r	1A	0r	1c	0r
+1E	[1G	2G/	.	1c	.
+.	.	[2c\	.	.	.
+=6	=6	=6	=6	=6	=6
+0D	2G\]	2c\]	0r	0d	0r
+.	4F\	4B-\	.	.	.
+.	4E\	4A/	.	.	.
+.	1F	1B-	.	.	.
+=7	=7	=7	=7	=7	=7
+1C	1G	1c	0c	1e	0r
+1C	1E	2c\	.	2e\	.
+.	.	[2A/	.	[2c\	.
+=8	=8	=8	=8	=8	=8
+2C/	2E\	2A/]	1c	2c\]	0r
+2C/	2E\	4G/	.	4B-\	.
+.	.	4F/	.	4A/	.
+1C	1E	1E	1c	2G/	.
+.	.	.	.	2G/	.
+=9	=9	=9	=9	=9	=9
+0BB-	[0F	[0D	[0d	0B-	0f
+=10	=10	=10	=10	=10	=10
+1r	0F]	0D]	0d]	1B-	1f
+1BB-	.	.	.	1B-	1f
+=11	=11	=11	=11	=11	=11
+1E-	1C	0r	0c	1G	[0g
+1C	1E	.	.	2G/	.
+.	.	.	.	2G/	.
+=12	=12	=12	=12	=12	=12
+1GG	1D	0G	[0d	1B-	0g]
+1GG	1D	.	.	1B-	.
+=13	=13	=13	=13	=13	=13
+1D	0F	1A	0d]	1A	0f
+2D\	.	1B-	.	1F	.
+2D\	.	.	.	.	.
+=14	=14	=14	=14	=14	=14
+1C	1E	1G	0e	1c	[0g
+1C	1C	1G	.	2.c\	.
+.	.	.	.	4d\	.
+=15	=15	=15	=15	=15	=15
+1C	1.c	2G/	0r	2c\	0g]
+.	.	2G/	.	2.f\	.
+1C	.	1G	.	.	.
+.	.	.	.	4e\	.
+.	2c\	.	.	4e\	.
+.	.	.	.	8d\L	.
+.	.	.	.	8e\J	.
+=16	=16	=16	=16	=16	=16
+0FF	0c	1F	0r	1f	0a
+.	.	1F	.	1c	.
+=17	=17	=17	=17	=17	=17
+1r	1C	2.G/	[0e	2c\	0r
+.	.	.	.	1c	.
+.	.	4A/	.	.	.
+[1C	1E	2G/	.	.	.
+.	.	[2c\	.	4B-\	.
+.	.	.	.	4A/	.
+=18	=18	=18	=18	=18	=18
+1C]	1E	2c\]	1e]	1G	0r
+.	.	4B-\	.	.	.
+.	.	4A/	.	.	.
+1C	1C	1G	1e	1c	.
+=19	=19	=19	=19	=19	=19
+1D	1.F	0F	0f	0A	[0a
+1D	.	.	.	.	.
+.	2F\	.	.	.	.
+=20	=20	=20	=20	=20	=20
+0D	1F	1r	[0d	0A	1a]
+.	1D	1F	.	.	1a
+=21	=21	=21	=21	=21	=21
+0GG	1r	0G	0d]	1G	0b-
+.	1D	.	.	1r	.
+=22	=22	=22	=22	=22	=22
+1r	1E	1G	0c	0e	[0g
+[1C	1E	1G	.	.	.
+=23	=23	=23	=23	=23	=23
+2C/]	0E	0G	0r	1e	0g]
+2C/	.	.	.	.	.
+1C	.	.	.	1e	.
+=24	=24	=24	=24	=24	=24
+1AA	1F	1A	0r	0c	0f
+1FF	[1F	1A	.	.	.
+=25	=25	=25	=25	=25	=25
+1.F	2F\]	1.A	1r	1.c	0r
+.	2F\	.	.	.	.
+.	1F	.	1c	.	.
+2F\	.	2A/	.	2d\	.
+=26	=26	=26	=26	=26	=26
+1C	1E	1G	1c	0e	0r
+1C	1E	[1c	1A	.	.
+=27	=27	=27	=27	=27	=27
+1C	2E\	2c\]	1G	0r	1r
+.	2E\	2B-\	.	.	.
+[1FF	1F	2A/	[1c	.	1f
+.	.	2G/	.	.	.
+=28	=28	=28	=28	=28	=28
+1FF]	1C	1F	2c\]	0r	1f
+.	.	.	4B-\	.	.
+.	.	.	4A/	.	.
+1GG	1G	1r	1B-	.	1d
+=29	=29	=29	=29	=29	=29
+1AA	1C	1E	[0c	0r	1c
+1FF	[1c	1F	.	.	[1f
+=30	=30	=30	=30	=30	=30
+0C	2c\]	0G	0c]	0r	2f/]
+.	2c\	.	.	.	4e/
+.	.	.	.	.	4d/
+.	1c	.	.	.	1e
+=31	=31	=31	=31	=31	=31
+1FF	0A	0F	0r	[0c	[0f
+[1F	.	.	.	.	.
+=32	=32	=32	=32	=32	=32
+2F\]	1A	1F	1r	1c]	0f]
+2E\	.	.	.	.	.
+1D	1B-	1F	1B-	1d	.
+=33	=33	=33	=33	=33	=33
+1C	2G\	[0G	1c	0e	0r
+.	1G	.	.	.	.
+[1C	.	.	1c	.	.
+.	2E\	.	.	.	.
+=34	=34	=34	=34	=34	=34
+1C]	1E	1G]	0c	1e	1r
+1C	1E	1G	.	1g	1e
+=35	=35	=35	=35	=35	=35
+1r	0D	[0A	[0d	0f	1f
+1F	.	.	.	.	1f
+=36	=36	=36	=36	=36	=36
+1D	1F	0A]	0d]	1r	0f
+2D\	1F	.	.	1f	.
+2D\	.	.	.	.	.
+=37	=37	=37	=37	=37	=37
+1.E	0C	1.G	0c	1e	[0g
+.	.	.	.	2e\	.
+[2C/	.	2G/	.	[2e\	.
+=38	=38	=38	=38	=38	=38
+2C/]	1r	1G	1r	2e\]	0g]
+4BB-/	.	.	.	4d\	.
+4AA/	.	.	.	4c\	.
+1GG	1D	1G	1B-	2d\	.
+.	.	.	.	2d\	.
+=39	=39	=39	=39	=39	=39
+0r	1F	1A	1c	1.c	0f
+.	1F	1A	1c	.	.
+.	.	.	.	2d\	.
+=40	=40	=40	=40	=40	=40
+1.C	2E\	1G	[0c	0e	1r
+.	2E\	.	.	.	.
+.	1C	1G	.	.	1e
+2C/	.	.	.	.	.
+=41	=41	=41	=41	=41	=41
+1FF	1c	0F	0c]	1r	1f
+[1F	2c\	.	.	1A	1f
+.	2c\	.	.	.	.
+=42	=42	=42	=42	=42	=42
+1F]	1A	1r	[0d	2A/	[0f
+.	.	.	.	2A/	.
+1D	2A\	1A	.	1F	.
+.	2A\	.	.	.	.
+=43	=43	=43	=43	=43	=43
+1D	0F	2A/	0d]	1F	0f]
+.	.	2A/	.	.	.
+1D	.	1A	.	1f	.
+=44	=44	=44	=44	=44	=44
+1E	0C	1G	[0cl	2.e\	[0g
+.	.	.	.	4d\	.
+[1C	.	2G/	.	4e\	.
+.	.	.	.	4f\	.
+.	.	[2c\	.	[2g\	.
+=45	=45	=45	=45	=45	=45
+0C]	0r	2c\]	0c_	4g\]	0g]
+.	.	.	.	4f\	.
+.	.	4B-\	.	1f	.
+.	.	4A/	.	.	.
+.	.	1G	.	.	.
+.	.	.	.	2e\	.
+=46	=46	=46	=46	=46	=46
+0FFl	0Cl	0Fl	0c]	0fl	0fl
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Victoria Chang
+!!!END: 2011/03/21/
+!!!SMS: Montanus & Neuber 1564: 
+!!!SMS: Smijers no. 87 afl. 51; 
+!!!SMS1: Ed. Commer, Collectio operum musicorum batavorum saeculi XVI vol. 8 
+!!!SMS2: (Maguntiae Antverpiae et Bruxellarum s.d.) no. 3; (3) Mattfeld, 
+!!!SMS3: Cantus firmus in the LIturgical Motets of Josquin des Prez 
+!!!SMS4: (PhD diss Yale 1959) Appendix E pp 15-17
+!!!EED: Jesse Rodin
+!!!EEV: 2011/04/04/
+!!attribution-level@Jos: 4a (the rest [double question mark])
+!!!ONB: Translated from MusicXML and edited on 2011/04/04/ by Craig Sapp
+!!muse2ps: C^@{COM}{/}@{COA}?^I150v100,100,100,100,100,130c100Q16z18

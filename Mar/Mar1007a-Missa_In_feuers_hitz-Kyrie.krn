@@ -1,0 +1,179 @@
+!!!!SEGMENT: Mar/Mar1007a-Missa_In_feuers_hitz-Kyrie.krn
+!!!COM: Martini, Johannes
+!!!CDT: ~1440///-~1497//
+!!!OPR: Missa In feuers hitz
+!!!ONM: 1
+!!!OTL: Kyrie
+!!!AGN: Mass; Kyrie
+!!!SCT: Mar1007a
+!!!SCA: Mar1007a
+!!!jrpid: Mar1007a
+!!!voices: 3
+!!!voices-OPR: 3
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*Ivox	*Ivox	*Ivox
+*I"Contra	*I"Tenor	*I"Superius
+*I'C	*I'T	*I'S
+*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
+*>A	*>A	*>A
+*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)
+!!section: Kyrie I
+!!!OMD: Kyrie I
+=1-	=1-	=1-
+0c	0c	[0cc
+=2	=2	=2
+0A	1e	0cc]
+.	1f	.
+=3	=3	=3
+0G	0g	0b
+=4	=4	=4
+2.g\	[0c	1cc
+4f\	.	.
+[1e	.	1g
+=5	=5	=5
+2e\]	1c]	1a
+2d\	.	.
+[1d	1B	[1g
+=6	=6	=6
+2d\]	0A	2g/]
+4c\	.	4f#i/
+4B\	.	4e/
+1c	.	1f#i
+=7	=7	=7
+0d	0G	1.g
+.	.	2a/
+=8	=8	=8
+1.G	0g	2b\
+.	.	2cc\
+.	.	[1dd
+2A/	.	.
+=9	=9	=9
+1B-	1f	1dd]
+1c	1e	1cc
+=10	=10	=10
+1B-i	1d	1dd
+1A	1c	[1ee
+=11	=11	=11
+0c	0e	2ee\]
+.	.	2dd\
+.	.	[1cc
+=12	=12	=12
+0G	0d	1cc]
+.	.	1b
+=13	=13	=13
+0gl	0cl	0ccl
+!!LO:LB:i:g=z
+=14||	=14||	=14||
+*>B	*>B	*>B
+*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)
+!!section: Christe
+!!!OMD: Christe
+0g	0c	1.cc
+.	.	4b\
+.	.	4a/
+=15	=15	=15
+0c	0e	1g
+.	.	[1cc
+=16	=16	=16
+0e	1c	2cc\]
+.	.	2b\
+.	1e	1cc
+=17	=17	=17
+1d	1f	1dd
+[1c	[1g	[1ee
+=18	=18	=18
+1c]	1g]	2ee\]
+.	.	2dd\
+1c	1e	2cc\
+.	.	2b\
+=19	=19	=19
+1F	1a	1cc
+1G	[1g	1b
+=20	=20	=20
+0d	1g]	0a
+.	1f#i	.
+=21	=21	=21
+1G	1g	1.g
+1g	1e	.
+.	.	2a/
+=22	=22	=22
+1f	1d	1b
+1e	1c	2cc\
+.	.	2b\
+=23	=23	=23
+1f	1d	2a/
+.	.	2g/
+[1d	1B	[1g
+=24	=24	=24
+2d\]	0A	1g]
+2c\	.	.
+2.c\	.	1f#i
+4B\	.	.
+=25	=25	=25
+0dl	0Gl	0gl
+!!LO:LB:i:g=z
+=26||	=26||	=26||
+*>C	*>C	*>C
+*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)
+!!section: Kyrie II
+!!!OMD: Kyrie II
+1g	0r	1g
+1f	.	1a
+=27	=27	=27
+1d	1G	1b
+1c	1A	1cc
+=28	=28	=28
+1d	1B	1g
+2.e\	1c	1cc
+4d\	.	.
+=29	=29	=29
+1B	1G	1dd
+[1A	[1c	[1ee
+=30	=30	=30
+2A/]	1c]	2ee\]
+2B\	.	2dd\
+[1c	1e	1cc
+=31	=31	=31
+1c]	0d	0ff
+1B	.	.
+=32	=32	=32
+0c	0c	1ee
+.	.	[1ee
+=33	=33	=33
+0A	1e	2ee\]
+.	.	2dd\
+.	1f	1cc
+=34	=34	=34
+1G	0g	1b
+[1c	.	[1ee
+=35	=35	=35
+1c]	1e	1ee]
+[1B-	[1f	[1dd
+=36	=36	=36
+1B-]	1f]	1dd]
+1c	1e	[1cc
+=37	=37	=37
+0G	0d	1cc]
+.	.	1b
+=38	=38	=38
+0gl	0cl	0ccl
+==	==	==
+*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Chris Gage 10-02-2014
+!!!END: 2015/03/07/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/03/09/
+!!!ONB: Translated from MusicXML and edited on 2015/03/09/ by Craig Sapp
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v95,95,150Q16

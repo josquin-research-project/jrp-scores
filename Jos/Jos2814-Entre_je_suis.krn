@@ -1,0 +1,367 @@
+!!!!SEGMENT: Jos/Jos2814-Entre_je_suis.krn
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL@@FRA: Entr&eacute; je suis
+!!!ONB: contr.: Par vous je suis; In meinem Sinn
+!!!AGN: Chanson
+!!!SCT: NJE 28.14
+!!!SCA: New Josquin Edition 28.14
+!!!jrpid: Jos2814
+!!!voices: 4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
+*I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
+*I'B	*	*I'T	*	*I'A	*	*I'S	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[]	*
+*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!	!	!LO:TX:Z=6:t=Quasi canon at the lower 5th (T-->B)	!	!	!	!	!
+0r	.	0r	.	1G	En-	0r	.
+.	.	.	.	2G/	tr&eacute;	.	.
+.	.	.	.	2G/	je	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+0r	.	0r	.	2.d\	suis	1d	En-
+.	.	.	.	4e\	.	.	.
+.	.	.	.	4f\	.	2d/	tr&eacute;
+.	.	.	.	4d\	.	.	.
+.	.	.	.	[2f\	.	2d/	je
+=3	=3	=3	=3	=3	=3	=3	=3
+0r	.	0r	.	2f\]	.	2.a/	suis
+.	.	.	.	2d\	.	.	.
+.	.	.	.	.	.	4b\	.
+.	.	.	.	1e	en-	1cc	en
+=4	=4	=4	=4	=4	=4	=4	=4
+0r	.	1G	En-	2.d\	grant	1.dd	grant
+.	.	.	.	4c\	.	.	.
+.	.	2G/	tr&eacute;	2B-\	.	.	.
+.	.	2G/	je	2A/	pen-	2cc\	pen-
+=5	=5	=5	=5	=5	=5	=5	=5
+0r	.	2.d\	suis	2.G/	-se-	2b\	-se-
+.	.	.	.	.	.	2g/	.
+.	.	4e\	.	4F/	.	.	.
+.	.	1f	en-	2D/	-e,	1a	.
+.	.	.	.	2d\	en-	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+1C	En-	1.g	grant	2e\	grant	1g	-e;
+.	.	.	.	2c\	pen-	.	.
+2C/	-tr&eacute;	.	.	[1g	-se-	1r	.
+2C/	je	2f\	pen-	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+2.G\	suis	1e	-se-	1g]	.	2.b\	C'est
+4A\	.	.	.	.	.	4cc\	.
+1B-	en	1d	.	1G	-e;	2dd\	pour
+.	.	.	.	.	.	2dd\	faire
+=8	=8	=8	=8	=8	=8	=8	=8
+1.c	grant	1c	-e;	2r	.	1.ee	ung
+.	.	.	.	4c\	C'est	.	.
+.	.	.	.	4d\	.	.	.
+.	.	1r	.	4e\	.	.	.
+.	.	.	.	4f\	.	.	.
+2B-\	pen-	.	.	[2g\	.	2dd\	nou-
+=9	=9	=9	=9	=9	=9	=9	=9
+1A	-se-	2.e\	C'est	2g\]	.	2cc\	-vel
+.	.	.	.	2c\	pour	2a/	.
+.	.	4f\	.	.	.	.	.
+1G	.	2g\	pour	2d\	faire	1b	a-
+.	.	2g\	fare	2e\	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+1F	-e;	1.a	ung	2f\	ung	2.a/	-my,
+.	.	.	.	1F	nou-	.	.
+.	.	.	.	.	.	4b\	.
+1r	.	.	.	.	.	1cc	.
+.	.	2g\	nou-	2E/	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+2.A\	C'est	2f\	-vel	1D	.	2r	.
+.	.	2d\	.	.	.	2f/	ung
+4B-\	.	.	.	.	.	.	nou-
+2c\	pour	1e	a-	1C	.	2.g/	.
+2c\	faire	.	.	.	.	.	.
+.	.	.	.	.	.	4a/	.
+=12	=12	=12	=12	=12	=12	=12	=12
+1.d	ung	[0d	-my	2BB-/	-vel	2.b-\	-vel
+.	.	.	.	2.B-\	.	.	.
+.	.	.	.	.	.	4a/	.
+.	.	.	.	.	.	4f/	.
+.	.	.	.	4A/	.	4g/	.
+2c\	nou-	.	.	2F/	a-	[2a/	a-
+=13	=13	=13	=13	=13	=13	=13	=13
+2B-\	-vel	0d_	.	1G	-my	4a/]	.
+.	.	.	.	.	.	4g/	.
+2G\	.	.	.	.	.	1g	.
+1A	a-	.	.	1D	.	.	.
+.	.	.	.	.	.	2f#i/	.
+=14	=14	=14	=14	=14	=14	=14	=14
+0G	-my	0d]	.	2r	.	0g	-my,
+.	.	.	.	2G/	Dont	.	.
+.	.	.	.	2G/	je	.	.
+.	.	.	.	2G/	me	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+0r	.	0r	.	2.d\	trou-	2r	.
+.	.	.	.	.	.	2d/	Dont
+.	.	.	.	4e\	.	.	.
+.	.	.	.	4f\	.	2d/	je
+.	.	.	.	4d\	.	.	.
+.	.	.	.	[2f\	.	2d/	me
+=16	=16	=16	=16	=16	=16	=16	=16
+0r	.	0r	.	2f\]	.	2.a/	trou-
+.	.	.	.	2d\	.	.	.
+.	.	.	.	.	.	4b\	.
+.	.	.	.	1e	-vel	1cc	-vel
+=17	=17	=17	=17	=17	=17	=17	=17
+0r	.	1G	Dont	2.d\	cour-	1.dd	cour-
+.	.	.	.	4c\	.	.	.
+.	.	2G/	je	2B-\	.	.	.
+.	.	2G/	me	2A/	-rous-	2cc\	-rous-
+=18	=18	=18	=18	=18	=18	=18	=18
+0r	.	2.d\	trou-	2.G/	-se-	2b\	-se-
+.	.	.	.	.	.	2g/	.
+.	.	4e\	.	4F/	.	.	.
+.	.	1f	-vel	2D/	-e,	1a	.
+.	.	.	.	2d\	cour-	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+1C	Dont	1.g	cour-	2e\	.	1g	-e,
+.	.	.	.	2c\	-rous-	.	.
+2C/	je	.	.	[1g	-se-	1r	.
+2C/	me	2f\	-rous-	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+2.G\	trou-	1e	-se-	1g]	.	2.b\	Le
+4A\	.	.	.	.	.	4cc\	.
+1B-	-ve	1d	.	1G	-e,	2dd\	cuer
+.	.	.	.	.	.	2dd\	do-
+=21	=21	=21	=21	=21	=21	=21	=21
+1.c	cour-	1c	-e,	2r	.	1.ee	-lent,
+.	.	.	.	4c\	Le	.	.
+.	.	.	.	4d\	.	.	.
+.	.	1r	.	4e\	.	.	.
+.	.	.	.	4f\	.	.	.
+2B-\	-rous-	.	.	[2g\	.	2dd\	triste
+=22	=22	=22	=22	=22	=22	=22	=22
+1A	-se-	2.e\	Le	2g\]	.	2cc\	et
+.	.	.	.	2c\	cuer	2a/	.
+.	.	4f\	.	.	.	.	.
+1G	.	2g\	cuer	2d\	do-	1b	mar-
+.	.	2g\	do-	2e\	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+1F	-e,	1.a	-lent,	2f\	-lent,	2.a/	-ry,
+.	.	.	.	1F	triste	.	.
+.	.	.	.	.	.	4b\	.
+1r	.	.	.	.	.	1cc	.
+.	.	2g\	triste	2E/	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+2.A\	Le	2f\	et	1D	.	2r	.
+.	.	2d\	.	.	.	2f/	triste
+4B-\	.	.	.	.	.	.	.
+2c\	cuer	1e	mar-	1C	.	2.g/	.
+2c\	do-	.	.	.	.	.	.
+.	.	.	.	.	.	4a/	.
+=25	=25	=25	=25	=25	=25	=25	=25
+1.d	-lent,	[0d	-ry.	2.BB-/	et	2.b-\	.
+.	.	.	.	4C/	.	4a/	.
+.	.	.	.	4D/	.	4f/	.
+.	.	.	.	4E/	.	4g/	.
+2c\	triste	.	.	2F/	.	[2a/	et
+=26	=26	=26	=26	=26	=26	=26	=26
+2B-\	et	0d]	.	1G	.	4a/]	.
+.	.	.	.	.	.	4g/	.
+2G\	.	.	.	.	.	1g	.
+1A	mar-	.	.	1D	mar-	.	.
+.	.	.	.	.	.	2f#i/	mar-
+=27	=27	=27	=27	=27	=27	=27	=27
+0G	-ry.	1r	.	0d	-ry.	2g/	-ry.
+.	.	.	.	.	.	2.dd\	Mais
+.	.	1B-	Mais	.	.	.	.
+.	.	.	.	.	.	4cc\	.
+.	.	.	.	.	.	2b-i\	.
+=28	=28	=28	=28	=28	=28	=28	=28
+0r	.	2.c\	je	0r	.	4a/	je
+.	.	.	.	.	.	4g/	.
+.	.	.	.	.	.	1g	.
+.	.	4B-\	.	.	.	.	.
+.	.	1A	ne	.	.	.	.
+.	.	.	.	.	.	2f#i/	ne
+=29	=29	=29	=29	=29	=29	=29	=29
+1r	.	0G	scay	1.g	Mais	0g	scay
+1E	Mais	.	.	.	.	.	.
+.	.	.	.	4f\	.	.	.
+.	.	.	.	4e\	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+2.F\	je	1A	Se	2d\	je	0r	.
+.	.	.	.	2c\	.	.	.
+4E\	.	.	.	.	.	.	.
+1D	ne	1B-	ce-	1f	ne	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+0C	scay	1.c	-la	0e	scay	2g/	Se
+.	.	.	.	.	.	2g/	ce-
+.	.	.	.	.	.	2a/	-la
+.	.	2B-\	me	.	.	[2g/	me
+=32	=32	=32	=32	=32	=32	=32	=32
+1D	Se	1A	se-	0r	.	2g/]	.
+.	.	.	.	.	.	2f/	se-
+1E	ce-	1G	-ra	.	.	1b-	-ra
+=33	=33	=33	=33	=33	=33	=33	=33
+1.F	-la	1F	bon	2c\	Se	1a	bon
+.	.	.	.	2c\	ce	.	.
+.	.	1r	.	2d\	la	2r	.
+2E\	-me	.	.	[2c\	me	2g/	En
+=34	=34	=34	=34	=34	=34	=34	=34
+1D	se-	2.A/	en-	2c\]	.	2f/	ce-
+.	.	.	.	1B-	se-	2d/	.
+.	.	4B-\	.	.	.	.	.
+1C	-ra	1c	ce-	.	.	1e	jo-
+.	.	.	.	2A/	-ra	.	.
+=35	=35	=35	=35	=35	=35	=35	=35
+0BB-	bon	1.d	jo-	1.B-	bon	2.d/	-ly
+.	.	.	.	.	.	4e/	.
+.	.	.	.	.	.	2f/	.
+.	.	2e\	-ly	4A/	.	2g/	.
+.	.	.	.	4G/	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+0r	.	2f\	moy	2F/	.	2a/	moys
+.	.	2d\	.	2B-\	.	1dd	de
+.	.	1e	de	1A	.	.	.
+.	.	.	.	.	.	2cc\	.
+=37	=37	=37	=37	=37	=37	=37	=37
+0r	.	1.d	may	2D/	.	2.dd\	may,
+.	.	.	.	2.d\	en-	.	.
+.	.	.	.	.	.	4cc\	.
+.	.	.	.	.	.	2a/	.
+.	.	.	.	4e\	.	.	.
+.	.	4c\	.	[2f\	ce	2d/	en
+.	.	4B-\	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+2.D\	En	0A	.	2f\]	.	2.f/	ce
+.	.	.	.	4e\	.	.	.
+4E\	.	.	.	4d\	.	4g/	.
+1F	ce	.	.	1c	.	4a/	.
+.	.	.	.	.	.	4b\	.
+.	.	.	.	.	.	4cc\	.
+.	.	.	.	.	.	4a/	.
+=39	=39	=39	=39	=39	=39	=39	=39
+1.G	jo-	0r	.	2.B-\	jo-	2b-\	.
+.	.	.	.	.	.	2g/	jo-
+.	.	.	.	4A/	-ly	.	.
+.	.	.	.	2G/	moys	2b-i\	.
+2A\	-ly	.	.	2F/	de	[2a/	-ly
+=40	=40	=40	=40	=40	=40	=40	=40
+2B-\	moy	0r	.	1E	may.	2a/]	.
+2G\	.	.	.	.	.	1g	moys
+1A	de	.	.	1D	.	.	.
+.	.	.	.	.	.	2f#i/	de
+=41	=41	=41	=41	=41	=41	=41	=41
+1.G	may,	0r	.	2r	.	2g/	may,
+.	.	.	.	2.d\	Le	1b-i	Le
+.	.	.	.	4c\	.	.	.
+4F\	.	.	.	4d\	.	4a/	.
+4E\	.	.	.	4e\	.	4g/	.
+=42	=42	=42	=42	=42	=42	=42	=42
+0D	.	1.d	Le	2f\	.	2a/	.
+.	.	.	.	2d\	.	2f/	.
+.	.	.	.	2f\	.	2b-i\	.
+.	.	2c\	sa-	[2e\	sa-	[2a/	sa-
+=43	=43	=43	=43	=43	=43	=43	=43
+0r	.	2B-\	-rai	4e\]	.	4a/]	.
+.	.	.	.	4d\	.	4g/	.
+.	.	4A/	.	1d	-rai	1g	-rai
+.	.	4G/	.	.	.	.	.
+.	.	1A	je ou	.	.	.	.
+.	.	.	.	2c\	je ou	2f#i/	je ou
+=44	=44	=44	=44	=44	=44	=44	=44
+1.G	Le	0G	non,	2d\	non,	0g	non,
+.	.	.	.	2B-\	le	.	.
+.	.	.	.	2e-i\	.	.	.
+2F\	sa-	.	.	[2d\	sa-	.	.
+=45	=45	=45	=45	=45	=45	=45	=45
+2E\	-rai	0r	.	2d\]	.	0r	.
+4D\	.	.	.	1c	-rai	.	.
+4C/	.	.	.	.	.	.	.
+1D	je ou	.	.	.	.	.	.
+.	.	.	.	2Bni\	je ou	.	.
+=46	=46	=46	=46	=46	=46	=46	=46
+0C	non,	1.e	le	1c	non,	2.g/	Le
+.	.	.	.	.	.	4a/	.
+.	.	.	.	1G	.	2cc\	.
+!	!	!	!	!	!	!This is an explicit hard B	!
+.	.	2d\	sa-	.	.	[2bnX\	sa-
+=47	=47	=47	=47	=47	=47	=47	=47
+0r	.	2c\	-rai	0r	.	4b\]	.
+.	.	.	.	.	.	4a/	.
+.	.	4Bni\	.	.	.	1a	-rai
+.	.	4A/	.	.	.	.	.
+.	.	1Bni	je ou	.	.	.	.
+.	.	.	.	.	.	2g#i/	je ou
+=48	=48	=48	=48	=48	=48	=48	=48
+1.A	le	1A	non,	2.c\	le	0a	non,
+.	.	.	.	4d\	.	.	.
+.	.	1r	.	2f\	.	.	.
+2G\	sa-	.	.	[2e\	sa-	.	.
+=49	=49	=49	=49	=49	=49	=49	=49
+2F\	-rai	0r	.	2e\]	.	1r	.
+4E\	.	.	.	1d	-rai	.	.
+4D\	.	.	.	.	.	.	.
+1E	je ou	.	.	.	.	1g	le
+.	.	.	.	2c#i\	je ou	.	.
+=50	=50	=50	=50	=50	=50	=50	=50
+[0D	non?	1.d	le	2d\	non,	2.f/	.
+.	.	.	.	2A/	le	.	.
+.	.	.	.	.	.	4g/	.
+.	.	.	.	2.f\	sa-	2b-\	.
+.	.	2c\	se-	.	.	[2a/	sa-
+.	.	.	.	4e\	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51
+0D_	.	2B-\	-rai	4d\	.	2a/]	.
+.	.	.	.	4c\	.	.	.
+.	.	4A/	je ou	2.d\	-rai	1g	-rai
+.	.	4G/	.	.	.	.	.
+.	.	2A/	non,	.	.	.	.
+.	.	.	.	4c\	.	.	.
+.	.	2D/	.	2d\	je ou	4f/	.
+.	.	.	.	.	.	4e/	.
+=52	=52	=52	=52	=52	=52	=52	=52
+0D_	.	1.d	le	2B-\	non,	2.f/	je ou
+.	.	.	.	2A/	le	.	.
+.	.	.	.	.	.	4g/	.
+.	.	.	.	2.f\	sa-	2b-i\	.
+.	.	2c\	sa-	.	.	[2a/	.
+.	.	.	.	4e\	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53
+0D]	.	2B-\	-rai	4d\	.	2a/]	.
+.	.	.	.	4c\	.	.	.
+.	.	4A/	.	2.d\	-rai	1g	.
+.	.	4G/	.	.	.	.	.
+.	.	1A	je ou	.	.	.	.
+.	.	.	.	4c\	.	.	.
+.	.	.	.	2d\	.	2f#i/	.
+=54	=54	=54	=54	=54	=54	=54	=54
+[0Gl	.	[0Gl	non?	1B-	je ou	[0gl	non?
+.	.	.	.	1e-i	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55
+0G]	.	0G]	.	0dl	non?	0g]	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: V=start of tuplet marker
+!!!RDF**kern: Z=end of tuplet marker
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Jesse Rodin; Victoria Chang 2011/09/04
+!!!END: 2011/09/04/
+!!!SMS: AugsS 142a: anon.
+!!!SMS: BasU F.X. 1-4: Josquin
+!!!SMS: BrusBR 228: anon.
+!!!SMS: CorBC 95-96/PArisBNN 1817: anon.
+!!!SMS: FlorBN Magl. 164-7: anon.
+!!!SMS: FlorC 2439: Josquin
+!!!SMS: IserV F124: anon.
+!!!SMS: MunU 328-31: anon.
+!!!SMS: VienNB Mus. 18810: Josquin de pres
+!!!SMS: WittenL 1048: anon.
+!!!SMS: Egenolff 1535: anon.
+!!!SMS: Egenolff [c. 1535]: anon.
+!!!SMS: Egenolff 1536: Josquin
+!!!EED: Jesse Rodin
+!!!EEV: 2011/10/07/
+!!attribution-level@Jos: 1 (secure, core group [checkmark])
+!!!ONB: Translated from MusicXML and edited on 2011/10/07/ by Craig Sapp
+!!muse2ps:  C^@{COM}^i2I150v90,90,90,120c115z18l2700t130

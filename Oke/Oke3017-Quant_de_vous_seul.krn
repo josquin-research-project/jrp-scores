@@ -1,0 +1,225 @@
+!!!!SEGMENT: Oke/Oke3017-Quant_de_vous_seul.krn
+!!!COM: Okeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OTL: Quant de vous seul
+!!!AGN: Song; Chanson
+!!!SCA: Oke3017
+!!!jrpid: Oke3017
+!!!voices: 3
+**kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
+*staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
+*Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*
+*I"Contratenor	*	*	*	*I"Tenor	*	*	*	*I"Discantus	*	*	*
+*I'Ct	*	*	*	*I'T	*	*	*	*I'D	*	*	*
+*clefF4	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*
+*k[]	*	*	*	*k[]	*	*	*	*k[]	*	*	*
+*M2/1	*	*	*	*M2/1	*	*	*	*M2/1	*	*	*
+*met(C)	*	*	*	*met(C)	*	*	*	*met(C)	*	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!!LO:TX:Z=8:t=Sig. congr. are editorial
+!!LO:TX:Z=36:t=Form&colon; rondeau
+1A	Quant	Pour	Dont	1D	Quant	Pour	Dont	1d	Quant	Pour	Dont
+2D	de	es-	je	2F	de	es-	je	1d	de	es-	je
+2BB	.	.	.	2G	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1AA	vous	-tre	voi	2.A	vous	-tre	voi	2c	vous	-tre	voi
+.	.	.	.	.	.	.	.	1f	seul	vos-	bien
+.	.	.	.	4G	.	.	.	.	.	.	.
+2.D	seul	vos-	bien	2A	.	.	.	.	.	.	.
+.	.	.	.	2B-i	.	vos-	.	2g	.	.	.
+4E	.	.	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+2F	.	.	.	2A	seul	-tre	bien	1a	.	-tre	.
+2.D	.	.	.	2F	.	.	.	.	.	.	.
+.	.	.	.	2G	.	.	.	2r	.	.	.
+4BB	.	.	.	.	.	.	.	.	.	.	.
+2C	.	-tre	.	2E	.	.	.	2g	je	de-	que
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+2r	.	.	.	2D	.	.	.	2f	pers	-ve-	je
+1D	je	de-	que	2D	je	de-	que	2.a	.	-nu-	.
+.	.	.	.	2F	pers	.	je	.	.	.	.
+.	.	.	.	.	.	.	.	4g	.	.	.
+[2C	pers	-ve-	je	2G	.	-ve-	.	[2e	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+2C]	.	.	.	1A	.	-nu-	suis	2e]	.	.	.
+1F	.	-nu-	.	.	.	.	.	2c	la	.	suis
+.	.	.	.	2F	.	.	nu-	2d	veu-	.	nu-
+2E	la	.	suis	2G	la	.	.	2B	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+2F	veu-	.	nu-	2A	veu-	.	.	2A	.	.	.
+1A	.	.	.	2D	.	.	.	1d	.	.	.
+.	.	.	.	1E	.	.	.	.	.	.	.
+2G	-e	-e	-e	.	.	.	.	2c#i	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+2r	.	.	.	0D	-e	-e	-e	1d	-e	-e	-e
+2A	De	Plus	De	.	.	.	.	.	.	.	.
+2B-i	qui	qu'a	tous	.	.	.	.	2r	.	.	.
+2A	.	.	.	.	.	.	.	2f	De	Plus	De
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+1F	.	.	.	2r	.	.	.	2.f	qui	qu'a	tous
+.	.	.	.	2F	De	Plus	De	.	.	.	.
+.	.	.	.	.	.	.	.	4e	.	.	.
+2r	.	.	.	2.F	qui	qu'a	tous	2d	tant	nul	biens
+2A	tant	nul	biens	.	.	.	.	2c	.	.	.
+.	.	.	.	4E	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2B	chie-	qui	com-	2D	tant	nul	biens	2f	chie-	qui	com-
+1c	.	.	.	2C	.	.	.	2g	.	.	.
+.	.	.	.	2F	.	.	.	2a	.	.	-me
+[2c	-re	soit	-me	2F	chie-	qui	com-	2a	-re	soit	bes-
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2c]	.	.	.	2A	.	.	.	2.cc	suis	soubz	-te
+1.e	.	.	.	2A	-re	soit	-me	.	.	.	.
+.	.	.	.	.	.	.	.	4b	.	.	.
+.	.	.	.	2.c	suis	soubz	bes-	1g	.	.	.
+.	.	.	.	4B	.	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+1d	suis	soubz	bes-	1G	.	.	.	1r	.	.	.
+1A	.	.	.	1c	.	.	.	2.a	te-	la	mu-
+.	.	.	.	.	.	.	.	8gL	.	.	.
+.	.	.	.	.	.	.	.	8fJ	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+2A	te-	la	-te	2c	te-	la	-te	2e	.	.	.
+1D	.	.	.	1d	.	.	.	2.f	-nu-	nu-	.
+.	.	.	.	.	.	.	.	4d	.	.	.
+[2D	-nu-	nu-	mu-	[2d	-nu-	nu-	mu-	2a	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+2D]	.	.	.	2d]	.	.	.	2b	.	.	.
+1AA	.	.	.	1e	.	.	.	1cc	.	.	.
+[2D	.	.	.	2d	.	.	.	[2dd	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+1D]	.	.	.	1f	.	.	.	4dd]	.	.	.
+.	.	.	.	.	.	.	.	4cc	.	.	.
+.	.	.	.	.	.	.	.	2a	.	.	.
+2E	.	.	.	2e	.	.	.	2cc	.	.	.
+[2G	.	.	.	2d	.	.	.	[2b	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+2G]	.	.	.	1c	.	.	.	2b]	.	.	.
+2A	.	.	.	.	.	.	.	1a	.	.	.
+1d	-e,	-e,	-e,	1B	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2g#i	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2r	.	.	.	0A	-e,	-e,	-e,	1a	-e,	-e,	-e,
+2D	Mon	Tou-	A	.	.	.	.	.	.	.	.
+2F	mal	-te	qui	.	.	.	.	2r	.	.	.
+2F	lors	ma	de	.	.	.	.	2a	Mon	Tou-	A
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+2C	si	joi-	plus	2r	.	.	.	2cc	mal	-te	qui
+2C	tres-	-e	riens	2A	Mon	Tou-	A	2cc	lors	ma	de
+1C	-fort	me	il	[1c	mal	-te	qui	2g	si	joi-	plus
+.	.	.	.	.	.	.	.	2g	tres-	-e	riens
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+1F	m'as-	de-	ne	2c]	.	.	.	2a	-fort	me	il
+.	.	.	.	2c	lors	ma	de	2a	m'as-	de-	ne
+1E-	-sault	-fault&	chault;	2G	si	joi-	plus	2.b-i	-sault	-fault&	chault;
+.	.	.	.	2G	tres-	-e	riens	.	.	.	.
+.	.	.	.	.	.	.	.	4a	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+1D	.	.	.	2A	-fort	me	il	0fN	.	.	.
+.	.	.	.	2A	m'as-	de-	ne	.	.	.	.
+1dN	.	.	.	2.B-iN	-sault	-fault&	chault;	.	.	.	.
+.	.	.	.	4A	.	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+1c	.	.	.	1F	.	.	.	1r	.	.	.
+2F	Qu'a	.	Car	2r	.	.	.	1f	Qu'a	.	Car
+2D	.	.	.	2A	Qu'a	.	Car	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+1C	.	.	.	1c	.	.	.	2e	peu	.	je
+.	.	.	.	.	.	.	.	1.c	.	.	.
+2.F	peu	.	je	2A	peu	.	je	.	.	.	.
+.	.	.	.	[2F	.	.	.	.	.	.	.
+4G	.	.	.	.	.	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+1A	.	.	.	2F]	.	.	.	1d	que	.	s&ccedil;ais
+.	.	.	.	2F	que	.	s&ccedil;ais	.	.	.	.
+2d	que	.	s&ccedil;ais	2G	.	.	.	2B	.	.	.
+[2c	.	.	.	[2A	.	.	.	2A	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+4c]	.	.	.	2A]	.	.	.	2r	.	.	.
+4A	.	.	.	.	.	.	.	.	.	.	.
+2B	.	.	.	2.G	le	.	bien	4e	le	.	bien
+.	.	.	.	.	.	.	.	4f	.	.	.
+1c	le	.	.	.	.	.	.	1g	.	.	.
+.	.	.	.	4F	.	.	.	.	.	.	.
+.	.	.	.	2E	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+1d	cueur	.	.	2D	.	.	.	2f	cueur	.	qu'es-
+.	.	.	.	2r	.	.	.	[1.d	.	.	.
+2G	.	.	bien	4B	cueur	.	qu'es-	.	.	.	.
+.	.	.	.	4c	.	.	.	.	.	.	.
+2B-i	.	.	.	2d	.	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+1A	.	.	.	1e	.	.	-tre	2d]	.	.	.
+.	.	.	.	.	.	.	.	2c	.	.	.
+1D	.	.	.	1d	.	.	.	2f	.	.	.
+.	.	.	.	.	.	.	.	[2a	ne	.	-tre
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+2r	.	.	.	2c	ne	.	.	2a]	.	.	.
+1d	ne	.	qu'es-	2B	.	.	.	1g	.	.	.
+.	.	.	.	1A	.	.	.	.	.	.	.
+2c	.	.	.	.	.	.	.	2f	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+1d	.	.	-tre	1.G	me	.	me	2g	.	.	.
+.	.	.	.	.	.	.	.	1b-i	me	.	me
+2e	.	.	.	.	.	.	.	.	.	.	.
+2f	.	.	.	[2d	.	.	.	[2a	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+1d	.	.	.	2d]	.	.	.	2a]	.	.	.
+.	.	.	.	2B	.	.	.	2g	.	.	.
+1c	.	.	.	[1A	.	.	.	2f	.	.	.
+.	.	.	.	.	.	.	.	[2e	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+2r	.	.	.	1A]	.	.	.	2e]	.	.	.
+2c	me	.	me	.	.	.	.	1a	.	.	.
+1d	.	.	.	1B	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2g#i	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+2e	fault,	.	fault	1A	fault,	.	fault	1a	fault,	.	fault
+2c	.	.	.	.	.	.	.	.	.	.	.
+1d	.	.	.	2G	Tant	.	Seul-	2r	.	.	.
+.	.	.	.	2F	.	.	.	2a	Tant	.	Seul-
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+1e	Tant	.	Seul-	2E	suis	.	-le	1g	.	.	.
+.	.	.	.	4F	.	.	.	.	.	.	.
+.	.	.	.	4G	.	.	.	.	.	.	.
+1c	suis	.	-le	2.A	.	.	.	2f	suis	.	-le
+.	.	.	.	.	.	.	.	[2e	.	.	.
+.	.	.	.	4G	.	.	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+1A	de	.	de	2A	.	.	.	2e]	.	.	.
+.	.	.	.	2D	de	.	de	2d	de	.	de
+1G	dou-	.	tous	2E	dou-	.	tous	4c	dou-	.	tous
+.	.	.	.	.	.	.	.	4d	.	.	.
+.	.	.	.	2C	.	.	.	2e	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+2F	-leur	.	biens	2D	-leur	.	biens	1A	-leur	.	.
+2E	.	.	.	2AA	.	.	.	.	.	.	.
+2F	.	.	.	2D	.	.	.	1a	.	.	biens
+2D	.	.	.	2F	.	.	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+2r	.	.	.	2E	es-	.	des-	1g	es-	.	des-
+2BB	es-	.	des-	4F	-per-	.	-pour-	.	.	.	.
+.	.	.	.	4G	.	.	.	.	.	.	.
+1AA	.	.	.	2.A	-du-	.	-veu-	2f	-per-	.	-pour-
+.	.	.	.	.	.	.	.	[2e	-du-	.	-veu-
+.	.	.	.	4G	.	.	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+2A	-per-	.	-pour-	2F	.	.	.	2e]	.	.	.
+1A	-du-	.	-veu-	2D	.	.	.	1d	.	.	.
+.	.	.	.	1E	.	.	.	.	.	.	.
+2G	.	.	.	.	.	.	.	2c#i	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+0Al	-e.	.	-e,	0Dl	-e.	.	-e,	0dl	-e.	.	-e,
+==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l = long note in original notation
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: V = start of tuplet marker
+!!!RDF**kern: Z = end of tuplet marker
+!!!RDF**kern: N = signum congruentiae
+!!!ENC: Jesse Rodin 17 April 2018
+!!!END: 2018/07/16/
+!!!EED: Jesse Rodin
+!!!EEV: 2018/07/23/
+!!!ONB: Translated from MusicXML and edited on 2018/07/23/ by Craig Sapp
+!!muse2ps: C^@{COM}\nEd. @{EED}^i2I150v85,95,120Q16z18l2650t120

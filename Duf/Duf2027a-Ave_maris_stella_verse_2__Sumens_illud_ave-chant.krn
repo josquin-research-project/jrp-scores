@@ -1,0 +1,73 @@
+!!!!SEGMENT: Duf/Duf2027a-Ave_maris_stella_verse_2__Sumens_illud_ave-chant.krn
+!!!COM: Du Fay, Guillaume
+!!!CDT: ~1397/08/05/-1474/11/27
+!!!OPR: Ave maris stella, verse 2: Sumens illud ave
+!!!OTL: chant
+!!!AGN: Motet; Hymn; Chant
+!!!SCT: Duf2027a
+!!!SCA: Duf2027a
+!!!jrpid: Duf2027a
+!!!ONB: This chant precedes--and serves as the cantus firmus for--the hymns Duf2027 (Du Fay) and Jos2309 (Josquin).
+!!!voices: 1
+**kern	**text
+*staff3	*staff3
+*Ivox	*
+*I"Tenor	*
+*I'T	*
+*clefGv2	*
+*k[]	*
+*MM1200	*
+0D	A-
+0A	-ve
+00B	.
+0G	ma-
+0A	-ris
+0B	.
+0c	stel-
+0d	.
+0c	-la,
+0B	.
+0A	.
+00G	.
+!! phrase boundary
+0A	de-
+0A	-i
+0D	ma-
+0E	-ter
+0G	.
+00F	al-
+0E	.
+0D	-ma,
+0r	.
+!! phrase boundary
+=-	=-
+0F	At-
+0E	-que
+0G	sem-
+0A	-per
+00A	vir-
+0D	-go,
+0E	.
+0F	.
+0E	.
+00D	.
+0C	.
+0r	.
+!! phrase boundary
+0E	fe-
+0G	-lix
+0E	ce-
+0F	-li
+0E	por-
+00Dl	-ta.
+=||	=||
+*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Jesse Rodin
+!!!END: 2016/03/16/
+!!!EED: Jesse Rodin
+!!!EEV: 2016/04/02/
+!!!ONB: Translated from MusicXML and edited on 2016/04/02/ by Craig Sapp
+!!muse2ps: C^^i2I150v150Q16z21t260l2400
+!!muse2ps: T^@{OPR}^u^@{OTL}^

@@ -1,0 +1,243 @@
+!!!!SEGMENT: Jos/Jos2831-Se_congie_prens.krn
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Se congie prens 
+!!!OTL2: Recordans de my segnora
+!!!AGN: Chanson
+!!!SCT: NJE 28.31
+!!!SCA: New Josquin Edition 28.31
+!!!jrpid: Jos2831
+!!!voices: 4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
+*I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
+*I'B	*	*I'T	*	*I'A	*	*I'S	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[b-]	*	*k[]	*	*k[b-]	*
+*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+*met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!	!	!	!	!	!	!LO:TX:X=-34:Z=10:t=4-ex-2 canon (B/T and A/S, both at the upper 4th)	!
+1r	.	0r	.	0r	.	0r	.
+1D	Se	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+2C/	con-	1G	Se	1r	.	0r	.
+2C/	-gie	.	.	.	.	.	.
+1D	prens	2F/	con-	1d	Se	.	.
+.	.	2F/	-gie	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+1E	.	1G	prens	2c\	con-	1g	Se
+.	.	.	.	2c\	-gie	.	.
+1D	.	1A	.	1d	prens	2f/	con-
+.	.	.	.	.	.	2f/	-gie
+=4	=4	=4	=4	=4	=4	=4	=4
+2r	.	1G	.	2r	.	1g	prens
+2G\	de	.	.	2e\	de	.	.
+2F\	mes	2r	.	4f\	mes	2r	.
+.	.	.	.	4e\	.	.	.
+2A\	bel-	2c\	de	4d\	bel-	2a/	de
+.	.	.	.	4c\	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+4G\	-les	2B-\	mes	2d\	-les	4b-\	mes
+4F\	.	.	.	.	.	4a/	.
+4E\	.	2d\	bel-	2d\	a-	4g/	bel-
+4D\	.	.	.	.	.	4f/	.
+1E	a-	4c\	-les	1c	-mours,	2g/	-les
+.	.	4B-\	.	.	.	.	.
+.	.	4A/	.	.	.	2g/	a-
+.	.	4G/	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+1F	-mours,	1A	a-	1r	.	1f	-mours,
+2r	.	1B-	-mours,	1f	Vrays	1r	.
+2D\	Vrays	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+2G\	a-	2r	.	2e\	a-	1b-	Vrays
+2G\	-mou-	2G/	Vrays	2d\	-mou-	.	.
+2C/	-reulx	2c\	a-	1e	-reulx	2a/	a-
+2C/	ne	2c\	-mou-	.	.	2g/	-mou-
+=8	=8	=8	=8	=8	=8	=8	=8
+2F\	m'en	2F/	-reulx	2c\	ne	1a	-reulx
+2F\	vueil-	2F/	ne	1f	m'en	.	.
+2D\	-lez	2B-\	m'en	.	.	2f/	ne
+[2G\	blas-	2B-\	vueil-	[2e\	vueil-	[2b-\	m'en
+=9	=9	=9	=9	=9	=9	=9	=9
+4G\]	.	2G/	-lez	4e\]	.	2b-\]	.
+4F\	.	.	.	4d\	.	.	.
+4E\	.	2.c\	blas-	1d	-lez	2.a/	vueil-
+4D\	.	.	.	.	.	.	.
+1E	.	.	.	.	.	.	.
+.	.	4B-\	.	.	.	4g/	.
+.	.	4A/	.	2c#i\	blas-	[2g/	-lez
+.	.	4G/	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+1D	-mer.	1A	.	1d	-mer.	2g/]	.
+.	.	.	.	.	.	2f#i/	blas-
+1r	.	1G	-mer.	1r	.	1g	-mer.
+=11	=11	=11	=11	=11	=11	=11	=11
+1D	J'en	1r	.	0r	.	0r	.
+2C/	ay	1G	J'en	.	.	.	.
+2C/	souf-	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+1D	-fert	2F/	ay	1d	J'en	1r	.
+.	.	2F/	souf-	.	.	.	.
+1E	.	1G	-fert	2c\	ay	1g	J'en
+.	.	.	.	2c\	souf-	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+1D	.	1A	.	1d	-fert	2f/	ay
+.	.	.	.	.	.	2f/	souf-
+2r	.	1G	.	2r	.	1g	-fert
+2G\	de	.	.	2e\	de	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+2F\	plus	2r	.	4f\	plus	2r	.
+.	.	.	.	4e\	.	.	.
+2A\	grief-	2c\	de	4d\	grief-	2a/	de
+.	.	.	.	4c\	.	.	.
+4G\	-ves	2B-\	plus	2d\	-ves	4b-\	plus
+4F\	.	.	.	.	.	4a/	.
+4E\	.	2d\	grief-	2d\	dou-	4g/	grief-
+4D\	.	.	.	.	.	4f/	.
+=15	=15	=15	=15	=15	=15	=15	=15
+1E	dou-	4c\	-ves	1c	-leurs	2g/	-ves
+.	.	4B-\	.	.	.	.	.
+.	.	4A/	.	.	.	2g/	dou-
+.	.	4G/	.	.	.	.	.
+1F	-leurs	1A	dou-	1r	.	1f	-leurs
+=16	=16	=16	=16	=16	=16	=16	=16
+2r	.	1B-	-leurs	1f	Que	1r	.
+2D\	Que	.	.	.	.	.	.
+2G\	ne	2r	.	2e\	ne	1b-	Que
+2G\	font	2G/	Que	2d\	font	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+2C/	ceulx	2c\	ne	1e	ceulx	2a/	ne
+2C/	qui	2c\	font	.	.	2g/	font
+1F	nai-	2F/	ceulx	2c\	qui	1a	ceulx
+.	.	2F/	qui	[2f\	nai-	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+2D\	-gent	2B-\	nai-	2f\]	.	2f/	qui
+2.G\	en	2B-\	-gent	2.e\	-gent	1b-	nai-
+.	.	2G/	en	.	.	.	.
+4F\	.	.	.	4d\	.	.	.
+4E\	.	[2c\	la	[2d\	en	[2a/	-gent
+4D\	.	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+1E	la	4c\]	.	2d\]	.	4a/]	.
+.	.	4B-\	.	.	.	4g/	.
+.	.	4A/	.	2c#i\	la	1g	en
+.	.	4G/	.	.	.	.	.
+1D	mer	1A	.	1d	mer	.	.
+.	.	.	.	.	.	2f#i/	la
+=20	=20	=20	=20	=20	=20	=20	=20
+2r	.	1G	mer	1r	.	1g	mer
+2G\	Car	.	.	.	.	.	.
+2A\	tant	2r	.	1a	Car	1r	.
+2A\	l'ay-	2c\	Car	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+2F\	-mer	2d\	tant	2a\	tant	1dd	Car
+2D\	m'est	2d\	l'ay-	2a\	l'ay-	.	.
+2.G\	tous-	2B-\	-mer	1d	-mer	2dd\	tant
+.	.	2G/	m'est	.	.	2dd\	l'ay-
+4F\	.	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+4E\	.	2.c\	tous-	2r	.	1g	-mer
+4D\	.	.	.	.	.	.	.
+!! Bassus m. 22, note 3 changed from minim to semibreve
+!LO:TX:X=-20:Z=24:t=changed from	!	!	!	!	!	!	!
+!LO:TX:X=-20:Z=4:t=minim to semibreve	!	!	!	!	!	!	!
+1C	-jours	.	.	2g\	m'est	.	.
+.	.	4B-\	.	.	.	.	.
+.	.	4A/	.	2a\	tous-	2r	.
+.	.	4G/	.	.	.	.	.
+[2F\	tant	[2F/	-jours	2a\	-jours	2cc\	m'est
+=23	=23	=23	=23	=23	=23	=23	=23
+!! Bassus m. 23, first note (minim d) removed
+!LO:TX:Z=24:t=first note	!	!	!	!	!	!	!
+!LO:TX:Z=4:t=(minim d) removed	!	!	!	!	!	!	!
+2F\]	.	2F/]	.	2a\	tant	2dd\	tous-
+2E\	a-	1B-	tant	2g\	a-	2dd\	-jours
+1F	-mer	.	.	1f	-mer	2dd\	tant
+.	.	2A/	a-	.	.	2cc\	a-
+=24	=24	=24	=24	=24	=24	=24	=24
+1G	.	1B-	-mer	1r	.	1b-	-mer
+2F\	Qu'a-	1c	.	1f	Qu'a-	1r	.
+2A\	-voir	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+2G\	ne	2B-\	Qu'a-	2g\	-voir	1b-	Qu'a-
+2B-i\	puis	2d\	-voir	2g\	ne	.	.
+2A\	d'elle	2c\	ne	[1a	puis	2cc\	-voir
+2A\	ung	2e\	puis	.	.	2cc\	ne
+=26	=26	=26	=26	=26	=26	=26	=26
+1D	tout	2d\	d'elle	2a\]	.	1.dd	puis
+.	.	2d\	ung	2f\	d'elle	.	.
+1G	seul	1G	tout	2.g\	ung	.	.
+.	.	.	.	.	.	2b-\	d'elle
+.	.	.	.	4f\	tout	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+2.C/	re-	1c	seul	2e\	seul	2.cc\	ung
+.	.	.	.	2d\	re-	.	.
+4D\	.	.	.	.	.	4b-\	tout
+2F\	-gard,	2.F/	re-	1c	-gard,	2a/	seul
+2E\	Fors	.	.	.	.	2g/	re-
+.	.	4G/	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28
+1D	que	2B-\	-gard,	1d	Fors	1f	-gard,
+.	.	2A/	Fors	.	.	.	.
+1E	ri-	1G	que	2c\	que	1g	Fors
+.	.	.	.	2c\	ri-	.	.
+=29	=29	=29	=29	=29	=29	=29	=29
+1D	-gueur	1A	ri-	1d	-gueur	2f/	que
+.	.	.	.	.	.	2f/	ri-
+2r	.	1G	-gueur	2r	.	1g	-gueur
+2G\	pour	.	.	2e\	pour	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+2F\	mon	2r	.	4f\	mon	2r	.
+.	.	.	.	4e\	.	.	.
+2A\	cueur	2c\	pour	4d\	cueur	2a/	pour
+.	.	.	.	4c\	.	.	.
+4G\	en-	2B-\	mon	2d\	en-	4b-\	mon
+4F\	.	.	.	.	.	4a/	.
+4E\	.	2d\	cueur	2d\	-ta-	4g/	cueur
+4D\	.	.	.	.	.	4f/	.
+=31	=31	=31	=31	=31	=31	=31	=31
+1E	-ta-	4c\	en-	1c	-mer.	2g/	en-
+.	.	4B-\	.	.	.	.	.
+.	.	4A/	.	.	.	2g/	-ta-
+.	.	4G/	.	.	.	.	.
+1F	-mer.	1A	-ta-	1r	.	1f	-mer.
+=32	=32	=32	=32	=32	=32	=32	=32
+2r	.	1B-	-mer.	1f	Si	1r	.
+2D\	Si	.	.	.	.	.	.
+2G\	prens	2r	.	2e\	prens	1b-	Si
+2G\	con-	2G/	Si	2d\	con-	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+2C/	-gie	2c\	prens	1e	-gie	2a/	prens
+2C/	a-	2c\	con-	.	.	2g/	con-
+2F\	-vant	2F/	-gie	2c\	a-	1a	-gie
+2F\	qu'il	2F/	a-	[2f\	-vant	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+2D\	soit	2B-\	-vant	2f\]	.	2f/	a-
+2.G\	.	2B-\	qu'il	2.e\	qu'il	1b-	-vant
+.	.	2G/	soit	.	.	.	.
+4F\	.	.	.	4d\	.	.	.
+4E\	.	[2c\	.	[2d\	soit	[2a/	qu'il
+4D\	.	.	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35
+1E	plus	4c\]	.	2d\]	.	4a/]	.
+.	.	4B-\	.	.	.	4g/	.
+.	.	4A/	.	2c#i\	plus	1g	soit
+.	.	4G/	.	.	.	.	.
+1D	.	1A	plus	[1dl	tard.	.	.
+.	.	.	.	.	.	2f#i/	plus
+=36	=36	=36	=36	=36	=36	=36	=36
+0Gl	tard.	0Gl	tard.	0d]	.	0gl	tard.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Jesse Rodin; Victoria Chang 2011/10/21
+!!!END: 2011/10/21/
+!!!EED: Jesse Rodin
+!!!EEV: 2018/01/19/
+!!attribution-level@Jos: 3 (problematic [question mark])
+!!!ONB: Translated from MusicXML and edited on 2018/01/19/ by Craig Sapp
+!!muse2ps: u^Titled "@{OTL2}" in VatG XIII.27^C^@{COA}?^i2I150v90,90,90,150z18c200l2700

@@ -1,0 +1,60 @@
+!!!!SEGMENT: Jos/Jos9912-Celi_enarrant_gloriam_dei--Zacconi_1592_fragment.krn
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Celi enarrant gloriam dei (Zacconi 1592, fragment)
+!!!AGN: Fragment
+!!!SCT: NJE 99.12
+!!!SCA: New Josquin Edition 99.12
+!!!jrpid: Jos9912
+!!!voices: ?
+**kern
+*>[A,B]
+*>A
+*clefGv2
+*k[]
+*M3/1
+*met(O|3/2)
+=1-
+!LO:TX:Z=12:t=Two distinct excerpts, both said to come from a motet with this title.
+0G
+1G
+=2
+1c
+1d
+1B
+=3
+1c
+0B
+=4
+0A
+1G
+=5
+!!linebreak:original
+0.cl
+=6||
+1.G
+2F/
+1A
+=7
+[0.D
+=8
+0D]
+1E
+=9
+1F
+0G
+=10
+1F
+0E
+=11
+0D
+1r
+==
+*-
+!!!ENC: Jesse Rodin 23 October 2020
+!!!END: 2020/10/23
+!!!EED: Jesse Rodin
+!!!EEV: 2021/05/19
+!!attribution-level@Jos: 4a (the rest [double question mark])
+!!!ONB: Translated from MusicXML and edited on 2021/05/19 by Craig Sapp
+!!muse2ps: C^@{COA}??^i0I1v150c140z18t200

@@ -1,0 +1,929 @@
+!!!!SEGMENT: Ano/Ano7131.2-Jay_pris_amours_a_ma_devise--version_with_low_Ct.krn
+!!!COM: Anonymous
+!!!OTL: J'ay pris amours a ma devise (version with low Ct)
+!!!AGN: Chanson
+!!!SCT: Ano3131.2
+!!!SCA: Ano3131.2
+!!!SMS:
+!!!folio:
+!!!voices: 3
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Contra	*	*I"Tenor	*	*I"Superius	*
+*I'C	*	*I'T	*	*I'S	*
+*clefF4	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*a:	*	*a:	*	*a:	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+*>A	*>A	*>A	*>A	*>A	*>A
+!!LO:LB:g=z
+=1	=1	=1	=1	=1	=1
+!!LO:TX:Z=12:B:t=Form&colon; rondeau
+0AA	J'ay	0A	J'ay	0a	J'ay
+=2	=2	=2	=2	=2	=2
+1AA	pris	1A	pris	1cc	pris
+1AA	a-	1A	a-	1cc	a-
+=3	=3	=3	=3	=3	=3
+0E	-mours	0G	-mours	0b	-mours
+=4	=4	=4	=4	=4	=4
+1r	.	1.A	.	0e	.
+1A	a	.	.	.	.
+.	.	2G	.	.	.
+=5	=5	=5	=5	=5	=5
+0G	.	0E	.	1r	.
+.	.	.	.	1g	a
+=6	=6	=6	=6	=6	=6
+1F	ma	1r	.	1a	ma
+1E	de-	1G	a	1b	de-
+=7	=7	=7	=7	=7	=7
+1AA	-vi-	1A	ma	1cc	-vi-
+1E	-se,	1B	de-	2b	.
+.	.	.	.	2g	.
+=8	=8	=8	=8	=8	=8
+1r	.	1c	-vi-	1a	.
+1E	a	2B	.	1g	-se,
+.	.	2G	.	.	.
+=9	=9	=9	=9	=9	=9
+1F	ma	1A	.	1r	.
+2G	de-	1G	-se,	1b	a
+2B	.	.	.	.	.
+=10	=10	=10	=10	=10	=10
+1A	-vi-	1r	.	1cc	ma
+1G	.	1B	a	1dd	de-
+=11	=11	=11	=11	=11	=11
+1C	.	1c	ma	1ee	-vi-
+1G	-se,	1d	de-	2dd	.
+.	.	.	.	2b	.
+=12	=12	=12	=12	=12	=12
+2r	.	2e	-vi-	2cc	.
+1A	de-	1c	.	1a	.
+2D	.	2d	.	2b	.
+=13	=13	=13	=13	=13	=13
+2F	-vi-	2c	.	2a	.
+2A	.	2A	.	2f#Xi	.
+1E	.	1B	.	1g#Xi	.
+=14	=14	=14	=14	=14	=14
+1.AA	-se	0A	-se	0a	-se
+2BB	.	.	.	.	.
+=15	=15	=15	=15	=15	=15
+2C	.	1A	Pour	0r	.
+2D	.	.	.	.	.
+1E	.	1G	con-	.	.
+=16	=16	=16	=16	=16	=16
+1r	.	0F	-que-	0a	Pour
+1A	Pour	.	.	.	.
+=17	=17	=17	=17	=17	=17
+0G	con-	0E	-rir,	1cc	con-
+.	.	.	.	[1b	.
+=18	=18	=18	=18	=18	=18
+0E	.	1r	.	1b]	.
+.	.	1e	pour	1g	.
+=19	=19	=19	=19	=19	=19
+1D	.	1f	con-	1a	.
+[1E	.	1e	.	[1g	.
+=20	=20	=20	=20	=20	=20
+1E]	.	0c	.	1g]	.
+1A	-que-	.	.	[1cc	-que-
+=21	=21	=21	=21	=21	=21
+0G	-rir	0d	-que-	1cc]	.
+.	.	.	.	1b	.
+=22	=22	=22	=22	=22	=22
+1r	.	[0c	-rir	0cc	-rir
+[1A	joi-	.	.	.	.
+=23	=23	=23	=23	=23	=23
+2A]	.	1c]	.	0r	.
+2G	.	.	.	.	.
+2G	.	1B	.	.	.
+4F	.	.	.	.	.
+4G	.	.	.	.	.
+=24	=24	=24	=24	=24	=24
+2A	.	0A	joi-	0cc	joi-
+1F	.	.	.	.	.
+2E	.	.	.	.	.
+=25	=25	=25	=25	=25	=25
+1G	-eu-	1G	-eu-	1b	-eu-
+1E	.	[1c	.	1g	.
+=26	=26	=26	=26	=26	=26
+0F	.	1c]	.	0a	.
+.	.	1d	.	.	.
+=27	=27	=27	=27	=27	=27
+0E	.	0e	.	1g	.
+.	.	.	.	[1e	.
+=28	=28	=28	=28	=28	=28
+1C	.	0A	.	1e]	.
+1AA	.	.	.	[1a	.
+=29	=29	=29	=29	=29	=29
+1A	.	1c	.	1a]	.
+1E	.	1B	.	1g	.
+=30	=30	=30	=30	=30	=30
+1A	.	1c	.	1a	.
+1G	-se-	1d	-se-	1b	-se-
+=31	=31	=31	=31	=31	=31
+[0E	-t&eacute;,	1.e	-t&eacute;,	0g	-t&eacute;,
+.	.	4d	.	.	.
+.	.	4c	.	.	.
+=32	=32	=32	=32	=32	=32
+0E]	.	1B	.	0r	.
+.	.	1r	.	.	.
+=33	=33	=33	=33	=33	=33
+*>B	*>B	*>B	*>B	*>B	*>B
+1r	.	0E	Eu-	0g	Eu-
+1E	Eu-	.	.	.	.
+=34	=34	=34	=34	=34	=34
+1D	-reux	1F	-reux	1.a	-reux
+[1AA	.	1E	.	.	.
+.	.	.	.	2g	.
+=35	=35	=35	=35	=35	=35
+1AA]	.	1A	.	2f	.
+.	.	.	.	2e	.
+1C	.	1G	.	[1e	.
+=36	=36	=36	=36	=36	=36
+1.D	.	0F	.	1e]	.
+.	.	.	.	1d	.
+2BB	.	.	.	.	.
+=37	=37	=37	=37	=37	=37
+1C	.	[0E	.	0e	.
+1AA	.	.	.	.	.
+=38	=38	=38	=38	=38	=38
+[0E	.	0E]	.	1r	.
+.	.	.	.	1b	se-
+=39	=39	=39	=39	=39	=39
+0E]	.	1r	.	1b	-ray
+.	.	1G	se-	1b	en
+=40	=40	=40	=40	=40	=40
+1r	.	1A	-ray	1.cc	cest
+1G	se-	1B	en	.	.
+.	.	.	.	4b	.
+.	.	.	.	4a	.
+=41	=41	=41	=41	=41	=41
+1C	-ray	1.c	cest	1g	.
+1F	en	.	.	1a	.
+.	.	2B	.	.	.
+=42	=42	=42	=42	=42	=42
+1E	cest	1G	.	1b	.
+1G	.	1B	.	[1g	e-
+=43	=43	=43	=43	=43	=43
+0D	e-	0A	e-	1g]	.
+.	.	.	.	1f#Xi	.
+=44	=44	=44	=44	=44	=44
+0E	-ste	[0G	-ste	0g	-ste
+=45	=45	=45	=45	=45	=45
+0C	.	1G]	.	1r	.
+.	.	1r	.	1e	Se
+=46	=46	=46	=46	=46	=46
+1D	.	1r	.	1f	puis
+1C	.	1E	Se	1g	ve-
+=47	=47	=47	=47	=47	=47
+1r	.	1F	puis	1a	-nir
+1C	Se	1G	ve-	1e	.
+=48	=48	=48	=48	=48	=48
+1F	puis	1A	-nir	1r	.
+1G	ve-	1E	.	1g	a
+=49	=49	=49	=49	=49	=49
+1F	-nir	1r	.	1a	mon
+1E	a	1G	a	1g	em-
+=50	=50	=50	=50	=50	=50
+1AA	mon	1A	mon	1.cc	-pri-
+1E	em-	1G	em-	.	.
+.	.	.	.	2b	.
+=51	=51	=51	=51	=51	=51
+1F	-pri-	1.c	-pri-	1a	.
+1G	.	.	.	1g	.
+.	.	2B	.	.	.
+=52	=52	=52	=52	=52	=52
+1A	.	1A	.	1cc	.
+1E	.	1G	.	2b	.
+.	.	.	.	[2ee	.
+=53	=53	=53	=53	=53	=53
+1A	.	1c	.	2ee]	.
+.	.	.	.	2dd	.
+1G	.	1d	.	1b	.
+=54	=54	=54	=54	=54	=54
+0F	.	0A	.	1cc	.
+.	.	.	.	[1a	.
+=55	=55	=55	=55	=55	=55
+0E	.	0B	.	1a]	.
+.	.	.	.	1g#Xi	.
+=56	=56	=56	=56	=56	=56
+0AA	-se.	0A	-se.	0a	-se.
+!!LO:LB:g=z
+=57||	=57||	=57||	=57||	=57||	=57||
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
+!!!ENC: Chris Gage 10-12-2016
+!!!END: 2019/03/18/
+!!!EED: Jesse Rodin
+!!!EEV: 2019/03/21/
+!!!ONB: Translated from MusicXML and edited on 2019/03/21/ by Craig Sapp
+!!muse2ps: C^@{COM}^v95,95,150z18c110l2650
+!!!COM: Anonymous
+!!!OTL: J'ay pris amours a ma devise (version with low Ct)
+!!!AGN: Chanson
+!!!SCT: Ano3131.2
+!!!SCA: Ano3131.2
+!!!SMS:
+!!!folio:
+!!!voices: 3
+*I"Contra	*	*I"Tenor	*	*I"Superius	*
+*clefF4	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*a:	*	*a:	*	*a:	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+0AA	S'il	0A	S'il	0a	S'il
+=58	=58	=58	=58	=58	=58
+1AA	est	1A	est	1cc	est
+1AA	au-	1A	au-	1cc	au-
+=59	=59	=59	=59	=59	=59
+0E	-cun	0G	-cun	0b	-cun
+=60	=60	=60	=60	=60	=60
+1r	.	1.A	.	0e	.
+1A	qui	.	.	.	.
+.	.	2G	.	.	.
+=61	=61	=61	=61	=61	=61
+0G	.	0E	.	1r	.
+.	.	.	.	1g	qui
+=62	=62	=62	=62	=62	=62
+1F	m'en	1r	.	1a	m'en
+1E	de-	1G	qui	1b	de-
+=63	=63	=63	=63	=63	=63
+1AA	-pri-	1A	m'en	1cc	-pri-
+1E	-se,	1B	de-	2b	.
+.	.	.	.	2g	.
+=64	=64	=64	=64	=64	=64
+1r	.	1c	-pri-	1a	.
+1E	qui	2B	.	1g	-se,
+.	.	2G	.	.	.
+=65	=65	=65	=65	=65	=65
+1F	m'en	1A	.	1r	.
+2G	des-	1G	-se,	1b	qui
+2B	.	.	.	.	.
+=66	=66	=66	=66	=66	=66
+1A	-pri-	1r	.	1cc	m'en
+1G	.	1B	qui	1dd	des-
+=67	=67	=67	=67	=67	=67
+1C	.	1c	m'en	1ee	-pri-
+1G	-se,	1d	des-	2dd	.
+.	.	.	.	2b	.
+=68	=68	=68	=68	=68	=68
+2r	.	2e	-pri-	2cc	.
+1A	des-	1c	.	1a	.
+2D	.	2d	.	2b	.
+=69	=69	=69	=69	=69	=69
+2F	-pri-	2c	.	2a	.
+2A	.	2A	.	2f#Xi	.
+1E	.	1B	.	1g#Xi	.
+=70	=70	=70	=70	=70	=70
+1.AA	-se	0A	-se	0a	-se
+2BB	.	.	.	.	.
+=71	=71	=71	=71	=71	=71
+2C	.	1A	Il	0r	.
+2D	.	.	.	.	.
+1E	.	1G	me	.	.
+=72	=72	=72	=72	=72	=72
+1r	.	0F	doit	0a	Il
+1A	Il	.	.	.	.
+=73	=73	=73	=73	=73	=73
+0G	me	0E	.	1cc	me
+.	.	.	.	[1b	doit
+=74	=74	=74	=74	=74	=74
+0E	doit	1r	.	1b]	.
+.	.	1e	il	1g	.
+=75	=75	=75	=75	=75	=75
+1D	.	1f	.	1a	.
+[1E	.	1e	me	[1g	.
+=76	=76	=76	=76	=76	=76
+1E]	.	0c	doit	1g]	.
+1A	e-	.	.	[1cc	e-
+=77	=77	=77	=77	=77	=77
+0G	-stre	0d	e-	1cc]	.
+.	.	.	.	1b	.
+=78	=78	=78	=78	=78	=78
+1r	.	[0c	-stre	0cc	-stre
+[1A	par-	.	.	.	.
+=79	=79	=79	=79	=79	=79
+2A]	.	1c]	.	0r	.
+2G	.	.	.	.	.
+2G	.	1B	.	.	.
+4F	.	.	.	.	.
+4G	.	.	.	.	.
+=80	=80	=80	=80	=80	=80
+2A	.	0A	par-	0cc	par-
+1F	.	.	.	.	.
+2E	.	.	.	.	.
+=81	=81	=81	=81	=81	=81
+1G	.	1G	.	1b	.
+1E	.	[1c	.	1g	.
+=82	=82	=82	=82	=82	=82
+0F	.	1c]	.	0a	.
+.	.	1d	.	.	.
+=83	=83	=83	=83	=83	=83
+0E	.	0e	.	1g	.
+.	.	.	.	[1e	.
+=84	=84	=84	=84	=84	=84
+1C	.	0A	.	1e]	.
+1AA	.	.	.	[1a	.
+=85	=85	=85	=85	=85	=85
+1A	.	1c	.	1a]	.
+1E	.	1B	.	1g	.
+=86	=86	=86	=86	=86	=86
+1A	.	1c	.	1a	.
+1G	-don-	1d	-don-	1b	-don-
+=87	=87	=87	=87	=87	=87
+[0EN	-n&eacute;.&	1.e	-n&eacute;.&	0gN	-n&eacute;.&
+.	.	4d	.	.	.
+.	.	4c	.	.	.
+=88	=88	=88	=88	=88	=88
+0E]	.	1BN	.	0r	.
+.	.	1r	.	.	.
+=	=	=	=	=	=
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
+!!!ENC: Chris Gage 10-12-2016
+!!!END: 2019/03/18/
+!!!EED: Jesse Rodin
+!!!EEV: 2019/03/21/
+!!!ONB: Translated from MusicXML and edited on 2019/03/21/ by Craig Sapp
+!!muse2ps: C^@{COM}^v95,95,150z18c110l2650
+!!!COM: Anonymous
+!!!OTL: J'ay pris amours a ma devise (version with low Ct)
+!!!AGN: Chanson
+!!!SCT: Ano3131.2
+!!!SCA: Ano3131.2
+!!!SMS:
+!!!folio:
+!!!voices: 3
+*thru	*thru	*thru	*thru	*thru	*thru
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Contra	*	*I"Tenor	*	*I"Superius	*
+*clefF4	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*a:	*	*a:	*	*a:	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+*>A	*>A	*>A	*>A	*>A	*>A
+!!LO:LB:g=z
+=89	=89	=89	=89	=89	=89
+!!LO:TX:Z=12:B:t=Form&colon; rondeau
+0AA	J'ay	0A	J'ay	0a	J'ay
+=90	=90	=90	=90	=90	=90
+1AA	pris	1A	pris	1cc	pris
+1AA	a-	1A	a-	1cc	a-
+=91	=91	=91	=91	=91	=91
+0E	-mours	0G	-mours	0b	-mours
+=92	=92	=92	=92	=92	=92
+1r	.	1.A	.	0e	.
+1A	a	.	.	.	.
+.	.	2G	.	.	.
+=93	=93	=93	=93	=93	=93
+0G	.	0E	.	1r	.
+.	.	.	.	1g	a
+=94	=94	=94	=94	=94	=94
+1F	ma	1r	.	1a	ma
+1E	de-	1G	a	1b	de-
+=95	=95	=95	=95	=95	=95
+1AA	-vi-	1A	ma	1cc	-vi-
+1E	-se,	1B	de-	2b	.
+.	.	.	.	2g	.
+=96	=96	=96	=96	=96	=96
+1r	.	1c	-vi-	1a	.
+1E	a	2B	.	1g	-se,
+.	.	2G	.	.	.
+=97	=97	=97	=97	=97	=97
+1F	ma	1A	.	1r	.
+2G	de-	1G	-se,	1b	a
+2B	.	.	.	.	.
+=98	=98	=98	=98	=98	=98
+1A	-vi-	1r	.	1cc	ma
+1G	.	1B	a	1dd	de-
+=99	=99	=99	=99	=99	=99
+1C	.	1c	ma	1ee	-vi-
+1G	-se,	1d	de-	2dd	.
+.	.	.	.	2b	.
+=100	=100	=100	=100	=100	=100
+2r	.	2e	-vi-	2cc	.
+1A	de-	1c	.	1a	.
+2D	.	2d	.	2b	.
+=101	=101	=101	=101	=101	=101
+2F	-vi-	2c	.	2a	.
+2A	.	2A	.	2f#Xi	.
+1E	.	1B	.	1g#Xi	.
+=102	=102	=102	=102	=102	=102
+1.AA	-se	0A	-se	0a	-se
+2BB	.	.	.	.	.
+=103	=103	=103	=103	=103	=103
+2C	.	1A	Pour	0r	.
+2D	.	.	.	.	.
+1E	.	1G	con-	.	.
+=104	=104	=104	=104	=104	=104
+1r	.	0F	-que-	0a	Pour
+1A	Pour	.	.	.	.
+=105	=105	=105	=105	=105	=105
+0G	con-	0E	-rir,	1cc	con-
+.	.	.	.	[1b	.
+=106	=106	=106	=106	=106	=106
+0E	.	1r	.	1b]	.
+.	.	1e	pour	1g	.
+=107	=107	=107	=107	=107	=107
+1D	.	1f	con-	1a	.
+[1E	.	1e	.	[1g	.
+=108	=108	=108	=108	=108	=108
+1E]	.	0c	.	1g]	.
+1A	-que-	.	.	[1cc	-que-
+=109	=109	=109	=109	=109	=109
+0G	-rir	0d	-que-	1cc]	.
+.	.	.	.	1b	.
+=110	=110	=110	=110	=110	=110
+1r	.	[0c	-rir	0cc	-rir
+[1A	joi-	.	.	.	.
+=111	=111	=111	=111	=111	=111
+2A]	.	1c]	.	0r	.
+2G	.	.	.	.	.
+2G	.	1B	.	.	.
+4F	.	.	.	.	.
+4G	.	.	.	.	.
+=112	=112	=112	=112	=112	=112
+2A	.	0A	joi-	0cc	joi-
+1F	.	.	.	.	.
+2E	.	.	.	.	.
+=113	=113	=113	=113	=113	=113
+1G	-eu-	1G	-eu-	1b	-eu-
+1E	.	[1c	.	1g	.
+=114	=114	=114	=114	=114	=114
+0F	.	1c]	.	0a	.
+.	.	1d	.	.	.
+=115	=115	=115	=115	=115	=115
+0E	.	0e	.	1g	.
+.	.	.	.	[1e	.
+=116	=116	=116	=116	=116	=116
+1C	.	0A	.	1e]	.
+1AA	.	.	.	[1a	.
+=117	=117	=117	=117	=117	=117
+1A	.	1c	.	1a]	.
+1E	.	1B	.	1g	.
+=118	=118	=118	=118	=118	=118
+1A	.	1c	.	1a	.
+1G	-se-	1d	-se-	1b	-se-
+=119	=119	=119	=119	=119	=119
+[0EN	-t&eacute;,	1.e	-t&eacute;,	0gN	-t&eacute;,
+.	.	4d	.	.	.
+.	.	4c	.	.	.
+=120	=120	=120	=120	=120	=120
+0E]	.	1BN	.	0r	.
+.	.	1r	.	.	.
+=	=	=	=	=	=
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
+!!!ENC: Chris Gage 10-12-2016
+!!!END: 2019/03/18/
+!!!EED: Jesse Rodin
+!!!EEV: 2019/03/21/
+!!!ONB: Translated from MusicXML and edited on 2019/03/21/ by Craig Sapp
+!!muse2ps: C^@{COM}^v95,95,150z18c110l2650
+!!!COM: Anonymous
+!!!OTL: J'ay pris amours a ma devise (version with low Ct)
+!!!AGN: Chanson
+!!!SCT: Ano3131.2
+!!!SCA: Ano3131.2
+!!!SMS:
+!!!folio:
+!!!voices: 3
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Contra	*	*I"Tenor	*	*I"Superius	*
+*clefF4	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*a:	*	*a:	*	*a:	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+*>A	*>A	*>A	*>A	*>A	*>A
+!!LO:LB:g=z
+=121	=121	=121	=121	=121	=121
+!!LO:TX:Z=12:B:t=Form&colon; rondeau
+0AA	Il	0A	Il	0a	Il
+=122	=122	=122	=122	=122	=122
+1AA	me	1A	me	1cc	me
+1AA	sem-	1A	sem-	1cc	sem-
+=123	=123	=123	=123	=123	=123
+0E	-ble	0G	-ble	0b	-ble
+=124	=124	=124	=124	=124	=124
+1r	.	1.A	.	0e	.
+1A	que	.	.	.	.
+.	.	2G	.	.	.
+=125	=125	=125	=125	=125	=125
+0G	.	0E	.	1r	.
+.	.	.	.	1g	que
+=126	=126	=126	=126	=126	=126
+1F	c'est	1r	.	1a	c'est
+1E	la	1G	que	1b	la
+=127	=127	=127	=127	=127	=127
+1AA	gui-	1A	c'est	1cc	gui-
+1E	-se,	1B	la	2b	.
+.	.	.	.	2g	.
+=128	=128	=128	=128	=128	=128
+1r	.	1c	gui-	1a	.
+1E	que	2B	.	1g	-se,
+.	.	2G	.	.	.
+=129	=129	=129	=129	=129	=129
+1F	c'est	1A	.	1r	.
+2G	la	1G	-se,	1b	que
+2B	.	.	.	.	.
+=130	=130	=130	=130	=130	=130
+1A	gui-	1r	.	1cc	c'est
+1G	.	1B	que	1dd	la
+=131	=131	=131	=131	=131	=131
+1C	.	1c	c'est	1ee	gui-
+1G	-se,	1d	la	2dd	.
+.	.	.	.	2b	.
+=132	=132	=132	=132	=132	=132
+2r	.	2e	gui-	2cc	.
+1A	la	1c	.	1a	.
+2D	.	2d	.	2b	.
+=133	=133	=133	=133	=133	=133
+2F	gui-	2c	.	2a	.
+2A	.	2A	.	2f#Xi	.
+1E	.	1B	.	1g#Xi	.
+=134	=134	=134	=134	=134	=134
+1.AA	-se	0A	-se	0a	-se
+2BB	.	.	.	.	.
+=135	=135	=135	=135	=135	=135
+2C	.	1A	Qui	0r	.
+2D	.	.	.	.	.
+1E	.	1G	.	.	.
+=136	=136	=136	=136	=136	=136
+1r	.	0F	n'a	0a	Qui
+1A	Qui	.	.	.	.
+=137	=137	=137	=137	=137	=137
+0G	n'a	0E	rien,	1cc	n'a
+.	.	.	.	[1b	.
+=138	=138	=138	=138	=138	=138
+0E	.	1r	.	1b]	.
+.	.	1e	qui	1g	.
+=139	=139	=139	=139	=139	=139
+1D	.	1f	n'a	1a	.
+[1E	.	1e	.	[1g	.
+=140	=140	=140	=140	=140	=140
+1E]	.	0c	.	1g]	.
+1A	.	.	.	[1cc	.
+=141	=141	=141	=141	=141	=141
+0G	rien	0d	.	1cc]	.
+.	.	.	.	1b	.
+=142	=142	=142	=142	=142	=142
+1r	.	[0c	rien	0cc	rien
+[1A	il	.	.	.	.
+=143	=143	=143	=143	=143	=143
+2A]	.	1c]	.	0r	.
+2G	.	.	.	.	.
+2G	.	1B	.	.	.
+4F	.	.	.	.	.
+4G	.	.	.	.	.
+=144	=144	=144	=144	=144	=144
+2A	.	0A	il	0cc	il
+1F	.	.	.	.	.
+2E	.	.	.	.	.
+=145	=145	=145	=145	=145	=145
+1G	est	1G	est	1b	est
+1E	de	[1c	.	1g	de
+=146	=146	=146	=146	=146	=146
+0F	bou-	1c]	.	0a	bou-
+.	.	1d	de	.	.
+=147	=147	=147	=147	=147	=147
+0E	.	0e	bou-	1g	.
+.	.	.	.	[1e	.
+=148	=148	=148	=148	=148	=148
+1C	.	0A	.	1e]	.
+1AA	.	.	.	[1a	.
+=149	=149	=149	=149	=149	=149
+1A	.	1c	.	1a]	.
+1E	.	1B	.	1g	.
+=150	=150	=150	=150	=150	=150
+1A	.	1c	.	1a	.
+1G	.	1d	.	1b	.
+=151	=151	=151	=151	=151	=151
+[0E	-t&eacute;.	1.e	-t&eacute;.	0g	-t&eacute;.
+.	.	4d	.	.	.
+.	.	4c	.	.	.
+=152	=152	=152	=152	=152	=152
+0E]	.	1B	.	0r	.
+.	.	1r	.	.	.
+=153	=153	=153	=153	=153	=153
+*>B	*>B	*>B	*>B	*>B	*>B
+1r	.	0E	Et	0g	Et
+1E	Et	.	.	.	.
+=154	=154	=154	=154	=154	=154
+1D	n'est	1F	n'est	1.a	n'est
+[1AA	.	1E	.	.	.
+.	.	.	.	2g	.
+=155	=155	=155	=155	=155	=155
+1AA]	.	1A	.	2f	.
+.	.	.	.	2e	.
+1C	.	1G	.	[1e	.
+=156	=156	=156	=156	=156	=156
+1.D	.	0F	.	1e]	.
+.	.	.	.	1d	.
+2BB	.	.	.	.	.
+=157	=157	=157	=157	=157	=157
+1C	.	[0E	.	0e	.
+1AA	.	.	.	.	.
+=158	=158	=158	=158	=158	=158
+[0E	.	0E]	.	1r	.
+.	.	.	.	1b	de
+=159	=159	=159	=159	=159	=159
+0E]	.	1r	.	1b	per-
+.	.	1G	de	1b	-son-
+=160	=160	=160	=160	=160	=160
+1r	.	1A	per-	1.cc	-ne ho-
+1G	de	1B	-son-	.	.
+.	.	.	.	4b	.
+.	.	.	.	4a	.
+=161	=161	=161	=161	=161	=161
+1C	per-	1.c	-ne ho-	1g	.
+1F	-son-	.	.	1a	.
+.	.	2B	.	.	.
+=162	=162	=162	=162	=162	=162
+1E	-ne ho-	1G	.	1b	.
+1G	.	1B	.	[1g	.
+=163	=163	=163	=163	=163	=163
+0D	-no-	0A	-no-	1g]	.
+.	.	.	.	1f#Xi	-no-
+=164	=164	=164	=164	=164	=164
+0E	-r&eacute;.	[0G	-r&eacute;.	0g	-r&eacute;.
+=165	=165	=165	=165	=165	=165
+0C	.	1G]	.	1r	.
+.	.	1r	.	1e	N'est
+=166	=166	=166	=166	=166	=166
+1D	.	1r	.	1f	ce
+1C	.	1E	N'est	1g	point
+=167	=167	=167	=167	=167	=167
+1r	.	1F	ce	1a	droit
+1C	N'est	1G	point	1e	.
+=168	=168	=168	=168	=168	=168
+1F	ce	1A	droit	1r	.
+1G	point	1E	.	1g	que
+=169	=169	=169	=169	=169	=169
+1F	droit	1r	.	1a	je
+1E	que	1G	que	1g	y
+=170	=170	=170	=170	=170	=170
+1AA	je	1A	je	1.cc	vi-
+1E	y	1G	y	.	.
+.	.	.	.	2b	.
+=171	=171	=171	=171	=171	=171
+1F	vi-	1.c	vi-	1a	.
+1G	.	.	.	1g	.
+.	.	2B	.	.	.
+=172	=172	=172	=172	=172	=172
+1A	.	1A	.	1cc	.
+1E	.	1G	.	2b	.
+.	.	.	.	[2ee	.
+=173	=173	=173	=173	=173	=173
+1A	.	1c	.	2ee]	.
+.	.	.	.	2dd	.
+1G	.	1d	.	1b	.
+=174	=174	=174	=174	=174	=174
+0F	.	0A	.	1cc	.
+.	.	.	.	[1a	.
+=175	=175	=175	=175	=175	=175
+0E	.	0B	.	1a]	.
+.	.	.	.	1g#Xi	.
+=176	=176	=176	=176	=176	=176
+0AA	-se.	0A	-se.	0a	-se.
+==	==	==	==	==	==
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
+!!!ENC: Chris Gage 10-12-2016
+!!!END: 2019/03/18/
+!!!EED: Jesse Rodin
+!!!EEV: 2019/03/21/
+!!!ONB: Translated from MusicXML and edited on 2019/03/21/ by Craig Sapp
+!!muse2ps: C^@{COM}^v95,95,150z18c110l2650
+!!!COM: Anonymous
+!!!OTL: J'ay pris amours a ma devise (version with low Ct)
+!!!AGN: Chanson
+!!!SCT: Ano3131.2
+!!!SCA: Ano3131.2
+!!!jrpid: Ano7131.2
+!!!SMS:
+!!!folio:
+!!!voices: 3
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Contra	*	*I"Tenor	*	*I"Superius	*
+*clefF4	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*a:	*	*a:	*	*a:	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+*>A	*>A	*>A	*>A	*>A	*>A
+!!LO:LB:g=z
+=177	=177	=177	=177	=177	=177
+!!LO:TX:Z=12:B:t=Form&colon; rondeau
+0AA	J'ay	0A	J'ay	0a	J'ay
+=178	=178	=178	=178	=178	=178
+1AA	pris	1A	pris	1cc	pris
+1AA	a-	1A	a-	1cc	a-
+=179	=179	=179	=179	=179	=179
+0E	-mours	0G	-mours	0b	-mours
+=180	=180	=180	=180	=180	=180
+1r	.	1.A	.	0e	.
+1A	a	.	.	.	.
+.	.	2G	.	.	.
+=181	=181	=181	=181	=181	=181
+0G	.	0E	.	1r	.
+.	.	.	.	1g	a
+=182	=182	=182	=182	=182	=182
+1F	ma	1r	.	1a	ma
+1E	de-	1G	a	1b	de-
+=183	=183	=183	=183	=183	=183
+1AA	-vi-	1A	ma	1cc	-vi-
+1E	-se,	1B	de-	2b	.
+.	.	.	.	2g	.
+=184	=184	=184	=184	=184	=184
+1r	.	1c	-vi-	1a	.
+1E	a	2B	.	1g	-se,
+.	.	2G	.	.	.
+=185	=185	=185	=185	=185	=185
+1F	ma	1A	.	1r	.
+2G	de-	1G	-se,	1b	a
+2B	.	.	.	.	.
+=186	=186	=186	=186	=186	=186
+1A	-vi-	1r	.	1cc	ma
+1G	.	1B	a	1dd	de-
+=187	=187	=187	=187	=187	=187
+1C	.	1c	ma	1ee	-vi-
+1G	-se,	1d	de-	2dd	.
+.	.	.	.	2b	.
+=188	=188	=188	=188	=188	=188
+2r	.	2e	-vi-	2cc	.
+1A	de-	1c	.	1a	.
+2D	.	2d	.	2b	.
+=189	=189	=189	=189	=189	=189
+2F	-vi-	2c	.	2a	.
+2A	.	2A	.	2f#Xi	.
+1E	.	1B	.	1g#Xi	.
+=190	=190	=190	=190	=190	=190
+1.AA	-se	0A	-se	0a	-se
+2BB	.	.	.	.	.
+=191	=191	=191	=191	=191	=191
+2C	.	1A	Pour	0r	.
+2D	.	.	.	.	.
+1E	.	1G	con-	.	.
+=192	=192	=192	=192	=192	=192
+1r	.	0F	-que-	0a	Pour
+1A	Pour	.	.	.	.
+=193	=193	=193	=193	=193	=193
+0G	con-	0E	-rir,	1cc	con-
+.	.	.	.	[1b	.
+=194	=194	=194	=194	=194	=194
+0E	.	1r	.	1b]	.
+.	.	1e	pour	1g	.
+=195	=195	=195	=195	=195	=195
+1D	.	1f	con-	1a	.
+[1E	.	1e	.	[1g	.
+=196	=196	=196	=196	=196	=196
+1E]	.	0c	.	1g]	.
+1A	-que-	.	.	[1cc	-que-
+=197	=197	=197	=197	=197	=197
+0G	-rir	0d	-que-	1cc]	.
+.	.	.	.	1b	.
+=198	=198	=198	=198	=198	=198
+1r	.	[0c	-rir	0cc	-rir
+[1A	joi-	.	.	.	.
+=199	=199	=199	=199	=199	=199
+2A]	.	1c]	.	0r	.
+2G	.	.	.	.	.
+2G	.	1B	.	.	.
+4F	.	.	.	.	.
+4G	.	.	.	.	.
+=200	=200	=200	=200	=200	=200
+2A	.	0A	joi-	0cc	joi-
+1F	.	.	.	.	.
+2E	.	.	.	.	.
+=201	=201	=201	=201	=201	=201
+1G	-eu-	1G	-eu-	1b	-eu-
+1E	.	[1c	.	1g	.
+=202	=202	=202	=202	=202	=202
+0F	.	1c]	.	0a	.
+.	.	1d	.	.	.
+=203	=203	=203	=203	=203	=203
+0E	.	0e	.	1g	.
+.	.	.	.	[1e	.
+=204	=204	=204	=204	=204	=204
+1C	.	0A	.	1e]	.
+1AA	.	.	.	[1a	.
+=205	=205	=205	=205	=205	=205
+1A	.	1c	.	1a]	.
+1E	.	1B	.	1g	.
+=206	=206	=206	=206	=206	=206
+1A	.	1c	.	1a	.
+1G	-se-	1d	-se-	1b	-se-
+=207	=207	=207	=207	=207	=207
+[0E	-t&eacute;,	1.e	-t&eacute;,	0g	-t&eacute;,
+.	.	4d	.	.	.
+.	.	4c	.	.	.
+=208	=208	=208	=208	=208	=208
+0E]	.	1B	.	0r	.
+.	.	1r	.	.	.
+=209	=209	=209	=209	=209	=209
+*>B	*>B	*>B	*>B	*>B	*>B
+1r	.	0E	Eu-	0g	Eu-
+1E	Eu-	.	.	.	.
+=210	=210	=210	=210	=210	=210
+1D	-reux	1F	-reux	1.a	-reux
+[1AA	.	1E	.	.	.
+.	.	.	.	2g	.
+=211	=211	=211	=211	=211	=211
+1AA]	.	1A	.	2f	.
+.	.	.	.	2e	.
+1C	.	1G	.	[1e	.
+=212	=212	=212	=212	=212	=212
+1.D	.	0F	.	1e]	.
+.	.	.	.	1d	.
+2BB	.	.	.	.	.
+=213	=213	=213	=213	=213	=213
+1C	.	[0E	.	0e	.
+1AA	.	.	.	.	.
+=214	=214	=214	=214	=214	=214
+[0E	.	0E]	.	1r	.
+.	.	.	.	1b	se-
+=215	=215	=215	=215	=215	=215
+0E]	.	1r	.	1b	-ray
+.	.	1G	se-	1b	en
+=216	=216	=216	=216	=216	=216
+1r	.	1A	-ray	1.cc	cest
+1G	se-	1B	en	.	.
+.	.	.	.	4b	.
+.	.	.	.	4a	.
+=217	=217	=217	=217	=217	=217
+1C	-ray	1.c	cest	1g	.
+1F	en	.	.	1a	.
+.	.	2B	.	.	.
+=218	=218	=218	=218	=218	=218
+1E	cest	1G	.	1b	.
+1G	.	1B	.	[1g	e-
+=219	=219	=219	=219	=219	=219
+0D	e-	0A	e-	1g]	.
+.	.	.	.	1f#Xi	.
+=220	=220	=220	=220	=220	=220
+0E	-ste	[0G	-ste	0g	-ste
+=221	=221	=221	=221	=221	=221
+0C	.	1G]	.	1r	.
+.	.	1r	.	1e	Se
+=222	=222	=222	=222	=222	=222
+1D	.	1r	.	1f	puis
+1C	.	1E	Se	1g	ve-
+=223	=223	=223	=223	=223	=223
+1r	.	1F	puis	1a	-nir
+1C	Se	1G	ve-	1e	.
+=224	=224	=224	=224	=224	=224
+1F	puis	1A	-nir	1r	.
+1G	ve-	1E	.	1g	a
+=225	=225	=225	=225	=225	=225
+1F	-nir	1r	.	1a	mon
+1E	a	1G	a	1g	em-
+=226	=226	=226	=226	=226	=226
+1AA	mon	1A	mon	1.cc	-pri-
+1E	em-	1G	em-	.	.
+.	.	.	.	2b	.
+=227	=227	=227	=227	=227	=227
+1F	-pri-	1.c	-pri-	1a	.
+1G	.	.	.	1g	.
+.	.	2B	.	.	.
+=228	=228	=228	=228	=228	=228
+1A	.	1A	.	1cc	.
+1E	.	1G	.	2b	.
+.	.	.	.	[2ee	.
+=229	=229	=229	=229	=229	=229
+1A	.	1c	.	2ee]	.
+.	.	.	.	2dd	.
+1G	.	1d	.	1b	.
+=230	=230	=230	=230	=230	=230
+0F	.	0A	.	1cc	.
+.	.	.	.	[1a	.
+=231	=231	=231	=231	=231	=231
+0E	.	0B	.	1a]	.
+.	.	.	.	1g#Xi	.
+=232	=232	=232	=232	=232	=232
+0AA	-se.	0A	-se.	0a	-se.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
+!!!ENC: Chris Gage 10-12-2016
+!!!END: 2019/03/18/
+!!!EED: Jesse Rodin
+!!!EEV: 2019/03/21/
+!!!ONB: Translated from MusicXML and edited on 2019/03/21/ by Craig Sapp
+!!muse2ps: C^@{COM}^v110,110,150z18c110l2650Ii2

@@ -1,0 +1,60 @@
+!!!!SEGMENT: Jos/Jos9911-Castigans_castigavit.krn
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Castigans castigavit me dominus
+!!!AGN: Fragment; Motet
+!!!SCT: Jos9911
+!!!SCA: Jos9911
+!!!jrpid: Jos9911
+!!!voices: ?
+**kern
+*staff1
+*Ivox
+*I"Bassus
+*I'B
+*clefF4
+*k[]
+*M3/1
+*met(O|3/2)
+=1-
+!LO:TX:Z=10:t=mensuration&colon; cut circle 3 over 2
+0C
+1C
+=2
+0D
+1D
+=3
+0.E
+=4
+0C
+1r
+=5
+1D
+0F
+=6
+1E
+1C
+1D
+=7
+0E
+1r
+=8
+0F
+1D
+=9
+1E
+0F
+=10
+0.D
+=11
+0.Cl
+==
+*-
+!!!RDF**kern: l=long note in original notation
+!!!ENC: Victoria Chang 2012/02/27
+!!!END: 2012/02/27/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/03/20/
+!!attribution-level@Jos: 4a (the rest [double question mark])
+!!!ONB: Translated from MusicXML and edited on 2012/03/20/ by Craig Sapp
+!!muse2ps: C^@{COA}?^i2I150v150Q16z18

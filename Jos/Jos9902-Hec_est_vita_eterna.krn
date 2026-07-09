@@ -1,0 +1,92 @@
+!!!!SEGMENT: Jos/Jos9902-Hec_est_vita_eterna.krn
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Hec est vita eterna
+!!!AGN: Motet
+!!!SCT: Jos9902
+!!!SCA: Jos9902
+!!!jrpid: Jos9902
+!!!voices: 2
+**kern	**kern
+*part2	*part1
+*staff2	*staff1
+*Ivox	*Ivox
+*I"Tenor	*I"Superius
+*I'T	*I'S
+*clefGv2	*clefG2
+*k[b-]	*k[b-]
+*d:	*d:
+*M2/1	*M2/1
+*met(C|)	*met(C|)
+=	=
+!	!LO:TX:Z=12:t=The NJE incorrectly calls this an excerpt from the Missa Fortuna desperata, Credo
+!	!LO:TX:Z=32:t=Gumpelzhaimer includes both this music and an unresolved version using multiple mensuration signs.
+2r	1c
+2c	.
+2B-	2d
+2A	[2f
+=3	=3
+1G	2f]
+.	2e
+2F	2f
+2c	[2g
+=4	=4
+2B-	4g]
+.	4f
+2.c	4e
+.	4d
+.	1e
+4B-	.
+4A	.
+4G	.
+=5	=5
+2F#X	2d
+2G	2g
+2A	2g
+2A	2f
+=6	=6
+1G	2g
+.	2.b-
+2r	.
+.	4a
+[2B-	2g
+=7	=7
+4B-]	2f
+4A	.
+1G	2g
+.	1a
+2F	.
+=8	=8
+2G	1g
+2B-	.
+2c	2r
+2d	2f#Xi
+=9	=9
+2e-X	2g
+2.d	2a
+.	2.b-
+4c	.
+[2B-	.
+.	4a
+=10	=10
+4B-]	4g
+4A	4f
+4A	1f
+8GL	.
+8FJ	.
+1G	.
+.	2e
+=11	=11
+0Fl	0fl
+==	==
+*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!system-decoration: s1,s2
+!!!RDF**kern: i = editorial accidental
+!!!ENC: Jesse Rodin
+!!!END: 2020/10/21
+!!!EED: Jesse Rodin
+!!!EEV: 2020/10/23
+!!attribution-level@Jos: 4a (the rest [double question mark])
+!!!ONB: Translated from MusicXML and edited on 2021/03/22 by Craig Sapp
+!!muse2ps: C^Josquin?? (attrib. in Gumpelzhaimer 1595)^i2I150v85,150z16Q16

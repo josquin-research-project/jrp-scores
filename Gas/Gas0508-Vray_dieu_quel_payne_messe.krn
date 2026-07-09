@@ -1,0 +1,264 @@
+!!!!SEGMENT: Gas/Gas0508-Vray_dieu_quel_payne_messe.krn
+!!!COA1: Gaspar van Weerbeke
+!!!CDT1: ~1450-~1517
+!!!COA2: Compere, Loyset
+!!!OTL: Vray dieu quel payne m'esse
+!!!AGN: Song; Chanson
+!!!SCT: Gas0508
+!!!SCA: Gas0508
+!!!jrpid: Gas0508
+!!!voices: 4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
+*I'B	*	*I'T	*	*I'A	*	*I'S	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:a:t=[Bassus composed by Paul Kolb]	!	!	!	!	!	!	!
+0r	.	0r	.	0G	Vray	0r	.
+=2	=2	=2	=2	=2	=2	=2	=2
+0r	.	0r	.	1G	dieu,	0g	Vray
+.	.	.	.	1G	quel	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+0r	.	0G	Vray	1d	pai-	1g	dieu,
+.	.	.	.	[1d	-ne	1dd	quel
+=4	=4	=4	=4	=4	=4	=4	=4
+0r	.	1G	dieu,	2d]	.	1dd	pai-
+.	.	.	.	2e	.	.	.
+.	.	[1d	quel	1f	.	1dd	-ne
+=5	=5	=5	=5	=5	=5	=5	=5
+*	*edit	*	*	*	*	*	*
+0G	Vray	1d]	.	1.g	m'es-	1.dd	m'es-
+.	.	1d	pai-	.	.	.	.
+.	.	.	.	2f	.	2cc	.
+=6	=6	=6	=6	=6	=6	=6	=6
+*	*	*lig	*	*	*	*	*
+1G	dieu,	0d	-ne	2g	.	2.b-	.
+.	.	.	.	2d	.	.	.
+.	.	.	.	.	.	4a	.
+1G	quel	.	.	[1g	.	1b-	.
+=7	=7	=7	=7	=7	=7	=7	=7
+*	*	*col	*	*	*	*	*
+1A	pai-	1.c	.	2g]	.	0cc	-se
+.	.	.	.	2f	.	.	.
+1F	-ne	.	.	[1f	.	.	.
+*	*	*Xlig	*	*	*	*	*
+.	.	4B-y	.	.	.	.	.
+.	.	4A	.	.	.	.	.
+*	*	*Xcol	*	*	*	*	*
+!!LO:LB:g=original
+=8	=8	=8	=8	=8	=8	=8	=8
+0G	m'es-	0B-y	m'es-	2f]	.	0r	.
+.	.	.	.	4e	.	.	.
+.	.	.	.	4d	.	.	.
+.	.	.	.	1e	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+0F	-se	0c	-se	0f	-se	0r	.
+=10	=10	=10	=10	=10	=10	=10	=10
+0F	que	0r	.	0a	que	0ff	que
+=11	=11	=11	=11	=11	=11	=11	=11
+1c	d'ai-	0r	.	1g	d'ai-	1ee	d'ai-
+1d	-mer	.	.	1f	-mer	1dd	-mer
+=12	=12	=12	=12	=12	=12	=12	=12
+1A	par	0r	.	1e	par	1dd	par
+1A	a-	.	.	1e	a-	1cc#i	a-
+=13	=13	=13	=13	=13	=13	=13	=13
+1.B-y	-mours,	0f	que	0d	-mours.	0dd	-mours.
+2A	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+1G	.	1e	d'ai-	0r	.	0r	.
+1F	par	1d	-mer	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+0E	a-	1d	par	0r	.	0r	.
+.	.	1c#i	a-	.	.	.	.
+!!LO:LB:g=original
+=16	=16	=16	=16	=16	=16	=16	=16
+1.D	-mours,	[0d	-mours.	1.f	On	1r	.
+.	.	.	.	.	.	1dd	On
+2E	.	.	.	2g	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+1F	.	0d]	.	1a	n'a	1dd	n'a
+1G	par	.	.	[1g	joi-	1dd	joi-
+=18	=18	=18	=18	=18	=18	=18	=18
+0A	a-	0r	.	2g]	.	1cc	-e
+.	.	.	.	4f#i	.	.	.
+.	.	.	.	4e	.	.	.
+.	.	.	.	1f#i	.	1a	ne
+=19	=19	=19	=19	=19	=19	=19	=19
+[0G	-mours.	0r	.	1g	-e	1.b-y	le-
+.	.	.	.	[1d	ne	.	.
+.	.	.	.	.	.	2a	.
+=20	=20	=20	=20	=20	=20	=20	=20
+0G]	.	1r	.	2d]	.	0g	-es-
+.	.	.	.	2c	.	.	.
+.	.	1d	On	1B-y	le-	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+1.D	On	1d	n'a	1A	-es-	0f	-se,
+.	.	1d	joi-	1A	-se,	.	.
+2E	.	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+*	*	*	*	*	*edit	*	*
+0F	n'a	1c	-e	2.A	on	0r	.
+.	.	.	.	4B-y	.	.	.
+.	.	1A	ne	1c	.	.	.
+!!LO:LB:g=original
+=23	=23	=23	=23	=23	=23	=23	=23
+1.G	joi-	1.B-y	le-	2B-y	n'a	0r	.
+.	.	.	.	2.d	joi-	.	.
+.	.	.	.	4e	.	.	.
+2A	.	2A	.	[2f	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+0B-y	.	0G	-es-	2f]	.	0r	.
+.	.	.	.	4e	.	.	.
+.	.	.	.	4d	.	.	.
+.	.	.	.	1e	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+1c	-e	0F	-se,	0f	-e	1.a	on
+[1F	ne	.	.	.	.	.	.
+.	.	.	.	.	.	2b-y	.
+=26	=26	=26	=26	=26	=26	=26	=26
+2F]	.	0r	.	1f	ne	0cc	est
+2G	.	.	.	.	.	.	.
+1A	.	.	.	1e	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+*col	*	*	*	*	*	*	*
+1.B-y	le-	0r	.	1.d	le-	0dd	plain
+4A	.	.	.	2e	.	.	.
+4G	.	.	.	.	.	.	.
+*Xcol	*	*	*	*	*	*	*
+=28	=28	=28	=28	=28	=28	=28	=28
+1A	-es-	0r	.	1f	-es-	1cc	de
+1G	.	.	.	1g	.	1b-y	.
+=29	=29	=29	=29	=29	=29	=29	=29
+*	*	*	*edit	*	*	*	*
+0F	-se,	1.A	on	0c	-se,	1a	.
+.	.	.	.	.	.	1a	dol-
+.	.	2B-y	.	.	.	.	.
+!!LO:PB:g=original
+=30	=30	=30	=30	=30	=30	=30	=30
+*	*	*	*	*	*Xedit	*	*
+0C	on	0c	est	1.e	on	1.g	-lours,
+.	.	.	.	2f	.	2a	.
+=31	=31	=31	=31	=31	=31	=31	=31
+1G	est	0d	plain	1g	est	1b-y	.
+*	*	*	*	*	*	*	*edit
+1D	plain	.	.	[1f	plain	[1a	de
+=32	=32	=32	=32	=32	=32	=32	=32
+1F	de	1c	de	2f]	.	2a]	.
+.	.	.	.	2e	.	2g	.
+1G	.	1B-y	.	2d	de	[1g	dol-
+.	.	.	.	2c	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+0D	dol-	0A	dol-	0d	dol-	1g]	.
+.	.	.	.	.	.	1f#i	.
+=34	=34	=34	=34	=34	=34	=34	=34
+*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+0.G	-lours.	0.G	-lours.	1d	-lours.	0.g	-lours.
+.	.	.	.	1e	.	.	.
+.	.	.	.	1g	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35
+*	*	*	*	*	*	*	*Xedit
+0.B-y	On	1r	.	0f	.	0.dd	On
+.	.	1r	.	.	.	.	.
+.	.	1G	On	1d	On	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+0.G	est	0.d	est	0.g	est	0.dd	est
+!!LO:LB:g=original
+=37	=37	=37	=37	=37	=37	=37	=37
+1.D	en	0.d	en	0.f	en	1.dd	en
+2E	.	.	.	.	.	2cc	.
+1F	.	.	.	.	.	1a	.
+=38	=38	=38	=38	=38	=38	=38	=38
+*	*	*	*	*	*	*col	*
+*	*	*col	*	*	*	*	*
+*col	*	*	*	*	*	*	*
+0G	grant	0d	grant	1d	grant	0b-y	grant
+.	.	.	.	1.g	tri-	.	.
+*lig	*	*	*	*	*	*	*
+1A	tri-	1c	tri-	.	.	[1a	tri-
+.	.	.	.	2f	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+1F	.	1A	.	0f	-tres-	1a]	.
+0G	.	0B-y	-tres-	.	.	0g	-tres-
+*	*	*Xcol	*	*	*	*	*
+.	.	.	.	1e	.	.	.
+*Xlig	*	*	*	*	*	*	*
+=40	=40	=40	=40	=40	=40	=40	=40
+0F	-tres-	0.c	-se,	0f	-se,	0a	-se,
+[1A	-se,	.	.	1e	on	[1cc	on
+=41	=41	=41	=41	=41	=41	=41	=41
+1A]	.	0.f	on	1c	.	1cc]	.
+0B-y	on	.	.	1f	vict	0dd	.
+*	*	*	*	*	*	*Xcol	*
+.	.	.	.	1d	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42
+0c	vict	0e	vict	1g	tout	0cc	vict
+*Xcol	*	*	*	*	*	*	*
+.	.	.	.	1.a	ar-	.	.
+1B-y	tout	1d	tout	.	.	1dd	tout
+.	.	.	.	2g	.	.	.
+!!LO:LB:g=original
+=43	=43	=43	=43	=43	=43	=43	=43
+1G	ar-	1d	ar-	0g	-re-	1b-y	ar-
+0A	-re-	0c	-re-	.	.	1cc	.
+.	.	.	.	1f#i	.	1a	-re-
+=44	=44	=44	=44	=44	=44	=44	=44
+0.G	-bours,	0.d	-bours,	0.g	-bours,	0.b-y	-bours,
+=45	=45	=45	=45	=45	=45	=45	=45
+*	*	*	*Xedit	*	*	*	*
+0.B-y	On	0.d	On	0.f	On	1.dd	On
+.	.	.	.	.	.	2cc	n'a
+.	.	.	.	.	.	1b-y	re-
+=46	=46	=46	=46	=46	=46	=46	=46
+0.F	n'a	0c	n'a	0.f	n'a	0.a	-pos
+.	.	1A	re-	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+1.G	re-	1.B-y	-pos	0d	re-	0.g	ne
+2A	.	2A	.	.	.	.	.
+1B-y	.	1G	ne	1e	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48
+0c	-pos	0F	ces-	1.f	-pos	0a	ces-
+.	.	.	.	2e	.	.	.
+1B-y	ne	1G	-se	1d	ne	1g	-se
+!!LO:LB:g=original
+=49	=49	=49	=49	=49	=49	=49	=49
+1c	ces-	1.A	tant	1c	ces-	0.cc	tant
+0A	-se	.	.	1e	-se	.	.
+.	.	2B-y	.	.	.	.	.
+.	.	1c	.	1f	tant	.	.
+=50	=50	=50	=50	=50	=50	=50	=50
+1G	tant	0d	qu'on	1.g	qu'on	1b-y	qu'on
+1D	qu'on	.	.	.	.	1.a	fi-
+.	.	.	.	1f	fi-	.	.
+1F	fi-	1c	fi-	.	.	.	.
+.	.	.	.	2e	.	2g	.
+=51	=51	=51	=51	=51	=51	=51	=51
+1G	-ne	1B-y	-ne	1.d	-ne	0g	-ne
+0D	ces	0A	ces	.	.	.	.
+.	.	.	.	2c	.	.	.
+.	.	.	.	1d	ces	1f#i	ces
+=52	=52	=52	=52	=52	=52	=52	=52
+0Gl	jours.	0Gl	jours.	0dl	jours.	0gl	jours.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: j = editorial accidental, optional, paren up
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!PTL: Gaspar van Weerbeke: Collected Works. V. Settings of Liturgical Texts, Songs, and Instrumental Works
+!!!ISBN: 978-1-59551-544-5
+!!!PPR: American Institute of Musicology
+!!!PC#: Corpus Mensurabilis Musicae 106/V
+!!!PDT: 2020
+!!!PED: Kolb, Paul
+!!!YEC: Copyright 2018, Kolb, Paul
+!!!YEM: CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+!!!EED: Zybina, Karina
+!!!EEV: 2021/08/26
+!!!muse2ps: C^@{COM}^i2I150v90,90,90,120c122z18l2700t130
+!!!ONB: from http://www.gaspar-van-weerbeke.sbg.ac.at/gaspar-online-edition with doubled rhythms

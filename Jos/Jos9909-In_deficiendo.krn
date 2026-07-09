@@ -1,0 +1,48 @@
+!!!!SEGMENT: Jos/Jos9909-In_deficiendo.krn
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: In deficiendo
+!!!AGN: Fragment; Motet
+!!!SCT: Jos9909
+!!!SCA: Jos9909
+!!!jrpid: Jos9909
+!!!voices: ?
+**kern
+*staff1
+*Ivox
+*I"Altus
+*I'A
+*clefGv2
+*k[b-]
+*M3/1
+*met(O|3/2)
+=1-
+!LO:TX:Z=12:t=mensuration Cut Circle 3/2
+1.A
+2B-\
+1c
+=2
+[0.A
+=3
+0.A]
+=4
+1B-
+1B-
+1A
+=5
+0G
+1G
+=6
+0.Al
+==
+*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: V=start of tuplet marker
+!!!RDF**kern: Z=end of tuplet marker
+!!!ENC: Victoria Chang 2012/02/27
+!!!END: 2012/02/27/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/06/27/
+!!attribution-level@Jos: 4a (the rest [double question mark])
+!!!ONB: Translated from MusicXML and edited on 2012/06/27/ by Craig Sapp
+!!muse2ps: C^@{COA}?^i2I150v150Q16z18

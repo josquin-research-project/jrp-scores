@@ -1,0 +1,240 @@
+!!!!SEGMENT: Jos/Jos2612-Salva_nos_domine.krn
+!!!COM: Mouton, Jean
+!!!CDT: ~1459-1522/10/30
+!!!COA: Josquin des Prez
+!!!CDT2: ~1450-1521/08/27
+!!!COA2: Antoine de F&eacute;vin
+!!!COA3: Morales
+!!!COA4: Festa
+!!!OTL@@LAT: Salva nos domine
+!!!OTL@ENG: Save us Lord
+!!!AGN: Motet
+!!!SCT: NJE 26.12
+!!!SCA: New Josquin Edition 26.12
+!!!jrpid: Jos2612
+!!!ONB: long name: Salva nos domine vigilantes
+!!!voices: 6
+**kern	**kern	**kern	**kern	**kern	**kern
+*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox
+*I"Bassus2	*I"Bassus	*I"Tenor2	*I"Tenor1	*I"Altus	*I"Superius
+*I'B2	*I'B	*I'T2	*I'T1	*I'A	*I'S
+*clefF4	*clefF4	*clefGv2	*clefGv2	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
+=1-	=1-	=1-	=1-	=1-	=1-
+0GG	1D	0r	0r	0r	0r
+.	2E\	.	.	.	.
+.	[2G\	.	.	.	.
+=2	=2	=2	=2	=2	=2
+1AA	2G\]	0r	0r	0r	0r
+.	2F\	.	.	.	.
+1C	2.G\	.	.	.	.
+.	4F\	.	.	.	.
+=3	=3	=3	=3	=3	=3
+1C	2E\	0G	0r	0r	0r
+.	4D\	.	.	.	.
+.	4C/	.	.	.	.
+2BB/	2D\	.	.	.	.
+[2C/	2E\	.	.	.	.
+=4	=4	=4	=4	=4	=4
+2C/]	2E\	1A	0r	0r	0r
+2D\	2F\	.	.	.	.
+2E\	2G\	1c	.	.	.
+2F\	2A\	.	.	.	.
+=5	=5	=5	=5	=5	=5
+2E\	2G\	1.c	0r	0r	0g
+2.C/	2.E\	.	.	.	.
+4D\	4F\	.	.	.	.
+2E\	2G\	2B\	.	.	.
+=6	=6	=6	=6	=6	=6
+0AA	2F\	2c\	0c	0r	1a
+.	2E\	2d\	.	.	.
+.	1A	2e\	.	.	[1cc
+.	.	2f\	.	.	.
+=7	=7	=7	=7	=7	=7
+0r	1G	0g	0d	0g	2cc\]
+.	.	.	.	.	4b\
+.	.	.	.	.	4a/
+.	1r	.	.	.	1b
+=8	=8	=8	=8	=8	=8
+1.F	1r	1.c	0f	0a	1cc
+.	[1c	.	.	.	[1a
+2F\	.	2A/	.	.	.
+=9	=9	=9	=9	=9	=9
+1F	2c\]	1A	0f	0cc	2a/]
+.	2A\	.	.	.	4g/
+.	.	.	.	.	4f/
+1F	2.A\	1F	.	.	1a
+.	8G\L	.	.	.	.
+.	8F\J	.	.	.	.
+=10	=10	=10	=10	=10	=10
+2.C/	1E	1G	1r	0cc	1g
+4D\	.	.	.	.	.
+1E	1C	1G	[1g	.	1e
+=11	=11	=11	=11	=11	=11
+0D	1.F	0A	2g\]	1r	1r
+.	.	.	2f\	.	.
+.	.	.	1f	[1dd	[1a
+.	2G\	.	.	.	.
+=12	=12	=12	=12	=12	=12
+1AA	0A	1r	0e	2dd\]	1a]
+.	.	.	.	2cc\	.
+1r	.	1e	.	1cc	1a
+=13	=13	=13	=13	=13	=13
+0GG	2r	1d	1r	0b	1b
+.	2G\	.	.	.	.
+.	1G	1B	1d	.	[1g
+=14	=14	=14	=14	=14	=14
+1C	1E	2.c\	1.e	1r	1g]
+.	.	4d\	.	.	.
+1AA	1C	1e	.	1a	[1cc
+.	.	.	2c\	.	.
+=15	=15	=15	=15	=15	=15
+0GG	0G	2r	0d	1.b	2cc\]
+.	.	2g\	.	.	4b\
+.	.	.	.	.	4a/
+.	.	1g	.	.	2.b\
+.	.	.	.	2g/	.
+.	.	.	.	.	8a/L
+.	.	.	.	.	8b/J
+=16	=16	=16	=16	=16	=16
+0r	1r	1e	0c	0a	2cc\
+.	.	.	.	.	2c/
+.	1A	2.c\	.	.	2e/
+.	.	.	.	.	2f/
+.	.	4d\	.	.	.
+=17	=17	=17	=17	=17	=17
+0r	1B	2e\	0r	0g	1g
+.	.	2d\	.	.	.
+.	1B	1g	.	.	2r
+.	.	.	.	.	2d/
+=18	=18	=18	=18	=18	=18
+1C	0c	1g	0r	0r	2.e/
+.	.	.	.	.	4f/
+2.E\	.	1G	.	.	1g
+4F\	.	.	.	.	.
+=19	=19	=19	=19	=19	=19
+1G	0r	2.B\	0r	0r	2g/
+.	.	.	.	.	2d/
+.	.	4c\	.	.	.
+2F\	.	1d	.	.	2.f/
+2D\	.	.	.	.	.
+.	.	.	.	.	4g/
+=20	=20	=20	=20	=20	=20
+1F	1r	2c\	1c	0r	1a
+.	.	2A/	.	.	.
+2E\	1C	1c	2e\	.	2g/
+2A\	.	.	2f\	.	2a/
+=21	=21	=21	=21	=21	=21
+2G\	2.E\	1B	0g	1g	1b
+2G\	.	.	.	.	.
+.	4F\	.	.	.	.
+2G\	1G	2r	.	2b\	1g
+4F\	.	2G/	.	2cc\	.
+4E\	.	.	.	.	.
+=22	=22	=22	=22	=22	=22
+0D	2r	1.A	2f\	0dd	1r
+.	1F	.	2d\	.	.
+.	.	.	1f	.	[1a
+.	2D\	2B\	.	.	.
+=23	=23	=23	=23	=23	=23
+1r	1A	1c	0e	2cc\	2a/]
+.	.	.	.	2a/	2a/
+1AA	1E	2A/	.	1cc	1a
+.	.	2A/	.	.	.
+=24	=24	=24	=24	=24	=24
+1.E	2r	1B	1r	0b	1g
+.	2G\	.	.	.	.
+.	2G\	1G	1e	.	2r
+2E\	2E\	.	.	.	2g/
+=25	=25	=25	=25	=25	=25
+1F	1A	0r	1c	1r	2f/
+.	.	.	.	.	2f/
+[1E	[1G	.	1e	1b	1g
+=26	=26	=26	=26	=26	=26
+2E\]	1G]	1r	0g	1g	1.e
+2E\	.	.	.	.	.
+1E	1r	1G	.	1b	.
+.	.	.	.	.	2e/
+=27	=27	=27	=27	=27	=27
+0D	2r	1.A	2f\	0dd	1f
+.	1F	.	2d\	.	.
+.	.	.	1f	.	1d
+.	4E\	2B\	.	.	.
+.	4D\	.	.	.	.
+=28	=28	=28	=28	=28	=28
+0r	0A	1c	1e	2cc\	2r
+.	.	.	.	2a/	2e/
+.	.	2A/	1r	1cc	2e/
+.	.	2A/	.	.	2e/
+=29	=29	=29	=29	=29	=29
+1GG	1G	1B	1d	1b	2.g/
+.	.	.	.	.	4a/
+2GG/	2r	1G	2d\	1r	2b\
+2GG/	2G\	.	2d\	.	2b\
+=30	=30	=30	=30	=30	=30
+1AA	2E\	0r	1.c	1a	1cc
+.	2E\	.	.	.	.
+1FF	1F	.	.	2a/	1a
+.	.	.	4B\	2a/	.
+.	.	.	4A/	.	.
+=31	=31	=31	=31	=31	=31
+1GG	1D	1d	1B	1.g	1r
+1r	1C	2e\	1c	.	1g
+.	.	2e\	.	4f/	.
+.	.	.	.	4e/	.
+=32	=32	=32	=32	=32	=32
+1FF	2C/	1c	1r	1f	1a
+.	2D\	.	.	.	.
+1C	[1E	1c	1c	1g	2.g/
+.	.	.	.	.	4a/
+=33	=33	=33	=33	=33	=33
+2.GG/	2E\]	0B	0d	1r	1b
+.	4D\	.	.	.	.
+4AA/	4C/	.	.	.	.
+1BB	1D	.	.	1g	1r
+=34	=34	=34	=34	=34	=34
+1AA	1E	1r	1c	0a	0cc
+1FF	1F	2.c\	1A	.	.
+.	.	4d\	.	.	.
+=35	=35	=35	=35	=35	=35
+1GG	2r	4e\	0B	1g	1b
+.	.	4d\	.	.	.
+.	2D\	2.g\	.	.	.
+1r	2.G\	.	.	1e	1g
+.	.	4f\	.	.	.
+.	.	[2e\	.	.	.
+.	4G\	.	.	.	.
+=36	=36	=36	=36	=36	=36
+1D	2F\	2e\]	[0A	0f	1.a
+.	2E\	4d\	.	.	.
+.	.	4c\	.	.	.
+1D	1D	1d	.	.	.
+.	.	.	.	.	2b\
+=37	=37	=37	=37	=37	=37
+1AA	1A	[0el	0A]	[0el	1cc
+1AA	1A	.	.	.	2a/
+.	.	.	.	.	[2cc\
+=38	=38	=38	=38	=38	=38
+0AA	[0El	0e_	0c	0e_	4cc\]
+.	.	.	.	.	4b\
+.	.	.	.	.	4a/
+.	.	.	.	.	4g/
+.	.	.	.	.	1a
+=39	=39	=39	=39	=39	=39
+0EEl	0E]	0e]	0Bl	0e]	0gl
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Victoria Chang
+!!!END: 2011/03/23/
+!!!SMS1: Lowinsky, The Medici Codex of 1518: A Choirbook of Motets 
+!!!SMS2: Dedicated to Lorenzo deMedici, Duke of Urbino, MRM 4, p. 227
+!!!EED: Jesse Rodin
+!!!EEV: 2011/04/03/
+!!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
+!!!ONB: Translated from MusicXML and edited on 2011/04/03/ by Craig Sapp
+!!muse2ps: C^@{COM}{/}@{COA}?^I150v100,100,100,100,100,130c100Q16z18

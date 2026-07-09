@@ -1,0 +1,202 @@
+!!!!SEGMENT: Jos/Jos1810-Sit_nomen_domini--Bologna_Q34.krn
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Sit nomen domini
+!!!SMS: Bologna Q34
+!!!AGN: Motet
+!!!SCT: NJE 18.10
+!!!SCA: New Josquin Edition 18.10
+!!!jrpid: Jos1810
+!!!voices: 10
+**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
+*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"10	*I"9	*I"8	*I"7	*I"6	*I"5	*I"4	*I"3	*I"2	*I"1
+*I'10	*I'9	*I'8	*I'7	*I'6	*I'5	*I'4	*I'3	*I'2	*I'1
+*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*clefGv2	*clefGv2	*clefGv2	*clefGv2	*clefGv2	*clefG2	*clefG2	*clefG2	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
+*a:	*a:	*a:	*a:	*a:	*a:	*a:	*a:	*a:	*a:
+*M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:Z=18:t=10-ex-1 canon (lower vv.&colon; at the unison; upper vv.&colon; inverted at the 2nd)
+0r	0r	0r	0r	1d	0r	0r	0r	0r	0r
+.	.	.	.	2d	.	.	.	.	.
+.	.	.	.	2d	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+0r	0r	0r	0r	2.c	0r	0r	0r	0r	1e
+.	.	.	.	4B	.	.	.	.	.
+.	.	.	.	2.A	.	.	.	.	2e
+.	.	.	.	.	.	.	.	.	2e
+.	.	.	.	4G	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+0r	0r	0r	1d	2F	0r	0r	0r	0r	2.f
+.	.	.	.	1f	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	4g
+.	.	.	2d	.	.	.	.	.	2.a
+.	.	.	2d	2f	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	4b
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+0r	0r	0r	2.c	2.e	0r	0r	0r	1e	2cc
+.	.	.	.	.	.	.	.	.	1c
+.	.	.	4B	4d	.	.	.	.	.
+.	.	.	2.A	2.c	.	.	.	2e	.
+.	.	.	.	.	.	.	.	2e	2c
+.	.	.	4G	4B	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+0r	0r	1d	2F	4A	0r	0r	0r	2.f	2.d
+.	.	.	.	4G	.	.	.	.	.
+.	.	.	1f	4F	.	.	.	.	.
+.	.	.	.	4E	.	.	.	4g	4e
+.	.	2d	.	1D	.	.	.	2.a	2.f
+.	.	2d	2f	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4b	4g
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+0r	0r	2.c	2.e	2.A	0r	0r	1e	2cc	4a
+.	.	.	.	.	.	.	.	.	4b
+.	.	.	.	.	.	.	.	1c	4cc
+.	.	4B	4d	4B	.	.	.	.	4dd
+.	.	2.A	2.c	4c	.	.	2e	.	1ee
+.	.	.	.	4d	.	.	.	.	.
+.	.	.	.	2e	.	.	2e	2c	.
+.	.	4G	4B	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+0r	1d	2F	4A	2r	0r	0r	2.f	2.d	2.a
+.	.	.	4G	.	.	.	.	.	.
+.	.	1f	4F	1A	.	.	.	.	.
+.	.	.	4E	.	.	.	4g	4e	4g
+.	2d	.	1D	.	.	.	2.a	2.f	4f
+.	.	.	.	.	.	.	.	.	4e
+.	2d	2f	.	2a	.	.	.	.	2d
+.	.	.	.	.	.	.	4b	4g	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+0r	2.c	2.e	2.A	2r	0r	1e	2cc	4a	2r
+.	.	.	.	.	.	.	.	4b	.
+.	.	.	.	1A	.	.	1c	4cc	1a
+.	4B	4d	4B	.	.	.	.	4dd	.
+.	2.A	2.c	4c	.	.	2e	.	1ee	.
+.	.	.	4d	.	.	.	.	.	.
+.	.	.	2e	2c	.	2e	2c	.	2A
+.	4G	4B	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+1d	2F	4A	2r	2f	0r	2.f	2.d	2.a	2r
+.	.	4G	.	.	.	.	.	.	.
+.	1f	4F	1A	1F	.	.	.	.	1a
+.	.	4E	.	.	.	4g	4e	4g	.
+2d	.	1D	.	.	.	2.a	2.f	4f	.
+.	.	.	.	.	.	.	.	4e	.
+2d	2f	.	2a	2A	.	.	.	2d	2f
+.	.	.	.	.	.	4b	4g	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2.c	2.e	2.A	2r	2A	1e	2cc	4a	2r	2c
+.	.	.	.	.	.	.	4b	.	.
+.	.	.	1A	2A	.	1c	4cc	1a	1cc
+4B	4d	4B	.	.	.	.	4dd	.	.
+2.A	2.c	4c	.	1e	2e	.	1ee	.	.
+.	.	4d	.	.	.	.	.	.	.
+.	.	2e	2c	.	2e	2c	.	2A	2a
+4G	4B	.	.	.	.	.	.	.	.
+=!|:	=!|:	=!|:	=!|:	=!|:	=!|:	=!|:	=!|:	=!|:	=!|:
+2F	4A	2r	2f	1d	2.f	2.d	2.a	2r	2a
+.	4G	.	.	.	.	.	.	.	.
+1f	4F	1A	1F	.	.	.	.	1a	2a
+.	4E	.	.	.	4g	4e	4g	.	.
+.	1D	.	.	2d	2.a	2.f	4f	.	1d
+.	.	.	.	.	.	.	4e	.	.
+2f	.	2a	2A	2d	.	.	2d	2f	.
+.	.	.	.	.	4b	4g	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+2.e	2.A	2r	2A	2.c	2cc	4a	2r	2c	1e
+.	.	.	.	.	.	4b	.	.	.
+.	.	1A	2A	.	1c	4cc	1a	1cc	.
+4d	4B	.	.	4B	.	4dd	.	.	.
+2.c	4c	.	1e	2.A	.	1ee	.	.	2e
+.	4d	.	.	.	.	.	.	.	.
+.	2e	2c	.	.	2c	.	2A	2a	2e
+4B	.	.	.	4G	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+4A	2r	2f	1d	2F	2.d	2.a	2r	2a	2.f
+4G	.	.	.	.	.	.	.	.	.
+4F	1A	1F	.	1f	.	.	1a	2a	.
+4E	.	.	.	.	4e	4g	.	.	4g
+1D	.	.	2d	.	2.f	4f	.	1d	2.a
+.	.	.	.	.	.	4e	.	.	.
+.	2a	2A	2d	2f	.	2d	2f	.	.
+.	.	.	.	.	4g	.	.	.	4b
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+2.A	2r	2A	2.c	2.e	4a	2r	2c	1e	2cc
+.	.	.	.	.	4b	.	.	.	.
+.	1A	2A	.	.	4cc	1a	1cc	.	1c
+4B	.	.	4B	4d	4dd	.	.	.	.
+4c	.	1e	2.A	2.c	1ee	.	.	2e	.
+4d	.	.	.	.	.	.	.	.	.
+2e	2c	.	.	.	.	2A	2a	2e	2c
+.	.	.	4G	4B	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+2r	2f	1d	2F	4A	2.a	2r	2a	2.f	2.d
+.	.	.	.	4G	.	.	.	.	.
+1A	1F	.	1f	4F	.	1a	2a	.	.
+.	.	.	.	4E	4g	.	.	4g	4e
+.	.	2d	.	1D	4f	.	1d	2.a	2.f
+.	.	.	.	.	4e	.	.	.	.
+2a	2A	2d	2f	.	2d	2f	.	.	.
+.	.	.	.	.	.	.	.	4b	4g
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+2r	2A	2.c	2.e	2.A	2r	2c	1e	2cc	4a
+.	.	.	.	.	.	.	.	.	4b
+1A	2A	.	.	.	1a	1cc	.	1c	4cc
+.	.	4B	4d	4B	.	.	.	.	4dd
+.	1e	2.A	2.c	4c	.	.	2e	.	1ee
+.	.	.	.	4d	.	.	.	.	.
+2c	.	.	.	2e	2A	2a	2e	2c	.
+.	.	4G	4B	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2f	1d	2F	4A	2r	2r	2a	2.f	2.d	2.a
+.	.	.	4G	.	.	.	.	.	.
+1F	.	1f	4F	1A	1a	2a	.	.	.
+.	.	.	4E	.	.	.	4g	4e	4g
+.	2d	.	1D	.	.	1d	2.a	2.f	4f
+.	.	.	.	.	.	.	.	.	4e
+2A	2d	2f	.	2a	2f	.	.	.	2d
+.	.	.	.	.	.	.	4b	4g	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+2A	2.c	2.e	2.A	2r	2c	1e	2cc	4a	2r
+.	.	.	.	.	.	.	.	4b	.
+2A	.	.	.	1A	1cc	.	1c	4cc	1a
+.	4B	4d	4B	.	.	.	.	4dd	.
+1e	2.A	2.c	4c	.	.	2e	.	1ee	.
+.	.	.	4d	.	.	.	.	.	.
+.	.	.	2e	2c	2a	2e	2c	.	2A
+.	4G	4B	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+1d	2F	4A	2r	2f	2a	2.f	2.d	2.a	2r
+.	.	4G	.	.	.	.	.	.	.
+.	1f	4F	1A	1F	2a	.	.	.	1a
+.	.	4E	.	.	.	4g	4e	4g	.
+2d	.	1D	.	.	1d	2.a	2.f	4f	.
+.	.	.	.	.	.	.	.	4e	.
+2d	2f	.	2a	2A	.	.	.	2d	2f
+.	.	.	.	.	.	4b	4g	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+2.c	2.e	2.A	2r	2A	1e	2cc	4a	2r	2c
+.	.	.	.	.	.	.	4b	.	.
+.	.	.	1A	2A	.	1c	4cc	1a	1cc
+4B	4d	4B	.	.	.	.	4dd	.	.
+2.A	2.c	4c	.	1e	2e	.	1ee	.	.
+.	.	4d	.	.	.	.	.	.	.
+.	.	2e	2c	.	2e	2c	.	2A	2a
+4G	4B	.	.	.	.	.	.	.	.
+!!LO:TX:rj:Z=18:t=It is not clear how the piece is meant to end.
+=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!system-decoration: [*]
+!!!ENC: Jesse Rodin 23 October 2020
+!!!END: 2020/10/23
+!!!EED: Jesse Rodin
+!!!EEV: 2021/04/28
+!!attribution-level@Jos: 4a (the rest [double question mark])
+!!!ONB: Translated from MusicXML and edited on 2021/04/28 by Craig Sapp
+!!muse2ps: C^@{COA}?? (@{SMS})^i2I150v75,75,75,75,75,75,75,75,75,100z18c120

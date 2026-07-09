@@ -1,0 +1,213 @@
+!!!!SEGMENT: Oke/Oke3010-Les_desleaulx.krn
+!!!COM: Okeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OTL: Les desl&eacute;aulx
+!!!AGN: Song; Chanson
+!!!SCA: Oke3010
+!!!jrpid: Oke3010
+!!!voices: 3
+**kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
+*staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
+*Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*
+*I"Contra	*	*	*	*I"Tenor	*	*	*	*I"Discantus	*	*	*
+*I'C	*	*	*	*I'T	*	*	*	*I'D	*	*	*
+*clefF4	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*
+*k[]	*	*	*	*k[]	*	*	*	*k[]	*	*	*
+*M2/1	*	*	*	*M2/1	*	*	*	*M2/1	*	*	*
+*met(C)	*	*	*	*met(C)	*	*	*	*met(C)	*	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!!LO:TX:Z=12:t=Form&colon; rondeau
+0A	Les,	Je,	Nul,	1D	Les	Je	Nul	1d	Les	Je	Nul
+.	.	.	.	2F	des-	ne	ne	2c	des-	ne	ne
+.	.	.	.	2D	-l&eacute;-	scais	doit	2d	-l&eacute;-	scais	doit
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+2r	.	.	.	1E	-aulx	par	par-	2B	-aulx	par	par-
+2AA	Les	je	nul	.	.	.	.	2c	.	.	.
+2BB	des-	ne	ne	1D	.	.	.	2d	.	.	.
+2D	-l&eacute;-	scais	doit	.	.	.	.	2f	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+1AA	-aulx	par	par-	2.A	ont	quel	-ler	2e	.	.	.
+.	.	.	.	.	.	.	.	2.a	ont	quel	-ler
+.	.	.	.	4B	.	.	.	.	.	.	.
+1A	ont	quel	-ler	1c	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4g	.	.	.
+.	.	.	.	.	.	.	.	2e	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+1D	la	.	.	1d	la	a-	sans	2f	la	a-	sans
+.	.	.	.	.	.	.	.	2d	.	.	.
+2r	.	.	.	2B	sai-	-choi-	moi-	2.g	sai-	-choi-	moi-
+[2C	sai-	a-	sans	2G	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4f	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+2C]	.	.	.	2A	.	.	.	4e	.	.	.
+.	.	.	.	.	.	.	.	4d	.	.	.
+2D	.	-choi-	moi-	2F	.	.	.	1d	.	.	.
+1AA	-son	-son	-son	1E	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2c#i	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+2r	.	.	.	0D	-son	-son	-son	1d	-son	-son	-son
+2A	Et	For-	De	.	.	.	.	.	.	.	.
+2B	des	-tun-	paour	.	.	.	.	2r	.	.	.
+2B	bons	-e ain-	d'a-	.	.	.	.	2d	Et	For-	De
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+2c	nul-	-si	.	2r	.	.	.	2e	des	-tun-	paour
+2c	-ly	hault	-voir,	2C	Et	For-	De	2e	bons	-e ain-	d'a-
+1A	ne,	les,	.	2D	des	-tun-	paour	2f	nul-	-si	-voir
+.	.	.	.	2D	bons	-e ain-	d'a-	2f	-ly	hault	re-
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+2r	.	.	.	2E	nul-	-si	-voir	2e	ne	les	-prou-
+2G	Et	For-	De	2E	-ly	hault	re-	1c	tient	seur-	-che ou
+2A	des	-tun-	paour	2F	ne	les	-prou-	.	.	.	.
+2A	bons	-e ain-	d'a-	2F	tient	seur-	-che ou	2d	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2B	nul-	-si	-voir	2E	com-	-mon-	hon-	2.e	com-	-mon-	hon-
+4c	-ly	hault	re-	1C	.	.	.	.	.	.	.
+4d	.	.	.	.	.	.	.	8fL	.	.	.
+.	.	.	.	.	.	.	.	8gJ	.	.	.
+2e	ne	les	-prouche	.	.	.	.	2.a	.	.	.
+2d	.	.	.	2D	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	8gL	.	.	.
+.	.	.	.	.	.	.	.	8aJ	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2r	.	.	.	1E	.	.	.	2g	.	.	.
+2c	tient	seur-	ou	.	.	.	.	2e	.	.	.
+1d	.	.	.	1D	.	.	.	2f	.	.	.
+.	.	.	.	.	.	.	.	2d	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+1r	.	.	.	2A	.	.	.	2c	.	.	.
+.	.	.	.	2B	.	.	.	2d	.	.	.
+[1c	com-	-mon-	hon-	[1A	.	.	.	2.f	.	.	.
+.	.	.	.	.	.	.	.	4e	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+2c]	.	.	.	2A]	.	.	.	2f	.	.	.
+2B	.	.	.	2G	.	.	.	1e	.	.	.
+1A	.	.	.	1F	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2d	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+1GN	-pte,	-te&	-te;	1EN	-pte,	-te&	-te;	0eN	-pte,	-te&	-te;
+1A	Mais	.	Pour	1c	Mais	.	Pour	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+1E	Bon	.	ce	2B	Bon	.	ce	1r	.	.	.
+.	.	.	.	2B	Droit	.	me	.	.	.	.
+2r	.	.	.	2A	de	.	tais,	1f	Mais	.	Pour
+2D	Droit	.	me	[2d	.	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+1A	.	.	tais,	4d]	.	.	.	2e	Bon	.	ce
+.	.	.	.	4B	.	.	.	.	.	.	.
+.	.	.	.	2c#i	.	.	.	2e	Droit	.	me
+1D	.	.	.	2.d	trop	.	mais	2d	de	.	tais,
+.	.	.	.	.	.	.	.	2f	trop	.	mais
+.	.	.	.	4B	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2r	.	.	.	2.c	se	.	fin	2e	.	.	.
+2AA	de	.	mais	.	.	.	.	2c	se	.	fin
+.	.	.	.	4A	.	.	.	.	.	.	.
+1D	.	.	.	2B	.	.	.	2d	.	.	.
+.	.	.	.	2A	mes-	.	de	2f	mes-	.	de
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+1A	trop	.	fin	2c	-con-	.	com-	2e	-con-	.	com-
+.	.	.	.	2A	.	.	.	1a	.	.	.
+1E	.	.	.	1B	-te,	.	-pte,	.	.	.	.
+.	.	.	.	.	.	.	.	2g	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+1D	.	.	.	2r	.	.	.	2.a	.	.	.
+.	.	.	.	2f	mes-	.	de	.	.	.	.
+.	.	.	.	.	.	.	.	4f	.	.	.
+2r	.	.	.	2e	-con-	.	comp-	2g	.	.	.
+2AA	se	.	de	2c	.	.	.	2e	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+1D	.	.	.	2.d	.	.	.	2d	.	.	.
+.	.	.	.	.	.	.	.	2f	.	.	.
+.	.	.	.	4c	.	.	.	.	.	.	.
+1r	.	.	.	2A	.	.	.	2e	-te,	.	-pte,
+.	.	.	.	2G	.	.	.	[2g	mes-	.	comp-
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+1GG	mes-	.	com-	1B-i	.	.	.	4g]	.	.	.
+.	.	.	.	.	.	.	.	4f	.	.	.
+.	.	.	.	.	.	.	.	4e	.	.	.
+.	.	.	.	.	.	.	.	4d	.	.	.
+[1AA	-con-	.	.	2.A	.	.	.	2f	-con-	.	.
+.	.	.	.	.	.	.	.	2e	-te	.	-te
+.	.	.	.	4G	.	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+1AA]	.	.	.	4F	.	.	.	2r	.	.	.
+.	.	.	.	4D	.	.	.	.	.	.	.
+.	.	.	.	2E	-te	.	-te	2c	De	.	Tout
+1D	-te	.	-pte	2r	.	.	.	2d	souf-	.	va
+.	.	.	.	2B	De	.	Tout	4c	.	.	.
+.	.	.	.	.	.	.	.	4d	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+1A	.	.	.	2c	souf-	.	va	2e	.	.	sans
+.	.	.	.	4B	.	.	.	4d	.	.	.
+.	.	.	.	4c	.	.	.	4e	.	.	.
+2r	.	.	.	2d	-frir	.	sans	2f	-frir	.	rime,
+[2B-i	De	.	Tout	2f	.	.	.	2d	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+4B-]	.	.	.	1e	si	.	.	2r	.	.	.
+4G	.	.	.	.	.	.	.	.	.	.	.
+2A	souf-	.	va	.	.	.	.	2c	si	.	Tout
+1D	-frir	.	sans	2.f	grant	.	ri-	2d	grant	.	va
+.	.	.	.	.	.	.	.	2B	.	.	sans
+.	.	.	.	4d	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+2r	.	.	.	1e	.	.	-me	2c	.	.	ri-
+2E	si	.	rim-	.	.	.	.	4B	.	.	.
+.	.	.	.	.	.	.	.	4c	.	.	.
+2F	grant	.	-e et	2r	.	.	.	2d	.	.	.
+2D	.	.	.	[2A	des-	.	et	2f	.	.	-me et
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+1C	.	.	.	4A]	.	.	.	2e	.	.	sans
+.	.	.	.	4G	.	.	.	.	.	.	.
+.	.	.	.	2E	.	.	.	2c	des-	.	.
+2r	.	.	.	2F	-rai-	.	sans	2d	.	.	.
+[2A	des-	.	sans	4E	.	.	.	4c	.	.	.
+.	.	.	.	4D	.	.	.	4d	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+4A]	.	.	.	1C	-son,	.	.	2e	.	.	.
+4G	.	.	.	.	.	.	.	.	.	.	.
+2E	.	.	.	.	.	.	.	2A	-rai-	.	rai-
+2G	.	.	.	2r	.	.	.	2B	.	.	.
+2F	.	.	.	2A	des-	.	et	2c	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+1D	-rai-	.	rai-	2B	.	.	sans	2d	.	.	.
+.	.	.	.	4A	.	.	.	2f	.	.	.
+.	.	.	.	4B	.	.	.	.	.	.	.
+1C	-son,	.	-son,	2.c	.	.	.	2e	-son,	.	-son,
+.	.	.	.	.	.	.	.	[2a	des-	.	et
+.	.	.	.	4A	.	.	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+2D	des-	.	sans	2B	.	.	.	4a]	.	.	.
+.	.	.	.	.	.	.	.	4g	.	.	.
+2E	.	.	.	2c	.	.	.	2e	.	.	.
+2D	.	.	.	2d	.	.	.	2f	.	.	sans
+2BB	.	.	.	2G	.	.	.	2d	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+2AA	.	.	.	2.A	.	.	.	1c	.	.	.
+2.C	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8GL	.	.	.	.	.	.	.
+.	.	.	.	8FJ	.	.	.	.	.	.	.
+.	.	.	.	2E	.	.	.	2.g	-rai-	.	rai-
+4D	.	.	.	.	.	.	.	.	.	.	.
+2E	.	.	.	2C	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4f	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+2AA	-rai-	.	rai-	2F	-rai-	.	rai-	4e	.	.	.
+.	.	.	.	.	.	.	.	4d	.	.	.
+2BB	.	.	.	2D	.	.	.	1d	.	.	.
+1AA	.	.	.	1E	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2c#i	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+0Al	-son.	.	-son.	0Dl	-son.	.	-son.	0dl	-son.	.	-son.
+==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l = long note in original notation
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: V = start of tuplet marker
+!!!RDF**kern: Z = end of tuplet marker
+!!!RDF**kern: N = signum congruentiae
+!!!ENC: Jesse Rodin 17 April 2018
+!!!END: 2018/07/16/
+!!!EED: Jesse Rodin
+!!!EEV: 2018/07/23/
+!!!ONB: Translated from MusicXML and edited on 2018/07/23/ by Craig Sapp
+!!muse2ps: C^@{COM}\nEd. @{EED}^i2I150v95,95,150Q16z18l2650t120c80

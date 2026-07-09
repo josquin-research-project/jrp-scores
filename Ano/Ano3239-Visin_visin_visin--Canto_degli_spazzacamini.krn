@@ -1,0 +1,118 @@
+!!!!SEGMENT: Ano/Ano3239-Visin_visin_visin--Canto_degli_spazzacamini.krn
+!!!COM: Anonymous
+!!!OTL: Visin visin visin
+!!!AGN: Motet
+!!!SCT: Ano3239
+!!!SCA: Ano3239
+!!!jrpid: Ano3239
+!!!SMS: Canto degli spazzacamini
+!!!folio:
+!!!voices: 4
+**kern	**text	**text	**text	**text	**text	**kern	**text	**text	**text	**text	**text	**kern	**text	**text	**text	**text	**text	**kern	**text	**text	**text	**text	**text
+*staff4	*staff4	*staff4	*staff4	*staff4	*staff4	*staff3	*staff3	*staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1	*staff1	*staff1
+*Ivox	*	*	*	*	*	*Ivox	*	*	*	*	*	*Ivox	*	*	*	*	*	*Ivox	*	*	*	*	*
+*I"Bassus	*	*	*	*	*	*I"Altus	*	*	*	*	*	*I"Tenor	*	*	*	*	*	*I"Superius	*	*	*	*	*
+*I'B	*	*	*	*	*	*I'A	*	*	*	*	*	*I'T	*	*	*	*	*	*I'S	*	*	*	*	*
+*clefF4	*	*	*	*	*	*clefGv2	*	*	*	*	*	*clefGv2	*	*	*	*	*	*clefG2	*	*	*	*	*
+*k[]	*	*	*	*	*	*k[]	*	*	*	*	*	*k[]	*	*	*	*	*	*k[]	*	*	*	*	*
+*M6/2	*	*	*	*	*	*M6/2	*	*	*	*	*	*M6/2	*	*	*	*	*	*M6/2	*	*	*	*	*
+*met(C.)	*	*	*	*	*	*met(C.)	*	*	*	*	*	*met(C.)	*	*	*	*	*	*met(C.)	*	*	*	*	*
+2r	.	.	.	.	.	2r	.	.	.	.	.	2r	.	.	.	.	.	2r	.	.	.	.	.
+2r	.	.	.	.	.	2r	.	.	.	.	.	2r	.	.	.	.	.	2r	.	.	.	.	.
+2G	Vi-	&	&	&	&	2d	Vi-	&	&	&	&	2g	Vi-	&	&	&	&	2g	Vi-	&	&	&	&
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+1D	-sin,	.	.	.	.	1d	-sin,	.	.	.	.	1f	-sin,	.	.	.	.	1a	-sin,	.	.	.	.
+2E	vi-	.	.	.	.	2B	vi-	.	.	.	.	2e	vi-	.	.	.	.	2g	vi-	.	.	.	.
+1D	-sin,	.	.	.	.	1A	-sin,	.	.	.	.	1f	-sin,	.	.	.	.	1a	-sin,	.	.	.	.
+2D	vi-	.	.	.	.	2A	vi-	.	.	.	.	2f	vi-	.	.	.	.	2a	vi-	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1G	-sin,	.	.	.	.	1B	-sin,	.	.	.	.	2.g	-sin,	.	.	.	.	2.b	-sin,	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	4f	.	.	.	.	.	4a	.	.	.	.	.
+2C	.	.	.	.	.	2c	.	.	.	.	.	2e	.	.	.	.	.	2g	.	.	.	.	.
+1C	Chi	.	.	.	.	1c	Chi	.	.	.	.	1e	Chi	.	.	.	.	1g	Chi	.	.	.	.
+2C	vuol	.	.	.	.	2c	vuol	.	.	.	.	2c	vuol	.	.	.	.	2g	vuol	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+1C	spaz-	.	.	.	.	1g	spaz-	.	.	.	.	1c	spaz-	.	.	.	.	1cc	spaz-	.	.	.	.
+2G	-zar	.	.	.	.	2g	-zar	.	.	.	.	2d	-zar	.	.	.	.	2b	-zar	.	.	.	.
+2C	.	.	.	.	.	4e	.	.	.	.	.	2e	.	.	.	.	.	2cc	.	.	.	.	.
+.	.	.	.	.	.	4c	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+1D	ca-	.	.	.	.	1d	ca-	.	.	.	.	1f#i	ca-	.	.	.	.	1a	ca-	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+1.GG	-min?	.	.	.	.	[0.d	-min?	.	.	.	.	[0.g	-min?	.	.	.	.	[0.g	-min?	.	.	.	.
+[1.G	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+1.G]	.	.	.	.	.	1.d]	.	.	.	.	.	1.g]	.	.	.	.	.	1.g]	.	.	.	.	.
+2r	.	.	.	.	.	2r	.	.	.	.	.	2r	.	.	.	.	.	2r	.	.	.	.	.
+2r	.	.	.	.	.	2r	.	.	.	.	.	2r	.	.	.	.	.	2r	.	.	.	.	.
+2G	Al-	Se	La	Ca-	Ca-	2d	Al-	Se	La	Ca-	Ca-	2g	Al-	Se	La	Ca-	Ca-	2g	Al-	Se	La	Ca-	Ca-
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+1G	-li	vi	no-	-min	-min	1B	-li	vi	no-	-min	-min	1g	-li	vi	no-	-min	-min	1b	-li	vi	no-	-min	-min
+2A	ca-	fus-	-stra e	che	quan-	2c	ca-	fus-	-stra e	che	quan-	2f	ca-	fus-	-stra e	che	quan-	2a	ca-	fus-	-stra e	che	quan-
+2G	-min,	-se	gen-	non	-do e	2B	-min,	-se	gen-	non	-do e	2g	-min,	-se	gen-	non	-do e	2b	-min,	-se	gen-	non	-do e
+1A	si-	ben	-til	si	spa-	1c	si-	ben	-til	si	spa-	1e	si-	ben	-til	si	spa-	1cc	si-	ben	-til	si	spa-
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+1.D	-gno-	al-	ar-	spa-	-za-	1.A	-gno-	al-	ar-	spa-	-za-	1.d	-gno-	al-	ar-	spa-	-za-	2.dd	-gno-	al-	ar-	spa-	-za-
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4cc	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	2b	.	.	.	.	.
+1D	-ra!	-ta	-te	-za	-to	1A	-ra!	-ta	-te	-za	-to	1d	-ra!	-ta	-te	-za	-to	1a	-ra!	-ta	-te	-za	-to
+2D	Chi	La	L'al-	Pre-	E-	2d	Chi	La	L'al-	Pre-	E-	2d	Chi	La	L'al-	Pre-	E-	2a	Chi	La	L'al-	Pre-	E-
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+1G	li	fu-	-tre	-sto	-gli e	1B	li	fu-	-tre	-sto	-gli e	1d	li	fu-	-tre	-sto	-gli e	1b	li	fu-	-tre	-sto	-gli e
+2E	vu-	-li-	non	s'ap-	pu-	2G	vu-	-li-	non	s'ap-	pu-	2e	vu-	-li-	non	s'ap-	pu-	2g	vu-	-li-	non	s'ap-	pu-
+2D	-ole	-gi-	.	-piz-	-li-	2A	-ole	-gi-	.	-piz-	-li-	2f	-ole	-gi-	.	-piz-	-li-	2a	-ole	-gi-	.	-piz-	-li-
+1G	spaz-	-ne un	son	-za el	-to e	1G	spaz-	-ne un	son	-za el	-to e	1d	spaz-	-ne un	son	-za el	-to e	1b	spaz-	-ne un	son	-za el	-to e
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+1.C	-za-	bra-	co-	fo-	bel-	1.g	-za-	bra-	co-	fo-	bel-	1.c	-za-	bra-	co-	fo-	bel-	1.cc	-za-	bra-	co-	fo-	bel-
+1C	-re,	-zo	-vel,	-co,	-lo,	1g	-re,	-zo	-vel,	-co,	-lo,	1c	-re,	-zo	-vel,	-co,	-lo,	1cc	-re,	-zo	-vel,	-co,	-lo,
+2G	Spaz-	Co-	Che	Non	E	2d	Spaz-	Co-	Che	Non	E	2g	Spaz-	Co-	Che	Non	E	2g	Spaz-	Co-	Che	Non	E
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+1G	-zar	-me	cal-	e	puos-	1B	-zar	-me	cal-	e	puos-	1g	-zar	-me	cal-	e	puos-	1b	-zar	-me	cal-	e	puos-
+2A	den-	den-	-zo-	co-	-si	2c	den-	den-	-zo-	co-	-si	2f	den-	den-	-zo-	co-	-si	2a	den-	den-	-zo-	co-	-si
+2G	-tro e	-tro	-la-	-sa	star-	2B	-tro e	-tro	-la-	-sa	star-	2g	-tro e	-tro	-la-	-sa	star-	2b	-tro e	-tro	-la-	-sa	star-
+1A	di	vi	-ro o	des-	-vi a	1c	di	vi	-ro o	des-	-vi a	1e	di	vi	-ro o	des-	-vi a	1cc	di	vi	-ro o	des-	-vi a
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+1.D	fo-	sal-	sar-	-pia-	la-	1.A	fo-	sal-	sar-	-pia-	la-	1.d	fo-	sal-	sar-	-pia-	la-	2.dd	fo-	sal-	sar-	-pia-	la-
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4cc	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	2b	.	.	.	.	.
+1D	-ra,	-to	-te	-za	-to	1A	-ra,	-to	-te	-za	-to	1d	-ra,	-to	-te	-za	-to	1a	-ra,	-to	-te	-za	-to
+2D	Chi	Tut-	Le	Quan-	Con	2d	Chi	Tut-	Le	Quan-	Con	2d	Chi	Tut-	Le	Quan-	Con	2a	Chi	Tut-	Le	Quan-	Con
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+1G	gli	-ta	son	-do e in	lo	1B	gli	-ta	son	-do e in	lo	1d	gli	-ta	son	-do e in	lo	1b	gli	-ta	son	-do e in	lo
+2E	vuol	la	tut-	cu-	suo	2G	vuol	la	tut-	cu-	suo	2e	vuol	la	tut-	cu-	suo	2g	vuol	la	tut-	cu-	suo
+2D	ben	vol-	-te	-ci-	pig-	2A	ben	vol-	-te	-ci-	pig-	2f	ben	vol-	-te	-ci-	pig-	2a	ben	vol-	-te	-ci-	pig-
+1G	net-	-ta	fric-	-na, al	-na-	1G	net-	-ta	fric-	-na, al	-na-	1d	net-	-ta	fric-	-na, al	-na-	1b	net-	-ta	fric-	-na, al	-na-
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+1.C	-ta-	spa-	-tel,	cuo-	-tel-	1.g	-ta-	spa-	-tel,	cuo-	-tel-	1.c	-ta-	spa-	-tel,	cuo-	-tel-	1.cc	-ta-	spa-	-tel,	cuo-	-tel-
+1C	-re:	-zo	.	-co	-lo	1g	-re:	-zo	.	-co	-lo	1c	-re:	-zo	.	-co	-lo	1cc	-re:	-zo	.	-co	-lo
+2r	.	.	.	.	.	2r	.	.	.	.	.	2r	.	.	.	.	.	2r	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+2C	Chi	Tan-	Mil-	E	Et	2c	Chi	Tan-	Mil-	E	Et	2e	Chi	Tan-	Mil-	E	Et	2g	Chi	Tan-	Mil-	E	Et
+2C	non	-to e	-le	nec-	far	2c	non	-to e	-le	nec-	far	2e	non	-to e	-le	nec-	far	2g	non	-to e	-le	nec-	far
+2E	ci	di	bel-	-ces-	del	2c	ci	di	bel-	-ces-	del	2e	ci	di	bel-	-ces-	del	2g	ci	di	bel-	-ces-	del
+1D	puo	buo-	-le	-sa-	fi-	1A	puo	buo-	-le	-sa-	fi-	1f	puo	buo-	-le	-sa-	fi-	1a	puo	buo-	-le	-sa-	fi-
+2D	pa-	-no	zit-	-rio	-ga-	2A	pa-	-no	zit-	-rio	-ga-	2f	pa-	-no	zit-	-rio	-ga-	2a	pa-	-no	zit-	-rio	-ga-
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+1G	-ga-	ra-	-tel	gio-	-tel-	1B	-ga-	ra-	-tel	gio-	-tel-	2.g	-ga-	ra-	-tel	gio-	-tel-	2.b	-ga-	ra-	-tel	gio-	-tel-
+.	.	.	.	.	.	.	.	.	.	.	.	4f	.	.	.	.	.	4a	.	.	.	.	.
+2C	.	.	.	.	.	2c	.	.	.	.	.	2e	.	.	.	.	.	2g	.	.	.	.	.
+1C	-re,	-zo	.	-co,	-lo	1c	-re,	-zo	.	-co,	-lo	1e	-re,	-zo	.	-co,	-lo	1g	-re,	-zo	.	-co,	-lo
+2C	Ci	No-	Ci	No-	Col-	2c	Ci	No-	Ci	No-	Col-	2c	Ci	No-	Ci	No-	Col-	2g	Ci	No-	Ci	No-	Col-
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+1C	do-	-stro	fan	-stro	-le	1g	do-	-stro	fan	-stro	-le	1c	do-	-stro	fan	-stro	-le	1cc	do-	-stro	fan	-stro	-le
+2G	-ni	spa-	spa-	spa-	ca-	2g	-ni	spa-	spa-	spa-	ca-	2d	-ni	spa-	spa-	spa-	ca-	2b	-ni	spa-	spa-	spa-	ca-
+2C	pa-	-zar	-zar	-zar	-sta-	4e	pa-	-zar	-zar	-zar	-sta-	2e	pa-	-zar	-zar	-zar	-sta-	2cc	pa-	-zar	-zar	-zar	-sta-
+.	.	.	.	.	.	4c	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+1D	-ne o	ca-	ca-	ca-	-gne o	1d	-ne o	ca-	ca-	ca-	-gne o	1f#i	-ne o	ca-	ca-	ca-	-gne o	1a	-ne o	ca-	ca-	ca-	-gne o
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+1.GG	vin.	-min.	-min.	-min.	vin.	0.dl	vin.	-min.	-min.	-min.	vin.	0.gl	vin.	-min.	-min.	-min.	vin.	0.gl	vin.	-min.	-min.	-min.	vin.
+1.Gl	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Jesse Rodin
+!!!END: 2019/12/08/
+!!!EED: Jesse Rodin
+!!!EEV: 2019/12/10/
+!!!ONB: Translated from MusicXML and edited on 2019/12/10/ by Craig Sapp
+!!muse2ps: C^@{COM}, text by Feo Belcari (1410--84)\n@{SMS}^v140,140,140,150z18l2300t500

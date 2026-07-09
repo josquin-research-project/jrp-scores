@@ -1,0 +1,227 @@
+!!!!SEGMENT: Bus/Bus3028-Je_mesbais_de_vous.krn
+!!!COM: Busnoys, Antoine
+!!!CDT: ~1430///-1492/11/06
+!!!OTL: Je mesbais de vous
+!!!AGN: Song; Chanson
+!!!SCT: Bus3028
+!!!SCA: Bus3028
+!!!jrpid: Bus3028
+!!!voices: 3
+**kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
+*staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
+*Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*
+*I"Contra	*	*	*	*I"Tenor	*	*	*	*I"Discantus	*	*	*
+*I'C	*	*	*	*I'T	*	*	*	*I'D	*	*	*
+*clefGv2	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*
+*k[b-]	*	*	*	*k[b-]	*	*	*	*k[b-]	*	*	*
+*M3/1	*	*	*	*M3/1	*	*	*	*M3/1	*	*	*
+*met(O)	*	*	*	*met(O)	*	*	*	*met(O)	*	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!!LO:TX:Z=12:t=Rondeau
+1.c	Je	Vray	De-	2.F	Je	Vray	De-	0f	Je	Vray	De-
+.	.	.	.	4G	.	.	.	.	.	.	.
+.	.	.	.	2A	.	.	.	.	.	.	.
+2B-	.	.	.	1B-	m'es-	est	-por-	.	.	.	.
+2d	m'es-	est	-por-	.	.	.	.	1g	m'es-	est	-por-
+2e	.	.	.	4A	.	.	.	.	.	.	.
+.	.	.	.	4G	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1.f	-ba-	que	-tez	1F	-ba-	que	-tez	1a	-ba-	que	-tez
+.	.	.	.	1.G	-is	tant	vous,	1.b-	-is	tant	vous,
+4e	-is	tant	vous,	.	.	.	.	.	.	.	.
+4d	.	.	.	.	.	.	.	.	.	.	.
+2.e	de	a	c'est	.	.	.	.	.	.	.	.
+.	.	.	.	2F	de	a	c'est	2a	de	a	c'est
+4d	.	.	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+1f	vous,	de	le	0F	vous,	de	le	1a	vous,	de	le
+2r	.	.	.	.	.	.	.	1cc	mon	va-	mil-
+2c	mon	va-	mil-	.	.	.	.	.	.	.	.
+2d	.	.	.	2r	.	.	.	2b-	cuer,	-leur	-leur,
+2c	.	.	.	[2c	mon	va-	mil-	[2a	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4A	.	.	.	4c]	.	.	.	2a]	.	.	.
+4F	.	.	.	4d	.	.	.	.	.	.	.
+2G	.	.	.	2e	.	.	.	2g	.	.	.
+1F	cuer,	-leur	-leur,	2.f	cuer,	-leur	-leur,	2.a	.	.	.
+.	.	.	.	4e	.	.	.	8gL	.	.	.
+.	.	.	.	.	.	.	.	8aJ	.	.	.
+1r	.	.	.	4d	.	.	.	2b-	.	.	.
+.	.	.	.	4c	.	.	.	.	.	.	.
+.	.	.	.	[2c	.	.	.	[2a	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+1D	Dont	Que	Sans	2c]	.	.	.	2a]	.	.	.
+.	.	.	.	2Bni	.	.	.	4g	.	.	.
+.	.	.	.	.	.	.	.	4f	.	.	.
+1C	tant	c'es-	plus	1c	.	.	.	2e	.	.	.
+.	.	.	.	.	.	.	.	2r	.	.	.
+1BB-	mainc-	-toit	ac-	1d	Dont	Que	Sans	1f	Dont	Que	Sans
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+1C	.	.	.	1c	tant	c'es-	plus	1e	tant	c'es-	plus
+0D	.	.	.	1r	.	.	.	1.a	mainc-	-toit	ac-
+.	.	.	.	1f	mainc-	-toit	ac-	.	.	.	.
+.	.	.	.	.	.	.	.	2g	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+1E	-te-	pour	-rois-	1e	-te-	pour	-rois-	1g	-te-	pour	-rois-
+0F	-nez	nous	-tre	1.a	-nez	nous	-tre	1.cc	-nez	nous	-tre
+.	.	.	.	2g	.	.	.	2b-	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+1G	la	grant	ma	2.g	la	grant	ma	2.b-	la	grant	ma
+.	.	.	.	4e	.	.	.	4a	.	.	.
+2D	.	.	.	2f	.	.	.	2a	.	.	.
+2.E	.	.	.	1g	.	.	.	2g	.	.	.
+.	.	.	.	.	.	.	.	1e	.	.	.
+4C	.	.	.	.	.	.	.	.	.	.	.
+2E	.	.	.	2c	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2D	fo-	hon-	dou-	2d	fo-	hon-	dou-	2f	fo-	hon-	dou-
+2C	.	.	.	1e	-leur	-neur.	-leur;	2.g	.	.	.
+2.E	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4f	.	.	.
+.	.	.	.	1c	.	.	.	2e	.	.	.
+4F	.	.	.	.	.	.	.	.	.	.	.
+1G	.	.	.	.	.	.	.	1d	.	.	.
+.	.	.	.	2Bni	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+1.C	-leur	-neur.	-leur;	2r	.	.	.	1c	-leur	-neur.	-leur;
+.	.	.	.	1c	De	Mais	Par	.	.	.	.
+.	.	.	.	.	.	.	.	1r	.	.	.
+4D	De	Mais	Par	2B-	.	.	.	.	.	.	.
+4E	.	.	.	.	.	.	.	.	.	.	.
+2F	plus	tou-	dieu	2A	plus	tou-	dieu	2r	.	.	.
+2A	.	.	.	4G	.	.	.	[2cc	De	Mais	Par
+.	.	.	.	4F	.	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+1G	ser-	-tes-	j'en	2.E	ser-	-tes-	j'en	2cc]	.	.	.
+.	.	.	.	.	.	.	.	2b-	.	.	.
+.	.	.	.	4D	.	.	.	.	.	.	.
+2F	-vir	-fois,	ay	1F	-vir	-fois,	ay	2a	plus	tou-	dieu
+4E	.	.	.	.	.	.	.	4g	.	.	.
+4D	.	.	.	.	.	.	.	4f	.	.	.
+1C	.	.	.	1G	nos-	puis	as-	2.e	ser-	-tes-	j'en
+.	.	.	.	.	.	.	.	4d	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+1F	.	.	.	2F	.	.	.	1f	-vir	-fois,	ay
+.	.	.	.	2A	.	.	.	.	.	.	.
+2r	.	.	.	2B-	.	.	.	2g	nos-	puis	as-
+1F	nos-	puis	as-	2.c	.	.	-sez,	2.a	-tre	qu'el-	-sez,
+.	.	.	.	4B-	.	.	.	4g	.	.	.
+2E	-tre	qu'el-	-sez,	2G	.	.	.	[2b-	mais-	-le	Lar-
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+4D	mais-	-le	Lar-	2A	-tre	qu'el-	.	4b-]	.	.	.
+4C	.	.	.	.	.	.	.	4a	.	.	.
+1BB-	-tres-	les-	-ges-	2.B-	mais-	-le	Lar-	4g	.	.	.
+.	.	.	.	.	.	.	.	4f	.	.	.
+.	.	.	.	.	.	.	.	2g	-tres-	les-	-ges-
+.	.	.	.	4A	.	.	.	.	.	.	.
+2D	.	.	.	4G	.	.	.	2.f	.	.	.
+.	.	.	.	4F	.	.	.	.	.	.	.
+1C	-se.	-se,	-se,	1G	-tres-	les-	-ges-	.	.	.	.
+.	.	.	.	.	.	.	.	4e	.	.	.
+.	.	.	.	.	.	.	.	4e	.	.	.
+.	.	.	.	.	.	.	.	4d	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+2r	.	.	.	0FN	-se.	-se,	-se,	1fN	-se.	-se,	-se,
+1cNX	Veu	&	Vo-	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	1r	.	.	.
+4A	.	.	.	.	.	.	.	.	.	.	.
+4G	.	.	.	.	.	.	.	.	.	.	.
+2.F	.	.	.	2r	.	.	.	2.a	Veu	&	Vo-
+.	.	.	.	2f	Veu	&	Vo-	.	.	.	.
+4G	.	.	.	.	.	.	.	4b-	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+1A	que	.	-tre	2e	que	.	-tre	1.cc	que	.	-tre
+.	.	.	.	2.a	sa-	.	bon-	.	.	.	.
+1F	sa-	.	bon-	.	.	.	.	.	.	.	.
+.	.	.	.	4g	.	.	.	.	.	.	.
+.	.	.	.	1f	.	.	.	2a	.	.	.
+1c	.	.	.	.	.	.	.	1g	sa-	.	bon-
+.	.	.	.	2e	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+0F	-vez	.	-t&eacute;	2.f	-vez	.	-t&eacute;	1f	-vez	.	-t&eacute;
+.	.	.	.	4e	.	.	.	.	.	.	.
+.	.	.	.	2c	qu'el-	.	et	1a	qu'el-	.	et
+.	.	.	.	1d	-le a	.	gen-	.	.	.	.
+1G	qu'el-	.	et	.	.	.	.	1b-	-le a	.	gen-
+.	.	.	.	4c	.	.	.	.	.	.	.
+.	.	.	.	4B-	.	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+2.F	-le a	.	gen-	1A	fait	.	-til-	1cc	fait	.	-til-
+4E	.	.	-til-	.	.	.	.	.	.	.	.
+1D	fait	.	-les-	1B-	ces-	.	-les-	1f	ces-	.	-les-
+1C	.	.	-se,	1c	.	.	.	1e	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+1r	.	.	.	2.F	.	.	.	2.a	.	.	.
+.	.	.	.	4G	.	.	.	4g	.	.	.
+2F	ces-	.	gen-	2A	.	.	.	2f	.	.	.
+2E	.	.	.	2B-	.	.	.	2g	.	.	.
+2C	.	.	-til-	2c	.	.	.	2e	.	.	.
+[2G	.	.	-les-	[2d	.	.	.	[2d	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+2G]	.	.	.	4d]	.	.	.	2d]	.	.	.
+.	.	.	.	4c	.	.	.	.	.	.	.
+4F	.	.	.	2A	-se	.	-se	2.a	.	.	.
+4E	.	.	.	.	.	.	.	.	.	.	.
+1D	-se	.	-se	2r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4g	.	.	.
+.	.	.	.	1d	De	.	Me	2f	.	.	.
+1A	De	.	Me	.	.	.	.	1e	.	.	.
+.	.	.	.	2c#i	.	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+1.B-	nous	.	fa-	1.d	nous	.	fa-	2d	-se	.	-se
+.	.	.	.	.	.	.	.	2r	.	.	.
+.	.	.	.	.	.	.	.	1f	De	.	Me
+2A	.	.	.	2c	.	.	.	.	.	.	.
+1G	.	.	.	1B-	.	.	.	1g	nous	.	fa-
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+1F	ai-	.	-cent	1A	ai-	.	-cent	1.a	ai-	.	-cent
+0E	-mer,	.	pai-	0B-	-mer,	.	pai-	.	.	.	.
+.	.	.	.	.	.	.	.	4g	.	.	pai-
+.	.	.	.	.	.	.	.	4f	.	.	.
+.	.	.	.	.	.	.	.	4g	-mer,	.	-er
+.	.	.	.	.	.	.	.	4f	.	.	.
+.	.	.	.	.	.	.	.	4e	.	.	.
+.	.	.	.	.	.	.	.	4d	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+2F	c'est	.	-er	1A	.	.	-er	1c	.	.	.
+2c	.	.	.	.	.	.	.	.	.	.	.
+2B-	.	.	pour	2B-	c'est	.	pour	2d	c'est	.	pour
+2.A	grant	.	ma	1c	grant	.	.	2c	.	.	.
+.	.	.	.	.	.	.	.	2e	grant	.	ma
+4G	.	.	.	.	.	.	.	.	.	.	.
+2F	.	.	.	2A	.	.	ma	2f	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+2E	.	.	.	2B-	.	.	.	2g	.	.	.
+2.F	.	.	.	4A	.	.	.	2.a	.	.	.
+.	.	.	.	4G	.	.	.	.	.	.	.
+.	.	.	.	2F	.	.	.	.	.	.	.
+4D	.	.	.	.	.	.	.	4g	.	.	.
+2F	.	.	.	2A	.	.	.	2f	.	.	.
+2.C	.	.	.	2G	.	.	.	2.e	.	.	.
+.	.	.	.	[2c	.	.	.	.	.	.	.
+4D	.	.	.	.	.	.	.	4f	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+2E	.	.	.	4c]	.	.	.	2g	.	.	.
+.	.	.	.	4B-	.	.	.	.	.	.	.
+2.F	.	.	.	4A	.	.	.	2.a	.	.	.
+.	.	.	.	4G	.	.	.	.	.	.	.
+.	.	.	.	2F	.	.	.	.	.	.	.
+4D	.	.	.	.	.	.	.	4b-	.	.	.
+2F	.	.	.	2A	.	.	.	4a	.	.	.
+.	.	.	.	.	.	.	.	8gL	.	.	.
+.	.	.	.	.	.	.	.	8fJ	.	.	.
+1C	er-	.	fa-	1G	er-	.	fa-	2.e	er-	.	fa-
+.	.	.	.	.	.	.	.	4d	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+0.cl	-reur.	.	-veur.	0.Fl	-reur.	.	-veur.	0.fl	-reur.	.	-veur.
+==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
+!!!ENC: Chris Gage 04-13-2015
+!!!END: 2015/10/29/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/10/29/
+!!!ONB: Translated from MusicXML and edited on 2015/10/29/ by Craig Sapp
+!!muse2ps: C^@{COM}^i2I150v95,95,120Q16z18c60l2600

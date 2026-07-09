@@ -650,3 +650,13 @@ extant-voices-p:
 	@$(BINDIR)/getWorkIdList | $(BINDIR)/getExtantVoices -p
 
 
+##############################
+##
+## make links
+##
+
+links: 
+	@$(BINDIR)/fixLinks
+
+drlinks: 
+	@$(BINDIR)/fixLinks --dry-run

@@ -1,0 +1,288 @@
+!!!!SEGMENT: Rue/Rue1024b-Missa_Pro_fidelibus_defunctis-Kyrie.krn
+!!!COM: la Rue, Pierre de
+!!!CDT: ~1452///-1518/11/20
+!!!OPR: Missa Pro fidelibus defunctis
+!!!ONM: 2
+!!!OTL: Kyrie
+!!!AGN: Mass; Kyrie
+!!!SCT: Rue1024b
+!!!SCA: Rue1024b
+!!!jrpid: Rue1024b
+!!!voices-OPR: 4-5
+!!!voices: 5
+**kern	**kern	**kern	**kern	**kern
+*Ivox	*Ivox	*Ivox	*Ivox	*Ivox
+*I"Bassus	*I"Tenor2	*I"Tenor	*I"Contra	*I"Discantus
+*I'B	*I'T2	*I'T	*I'C	*I'D
+*staff5	*staff4	*staff3	*staff2	*staff1
+*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
+*>A	*>A	*>A	*>A	*>A
+*clefF4	*clefF4	*clefF4	*clefF4	*clefGv2
+*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]
+*M3/1	*M3/1	*M3/1	*M3/1	*M3/1
+*met(C3)	*met(C3)	*met(C3)	*met(C3)	*met(C3)
+*MM400	*MM400	*MM400	*MM400	*MM400
+!!section: Kyrie I
+!!!OMD: Kyrie I
+=1-	=1-	=1-	=1-	=1-
+!! Here MenC3 is functioning probably like a slowed-down MenCutC3 (rather than 
+!! like MenCDot, which is more common). So classify this in its own tempo 
+!! category, with a tempo of about whole=100.
+0.r	0.r	0.r	1.G	1.B-
+.	.	.	2A\	2c\
+.	.	.	1B-	1d
+=2	=2	=2	=2	=2
+0.r	0.r	0.r	1c	1e-
+.	.	.	1.A	1.c
+.	.	.	2B-\	2d\
+=3	=3	=3	=3	=3
+1.GG	0.r	1.BB-	0.B-	0.d
+2AA/	.	2C/	.	.
+1BB-	.	1D	.	.
+=4	=4	=4	=4	=4
+1C	0.r	1E-	0.r	1r
+1.AA	.	1.C	.	1r
+.	.	.	.	1e-
+2GG/	.	2D\	.	.
+=5	=5	=5	=5	=5
+0.BB-	0.r	0D	0B-	1d
+.	.	.	.	0f
+.	.	1r	1F	.
+=6	=6	=6	=6	=6
+1r	0.r	0BB-	0G	1d
+1.EE-	.	.	.	0e-
+.	.	1BB-	1G	.
+2FF/	.	.	.	.
+=7	=7	=7	=7	=7
+1GG	0.r	1BB-	1D	1.d
+0FF	.	0AA	0F	.
+.	.	.	.	2c\
+.	.	.	.	[1A
+=8	=8	=8	=8	=8
+0CC	0.r	0C	0E-	1A]
+.	.	.	.	0G
+[1EE-	.	1r	1r	.
+=9	=9	=9	=9	=9
+2EE-/]	0.r	1.GG	0G	1.B-
+2FF/	.	.	.	.
+0GG	.	.	.	.
+.	.	2AA/	.	2c\
+.	.	1BB-	1D	1d
+=10	=10	=10	=10	=10
+1EE-	0.r	1C	1G	1e-
+0FF	.	1.AA	0F	1.c
+.	.	2BB-/	.	2d\
+=11	=11	=11	=11	=11
+[0.BBB-l	0.r	[0.BB-l	[0.Fl	0.d
+=12	=12	=12	=12	=12
+0.BBB-]	0.r	0.BB-]	0.F]	0.dl
+!!LO:LB:i:g=z
+=13||	=13||	=13||	=13||	=13||
+*>B	*>B	*>B	*>B	*>B
+*clefF4	*clefF4	*clefF4	*clefF4	*clefGv2
+*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]
+*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!section: Christe
+!!!OMD: Christe
+0GG	0r	0E-	0G	0B-
+=14	=14	=14	=14	=14
+0GG	0r	0D	0G	0B-
+=15	=15	=15	=15	=15
+1.AA-	0r	[0C	1.E-	1.c
+2FF/	.	.	2F\	2A/
+=16	=16	=16	=16	=16
+0FF	0r	0C]	[0F	0A
+=17	=17	=17	=17	=17
+1r	0r	1D	1F]	0r
+[1C	.	[1E-	1G	.
+=18	=18	=18	=18	=18
+2C/]	0r	1E-]	2A-\	0r
+2GG/	.	.	2G\	.
+1BB-	.	1D	[1G	.
+=19	=19	=19	=19	=19
+0AA-i	0r	0C	1G]	0r
+.	.	.	1F	.
+=20	=20	=20	=20	=20
+0GG	0r	0BB-	[0G	1r
+.	.	.	.	[1B-
+=21	=21	=21	=21	=21
+1r	0r	0E-	0G]	1B-]
+[1GG	.	.	.	1B-
+=22	=22	=22	=22	=22
+1GG]	0r	0D	1r	0B-
+1GG	.	.	1G	.
+=23	=23	=23	=23	=23
+1.AA-	0r	[0C	1.E-	1.c
+2FF/	.	.	2F\	2A/
+=24	=24	=24	=24	=24
+0FF	0r	0C]	0F	0A
+=25	=25	=25	=25	=25
+1r	0r	1D	1r	1r
+[1EE-	.	[1E-	[1BB-	[1G
+=26	=26	=26	=26	=26
+1EE-]	0r	2E-\]	1BB-]	1G]
+.	.	2D\	.	.
+[1EE-	.	2C/	[1E-	[1G
+.	.	2BB-/	.	.
+=27	=27	=27	=27	=27
+1EE-]	0r	1C	1E-]	1G]
+1GG	.	1BB-	1E-	1G
+=28	=28	=28	=28	=28
+1FF	0r	1r	1F	1A
+[1EE-	.	[1E-	[1G	[1B-
+=29	=29	=29	=29	=29
+1EE-]	0r	1E-]	2G\]	2B-\]
+.	.	.	2E-\	4A/
+.	.	.	.	4G/
+1BBB-	.	1D	1F	1B-
+=30	=30	=30	=30	=30
+2CC/	0r	1C	1r	2G/
+2EE-/	.	.	.	2E-/
+1DD	.	1D	1F	1F
+=31	=31	=31	=31	=31
+2CC/	0r	0E-	1G	0E-
+1EE-	.	.	.	.
+.	.	.	1B-	.
+2GG/	.	.	.	.
+=32	=32	=32	=32	=32
+1FF	0r	1.C	1A-	1F
+[1EE-	.	.	2G\	[1G
+.	.	2BB-/	2E-\	.
+=33	=33	=33	=33	=33
+0EE-]	0r	0BB-	0E-	1G]
+.	.	.	.	1G
+=34	=34	=34	=34	=34
+1.AA-	0r	1.C	1.F	1.A-
+2EE-/	.	2BB-/	2E-\	2G/
+=35	=35	=35	=35	=35
+0EE-l	0r	0BB-l	0E-l	0Gl
+!!LO:LB:i:g=z
+=36||	=36||	=36||	=36||	=36||
+*>C	*>C	*>C	*>C	*>C
+*clefF4	*clefF4	*clefF4	*clefF4	*clefGv2
+*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]
+*M3/1	*M3/1	*M3/1	*M3/1	*M3/1
+*met(O)	*met(O)	*met(O)	*met(O)	*met(O)
+!!section: Kyrie II
+!!!OMD: Kyrie II
+0EE-	0BB-	0.r	[0.G	0B-
+1GG	1BB-	.	.	1B-
+=37	=37	=37	=37	=37
+0CC	0GG	0.r	0G]	1c
+.	.	.	.	0e-
+1EE-	1GG	.	1G	.
+=38	=38	=38	=38	=38
+0BBB-	[0.FF	0BB-	1.B-	1.d
+.	.	.	4A\	2c\
+.	.	.	4G\	.
+1BBB-	.	1BB-	[1F	1B-
+=39	=39	=39	=39	=39
+0FF	1FF]	0C	2F\]	0A
+.	.	.	2E-\	.
+.	0AA	.	1C	.
+1FF	.	1D	1F	1A
+=40	=40	=40	=40	=40
+0.EE-	1.BB-	[0.E-	[0.G	1G
+.	.	.	.	2r
+.	2C/	.	.	1c
+.	1GG	.	.	.
+.	.	.	.	2B-\
+=41	=41	=41	=41	=41
+1r	2r	0E-]	0G]	2c\
+.	2GG/	.	.	1G
+1r	1C	.	.	.
+.	.	.	.	1c
+1GG	2BB-/	1D	1r	.
+.	[2GG/	.	.	2B-\
+=42	=42	=42	=42	=42
+2EE-/	2GG/]	2C/	0.r	2c\
+2DD/	2FF/	2D\	.	2B-\
+2EE-/	2GG/	2C/	.	2c\
+2DD/	1FF	1BB-	.	2d\
+1CC	.	.	.	1e-
+.	2EE-/	2AA/	.	.
+=43	=43	=43	=43	=43
+0.BBB-	0FF	0.BB-	0F	1d
+.	.	.	.	2r
+.	.	.	.	1B-
+.	1FF	.	1F	.
+.	.	.	.	2B-\
+=44	=44	=44	=44	=44
+0.r	0CC	0.r	0G	1c
+.	.	.	.	0e-
+.	1EE-	.	1G	.
+=45	=45	=45	=45	=45
+0BBB-	0.FF	0BB-	1.F	1.d
+.	.	.	1.D	1.B-
+1BBB-	.	1BB-	.	.
+=46	=46	=46	=46	=46
+1.EE-	0.r	0C	1E-	1.G
+.	.	.	2G\	.
+1.FF	.	.	1F	1.A
+.	.	1D	.	.
+.	.	.	2F\	.
+=47	=47	=47	=47	=47
+1.EE-	0.r	[0.E-	[0.G	1.G
+1.CC	.	.	.	1.c
+=48	=48	=48	=48	=48
+1.EE-	1r	0E-]	0.G]	2B-\
+.	.	.	.	2.e-\
+.	1r	.	.	.
+.	.	.	.	4d\
+2FF/	.	.	.	1c
+1GG	1GG	1D	.	.
+.	.	.	.	2Bni\
+=49	=49	=49	=49	=49
+0CC	0GG	0C	0G	1c
+.	.	.	.	1e-
+1FF	1FF	1C	1A	1f
+=50	=50	=50	=50	=50
+0BBB-	0FF	0BB-	1.B-	2r
+.	.	.	.	2.d\
+.	.	.	.	4c\
+.	.	.	2G\	2B-\
+2r	1FF	1r	1F	2A/
+2BBB-/	.	.	.	2B-\
+=51	=51	=51	=51	=51
+0EE-	0GG	2r	1E-	1G
+.	.	2BB-/	.	.
+.	.	2GG/	2r	2r
+.	.	2BB-/	2E-\	2G/
+1DD	1r	1FF	1F	1A
+=52	=52	=52	=52	=52
+[0.EE-	[0.GG	[0.BB-	1.E-	1.G
+.	.	.	1G	1E-
+.	.	.	2F\	2F/
+=53	=53	=53	=53	=53
+0EE-]	0.GG]	0.BB-]	2E-\	2G/
+.	.	.	4D\	2A/
+.	.	.	4C/	.
+.	.	.	2BB-/	2B-\
+.	.	.	2.E-\	2c\
+1r	.	.	.	2d\
+.	.	.	4F\	.
+.	.	.	2G\	2e-\
+=54	=54	=54	=54	=54
+0.r	0.r	[0.BB-l	2F\	0f
+.	.	.	2BB-/	.
+.	.	.	0F	.
+.	.	.	.	1d
+=55	=55	=55	=55	=55
+0EE-	0GG	0.BB-_	1G	0e-
+.	.	.	1E-	.
+[1BBB-l	[1FFl	.	[1F	[1dl
+=56	=56	=56	=56	=56
+0.BBB-_	0.FF_	0.BB-_	0.F]	0.d_
+=57	=57	=57	=57	=57
+0.BBB-]	0.FF]	0.BB-]	0.Fl	0.d]
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Chris Gage 04-23-2013
+!!!END: 2013/08/01/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/08/02/
+!!!ONB: Translated from MusicXML and edited on 2013/08/02/ by Craig Sapp
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,85,130Q16

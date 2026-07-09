@@ -1,0 +1,178 @@
+!!!!SEGMENT: Jos/Jos1312-Crucifixus.krn
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Crucifixus
+!!!AGN: Mass section; Credo; Crucifixus
+!!!SCT: NJE 13.12
+!!!SCA: New Josquin Edition 13.12
+!!!jrpid: Jos1312
+!!!voices: 2
+**kern	**text	**kern	**text
+*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*
+*I"Inferior vox	*	*I"Superior vox	*
+*I'Iv	*	*I'Sv	*
+*clefF4	*	*clefGv2	*
+*k[]	*	*k[]	*
+*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*
+=1-	=1-	=1-	=1-
+1r	.	1G	Cru-
+1C	Cru-	2G/	-ci-
+.	.	[2c\	-fi-
+=2	=2	=2	=2
+2C/	-ci-	2c\]	.
+1F	-fi-	2A/	.
+.	.	1A	-xus
+2D\	.	.	.
+=3	=3	=3	=3
+1D	-xus	2r	.
+.	.	1A	e-
+2r	.	.	.
+[2D\	e-	2A/	-ti-
+=4	=4	=4	=4
+2D\]	.	2A/	-am
+2D\	-ti-	2A/	pro
+2G\	-am	2.B\	no-
+2G\	pro	.	.
+.	.	8A/L	.
+.	.	8G/J	.
+=5	=5	=5	=5
+2.E\	no-	1G	-bis
+8D/L	.	.	.
+8C/J	.	.	.
+1C	-bis	2r	.
+.	.	[2c\	sub
+=6	=6	=6	=6
+1F	sub	2c\]	.
+.	.	2A/	pon-
+2D\	pon-	2A/	-ti-
+2D\	-ti-	[2d\	-o
+=7	=7	=7	=7
+2.G\	-o	4d\]	.
+.	.	4c\	.
+.	.	4B\	.
+4F\	.	4A/	.
+4E\	.	2G/	.
+4D\	.	.	.
+2C/	.	[2A/	pi-
+=8	=8	=8	=8
+2D\	pi-	2A/]	.
+2BB/	.	1G	-la-
+1AA	-la-	.	.
+.	.	2F/	.
+=9	=9	=9	=9
+2GG/	-to	4G/	.
+.	.	4F/	.
+2D\	sub	4E/	.
+.	.	4D/	.
+2D\	pon-	1E	.
+2C/	-ti-	.	.
+=10	=10	=10	=10
+4D\	-o	2D/	-to
+4C/	.	.	.
+4BB/	.	2A/	sub
+4AA/	.	.	.
+1BB	.	2A/	pon-
+.	.	2G/	-ti-
+=11	=11	=11	=11
+2AA/	.	2A/	-o
+2A\	sub	2F/	pi-
+2A\	pon-	2E/	-la-
+2G\	-ti-	[2e\	.
+=12	=12	=12	=12
+2A\	-o	2e\]	.
+2F\	pi-	2.d\	.
+1E	-la-	.	.
+.	.	8c#i\L	.
+.	.	8B\J	.
+.	.	2c#i\	.
+=13	=13	=13	=13
+2D\	-to	2d\	-to
+1G	pas-	2B\	.
+.	.	1A	pas-
+2F\	.	.	.
+=14	=14	=14	=14
+2E\	.	2.G/	.
+2.G\	.	.	.
+.	.	4F/	.
+.	.	4E/	.
+4F\	.	4D/	.
+4E\	.	[2C/	.
+4D\	.	.	.
+=15	=15	=15	=15
+1C	-sus	2C/]	.
+.	.	1c	.
+1D	.	.	.
+.	.	2B\	.
+=16	=16	=16	=16
+2.A\	et	1c	-sus
+4G\	.	.	.
+4F\	.	1r	.
+4E\	.	.	.
+[2D\	.	.	.
+=17	=17	=17	=17
+2D\]	.	2r	.
+2C/	se-	1A	et
+2D\	-pul-	.	.
+2BB/	-tus	2G/	se-
+=18	=18	=18	=18
+2AA/	est	2A/	-pul-
+1A	et	2F/	.
+.	.	1E	-tus
+[2G\	se-	.	.
+=19	=19	=19	=19
+2G\]	.	1D	est
+2F\	.	.	.
+2G\	-pul-	2r	.
+[2C/	.	[2A/	et
+=20	=20	=20	=20
+2C/]	.	2A/]	.
+2BB/	-tus	1G	se-
+2C/	est	.	.
+2AA/	et	2F/	.
+=21	=21	=21	=21
+2GG/	se-	2G/	-pul-
+1G	.	2E/	.
+.	.	1D	-tus
+2F\	.	.	.
+=22	=22	=22	=22
+2E\	-pul-	2C/	est
+4D\	.	2.c\	et
+4C/	.	.	.
+2D\	.	.	.
+.	.	8B/L	.
+.	.	8A/J	.
+4C/	.	2B\	.
+4BB/	.	.	.
+=23	=23	=23	=23
+4AA/	.	2c\	.
+4BB/	.	.	.
+4C/	.	2A/	se-
+4D\	.	.	.
+4E\	.	2.G/	-pul-
+4F\	.	.	.
+[2G\	.	.	.
+.	.	4A/	.
+=24	=24	=24	=24
+2G\]	.	2B\	.
+2C/	.	1A	.
+2BB/	.	.	.
+2C/	.	[2G/	.
+=25	=25	=25	=25
+1AA	-tus	2G/]	.
+.	.	2F#i/	-tus
+1GGl	est	1Gl	est
+=||	=||	=||	=||
+*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: V=start of tuplet marker
+!!!RDF**kern: Z=end of tuplet marker
+!!!ONB: no encoder listed in original file
+!!!ENC: Jesse Rodin
+!!!END: 2012/08/15/
+!!!EEV: 2012/08/15/
+!!attribution-level@Jos: 4a (the rest [double question mark])
+!!!ONB: Translated from MusicXML and edited on 2012/08/15/ by Craig Sapp
+!!muse2ps: C^@{COA}?^i2I150v95,130Q16z18

@@ -1,0 +1,231 @@
+!!!!SEGMENT: Ano/Ano3131-Jay_pris_amours_a_ma_devise--prob_orig_version.krn
+!!!COM: Anonymous
+!!!OTL: J'ay pris amours a ma devise (prob. orig. version)
+!!!AGN: Chanson
+!!!SCT: Ano3131
+!!!SCA: Ano3131
+!!!SMS: a!!!COM:	Anonymous
+!!!OTL: J'ay pris amours a ma devise (prob. orig. version)
+!!!AGN: Chanson
+!!!SCT: Ano3131
+!!!SCA: Ano3131
+!!!jrpid: Ano3131
+!!!SMS:
+!!!folio:
+!!!voices: 3
+**kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
+*part3	*part3	*part3	*part3	*part2	*part2	*part2	*part2	*part1	*part1	*part1	*part1
+*staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
+*Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*
+*I"Contra	*	*	*	*I"Tenor	*	*	*	*I"Discantus	*	*	*
+*I'C	*	*	*	*I'T	*	*	*	*I'S	*	*	*
+*clefGv2	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*
+*k[]	*	*	*	*k[]	*	*	*	*k[]	*	*	*
+*a:	*	*	*	*a:	*	*	*	*a:	*	*	*
+*M2/1	*	*	*	*M2/1	*	*	*	*M2/1	*	*	*
+*met(C|)	*	*	*	*met(C|)	*	*	*	*met(C|)	*	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:Z=12:B:t=Form&colon; rondeau
+[0e	J'ay	S'il	Il	0A	J'ay	S'il	Il	0a	J'ay	S'il	Il
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1e]	pris	est	me	1A	pris	est	me	1cc	pris	est	me
+1c	a-	au-	sem-	1A	a-	au-	sem-	1cc	a-	au-	sem-
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+0d	-mours	-cun	-ble	0G	-mours	-cun	-ble	0b	-mours	-cun	-ble
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+0c	.	.	.	1.A	.	.	.	0e	.	.	.
+.	.	.	.	2G	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+1B	.	.	.	0E	.	.	.	1r	.	.	.
+1e	a	qui	que	.	.	.	.	1g	a	qui	que
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+0d	ma	m'en	c'est	1r	.	.	.	1a	ma	m'en	c'est
+.	.	.	.	1G	a	qui	que	1b	de-	de-	la
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+1r	.	.	.	1A	ma	m'en	c'est	1cc	-vi-	-pri-	gui-
+1d	de-	de-	la	1B	de-	de-	la	2b	.	.	.
+.	.	.	.	.	.	.	.	2g	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+1e	-vi-	-pri-	gui-	1c	-vi-	-pri-	gui-	1a	.	.	.
+2d	.	.	.	2B	.	.	.	1g	-se,	-se,	-se,
+[2g	.	.	.	2G	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2g]	.	.	.	1A	.	.	.	1r	.	.	.
+2f#Xi	.	.	.	.	.	.	.	.	.	.	.
+1g	-se,	-se,	-se,	1G	-se,	-se,	-se,	1b	a	qui	que
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+1e	a	qui	que	1r	.	.	.	1cc	ma	m'en	c'est
+[1d	ma	m'en	c'est	1B	a	qui	que	1dd	de-	des-	la
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+2d]	.	.	.	1c	ma	m'en	c'est	1ee	-vi-	-pri-	gui-
+2c	.	.	.	.	.	.	.	.	.	.	.
+1B	de-	des-	la	1d	de-	des-	la	2dd	.	.	.
+.	.	.	.	.	.	.	.	2b	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+1.A	-vi-	-pri-	gui-	2e	-vi-	-pri-	gui-	2cc	.	.	.
+.	.	.	.	1c	.	.	.	1a	.	.	.
+2G	.	.	.	2d	.	.	.	2b	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+2A	.	.	.	2c	.	.	.	2a	.	.	.
+2c	.	.	.	2A	.	.	.	2f#Xi	.	.	.
+1d	.	.	.	1B	.	.	.	1g#Xi	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+0e	-se	-se	-se	0A	-se	-se	-se	0a	-se	-se	-se
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+1f	Pour	Il	Qui	1A	Pour	Il	Qui	0r	.	.	.
+[1e	con-	me	n'a	1G	con-	me	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2e]	.	.	.	0F	-que-	doit	n'a	0a	Pour	Il	Qui
+2d	.	.	.	.	.	.	.	.	.	.	.
+2d	-que-	.	.	.	.	.	.	.	.	.	.
+2c	.	.	.	.	.	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+0e	-rir,	doit	rien,	0E	-rir,	.	rien,	1cc	con-	me	n'a
+.	.	.	.	.	.	.	.	[1b	.	doit	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+0E	.	.	.	1r	.	.	.	1b]	.	.	.
+.	.	.	.	1e	pour	il	qui	1g	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+1r	.	.	.	1f	con-	.	n'a	1a	.	.	.
+[1E	pour	il	qui	1e	.	me	.	[1g	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+1E]	.	.	.	0c	.	doit	.	1g]	.	.	.
+1A	.	me	.	.	.	.	.	[1cc	-que-	e-	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+0G	.	doit	n'a	0d	-que-	e-	.	1cc]	.	.	.
+.	.	.	.	.	.	.	.	1b	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+1g	con-	e-	rien	[0c	-rir	-stre	rien	0cc	-rir	-stre	rien
+2a	.	.	.	.	.	.	.	.	.	.	.
+[2a	.	-stre	.	.	.	.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+2a]	.	.	.	1c]	.	.	.	0r	.	.	.
+2g	.	.	.	.	.	.	.	.	.	.	.
+[1g	-que-	.	il	1B	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+2g]	.	.	.	0A	joi-	par-	il	0cc	joi-	par-	il
+4f#Xi	.	.	.	.	.	.	.	.	.	.	.
+4e	.	.	.	.	.	.	.	.	.	.	.
+1f#Xi	.	.	.	.	.	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+0g	-rir	.	est	1G	-eu-	.	est	1b	-eu-	.	est
+.	.	.	.	[1c	.	.	.	1g	.	.	de
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+0r	.	.	.	1c]	.	.	.	0a	.	.	bou-
+.	.	.	.	1d	.	.	de	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+0c	joi-	par-	de	0e	.	.	bou-	1g	.	.	.
+.	.	.	.	.	.	.	.	[1e	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+[0e	-eu-	.	bou-	0A	.	.	.	1e]	.	.	.
+.	.	.	.	.	.	.	.	[1a	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+1e]	.	.	.	1c	.	.	.	1a]	.	.	.
+1d	.	.	.	1B	.	.	.	1g	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+1A	.	.	.	1c	.	.	.	1a	.	.	.
+1G	-se-	-don-	.	1d	-se-	-don-	.	1b	-se-	-don-	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+[0EN	-t&eacute;,	-n&eacute;.&	-t&eacute;.	1.e	-t&eacute;,	-n&eacute;.&	-t&eacute;.	0gN	-t&eacute;,	-n&eacute;.&	-t&eacute;.
+.	.	.	.	4d	.	.	.	.	.	.	.
+.	.	.	.	4c	.	.	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+0E]	.	.	.	1BN	.	.	.	0r	.	.	.
+.	.	.	.	1r	.	.	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+1B	Eu-	.	Et	0E	Eu-	.	Et	0g	Eu-	.	Et
+1c	.	.	.	.	.	.	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+1d	-reux	.	n'est	1F	-reux	.	n'est	1.a	-reux	.	n'est
+[1e	.	.	.	1E	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2g	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+2e]	.	.	.	1A	.	.	.	2f	.	.	.
+2d	.	.	.	.	.	.	.	2e	.	.	.
+[1B	.	.	.	1G	.	.	.	[1e	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+2B]	.	.	.	0F	.	.	.	1e]	.	.	.
+2A	.	.	.	.	.	.	.	.	.	.	.
+2A	.	.	.	.	.	.	.	1d	.	.	.
+2G	.	.	.	.	.	.	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+0B	.	.	.	[0E	.	.	.	0e	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+0e	se-	.	de	0E]	.	.	.	1r	.	.	.
+.	.	.	.	.	.	.	.	1b	se-	.	de
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+0d	-ray	.	.	1r	.	.	.	1b	-ray	.	per-
+.	.	.	.	1G	se-	.	de	1b	en	.	-son-
+=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
+1r	.	.	.	1A	-ray	.	per-	1.cc	cest	.	-ne ho-
+1d	en	.	per-	1B	en	.	-son-	.	.	.	.
+.	.	.	.	.	.	.	.	4b	.	.	.
+.	.	.	.	.	.	.	.	4a	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+0e	cest	.	-son-	1.c	cest	.	-ne ho-	1g	.	.	.
+.	.	.	.	.	.	.	.	1a	.	.	.
+.	.	.	.	2B	.	.	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
+1d	.	.	-ne ho-	1G	.	.	.	1b	.	.	.
+[1d	e-	.	.	1B	.	.	.	[1g	e-	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
+2d]	.	.	.	0A	e-	.	-no-	1g]	.	.	.
+4c	.	.	.	.	.	.	.	.	.	.	.
+4B	.	.	.	.	.	.	.	.	.	.	.
+1c	.	.	-no-	.	.	.	.	1f#Xi	.	.	-no-
+=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
+0d	-ste	.	-r&eacute;.	[0G	-ste	.	-r&eacute;.	0g	-ste	.	-r&eacute;.
+=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
+1.B	Se	.	N'est	1G]	.	.	.	1r	.	.	.
+.	.	.	.	1r	.	.	.	1e	Se	.	N'est
+2c	.	.	.	.	.	.	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
+1d	puis,	.	ce	1r	.	.	.	1f	puis	.	ce
+1e	.	.	.	1E	Se	.	N'est	1g	ve-	.	point
+=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
+1r	.	.	.	1F	puis	.	ce	1a	-nir	.	droit
+1B	se	.	point	1G	ve-	.	point	1e	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
+1c	puis	.	droit	1A	-nir	.	droit	1r	.	.	.
+1B	ve-	.	que	1E	.	.	.	1g	a	.	que
+=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
+2A	-nir	.	je	1r	.	.	.	1a	mon	.	je
+1d	a	.	y	.	.	.	.	.	.	.	.
+.	.	.	.	1G	a	.	que	1g	em-	.	y
+2e	.	.	.	.	.	.	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50
+1f	mon	.	.	1A	mon	.	je	1.cc	-pri-	.	vi-
+1g	.	.	.	1G	em-	.	y	.	.	.	.
+.	.	.	.	.	.	.	.	2b	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51
+2r	.	.	.	1.c	-pri-	.	vi-	1a	.	.	.
+1e	em-	.	vi-	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	1g	.	.	.
+2d	.	.	.	2B	.	.	.	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52
+1c	-pri-	.	.	1A	.	.	.	1cc	.	.	.
+2d	.	.	.	1G	.	.	.	2b	.	.	.
+2B	.	.	.	.	.	.	.	[2ee	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53
+1A	.	.	.	1c	.	.	.	2ee]	.	.	.
+.	.	.	.	.	.	.	.	2dd	.	.	.
+1G	.	.	.	1d	.	.	.	1b	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54
+0F	.	.	.	0A	.	.	.	1cc	.	.	.
+.	.	.	.	.	.	.	.	[1a	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55
+0E	.	.	.	0B	.	.	.	1a]	.	.	.
+.	.	.	.	.	.	.	.	1g#Xi	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56
+0el	-se.-	.	-se.	0Al	-se.-	.	-se.	0al	-se.-	.	-se.
+==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
+!!!ENC: Chris Gage 10-12-2016
+!!!END: 2019/03/18/
+!!!EED: Jesse Rodin
+!!!EEV: 2019/03/21/
+!!!ONB: Translated from MusicXML and edited on 2019/03/21/ by Craig Sapp
+!!muse2ps: C^@{COM}^v95,95,150z18c110l2650

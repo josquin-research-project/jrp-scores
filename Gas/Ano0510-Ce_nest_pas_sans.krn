@@ -1,0 +1,288 @@
+!!!!SEGMENT: Gas/Ano0510-Ce_nest_pas_sans.krn
+!!!COM: Anonymous
+!!!OTL: Ce n'est pas sans
+!!!AGN: Song; Chanson
+!!!SCT: Ano0510
+!!!SCA: Ano0510
+!!!jrpid: Ano0510
+!!!voices: 3
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Bassus	*	*I"Tenor	*	*I"Superius	*
+*I'B	*	*I'T	*	*I'S	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+=1	=1	=1	=1	=1	=1
+0G	Ce	0r	.	0r	.
+=2	=2	=2	=2	=2	=2
+1A	n'est	0r	.	0r	.
+1A	pas	.	.	.	.
+=3	=3	=3	=3	=3	=3
+1B-y	sans...	0r	.	0g	Ce
+2A	.	.	.	.	.
+2G	.	.	.	.	.
+=4	=4	=4	=4	=4	=4
+0F	.	0r	.	1a	n'est
+.	.	.	.	1a	pas
+=5	=5	=5	=5	=5	=5
+*lig	*	*	*	*	*
+1G	.	0g	Ce	1.b-y	sans...
+1B-y	.	.	.	.	.
+.	.	.	.	4a	.
+.	.	.	.	4g	.
+!!LO:LB:g=original
+=6	=6	=6	=6	=6	=6
+0A	.	1a	n'est	1f	.
+.	.	1a	pas	1f	.
+*Xlig	*	*	*	*	*
+=7	=7	=7	=7	=7	=7
+*lig	*	*	*	*	*
+0G	.	1.b-y	sans...	1g	.
+.	.	.	.	2dd	.
+.	.	4a	.	2ee-i	.
+.	.	4g	.	.	.
+=8	=8	=8	=8	=8	=8
+0d	.	1f	.	2dd	.
+.	.	.	.	4cc	.
+.	.	.	.	4b-y	.
+.	.	1f	.	1a	.
+*Xlig	*	*	*	*	*
+=9	=9	=9	=9	=9	=9
+*lig	*	*	*	*lig	*
+0G	.	1g	.	1b-y	.
+.	.	2.dd	.	1g	.
+.	.	4ee-i	.	.	.
+=10	=10	=10	=10	=10	=10
+0d	.	2dd	.	0f	.
+.	.	4cc	.	.	.
+.	.	4b-y	.	.	.
+.	.	1a	.	.	.
+*Xlig	*	*	*	*Xlig	*
+=11	=11	=11	=11	=11	=11
+*lig	*	*lig	*	*	*
+0G	.	1b-y	.	1r	.
+.	.	1g	.	[1b-y	.
+!!LO:LB:g=original
+=12	=12	=12	=12	=12	=12
+0B-y	.	0f	.	2b-]	.
+.	.	.	.	2cc	.
+.	.	.	.	1dd	.
+*Xlig	*	*Xlig	*	*	*
+=13	=13	=13	=13	=13	=13
+0r	.	1r	.	1g	.
+.	.	1g	.	2b-y	.
+.	.	.	.	2cc	.
+=14	=14	=14	=14	=14	=14
+[0G	.	2b-y	.	1dd	.
+.	.	2cc	.	.	.
+.	.	1dd	.	1g	.
+=15	=15	=15	=15	=15	=15
+0G]	.	1g	.	1b-y	.
+*	*	*lig	*	*	*
+.	.	1b-y	.	1g	.
+=16	=16	=16	=16	=16	=16
+*lig	*	*	*	*	*
+1d	.	1a	.	2r	.
+.	.	.	.	2f	.
+*	*	*Xlig	*	*	*
+1G	.	1g	.	2.b-y	.
+.	.	.	.	4cc	.
+*Xlig	*	*	*	*	*
+=17	=17	=17	=17	=17	=17
+*lig	*	*lig	*	*	*
+0d	.	0f	.	0a	.
+!!LO:LB:g=original
+=18	=18	=18	=18	=18	=18
+0G	.	0g	.	1r	.
+.	.	.	.	1b-y	.
+*Xlig	*	*Xlig	*	*	*
+=19	=19	=19	=19	=19	=19
+*lig	*	*	*	*	*
+1A	.	1r	.	1cc	.
+1c	.	1a	.	1cc	.
+*Xlig	*	*	*	*	*
+=20	=20	=20	=20	=20	=20
+*	*	*	*	*col	*
+1B-y	.	1b-y	.	1.dd	.
+2A	.	1b-y	.	.	.
+2G	.	.	.	4cc	.
+.	.	.	.	4b-y	.
+*	*	*	*	*Xcol	*
+=21	=21	=21	=21	=21	=21
+0F	.	1cc	.	1.a	.
+.	.	1cc	.	.	.
+.	.	.	.	2g	.
+=22	=22	=22	=22	=22	=22
+1.B-y	.	1dd	.	1.b-y	.
+.	.	1dd	.	.	.
+2c	.	.	.	4a	.
+.	.	.	.	4g	.
+=23	=23	=23	=23	=23	=23
+*lig	*	*lig	*	*	*
+0d	.	0a	.	1.f#i	.
+.	.	.	.	2e	.
+!!LO:PB:g=original
+=24	=24	=24	=24	=24	=24
+*	*	*	*	*lig	*
+0G	.	[0g	.	1g	.
+.	.	.	.	[1b-y	.
+*Xlig	*	*	*	*	*
+=25	=25	=25	=25	=25	=25
+1.B-y	.	0g]	.	2b-]	.
+*	*	*Xlig	*	*Xlig	*
+.	.	.	.	2cc	.
+.	.	.	.	2dd	.
+2A	.	.	.	2ee	.
+=26	=26	=26	=26	=26	=26
+*lig	*	*lig	*	*	*
+1F	.	1a	.	1ff	.
+1B-y	.	1g	.	2ee	.
+.	.	.	.	[2dd	.
+*Xlig	*	*Xlig	*	*	*
+=27	=27	=27	=27	=27	=27
+*lig	*	*lig	*	*	*
+1c	.	1e	.	2dd]	.
+.	.	.	.	2cc	.
+1A	.	1c	.	[1cc	.
+=28	=28	=28	=28	=28	=28
+0G	.	0d	.	1cc]	.
+.	.	.	.	1bnXi	.
+*Xlig	*	*	*	*	*
+=29	=29	=29	=29	=29	=29
+*lig	*	*	*	*lig	*
+1A	.	0c	.	1cc	.
+1c	.	.	.	1ee	.
+!!LO:LB:g=original
+=30	=30	=30	=30	=30	=30
+!	!	!LO:TX:a:t=[segno]	!	!LO:TX:a:t=[segno]	!
+[0G	.	0g	.	0dd	.
+*	*	*Xlig	*	*Xlig	*
+=31	=31	=31	=31	=31	=31
+*	*	*	*	*lig	*
+1G]	.	0r	.	1b-y	.
+*Xlig	*	*	*	*	*
+1D	.	.	.	1a	.
+!!LO:LB:g=original
+*	*	*	*	*Xlig	*
+=32	=32	=32	=32	=32	=32
+*lig	*	*lig	*	*lig	*
+1E	.	1b-y	.	1g	.
+1F	.	1a	.	1f	.
+*Xlig	*	*Xlig	*	*Xlig	*
+=33	=33	=33	=33	=33	=33
+*lig	*	*lig	*	*	*
+1G	.	1g	.	1b-y	.
+1D	.	1f	.	2a	.
+.	.	.	.	4b-y	.
+.	.	.	.	4cc	.
+*Xlig	*	*Xlig	*	*	*
+=34	=34	=34	=34	=34	=34
+*lig	*	*	*	*	*
+1G	.	1b-y	.	2b-y	.
+.	.	.	.	4a	.
+.	.	.	.	4g	.
+1d	.	2a	.	1f	.
+.	.	4b-y	.	.	.
+.	.	4cc	.	.	.
+*Xlig	*	*	*	*	*
+=35	=35	=35	=35	=35	=35
+*	*	*	*	*lig	*
+2r	.	2b-y	.	1b-y	.
+2G	.	4a	.	.	.
+.	.	4g	.	.	.
+1d	.	1f	.	1a	.
+*	*	*	*	*Xlig	*
+!!LO:LB:g=original
+=36	=36	=36	=36	=36	=36
+*lig	*	*lig	*	*	*
+1G	.	1b-y	.	1g	.
+1F	.	1a	.	2r	.
+.	.	.	.	2d	.
+*Xlig	*	*Xlig	*	*	*
+=37	=37	=37	=37	=37	=37
+*lig	*	*	*	*	*
+1E	.	1g	.	1e	.
+1D	.	2r	.	1f	.
+.	.	2d	.	.	.
+*Xlig	*	*	*	*	*
+=38	=38	=38	=38	=38	=38
+*lig	*	*	*	*	*
+1G	.	1e	.	1g	.
+1F	.	1f	.	2r	.
+.	.	.	.	2d	.
+*Xlig	*	*	*	*	*
+=39	=39	=39	=39	=39	=39
+*lig	*	*	*	*	*
+1E	.	1g	.	1e	.
+1D	.	2r	.	1f	.
+.	.	2d	.	.	.
+*Xlig	*	*	*	*	*
+=40	=40	=40	=40	=40	=40
+2r	.	1e	.	2g	.
+2G	.	.	.	2b-y	.
+2F	.	1f	.	2a	.
+2A	.	.	.	2cc	.
+=41	=41	=41	=41	=41	=41
+1G	.	2g	.	2b-y	.
+.	.	2b-y	.	4a	.
+.	.	.	.	4g	.
+1D	.	2a	.	1f	.
+.	.	2cc	.	.	.
+!!LO:LB:g=original
+=42	=42	=42	=42	=42	=42
+*lig	*	*	*	*	*
+1G	.	2b-y	.	2r	.
+.	.	4a	.	2g	.
+.	.	4g	.	.	.
+*	*	*	*	*lig	*
+1d	.	1f	.	1a	.
+*Xlig	*	*	*	*	*
+=43	=43	=43	=43	=43	=43
+1G	.	1g	.	1b-y	.
+*	*	*	*	*Xlig	*
+[1D	.	1f	.	2a	.
+.	.	.	.	[2dd	.
+=44	=44	=44	=44	=44	=44
+1D]	.	0d	.	2dd]	.
+.	.	.	.	2cc	.
+1F	.	.	.	1a	.
+=45	=45	=45	=45	=45	=45
+*	*	*lig	*	*lig	*
+2E	.	1g	.	1b-y	.
+2G	.	.	.	.	.
+1D	.	1f	.	[1a	.
+*	*	*Xlig	*	*	*
+=46	=46	=46	=46	=46	=46
+*lig	*	*lig	*	*	*
+0G	.	1g	.	2a]	.
+*	*	*	*	*Xlig	*
+.	.	.	.	2g	.
+.	.	1b-y	.	[1g	.
+=47	=47	=47	=47	=47	=47
+0d	.	0a	.	1g]	.
+.	.	.	.	1f#i	.
+*	*	*Xlig	*	*	*
+=48	=48	=48	=48	=48	=48
+0Gl	.	0gl	.	0gl	.
+*Xlig	*	*	*	*	*
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!PTL: Gaspar van Weerbeke: Collected Works. V. Settings of Liturgical Texts, Songs, and Instrumental Works
+!!!PPR: American Institute of Musicology
+!!!PC#: Corpus Mensurabilis Musicae 106/V
+!!!PDT: 2020
+!!!PED: Kolb, Paul
+!!!YEC: Copyright 2018, Kolb, Paul
+!!!YEM: CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+!!!EED: Zybina, Karina
+!!!EEV: 2021/08/26
+!!!RDF**kern: j = editorial accidental, optional, paren up
+!!!RDF**kern: l = terminal long
+!!!muse2ps: C^@{COM}^i2I150v90,90,120c122z18l2700t130
+!!!ONB: from http://www.gaspar-van-weerbeke.sbg.ac.at/gaspar-online-edition with doubled rhythms

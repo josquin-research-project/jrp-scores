@@ -1,0 +1,53 @@
+#!/usr/bin/env perl
+
+# symlink like: Com1002a-Missa_Lhomme_arme-Kyrie.krn -> ../../Jos/kern/Jos0601a-Missa_Lhomme_arme_quarti_toni-Kyrie.krn 
+#  change to be ../Jos/Jos0601a-Missa_Lhomme_arme_quarti_toni-Kyrie.krn. 
+#
+# This program writes searches all subdirectories for symlinks and fixes them like the given pattern.
+
+#!/usr/bin/env perl
+
+use strict;
+use warnings;
+use File::Find;
+use Getopt::Long;
+
+my $dryrun = 0;
+
+GetOptions(
+    "dry-run" => \$dryrun,
+) or die "Usage: $0 [--dry-run]\n";
+
+find(\&wanted, ".");
+
+sub wanted {
+    return unless -l $_;
+
+    my $link = $File::Find::name;
+    my $target = readlink($_);
+    return unless defined $target;
+
+    # Match: ../../Jos/kern/FILENAME
+    # Change to: ../Jos/FILENAME
+    if ($target =~ m{^\.\./\.\./([^/]+)/kern/(.+)$}) {
+        my $composer  = $1;
+        my $filename  = $2;
+        my $newtarget = "../$composer/$filename";
+
+        print "$link:\n";
+        print "  old: $target\n";
+        print "  new: $newtarget\n";
+
+        if ($dryrun) {
+            print "\n";
+            return;
+        }
+
+        unlink($_) or die "Cannot remove symlink $link: $!";
+        symlink($newtarget, $_)
+            or die "Cannot create symlink $link -> $newtarget: $!";
+    }
+}
+
+
+

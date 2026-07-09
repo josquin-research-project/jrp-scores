@@ -1,0 +1,150 @@
+!!!!SEGMENT: Duf/Duf2027b-Ave_maris_stella_verse_2__Sumens_illud_ave-hymn.krn
+!!!COM: Du Fay, Guillaume
+!!!CDT: ~1397/08/05/-1474/11/27
+!!!OPR: Ave maris stella, verse 2: Sumens illud ave
+!!!OTL: hymn
+!!!AGN: Motet; Hymn
+!!!SCT: Duf2027b
+!!!SCA: Duf2027b
+!!!jrpid: Duf2027b
+!!!voices: 3
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*	*Ivox	*
+*I"Tenor	*	*I"Contratenor	*	*I"Superius	*
+*I'T	*	*I'Ct	*	*I'S	*
+*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*M3/1	*	*M3/1	*	*M3/1	*
+*met(O)	*	*met(O)	*	*met(O)	*
+=1-	=1-	=1-	=1-	=1-	=1-
+!!LO:TX:X=-60:Z=24:t=In Cappella Sistina 15, paired w/ settings of verse 4 (Josquin) and v. 6 (anon.)
+0D	Su-	0A	Su-	0d	Su-
+2A/	.	2c\	.	2f/	.
+2B\	.	2d\	.	2g/	.
+=2	=2	=2	=2	=2	=2
+2A/	-mens	1.e	-mens	1.a	-mens
+1c	.	.	.	.	.
+2B\	.	2d\	.	2g/	.
+1A	.	1e	.	1a	.
+=3	=3	=3	=3	=3	=3
+0d	.	0G	.	0b	.
+1c	.	1A	.	1a	.
+=4	=4	=4	=4	=4	=4
+1B	il-	1E	il-	1g	il-
+1A	-lud	1F	-lud	2a/	-lud
+.	.	.	.	2cc\	.
+1d	.	1G	.	2b\	.
+.	.	.	.	2a/	.
+=5	=5	=5	=5	=5	=5
+0c	.	0A	.	1cc	.
+.	.	.	.	1r	.
+1d	a-	1G	.	1b	a-
+=6	=6	=6	=6	=6	=6
+1e	.	1r	.	1cc	.
+1d	.	1G	a-	0dd	.
+1f	.	1d	.	.	.
+=7	=7	=7	=7	=7	=7
+2e\	.	1.A	.	1cc	.
+1c	.	.	.	.	.
+.	.	.	.	2a/	.
+2B\	.	1.G	.	1b	.
+2d\	.	.	.	.	.
+2e\	.	.	.	2cc\	.
+=8	=8	=8	=8	=8	=8
+1c	-ve,	1A	-ve,	1a	-ve,
+1B	.	1E	.	1g	.
+1r	.	1r	.	1r	.
+=9	=9	=9	=9	=9	=9
+0A	Ga-	1e	Ga-	0a	Ga-
+.	.	2d\	-bri-	.	.
+.	.	1c	-e-	.	.
+2A/	-bri-	.	.	1a	-bri-
+2G/	.	2B\	.	.	.
+=10	=10	=10	=10	=10	=10
+1F	-e-	1A	.	1d	-e-
+0E	-lis	2B\	-lis	1.e	.
+.	.	2A/	.	.	.
+.	.	2G/	.	.	.
+.	.	2F/	.	2f/	.
+=11	=11	=11	=11	=11	=11
+1.B	o-	1E	.	0g	-lis
+.	.	1r	.	.	.
+2c\	.	.	.	.	.
+2A/	.	2c\	o-	2f/	o-
+[2G/	.	2d\	.	2g/	.
+=12	=12	=12	=12	=12	=12
+2G/]	.	2B\	.	2e/	.
+2A/	.	1A	.	2.f/	.
+2F/	.	.	.	.	.
+.	.	.	.	4d/	.
+2D/	.	2F/	.	1d	.
+1E	.	1G	.	.	.
+.	.	.	.	2c#i/	.
+=13	=13	=13	=13	=13	=13
+0D	-re.	0A	-re.	0d	-re.
+1r	.	1r	.	1r	.
+=14	=14	=14	=14	=14	=14
+0A	Fun-	0D	Fun-	0f	Fun-
+1G	-da	1E	-da	1e	-da
+=15	=15	=15	=15	=15	=15
+1c	nos	1r	.	1a	nos
+0B	.	0E	nos	1.g	.
+.	.	.	.	2f/	.
+=16	=16	=16	=16	=16	=16
+1.A	in	1F	in	0a	in
+.	.	0D	.	.	.
+1A	pa-	.	.	.	.
+.	.	.	.	1a	pa-
+2G/	.	.	.	.	.
+=17	=17	=17	=17	=17	=17
+1F	.	1A	pa-	1d	-ce.
+1E	.	1B	.	1e	.
+1A	.	1c	.	1f	.
+=18	=18	=18	=18	=18	=18
+2G/	.	2B\	.	2e/	.
+2D/	.	2.A/	.	2.d/	.
+2F/	.	.	.	.	.
+.	.	4G/	.	4c/	.
+2E/	.	1G	.	2c/	.
+1D	.	.	.	2B/	.
+.	.	2F#i/	.	2A/	.
+=19	=19	=19	=19	=19	=19
+0C	-ce.	0G	-ce.	1c	.
+.	.	.	.	1r	.
+2G/	Mu-	2B\	Mu-	2e/	Mu-
+2A/	.	2c\	.	2f/	.
+=20	=20	=20	=20	=20	=20
+2G/	-tans	1d	-tans	0g	-tans
+1B-i	.	.	.	.	.
+.	.	2G/	no-	.	.
+2A/	.	2c\	.	.	.
+1G	.	2B\	.	1e	no-
+.	.	2A/	.	.	.
+=21	=21	=21	=21	=21	=21
+2F/	no-	1c	-men	1f	-men
+2A/	.	.	.	.	.
+2G/	.	0B	E-	2e/	E-
+1E	.	.	.	2.g/	.
+.	.	.	.	4f/	.
+2G/	-men	.	.	2e/	.
+=22	=22	=22	=22	=22	=22
+2F/	E-	1.A	.	1.d	.
+2D/	.	.	.	.	.
+2F/	.	.	.	.	.
+2G/	.	1G#i	.	2e/	.
+1E	.	.	.	2c#i/	.
+.	.	2F#i/	.	2B/	.
+=23	=23	=23	=23	=23	=23
+0.Dl	-vae.	0.Al	-vae.	0.dl	-vae.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Jesse Rodin
+!!!END: 2016/03/16/
+!!!EED: Jesse Rodin
+!!!EEV: 2016/04/02/
+!!!ONB: Translated from MusicXML and edited on 2016/04/02/ by Craig Sapp
+!!muse2ps: C^@{COM}^i2I150v105,105,150Q16z18t300l2500
+!!muse2ps: T^@{OPR}^u^@{OTL}^

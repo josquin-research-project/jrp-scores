@@ -1,0 +1,398 @@
+!!!!SEGMENT: Gas/Gas0302a-Quam_pulchra_es-Quam_pulchra_es.krn
+!!!COM: Gaspar van Weerbeke
+!!!CDT: ~1450-~1517
+!!!OPR: Motet cycle Quam pulchra es
+!!!OTL: Quam pulchra es
+!!!OMV: 1
+!!!AGN: Motet; Motet cycle
+!!!SCT: Gas0302a
+!!!SCA: Gas0302a
+!!!jrpid: Gas0302a
+!!!voices: 4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Cantus	*
+*I'B	*	*I'T	*	*I'A	*	*I'C	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+*met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*
+=1	=1	=1	=1	=1	=1	=1	=1
+0G	Quam	0G	Quam	1.d	Quam	0g	Quam
+.	.	.	.	[2B-	pul-	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+1.E-X	pul-	1B-	pul-	2B-]	.	1.g	pul-
+.	.	.	.	1.G	-chra	.	.
+.	.	1c	-chra	.	.	.	.
+2E-	-chra	.	.	.	.	2g	-chra
+=3	=3	=3	=3	=3	=3	=3	=3
+1.D	es	1.d	es	1.A	es	1f	es
+.	.	.	.	.	.	2f	et
+2G	et	2d	et	2B-	et	2d	quam
+!!LO:LB:g=ap
+=4	=4	=4	=4	=4	=4	=4	=4
+1C	quam	1c	quam	2G	quam	2.e	de-
+.	.	.	.	2g	de-	.	.
+.	.	.	.	.	.	4f	.
+2G	de-	2B-	de-	2e	.	2g	.
+2F	.	2c	.	[2f	-co-	[2a	-co-
+=5	=5	=5	=5	=5	=5	=5	=5
+2D	-co-	2d	.	2f]	.	2a]	.
+2G	.	2B-	.	1.d	-ra,	1g	.
+1D	-ra,	1A	-co-	.	.	.	.
+.	.	.	.	.	.	2f#i	.
+=6	=6	=6	=6	=6	=6	=6	=6
+1r	.	1G	-ra,	1d	ca-	1g	-ra,
+1G	ca-	1r	.	2d	-ris-	1dd	ca-
+.	.	.	.	2d	-si-	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+2G	-ris-	1d	ca-	1B-	-ma,	2dd	-ris-
+2G	-si-	.	.	.	.	2dd	-si-
+1G	-ma,	2d	-ris-	1G	.	1b-	-ma,
+.	.	2d	-si-	.	.	.	.
+!!LO:LB:g=ap
+=8	=8	=8	=8	=8	=8	=8	=8
+1.G	in	1B-	-ma,	1r	.	2g	.
+.	.	.	.	.	.	1b-	in
+.	.	1G	in	1G	in	.	.
+2E	.	.	.	.	.	4a	.
+.	.	.	.	.	.	4g	.
+=9	=9	=9	=9	=9	=9	=9	=9
+1D	de-	1d	de-	1A	de-	1f	de-
+2F	-li-	2d	-li-	2A	-li-	2f	-li-
+2E	.	2c	.	2G	.	2g	.
+=10	=10	=10	=10	=10	=10	=10	=10
+2F	.	2.d	.	2A	.	2f	.
+2G	.	.	.	2B-	-ci-	2b-	-ci-
+.	.	4e	.	.	.	.	.
+2A	.	2f	-ci-	2c	.	2a	.
+[2G	-ci-	[2e-X	-is	[2B-	-is	[2b-	.
+=11	=11	=11	=11	=11	=11	=11	=11
+2G]	.	2e-]	.	2B-]	.	2b-]	.
+2F	-is	1d	tu-	1A	tu-	2f	-is
+1E-i	tu-	.	.	.	.	1g	tu-
+.	.	2c	.	2G	.	.	.
+!!LO:LB:g=ap
+=12	=12	=12	=12	=12	=12	=12	=12
+0D	-is.	0d	-is.	1A	-is.	0f	-is.
+.	.	.	.	1r	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+1.G	Sta-	1.d	Sta-	1.g	Sta-	1.b-	Sta-
+2G	-tu-	2d	-tu-	2g	-tu-	2b-	-tu-
+=14	=14	=14	=14	=14	=14	=14	=14
+1D	-ra	1d	-ra	1f	-ra	1a	-ra
+2G	tu-	2B-	tu-	2e	tu-	2g	tu-
+[2F	.	[2c	.	[2f	.	[2a	.
+=15	=15	=15	=15	=15	=15	=15	=15
+2F]	.	2c]	.	4f]	.	2a]	.
+.	.	.	.	4e	.	.	.
+2E	.	2G	.	2c	.	1g	.
+1D	-a	1A	.	1d	-a	.	.
+.	.	.	.	.	.	2f#i	.
+!!LO:LB:g=ap
+=16	=16	=16	=16	=16	=16	=16	=16
+2r	.	1G	-a	2B-	as-	1g	-a
+2G	as-	.	.	2B-	-si-	.	.
+2G	-si-	1r	.	2B-	-mi-	1r	.
+2G	-mi-	.	.	[2G	-la-	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+2E	-la-	1r	.	2G]	.	2r	.
+2C	.	.	.	2G	-ta	2cc	as-
+1C	-ta	1c	as-	1G	est	2cc	-si-
+.	.	.	.	.	.	2cc	-mi-
+=18	=18	=18	=18	=18	=18	=18	=18
+1F	est	2c	-si-	2.A	pal-	1.a	-la-
+.	.	2c	-mi-	.	.	.	.
+.	.	.	.	4B-	.	.	.
+2.F	pal-	[1A	-la-	[1c	.	.	.
+.	.	.	.	.	.	2f	-ta
+4G	.	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+4A	.	2A]	.	2c]	.	2f	est
+4B-	.	.	.	.	.	.	.
+1c	.	2F	-ta	1A	.	2.a	pal-
+.	.	2F	est	.	.	.	.
+.	.	.	.	.	.	4b-	.
+2A	.	[2A	pal-	2F	-mae,	[2cc	.
+!!LO:LB:g=ap
+=20	=20	=20	=20	=20	=20	=20	=20
+*	*	*	*	*	*edit	*	*
+1.F	.	4A]	.	1f	pal-	4cc]	.
+.	.	4B-	.	.	.	4b-	.
+.	.	2c	.	.	.	1a	.
+.	.	2A	.	2c	.	.	.
+[2E-X	.	[2B-	.	[2e-X	.	[2g	.
+=21	=21	=21	=21	=21	=21	=21	=21
+2E-]	.	2B-]	.	2e-]	.	2g]	.
+2F	.	2A	.	1.c	.	1f	.
+1C	-mae	1G	.	.	.	.	.
+.	.	.	.	.	.	2e	.
+=22	=22	=22	=22	=22	=22	=22	=22
+1c	et	0F	-mae	1A	-mae	1f	-mae
+*	*	*	*	*	*Xedit	*	*
+2c	u-	.	.	2r	.	2r	.
+2A	.	.	.	2c	et	2f	et
+=23	=23	=23	=23	=23	=23	=23	=23
+2G	-be-	2r	.	2d	u-	2b-	u-
+2A	-ra	2F	et	2c	.	2a	.
+2G	tu-	2B-	u-	2d	-be-	2b-	-be-
+2F	-a	2A	.	[2f	-ra	2cc	-ra
+!!LO:LB:g=ap
+=24	=24	=24	=24	=24	=24	=24	=24
+2B-	bo-	2B-	-be-	2f]	.	2dd	tu-
+2F	.	2c	-ra	1f	tu-	2cc	-a
+2D	.	2d	tu-	.	.	2ff	bo-
+2A	.	2c	-a	2a	-a	[2ee	.
+=25	=25	=25	=25	=25	=25	=25	=25
+2d	.	2f	bo-	2b-X	bo-	2ee]	.
+2B-	.	2g	.	2g	.	1dd	.
+1A	-tris.	1e	.	1a	.	.	.
+.	.	.	.	.	.	2cc#i	.
+=26	=26	=26	=26	=26	=26	=26	=26
+2r	.	0d	-tris.	1f	-tris.	1dd	-tris.
+2B-	Ca-	.	.	.	.	.	.
+2B-	-put	.	.	2r	.	1r	.
+2B-	tu-	.	.	2f	Ca-	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+1.F	-um	1r	.	2f	-put	1ff	Ca-
+.	.	.	.	2f	tu-	.	.
+.	.	1f	Ca-	1a	-um	2dd	-put
+2D	ut	.	.	.	.	[2dd	tu-
+!!LO:LB:g=ap
+=28	=28	=28	=28	=28	=28	=28	=28
+0G	Car-	2d	-put	1.g	ut	2dd]	.
+.	.	1d	tu-	.	.	2b-	-um
+.	.	.	.	.	.	2b-	ut
+.	.	2B-	-um	2d	Car-	[2dd	Car-
+=29	=29	=29	=29	=29	=29	=29	=29
+2G	-me-	2B-	ut	2B-	.	2dd]	.
+2F	.	1d	Car-	[1.f	-me-	1ff	.
+2D	.	.	.	.	.	.	.
+2BB-X	.	2f	.	.	.	[2dd	-me-
+=30	=30	=30	=30	=30	=30	=30	=30
+2B-	.	2d	.	2f]	.	2dd]	.
+2G	.	2e	.	2e	.	4cc	.
+.	.	.	.	.	.	4b-	.
+1F	-lus,	1c	-me-	1f	-lus,	2.a	.
+.	.	.	.	.	.	4g	.
+=31	=31	=31	=31	=31	=31	=31	=31
+2r	.	1B-	-lus,	2r	.	1b-	-lus,
+2G	col-	.	.	2B-	col-	.	.
+2G	-lum	2r	.	2B-	-lum	2r	.
+2G	tu-	2d	col-	2B-	tu-	2g	col-
+!!LO:LB:g=ap
+=32	=32	=32	=32	=32	=32	=32	=32
+1D	-um	2d	-lum	2F	-um	1.a	-lum
+.	.	2d	tu-	2f	sic-	.	.
+2F	sic-	1A	-um	2f	-ut	.	.
+2F	-ut	.	.	2f	tur-	2a	tu-
+=33	=33	=33	=33	=33	=33	=33	=33
+0G	tur-	1d	sic-	1B-	-ris,	1b-	-um
+*	*	*	*	*	*edit	*	*
+.	.	2B-	-ut	2.d	sic-	2.b-	sic-
+.	.	[2G	tur-	.	.	.	.
+.	.	.	.	4c	.	4a	.
+=34	=34	=34	=34	=34	=34	=34	=34
+2B-	-ris,	2G]	.	4d	.	2g	-ut
+.	.	.	.	4e	.	.	.
+*	*edit	*	*	*	*	*	*
+2A	sic-	2F	.	2f	-ut	1a	tur-
+2B-	-ut	2G	.	[1d	tur-	.	.
+2G	tur-	2B-	.	.	.	[2g	.
+=35	=35	=35	=35	=35	=35	=35	=35
+1D	-ris	1A	.	2d]	.	2g]	.
+.	.	.	.	2d	-ris	2f#i	.
+*	*Xedit	*	*	*	*Xedit	*	*
+2.E-i	e-	1G	-ris	2B-	e-	1g	-ris
+.	.	.	.	2G	.	.	.
+4F	.	.	.	.	.	.	.
+!!LO:LB:g=ap
+=36	=36	=36	=36	=36	=36	=36	=36
+2G	.	2B-	e-	1.g	-bur-	2d	e-
+2C	.	1c	-bur-	.	.	1e	-bur-
+2E	-bur-	.	.	.	.	.	.
+2D	.	2d	.	2f	.	2f	.
+=37	=37	=37	=37	=37	=37	=37	=37
+2G	-ne-	2B-	-ne-	2g	.	2d	.
+2C	.	2c	.	2e	-ne-	1g	-ne-
+1D	-a.	1A	-a.	1d	-a.	.	.
+.	.	.	.	.	.	2f#i	-a.
+=38	=38	=38	=38	=38	=38	=38	=38
+*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+*met(3)	*	*met(3)	*	*met(3)	*	*met(3)	*
+0.r	.	1G	Ve-	0.r	.	1g	Ve-
+.	.	2G	-ni,	.	.	2g	-ni,
+.	.	1d	di-	.	.	1b-	di-
+.	.	2e	.	.	.	2cc	.
+!!LO:LB:g=ap
+=39	=39	=39	=39	=39	=39	=39	=39
+0.r	.	1f	-lec-	0.r	.	1dd	-lec-
+.	.	4e	.	.	.	4cc	.
+.	.	4d	.	.	.	4b-	.
+.	.	1c	.	.	.	2.a	.
+.	.	.	.	.	.	4g	.
+.	.	2c	-te	.	.	2a	-te
+=40	=40	=40	=40	=40	=40	=40	=40
+1r	.	1B-	mi,	1r	.	1b-	mi,
+2B-	e-	2r	.	2f	e-	2r	.
+1c	-gre-	1.r	.	1e	-gre-	1.r	.
+2c	-di-	.	.	2e	-di-	.	.
+=41	=41	=41	=41	=41	=41	=41	=41
+*col	*	*	*	*	*	*	*
+1d	-a-	0.r	.	1d	-a-	0.r	.
+2c	.	.	.	2e	.	.	.
+2B-	.	.	.	1g	.	.	.
+1A	.	.	.	.	.	.	.
+.	.	.	.	2f#i	.	.	.
+*Xcol	*	*	*	*	*	*	*
+!!LO:LB:g=ap
+=42	=42	=42	=42	=42	=42	=42	=42
+1G	-mur	1r	.	1g	-mur	1r	.
+2r	.	2G	in	2r	.	2g	in
+1.r	.	2.B-	a-	1.r	.	2.g	a-
+.	.	4c	.	.	.	4a	.
+.	.	2d	.	.	.	4b-	.
+.	.	.	.	.	.	4cc	.
+=43	=43	=43	=43	=43	=43	=43	=43
+*	*	*col	*	*	*	*	*
+0.r	.	1c	.	0.r	.	2a	.
+.	.	.	.	.	.	2.g	.
+.	.	2A	.	.	.	.	.
+.	.	.	.	.	.	4f	.
+.	.	2F	.	.	.	1f	.
+.	.	1G	.	.	.	.	.
+.	.	.	.	.	.	2e	.
+*	*	*Xcol	*	*	*	*	*
+!!LO:LB:g=ap
+=44	=44	=44	=44	=44	=44	=44	=44
+1r	.	1F	-grum	1r	.	1f	-grum
+2F	et	2r	.	2f	et	2r	.
+1G	vi-	1.r	.	2.e	vi-	1.r	.
+.	.	.	.	4f	.	.	.
+2G	-de-	.	.	4g	.	.	.
+.	.	.	.	4a	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45
+*col	*	*	*	*	*	*	*
+1A	-a-	0.r	.	2f	-de-	0.r	.
+.	.	.	.	2.e	-a-	.	.
+2G	.	.	.	.	.	.	.
+.	.	.	.	4d	.	.	.
+2F	.	.	.	1d	.	.	.
+1E	.	.	.	.	.	.	.
+.	.	.	.	2c#i	.	.	.
+*Xcol	*	*	*	*	*	*	*
+=46	=46	=46	=46	=46	=46	=46	=46
+1D	-mus	1r	.	1d	-mus	1r	.
+2D	si	2d	si	2A	si	2f	si
+1BB-X	flo-	1d	flo-	1B-	flo-	1f	flo-
+2D	-res	2d	-res	2A	-res	2f	-res
+!!LO:LB:g=ap
+=47	=47	=47	=47	=47	=47	=47	=47
+!!ONB: Coloration within sesquialtera?  Cancels sequialtera? And not in Canto?
+*col	*	*col	*	*col	*	*	*
+1C	fruc-	1e-X	fruc-	1c	fruc-	1g	fruc-
+2D	.	2d	.	2f	.	2f	.
+2G	.	2B-	.	2e	.	1b-	.
+1F	-tus	1c	-tus	1f	-tus	.	.
+*Xcol	*	*Xcol	*	*Xcol	*	*	*
+.	.	.	.	.	.	2a	-tus
+=48	=48	=48	=48	=48	=48	=48	=48
+1r	.	1B-	par-	1d	par-	1b-	par-
+2G	par-	2B-	-tu-	2d	-tu-	2dd	-tu-
+1G	-tu-	1B-	-ri-	1d	-ri-	2.dd	-ri-
+.	.	.	.	.	.	4cc	.
+2G	-ri-	2B-	-e-	2d	-e-	2b-	.
+=49	=49	=49	=49	=49	=49	=49	=49
+*	*	*col	*	*	*	*	*
+1F	-e-	1c	.	1f	.	1a	-e-
+2G	.	2B-	.	4d	.	2d	.
+.	.	.	.	4B-	.	.	.
+2E	.	2G	.	2c	.	1g	.
+1D	-runt,	1A	.	1d	-runt,	.	.
+.	.	.	.	.	.	2f#i	.
+*	*	*Xcol	*	*	*	*	*
+!!LO:LB:g=ap
+=50	=50	=50	=50	=50	=50	=50	=50
+0.r	.	1G	-runt,	0.r	.	1g	-runt,
+.	.	2r	.	.	.	2f	si
+.	.	1r	.	.	.	1b-	flo-
+.	.	2F	si	.	.	2cc	-ru-
+=51	=51	=51	=51	=51	=51	=51	=51
+0.r	.	1B-	flo-	0.r	.	1dd	-e-
+.	.	2c	-ru-	.	.	2cc	-runt
+.	.	1d	-e-	.	.	1ff	ma-
+.	.	2c	-runt	.	.	2ee	-la
+=52	=52	=52	=52	=52	=52	=52	=52
+*	*	*col	*	*	*	*	*
+0.r	.	1e	ma-	0.r	.	2.gg	pu-
+.	.	.	.	.	.	4ff	.
+.	.	2g	-la	.	.	4ee	.
+.	.	.	.	.	.	4dd	.
+.	.	2f	pu-	.	.	1dd	-ni-
+.	.	1e	-ni-	.	.	.	.
+.	.	.	.	.	.	2cc#i	.
+*	*	*Xcol	*	*	*	*	*
+!!LO:LB:g=ap
+=53	=53	=53	=53	=53	=53	=53	=53
+1.r	.	1d	-ca.	1f	I-	1dd	-ca.
+.	.	2r	.	2e	-bi	2r	.
+1F	I-	1.r	.	1f	da-	1.r	.
+2E	-bi	.	.	2g	-bo	.	.
+=54	=54	=54	=54	=54	=54	=54	=54
+1F	da-	0.r	.	1a	ti-	0.r	.
+2G	-bo	.	.	2g	-bi	.	.
+1A	ti-	.	.	1f	u-	.	.
+2G	-bi	.	.	2e	-be-	.	.
+=55	=55	=55	=55	=55	=55	=55	=55
+2F	u-	0.r	.	1d	-ra	0.r	.
+1G	-be-	.	.	.	.	.	.
+.	.	.	.	2e	.	.	.
+2B-	-ra	.	.	1g	me-	.	.
+1A	me-	.	.	.	.	.	.
+.	.	.	.	2f#i	.	.	.
+!!LO:LB:g=ap
+=56	=56	=56	=56	=56	=56	=56	=56
+1G	-a,	1.r	.	1g	-a,	1b-	I-
+2F	.	.	.	2r	.	2a	-bi
+*	*edit	*	*	*	*edit	*	*
+1G	i-	1B-	I-	1d	i-	1b-	da-
+2A	-bi	2A	-bi	2c	-bi	2cc	-bo
+=57	=57	=57	=57	=57	=57	=57	=57
+1G	da-	1B-	da-	2B-	da-	1dd	ti-
+.	.	.	.	2G	-bo	.	.
+2F	-bo	2c	-bo	2A	ti-	2cc	-bi
+*	*	*	*	*col	*	*	*
+1BB-X	ti-	1d	ti-	1B-	-bi	1b-	u-
+2F	-bi	2c	-bi	2r	.	2a	-be-
+=58	=58	=58	=58	=58	=58	=58	=58
+2G	u-	2B-	u-	2d	u-	2g	-ra
+1F	-be-	1c	-be-	1f	-be-	2.a	me-
+.	.	.	.	.	.	4g	.
+*	*	*	*	*Xcol	*	*	*
+2E	-ra	2G	-ra	2c	-ra	1g	.
+1D	me-	1A	me-	1d	me-	.	.
+.	.	.	.	.	.	2f#i	.
+!!LO:LB:g=ap
+=59	=59	=59	=59	=59	=59	=59	=59
+0Gl	-a.	0Gl	-a.	0dl	-a.	0gl	-a.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!system-decoration: [*]
+!!!PTL: MCE 6: Gaspar van Weerbeke, Quam pulchra es
+!!!ISBN: 978-3-9524701-7-6
+!!!URL: https://www.gaffurius-codices.ch/s/portal/page/mce06
+!!!PPR: Gaffurius Codices Online, Motet Cycles Edition (https://www.gaffurius-codices.ch/s/portal/page/editions)
+!!!PC#: MCE 06-01
+!!!PDT: 2021
+!!!PED: Cassia, Christina
+!!!YEC: Copyright 2021, Pavanello, Agnese
+!!!YEM: CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+!!!ENC: Wissmann, Rolf
+!!!EED: Sapp, Craig Stuart
+!!!EEV: 2022/02/02
+!!!title: @{OPR} &mdash; @{OMV}. @{OTL}
+!!!muse2ps: C^@{COM}^i2I150v90,90,90,120c122z18l2700t130
+!!!ONB: from https://www.gaffurius-codices.ch/s/portal/page/editions

@@ -1,0 +1,151 @@
+!!!!SEGMENT: Jos/Jos0904e-Missa_Rosina-Agnus.krn
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OPR: Missa Rosina
+!!!ONM: 5
+!!!OTL: Agnus Dei
+!!!AGN: Mass; Agnus Dei
+!!!SCT: NJE 9.4
+!!!SCA: New Josquin Edition 9.4
+!!!jrpid: Jos0904e
+!!!voices: 4
+!!!voices-OPR: 4
+**kern
+*staff1
+*Ivox
+*I"Tenor
+*I'T
+*clefGv2
+*k[]
+*M2/1
+*met(C)
+=1-
+!!section: Agnus Dei I
+!!!OMD: Agnus Dei I
+0r
+=2
+0r
+=3
+1.E
+2F/
+=4
+1G
+2r
+[2A/
+=5
+2A/]
+2G/
+2A/
+2c\
+=6
+1B
+1A
+=7
+0r
+=8
+2.G/
+4A/
+2B\
+2c\
+=9
+2B\
+1e
+2d\
+=10
+0e
+=11
+0r
+=12
+1A
+2G/
+[2F/
+=13
+2F/]
+2E/
+1D
+=14
+0C
+=15
+0r
+=16
+1c
+2B\
+[2A/
+=17
+2A/]
+2G/
+1F
+=18
+0E
+=19
+*M2/1
+*met(C|)
+0r
+=20
+0r
+=21
+1.E
+2F/
+=22
+1G
+2r
+[2A/
+=23
+2A/]
+2G/
+2A/
+2c\
+=24
+1B
+1A
+=25
+0r
+=26
+2.G/
+4A/
+2B\
+2c\
+=27
+2B\
+1e
+2d\
+=28
+0e
+=29
+0r
+=30
+1A
+2G/
+[2F/
+=31
+2F/]
+2E/
+1D
+=32
+0C
+=33
+0r
+=34
+1c
+2B\
+[2A/
+=35
+2A/]
+2G/
+1F
+=36
+0E
+=37
+0El
+==
+*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: V=start of tuplet marker
+!!!RDF**kern: Z=end of tuplet marker
+!!!ENC: Rob Wegman; Jesse Rodin (May 2013)
+!!!END: 2013/05/10/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/05/13/
+!!attribution-level@Jos: 4a (the rest [double question mark])
+!!!ONB: Translated from MusicXML and edited on 2013/05/13/ by Craig Sapp
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?^i2I250v150z21c120Q16z18

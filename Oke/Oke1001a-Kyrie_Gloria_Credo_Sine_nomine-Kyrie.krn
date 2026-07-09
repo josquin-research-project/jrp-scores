@@ -1,0 +1,161 @@
+!!!!SEGMENT: Oke/Oke1001a-Kyrie_Gloria_Credo_Sine_nomine-Kyrie.krn
+!!!COM: Okeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OPR: Kyrie-Gloria-Credo Sine nomine
+!!!OTL: Kyrie
+!!!AGN: Mass; Kyrie
+!!!SCA: Oke1001a
+!!!jrpid: Oke1001a
+!!!voices: 5
+!!!voices-OPR: 5
+**kern	**kern	**kern	**kern	**kern
+*staff5	*staff4	*staff3	*staff2	*staff1
+*Ivox	*Ivox	*Ivox	*Ivox	*Ivox
+*I"Bassus	*I"Tenor2	*I"Tenor	*I"Altus	*I"Superius
+*I'B	*I'T2	*I'T	*I'A	*I'S
+*clefF4	*clefF4	*clefF4	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]
+*M3/1	*M3/1	*M3/1	*M3/1	*M3/1
+*met(O)	*met(O)	*met(O)	*met(O)	*met(O)
+!!section: Kyrie
+!!!OMD: Kyrie
+=1-	=1-	=1-	=1-	=1-
+0.r	0.r	0.r	2.c\	1c
+.	.	.	4A/	.
+.	.	.	2B\	2d/
+.	.	.	2A/	2f/
+.	.	.	2G/	2e/
+.	.	.	2F/	2d/
+=2	=2	=2	=2	=2
+0.r	1AA	2r	2E/	2e/
+.	.	2C/	2r	2e/
+.	2BB/	2D\	2.G/	2d/
+.	4C/	4E\	.	2c/
+.	2FF/	2F\	4A/	.
+.	.	.	4D/	4A/
+.	4GG/	4E\	2G/	4G/
+.	2D\	2D\	.	2A/
+.	.	.	4F#i/	.
+=3	=3	=3	=3	=3
+2r	2GG/	2E\	2G/	2G/
+2EE/	2GG/	2r	2C/	2r
+4DD/	4AA/	1r	2D/	1r
+2GG/	2BB/	.	.	.
+.	.	.	4E/	.
+4AA/	2C/	.	2F/	.
+2EE/	.	1r	.	1r
+.	2BB/	.	2E/	.
+2FF/	.	.	.	.
+.	4AA/	.	4D/	.
+=4	=4	=4	=4	=4
+2EE/	2BB/	2G\	2E/	2.e/
+2r	2C/	2E\	2r	.
+.	.	.	.	8d/L
+.	.	.	.	8c/J
+1r	2GG/	2D\	1r	4B/
+.	.	.	.	4d/
+.	4C/	4E\	.	4c/
+.	4D\	2F\	.	2B/
+1r	2AA/	.	1r	.
+.	.	2E\	.	2A/
+.	2BB/	.	.	.
+.	.	4D\	.	4G/
+=5	=5	=5	=5	=5
+2AA/	2AA/	2E\	2r	4c/
+.	.	.	.	2e/
+2GG/	2BB/	2r	2G/	.
+.	.	.	.	2d/
+2AA/	2C/	2A\	2E/	.
+.	.	.	.	4c/
+2DD/	2AA/	4F\	4D/	2.d/
+.	.	2A\	4.F/	.
+2r	4FF/	.	.	.
+.	.	.	8E/L	.
+.	4GG/	4G\	8D/	2f/
+.	.	.	8C/J	.
+2DD/	2AA/	2F\	2D/	.
+.	.	.	.	4d/
+=6	=6	=6	=6	=6
+2AA/	2r	2E\	2E/	2c/
+2GG/	2BB/	2G\	2r	2r
+4AA/	4.C/	2E\	2A/	1r
+4FF/	.	.	.	.
+.	8BB/	.	.	.
+4GG/	4GG/	4E\	4B-i\	.
+2AA/	2C/	2F\	2A/	.
+.	.	.	.	1r
+4EE/	4BB/	2E\	4G/	.
+2FF/	2AA/	.	4A/	.
+.	.	4D\	4F/	.
+=7	=7	=7	=7	=7
+2EE/	2BB/	2E\	2G/	1e
+2EE/	2C/	2r	2r	.
+2DD/	2D\	1r	2A/	2f/
+4GG/	4E\	.	4G/	4g/
+2FF/	2F\	.	2c\	2a/
+.	.	1r	.	.
+4GG/	4E\	.	4G/	2g/
+2DD/	2D\	.	2A/	.
+.	.	.	.	4f#i/
+=8	=8	=8	=8	=8
+0.r	2E\	2r	2G/	2.g/
+.	2r	2C/	2c\	.
+.	.	.	.	4e/
+.	1r	2D\	4B\	2f/
+.	.	.	4A/	.
+.	.	4E\	4G/	4e/
+.	.	2F\	2A/	2d/
+.	1r	.	.	.
+.	.	4E\	2G/	2c/
+.	.	2D\	.	.
+.	.	.	4F/	4B/
+=9	=9	=9	=9	=9
+2C/	2r	2E\	2G/	2c/
+2r	2C/	2r	2r	2r
+1r	2AA/	2E\	2A/	2c/
+.	2BB/	2D\	2G/	2d/
+2r	1AA	2E\	1c	2c/
+2AA/	.	2A\	.	4e/
+.	.	.	.	[4f/
+=10	=10	=10	=10	=10
+2BB/	2r	4F\	2d\	4f/]
+.	.	4G\	.	4d/
+2AA/	2AA/	4A\	2c\	4f/
+.	.	4F\	.	2e/
+2GG/	2BB/	2G\	2B\	.
+.	.	.	.	2d/
+2AA/	2C/	2E\	2.A/	.
+.	.	.	.	4c/
+2DD/	1AA	2D\	.	2d/
+.	.	.	4F/	.
+2r	.	2r	4E/	2c/
+.	.	.	4F/	.
+=11	=11	=11	=11	=11
+2GG/	2BB-/	2D\	2G/	2B-i/
+2FF/	2AA/	2F\	2A/	4c/
+.	.	.	.	4.d/
+2GG/	2GG/	4D\	4B-\	.
+.	.	.	.	8c/
+.	.	4E\	4G/	4B-i/
+4DD/	2D\	4F\	4A/	4A/
+4.GG/	.	2D\	2G/	2B-i/
+.	4GG/	.	.	.
+8DD/	.	.	.	.
+4FF/	4AA/	4C/	4F/	4A/
+2GG/	4.BB-i/	2BB-i/	2D/	2G/
+.	8GG/	.	.	.
+=12	=12	=12	=12	=12
+1DD	1FF	0.AAl	1D	0.Al
+0AAl	0Cl	.	0El	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: V=start of tuplet marker
+!!!RDF**kern: Z=end of tuplet marker
+!!!ENC: Jesse Rodin 8-17-2012
+!!!END: 2012/08/17/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/08/17/
+!!!ONB: Translated from MusicXML and edited on 2012/08/17/ by Craig Sapp
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v95,95,95,95,130Q16

@@ -1,0 +1,465 @@
+!!!!SEGMENT: Gas/Gas0201a-Missa_brevis-Kyrie.krn
+!!!RNB: two syllabes per one note need to be checked (mm.15,55)
+!!!COM: Gaspar van Weerbeke
+!!!CDT: ~1450-~1517
+!!!OPR: Missa brevis
+!!!OTL: Kyrie
+!!!OMV: 1
+!!!AGN: Mass
+!!!SCT: Gas0201a
+!!!SCA: Gas0201a
+!!!jrpid: Gas0201a
+!!!voices: 4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
+*I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
+*>Kyrie1[A]	*>Kyrie1[A]	*>Kyrie1[A]	*>Kyrie1[A]	*>Kyrie1[A]	*>Kyrie1[A]	*>Kyrie1[A]	*>Kyrie1[A]
+*>Christe[B]	*>Christe[B]	*>Christe[B]	*>Christe[B]	*>Christe[B]	*>Christe[B]	*>Christe[B]	*>Christe[B]
+*>Kyrie2[C]	*>Kyrie2[C]	*>Kyrie2[C]	*>Kyrie2[C]	*>Kyrie2[C]	*>Kyrie2[C]	*>Kyrie2[C]	*>Kyrie2[C]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Kyrie I
+=1	=1	=1	=1	=1	=1	=1	=1
+1.G	Ky-	1.G	Ky-	1.d	Ky-	1.g	Ky-
+2G	-ri-	2G	-ri-	2d	-ri-	2g	-ri-
+=2	=2	=2	=2	=2	=2	=2	=2
+*	*	*	*	*lig	*	*	*
+2.F	-e	2.c	-e	1f	-e	2.a	-e
+4E-j	.	4d	.	.	.	4b-y	.
+1C	.	1e-j	.	1e-j	.	1cc	.
+*	*	*	*	*Xlig	*	*	*
+=3	=3	=3	=3	=3	=3	=3	=3
+*lig	*	*	*	*	*	*	*
+*	*edit	*	*	*	*	*	*edit
+1BB-y	e-	1f	e-	2.d	.	1.dd	e-
+.	.	.	.	4c	.	.	.
+[1D	.	2d	.	1A	.	.	.
+*	*	*col	*	*	*	*	*
+.	.	[2f	-ley-	.	.	4cc	.
+.	.	.	.	.	.	4b-y	.
+*Xlig	*	*	*	*	*	*	*
+=4	=4	=4	=4	=4	=4	=4	=4
+*	*	*	*	*	*edit	*	*
+2D]	.	4f]	.	2F	e-	2a	-ley-
+.	.	4e-i	.	.	.	.	.
+*	*	*Xcol	*	*	*	*	*
+2F	.	1d	.	1A	-ley-	2f	.
+1E-i	-ley-	.	.	.	.	1g	-son,
+.	.	2c	.	2G	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+2.D	-son,	[0d	-son,	1A	-son,	2.f	Ky-
+4E	.	.	.	.	.	4g	.
+2F	.	.	.	2r	.	2a	.
+2G	e-	.	.	2G	e-	2b-y	-ri-
+!!LO:LB:g=original
+=6	=6	=6	=6	=6	=6	=6	=6
+*	*	*	*	*	*	*	*Xedit
+2F	-ley-	1d]	.	2A	-ley-	2a	-e-
+2G	.	.	.	2G	.	1dd	-ley-
+*	*	*	*edit	*	*	*	*
+[1D	.	[1f	Ky-	1A	-son,	.	.
+.	.	.	.	.	.	4cc	.
+.	.	.	.	.	.	4b-y	.
+=7	=7	=7	=7	=7	=7	=7	=7
+1D]	.	1f]	.	[0d	Ky-	1a	-son,
+*	*	*	*	*	*	*	*edit
+1G	-son,	1g	-ri-	.	.	1b-y	Ky-
+=8	=8	=8	=8	=8	=8	=8	=8
+1r	.	2f	-e	1d]	.	2a	-ri-
+.	.	2d	.	.	.	2b-y	-e
+1C	Ky-	1e-i	.	2.c	-ri-	4cc	e-
+.	.	.	.	.	.	4b-y	.
+.	.	.	.	.	.	4a	.
+.	.	.	.	4B-y	.	4g	.
+=9	=9	=9	=9	=9	=9	=9	=9
+*	*	*col	*	*	*	*	*
+1.D	-ri-	2.d	.	4A	.	2.f	.
+.	.	.	.	4G	.	.	.
+.	.	.	.	1F	-e	.	.
+.	.	4e-i	.	.	.	4g	.
+*	*	*Xcol	*	*	*	*	*
+.	.	2f	.	.	.	4a	.
+.	.	.	.	.	.	4b-y	.
+2C	.	2e-i	.	2G	e-	[2cc	.
+=10	=10	=10	=10	=10	=10	=10	=10
+2D	-e	2f	.	2F	-ley-	4cc]	.
+.	.	.	.	.	.	4b-y	.
+2BB-y	.	2d	.	2B-y	.	1b-y	-ley-
+1F	.	1c	.	2F	-son,	.	.
+.	.	.	.	[2f	e-	2a	.
+=11	=11	=11	=11	=11	=11	=11	=11
+2BB-y	e-	2B-y	e-	2f]	.	1b-y	-son,
+2D	.	1B-y	-ley-	4e-i	.	.	.
+.	.	.	.	4d	.	.	.
+1C	-ley-	.	.	1e-i	-lei-	2r	.
+*	*	*	*	*	*	*	*Xedit
+.	.	2A	.	.	.	2cc	Ky-
+!!LO:LB:g=original
+=12	=12	=12	=12	=12	=12	=12	=12
+1BB-y	-son,	1B-y	-son,	2d	-son,	1dd	-ri-
+.	.	.	.	2f	Ky-	.	.
+*	*	*	*Xedit	*	*	*	*
+1r	.	2e-X	Ky-	2g	-ri-	2cc	-e
+*	*	*	*	*	*	*	*edit
+.	.	2d	-ri-	[2b-y	-e e-	[2dd	e-
+=13	=13	=13	=13	=13	=13	=13	=13
+*lig	*	*	*	*	*	*	*
+1G	Ky-	2B-y	-e	4b-]	.	2dd]	.
+.	.	.	.	4a	.	.	.
+*	*	*	*edit	*	*	*	*
+.	.	1d	e-	1g	-ley-	4cc	.
+.	.	.	.	.	.	4b-y	.
+1A	.	.	.	.	.	1cc	-ley-
+.	.	2c	.	2f#i	.	.	.
+*Xlig	*	*	*	*	*	*	*
+=14	=14	=14	=14	=14	=14	=14	=14
+1G	-ri-	2.d	-ley-	1g	-son,	1b-y	-son,
+.	.	4e-j	.	.	.	.	.
+1D	-e	2f	.	2r	.	2a	Ky-
+.	.	[2d	.	[2f	Ky-	[2b-y	-ri-
+=15	=15	=15	=15	=15	=15	=15	=15
+*	*Xedit	*	*	*	*	*	*
+4D	e-	2d]	.	2f]	.	2b-]	.
+4E	.	.	.	.	.	.	.
+4F	.	4c	.	4e	-ri-	4a	.
+4G	.	4B-y	.	4d	.	4g	.
+*	*	*	*	*	*	*	*Xedit
+2A	.	2A	-son,	2c	-e	2f	-e e-
+*	*	*	*	*	*	*lig	*
+*	*	*	*Xedit	*	*Xedit	*	*
+[2F	.	[2c	e-	[2f	e-	[2a	-ley-
+=16	=16	=16	=16	=16	=16	=16	=16
+2F]	.	2c]	.	4f]	.	2a]	.
+.	.	.	.	4e	.	.	.
+2G	.	2B-y	.	1d	-le-	1g	.
+1D	-ley-	1A	-ley-	.	.	.	.
+*	*	*	*	*	*	*Xlig	*
+.	.	.	.	2d	-y-	2f#i	.
+=17	=17	=17	=17	=17	=17	=17	=17
+0Gl	-son.	0Gl	-son.	0dl	-son.	0gl	-son.
+!!LO:LB:g=original
+=18||	=18||	=18||	=18||	=18||	=18||	=18||	=18||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
+*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+*met(C2)	*	*met(C2)	*	*met(C2)	*	*met(C2)	*
+!!section: Christe
+1D	Chri-	0r	.	0r	.	0r	.
+2D	-ste	.	.	.	.	.	.
+[2E	.	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+2E]	.	1.G	Chri-	0r	.	0r	.
+4D	.	.	.	.	.	.	.
+4C	.	.	.	.	.	.	.
+2E	.	.	.	.	.	.	.
+*	*edit	*	*	*	*	*	*
+[2F	e-	[2A	-ste	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+2F]	.	2A]	.	0r	.	0r	.
+4E	.	4G	.	.	.	.	.
+4D	.	4F	.	.	.	.	.
+2E	.	2G	.	.	.	.	.
+2F	.	2A	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+2.G	-ley-	2.B-y	.	1.d	Chri-	0r	.
+4F	.	4A	.	.	.	.	.
+2D	-son,	2B-y	.	.	.	.	.
+*	*	*	*edit	*	*	*	*
+2C	.	2c	e-	[2e	-ste	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+*	*	*lig	*	*	*	*	*
+2.c	Chri-	1A	-ley-	2e]	.	0r	.
+.	.	.	.	4d	.	.	.
+4B-y	.	.	.	4c	.	.	.
+1G	.	1B-y	.	2d	.	.	.
+.	.	.	.	2e	.	.	.
+*	*	*Xlig	*	*	*	*	*
+!!LO:PB:g=original
+=23	=23	=23	=23	=23	=23	=23	=23
+2.F	-ste	1.c	-son,	2.f	.	1.a	Chri-
+4G	.	.	.	4e	.	.	.
+2A	.	.	.	2c	.	.	.
+*	*	*	*	*	*edit	*	*
+[2G	e-	[2d	Chri-	2B-y	e-	[2b-y	-ste
+=24	=24	=24	=24	=24	=24	=24	=24
+*	*	*	*	*lig	*	*	*
+2G]	.	2d]	.	1G	-ley-	2b-]	.
+4F	.	2e	.	.	.	4a	.
+4E	.	.	.	.	.	4g	.
+1D	.	1f	-ste	1F	.	2a	.
+.	.	.	.	.	.	2b-y	.
+*	*	*	*	*Xlig	*	*	*
+=25	=25	=25	=25	=25	=25	=25	=25
+*lig	*	*	*	*	*	*lig	*
+*	*	*	*Xedit	*	*	*	*edit
+1.C	-ley-	1e	e-	1G	-son,	1.cc	e-
+.	.	2c	.	2A	Chri-	.	.
+[2BB-y	.	2f	.	[2B-y	-ste	[2dd	.
+=26	=26	=26	=26	=26	=26	=26	=26
+2BB-]	.	2e	.	4B-]	.	2dd]	.
+*Xlig	*	*	*	*	*	*Xlig	*
+.	.	.	.	4A	.	.	.
+2C	.	2c	.	1G	.	1cc	-ley-
+1G	-son,	1d	-ley-	.	.	.	.
+.	.	.	.	2g	e-	2bni	.
+=27	=27	=27	=27	=27	=27	=27	=27
+2A	Chri-	1c	-son,	2.e	-ley-	1cc	-son,
+2c	.	.	.	.	.	.	.
+.	.	.	.	4f	.	.	.
+2B-y	.	1r	.	4g	.	1r	.
+.	.	.	.	4a	.	.	.
+[2d	-ste	.	.	[2b-y	.	.	.
+!!LO:LB:g=original
+=28	=28	=28	=28	=28	=28	=28	=28
+4d]	.	0r	.	2b-]	.	2r	.
+4c	.	.	.	.	.	.	.
+2B-y	e-	.	.	1g	.	2g	Chri-
+1A	-ley-	.	.	.	.	2a	-ste
+.	.	.	.	2f#i	.	2cc	.
+=29	=29	=29	=29	=29	=29	=29	=29
+1G	-son,	1r	.	2.g	-son,	2b-y	.
+.	.	.	.	.	.	1dd	.
+.	.	.	.	4f	.	.	.
+*	*	*	*edit	*	*	*	*
+2r	.	1B-y	Chri-	2.d	.	.	.
+2G	Chri-	.	.	.	.	4cc	.
+.	.	.	.	4e	.	4b-y	.
+=30	=30	=30	=30	=30	=30	=30	=30
+2F	.	0c	-ste	2f	e-	2a	.
+2.A	-ste	.	.	4e	.	2.cc	.
+.	.	.	.	4d	.	.	.
+.	.	.	.	2c	-ley-	.	.
+4G	.	.	.	.	.	4b-y	.
+4F	.	.	.	2A	.	4a	.
+4E	.	.	.	.	.	4g	.
+=31	=31	=31	=31	=31	=31	=31	=31
+1D	e-	1d	e-	1A	-son,	1f	.
+2G	-ley-	2B-y	.	2r	.	2d	.
+*	*	*	*	*	*	*	*Xedit
+2C	.	[2c	.	[2G	Chri-	[2e	e-
+=32	=32	=32	=32	=32	=32	=32	=32
+*lig	*	*	*	*	*	*	*
+1E	-son,	2c]	.	4G]	.	4e]	.
+.	.	.	.	4A	.	4f	.
+.	.	2G	.	4B-y	.	1g	-ley-
+.	.	.	.	4c	.	.	.
+1D	.	1A	-ley-	1d	-ste,	.	.
+.	.	.	.	.	.	2f#i	.
+*Xlig	*	*	*	*	*	*	*
+=33	=33	=33	=33	=33	=33	=33	=33
+0r	.	0G	-son,	2r	.	1g	-son,
+.	.	.	.	2g	Chri-	.	.
+.	.	.	.	2.b-y	-ste	1r	.
+.	.	.	.	4a	.	.	.
+!!LO:LB:g=original
+=34	=34	=34	=34	=34	=34	=34	=34
+1G	Chri-	1r	.	2.g	.	2g	Chri-
+.	.	.	.	.	.	2b-y	-ste
+.	.	.	.	4f	.	.	.
+2A	-ste	2r	.	2e	.	2cc	.
+*	*	*	*Xedit	*	*	*	*
+2B-y	e-	2G	Chri-	2d	.	[2dd	.
+=35	=35	=35	=35	=35	=35	=35	=35
+2G	-ley-	2B-y	-ste	2B-y	.	2dd]	.
+2E	.	2c	.	2G	.	2ee	.
+1D	-son,	2.d	.	2A	.	2ff	.
+.	.	.	.	[2a	e-	4ee	.
+.	.	4e	.	.	.	4dd	.
+=36	=36	=36	=36	=36	=36	=36	=36
+1r	.	2f	.	2a]	.	2cc	.
+.	.	4e	.	4g	.	2dd	.
+.	.	4d	.	4f	.	.	.
+*	*	*	*	*	*	*	*edit
+2r	.	2c	.	2e	.	2ee	e-
+2D	Chri-	2d	.	[2a	-ley-	[2dd	-ley-
+=37	=37	=37	=37	=37	=37	=37	=37
+*lig	*	*	*	*	*	*	*
+1A	-ste	1e	e-	1a]	.	2dd]	.
+.	.	.	.	.	.	2cc#i	.
+1B-y	.	[1d	-ley-	2f	-son,	2dd	-son,
+*	*	*	*	*	*Xedit	*	*Xedit
+.	.	.	.	2d	e-	[2b-y	e-
+*Xlig	*	*	*	*	*	*	*
+=38	=38	=38	=38	=38	=38	=38	=38
+*	*Xedit	*	*	*	*	*	*
+2G	e-	0d]	.	2g	-ley-	2b-]	.
+2D	.	.	.	2f	.	2a	.
+1G	-ley-	.	.	2.g	.	1b-y	-ley-
+.	.	.	.	4a	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+0Dl	-son	0dl	-son.	0f#jl	-son.	0al	-son.
+!!LO:LB:g=original
+=40||	=40||	=40||	=40||	=40||	=40||	=40||	=40||
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
+!!!ONB: Why are the mensural signs not matching the text here?
+!!LO:TX:a:t=C| (A, B)
+!!LO:TX:a:t=C (S, T)
+*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+*met(C2)	*	*met(C2)	*	*met(C2)	*	*met(C2)	*
+!!section: Kyrie II
+0r	.	1A	Ky-	1r	.	0r	.
+.	.	1B-y	-ri-	1d	Ky-	.	.
+=41	=41	=41	=41	=41	=41	=41	=41
+*	*	*	*	*lig	*	*	*
+1r	.	2.A	-e	1e	-ri-	0r	.
+.	.	4G	.	.	.	.	.
+1D	Ky-	2F	.	1d	.	.	.
+.	.	2A	.	.	.	.	.
+*	*	*	*	*Xlig	*	*	*
+=42	=42	=42	=42	=42	=42	=42	=42
+1E-i	-ri-	2G	e-	2B-y	-e	1r	.
+.	.	1c	-ley-	1G	.	.	.
+1D	.	.	.	.	.	1dd	Ky-
+.	.	2Bni	.	2F	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43
+*lig	*	*	*	*	*	*	*
+*	*	*	*	*	*edit	*	*
+1C	-e	1c	-son,	2.G	e-	1ee-i	-ri-
+.	.	.	.	4A	.	.	.
+*	*	*	*	*	*	*col	*
+1G	.	2r	.	1B-y	.	2.dd	.
+*	*	*	*edit	*	*	*	*
+.	.	[2d	Ky-	.	.	.	.
+.	.	.	.	.	.	4cc	.
+*	*	*	*	*	*	*Xcol	*
+*Xlig	*	*	*	*	*	*	*
+=44	=44	=44	=44	=44	=44	=44	=44
+*	*	*	*	*lig	*	*	*
+2r	.	2d]	.	1G	-ley-	2b-y	-e
+*	*edit	*	*	*	*	*	*
+2C	e-	2e	-ri-	.	.	2cc	.
+*	*	*	*	*	*	*	*edit
+1D	-ley-	1f	-e	1F	.	2a	e-
+.	.	.	.	.	.	[2dd	-ley-
+*	*	*	*	*Xlig	*	*	*
+=45	=45	=45	=45	=45	=45	=45	=45
+*lig	*	*	*	*	*	*	*
+1G	-son,	2d	e-	4G	-son,	2dd]	.
+.	.	.	.	4A	.	.	.
+.	.	1g	-ley-	4B-y	.	2b-y	.
+.	.	.	.	4c	.	.	.
+1D	.	.	.	1d	.	1a	.
+.	.	2f#i	.	.	.	.	.
+*Xlig	*	*	*	*	*	*	*
+=46	=46	=46	=46	=46	=46	=46	=46
+1r	.	1g	-son,	2e-X	Ky-	2g	-son,
+.	.	.	.	4d	.	1b-y	Ky-
+.	.	.	.	4c	.	.	.
+*	*Xedit	*	*	*	*	*	*
+1G	e-	2.d	Ky-	2.B-y	-ri-	.	.
+.	.	.	.	.	.	4a	-ri-
+.	.	4e	-ri-	4c	.	4g	.
+!!LO:PB:g=original
+=47	=47	=47	=47	=47	=47	=47	=47
+2.D	-ley-	2f	-e	2.d	-e	2f	-e
+*	*	*	*	*	*	*	*Xedit
+.	.	2d	.	.	.	2.a	e-
+4E-i	.	.	.	4c	.	.	.
+2F	.	2c	.	2A	.	.	.
+.	.	.	.	.	.	4b-y	.
+2C	.	2e-i	.	2G	.	[2cc	.
+=48	=48	=48	=48	=48	=48	=48	=48
+2D	.	2f	e-	2F	e-	4cc]	.
+.	.	.	.	.	.	4b-y	.
+2BB-y	.	2d	.	1B-y	-ley-	1b-y	-ley-
+*	*edit	*	*	*	*	*	*
+1F	-son,	1c	-ley-	.	.	.	.
+.	.	.	.	2f	.	2a	.
+=49	=49	=49	=49	=49	=49	=49	=49
+2.G	Ky-	1B-y	-son,	2.d	-son,	1b-y	-son,
+4F	.	.	.	4e	.	.	.
+2D	-ri-	1r	.	4f	.	1r	.
+.	.	.	.	4g	.	.	.
+[2F	-e	.	.	4a	.	.	.
+.	.	.	.	4b-y	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50
+4F]	.	0r	.	2.a	.	0r	.
+4G	.	.	.	.	.	.	.
+4A	.	.	.	.	.	.	.
+4B-y	.	.	.	8gL	.	.	.
+.	.	.	.	8fJ	.	.	.
+1c	.	.	.	4e	.	.	.
+.	.	.	.	4d	.	.	.
+.	.	.	.	2e	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51
+*	*	*	*	*	*Xedit	*	*
+2G	e-	0r	.	2d	e-	0r	.
+2B-y	.	.	.	1g	-ley-	.	.
+1A	-ley-	.	.	.	.	.	.
+.	.	.	.	2f#i	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52
+*	*Xedit	*	*Xedit	*	*	*	*
+1G	-son,	1B-y	Ky-	1g	-son,	4g	Ky-
+.	.	.	.	.	.	4a	.
+.	.	.	.	.	.	4b-y	.
+.	.	.	.	.	.	4cc	.
+1r	.	4B-y	-ri-	1r	.	4dd	.
+.	.	4c	.	.	.	4ee-i	.
+.	.	4d	.	.	.	[2dd	-ri-
+.	.	4e	.	.	.	.	.
+!!LO:LB:g=original
+=53	=53	=53	=53	=53	=53	=53	=53
+0r	.	2f	-e	0r	.	2dd]	.
+.	.	4e	.	.	.	4cc	.
+.	.	4d	.	.	.	4b-y	.
+.	.	2c	.	.	.	4a	.
+.	.	.	.	.	.	4g	.
+.	.	[2d	e-	.	.	2b-y	-e
+=54	=54	=54	=54	=54	=54	=54	=54
+*	*	*	*	*	*	*	*edit
+1r	.	2d]	.	1r	.	2a	e-
+.	.	4c	.	.	.	1g	-ley-
+.	.	4B-y	.	.	.	.	.
+1D	Ky-	1A	.	1d	Ky-	.	.
+.	.	.	.	.	.	2f	.
+=55	=55	=55	=55	=55	=55	=55	=55
+*	*	*lig	*	*	*	*	*
+1G	-ri-	1B-y	.	2B-y	.	2d	-son,
+*	*	*	*	*	*	*	*Xedit
+.	.	.	.	1e-X	-ri-	2.g	e-
+2C	-e e-	1c	.	.	.	.	.
+.	.	.	.	.	.	4e	.
+*	*edit	*	*	*	*	*	*
+[2F	-ley-	.	.	4d	.	[2a	.
+.	.	.	.	4c	.	.	.
+*	*	*Xlig	*	*	*	*	*
+=56	=56	=56	=56	=56	=56	=56	=56
+4F]	.	0A	-ley-	1d	-e	4a]	.
+4E	.	.	.	.	.	4g	.
+4D	.	.	.	.	.	4f#i	.
+4C	.	.	.	.	.	4e	.
+1D	-son,	.	.	2r	.	1f#i	-ley-
+.	.	.	.	2d	e-	.	.
+=57	=57	=57	=57	=57	=57	=57	=57
+*	*Xedit	*	*	*	*	*	*
+2E-X	e-	[0Gl	-son.	2B-y	.	[0gl	-son.
+2.C	-ley-	.	.	1e-i	-ley-	.	.
+4BB-y	.	.	.	.	.	.	.
+2C	.	.	.	4d	.	.	.
+.	.	.	.	4c	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58
+0Gl	-son.	0G]	.	0dl	-son.	0g]	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: j = editorial accidental, optional, paren up
+!!!RDF**kern: l = terminal long
+!!!PTL: Gaspar van Weerbeke: Collected Works. II. Masses, Part 2
+!!!ISBN: 978-1-59551-518-6
+!!!PPR: American Institute of Musicology
+!!!PC#: Corpus Mensurabilis Musicae 106/II.2
+!!!PDT: 2018
+!!!PED: Kolb, Paul
+!!!YEC: Copyright 2016, Kolb, Paul
+!!!YEM: CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+!!!EED: Zybina, Karina
+!!!EEV: 2021/09/05
+!!!title: @{OPR} &mdash; @{OTL}
+!!!muse2ps: C^@{COM}^i2I150v90,90,90,120c122z18l2700t130
+!!!ONB: from http://www.gaspar-van-weerbeke.sbg.ac.at/gaspar-online-edition with doubled rhythms

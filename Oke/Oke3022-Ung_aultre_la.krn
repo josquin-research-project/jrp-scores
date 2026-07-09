@@ -1,0 +1,221 @@
+!!!!SEGMENT: Oke/Oke3022-Ung_aultre_la.krn
+!!!COM: Okeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OTL: Ung aultre l'a
+!!!AGN: Song; Chanson
+!!!SCA: Oke3022
+!!!jrpid: Oke3022
+!!!voices: 3
+**kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
+*staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
+*Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*
+*I"Contra	*	*	*	*I"Tenor	*	*	*	*I"Discantus	*	*	*
+*I'C	*	*	*	*I'T	*	*	*	*I'D	*	*	*
+*clefF4	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*
+*k[]	*	*	*	*k[]	*	*	*	*k[]	*	*	*
+*M2/1	*	*	*	*M2/1	*	*	*	*M2/1	*	*	*
+*met(C|)	*	*	*	*met(C|)	*	*	*	*met(C|)	*	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!!LO:TX:Z=36:t=Form&colon; rondeau
+!!LO:TX:Z=8:t=Sig. congr. are editorial
+0C	Ung	Je	Ja-	0r	.	.	.	0g	Ung	Je	Ja-
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1E	aul-	ne	-mais	0r	.	.	.	1g	aul-	ne	-mais
+1E	-tre	vueil	en	.	.	.	.	1g	-tre	vueil	en
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+1.F	l'a,	pas	ce	0r	.	.	.	1.a	l'a,	pas	ce
+4E	.	.	.	.	.	.	.	4g	.	.	.
+4D	.	.	.	.	.	.	.	4f	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+[0C	.	.	.	0c	Ung	Je	Ja-	0e	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+0C]	.	.	.	1c	aul-	ne	-mais	1r	.	.	.
+.	.	.	.	1c	-tre	vueil	en	1e	n'en	es-	pro-
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+0r	.	.	.	1.d	l'a,	pas	ce	1f	.	.	.
+.	.	.	.	.	.	.	.	1f	que-	-tre	-pos
+.	.	.	.	4c	.	.	.	.	.	.	.
+.	.	.	.	4B	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+1.c	n'en	es-	pro-	0A	.	.	.	1.f	-r&eacute;s	for-	ne
+2A	.	.	.	.	.	.	.	2e	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+1B	.	-tre	-pos	1G	n'en	es-	pro-	1e	.	.	.
+1c	.	.	.	1A	que-	-tre	-pos	1f	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+1r	.	.	.	1B	-r&eacute;s	for-	ne	1g	plus;	-cluz	fuz
+1C	que-	for-	ne	[1c	.	.	.	1e	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+0G	-r&eacute;s	.	.	1c]	.	.	.	0d	.	.	.
+.	.	.	.	1B	.	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+[0C	plus;	-cluz	fuz	0c	plus;	-cluz	fuz	1r	.	.	.
+.	.	.	.	.	.	.	.	[1e	Car	D'a-	Que
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+0C]	.	.	.	1r	.	.	.	1e]	.	.	.
+.	.	.	.	[1c	Car	D'a-	Que	1e	do-	-cor-	mon
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+1r	.	.	.	1c]	.	.	.	1e	-re-	-der	vou-
+1C	Car	D'a-	Que	1c	do-	-cor-	mon	1e	-na-	ou	-loir
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+1.C	do-	-cor-	mon	1c	-re-	-der	vou-	0e	-vant	fai-	fust
+.	.	.	.	1c	-na-	ou	-loir	.	.	.	.
+2D	-re-	-der	vou-	.	.	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+1E	-na-	ou	-loir	0c	-vant	fai-	fust	1g	je	-re	si
+[1F	-vant	fai-	fust	.	.	.	.	[1a	con-	ref-	con-
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+1F]	.	.	.	1A	je	-re	si	1a]	.	.	.
+1E	je	-re	si	1B	con-	ref-	con-	1g	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+2C	con-	ref-	con-	1.c	-clus	-fuz,	-fuz	0a	-clus	-fuz,	-fuz
+2.F	-clus	-fuz,	-fuz	.	.	.	.	.	.	.	.
+4E	.	.	.	.	.	.	.	.	.	.	.
+4D	.	.	.	4B	.	.	.	.	.	.	.
+4C	.	.	.	4A	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+2.E	.	.	.	0G	.	.	.	1r	.	.	.
+4F	.	.	.	.	.	.	.	.	.	.	.
+2G	.	.	.	.	.	.	.	1b	De	Mais	D'en-
+[2E	De	Mais	D'en-	.	.	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+2E]	.	.	.	1r	.	.	.	1b	gar-	ce	-ten-
+4D	.	.	.	.	.	.	.	.	.	.	.
+4C	.	.	.	.	.	.	.	.	.	.	.
+2.BB	gar-	ce	-ten-	1G	De	Mais	D'en-	1b	-der	que	-dre a
+4C	.	.	.	.	.	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2D	-der	que	-dre a	1G	gar-	ce	-ten-	1b	en	vou-	tout
+2GG	.	.	.	.	.	.	.	.	.	.	.
+2r	.	.	.	1G	-der	que	-dre a	1b	tout	-lez	ce
+2G	en	vou-	tout	.	.	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+2E	tout	-lez	ce	1A	en	vou-	tout	0cc	temps	o-	qu'il
+1F	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	1A	tout	-lez	ce	.	.	.	.
+4E	.	.	.	.	.	.	.	.	.	.	.
+4F	.	.	.	.	.	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+1G	temps	o-	qu'il	0G	temps	o-	qu'il	1b	mon	-ren-	vou-
+2.E	mon	-ren-	vou-	.	.	.	.	[1g	.	.	.
+4C	.	.	.	.	.	.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+2E	.	.	.	0c	mon	-ren-	vou-	2g]	.	.	.
+2.F	.	.	.	.	.	.	.	2.a	.	.	.
+4E	.	.	.	.	.	.	.	4g	.	.	.
+2C	.	.	.	.	.	.	.	2e	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+2r	.	.	.	[0BN	droit.	-droit&	-droit;	0dN	droit.	-droit&	-droit;
+1G	droit.	-droit&	-droit;	.	.	.	.	.	.	.	.
+4F	.	.	.	.	.	.	.	.	.	.	.
+4E	.	.	.	.	.	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+4D	.	.	.	0B]	.	.	.	0r	.	.	.
+4C	.	.	.	.	.	.	.	.	.	.	.
+4BB	.	.	.	.	.	.	.	.	.	.	.
+4AA	.	.	.	.	.	.	.	.	.	.	.
+2GGN	.	.	.	.	.	.	.	.	.	.	.
+[2G	Chas-	.	De	.	.	.	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+4G]	.	.	.	0r	.	.	.	0dd	Chas-	.	De
+4F	.	.	.	.	.	.	.	.	.	.	.
+2D	.	.	.	.	.	.	.	.	.	.	.
+2F	-cun	.	ce	.	.	.	.	.	.	.	.
+[2G	se	.	fai-	.	.	.	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+2G]	.	.	.	0r	.	.	.	1dd	-cun	.	ce
+2A	.	.	.	.	.	.	.	.	.	.	.
+1B	gar-	.	.	.	.	.	.	1dd	se	.	fai-
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+1c	-de en	.	-re on	0c	Chas-	.	De	0ee	gar-	.	-re on
+1C	.	.	.	.	.	.	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+1r	.	.	.	1c	-cun	.	ce	1ee	-de en	.	me
+1C	son	.	me	1c	se	.	fai-	[1ee	son	.	re-
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+0G	.	.	.	0d	gar-	.	-re on	2ee]	.	.	.
+.	.	.	.	.	.	.	.	2dd	.	.	.
+.	.	.	.	.	.	.	.	[1dd	en-	.	-pren-
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+1E	.	.	.	0e	-de en	.	me	2dd]	.	.	.
+.	.	.	.	.	.	.	.	2cc	.	.	.
+1C	.	.	.	.	.	.	.	[1cc	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+1r	.	.	.	0d	son	.	re-	2cc]	.	.	.
+.	.	.	.	.	.	.	.	2b	.	.	.
+2.G	en-	.	re-	.	.	.	.	2b	.	.	.
+.	.	.	.	.	.	.	.	2a	.	.	.
+4F	.	.	.	.	.	.	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+1A	.	.	-pren-	1c	en-	.	-pren-	1cc	-droit,	.	-droit,
+2F	.	.	.	[1d	.	.	.	2a	en-	.	re-
+[2G	.	.	.	.	.	.	.	[2b	.	.	-pren-
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+2G]	.	.	.	2d]	.	.	.	2b]	.	.	.
+2A	.	.	.	2c	.	.	.	2a	.	.	.
+1F	.	.	.	1A	.	.	.	[1a	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+0E	-droit,	.	-droit,	0B	.	.	.	2a]	.	.	.
+.	.	.	.	.	.	.	.	4g#i	.	.	.
+.	.	.	.	.	.	.	.	4f#i	.	.	.
+.	.	.	.	.	.	.	.	1g#i	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+2r	.	.	.	0A	-droit,	.	-droit,	1a	-droit,	.	-droit,
+1F	Car	.	Con-	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	1r	.	.	.
+2D	.	.	.	.	.	.	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+1F	.	.	.	0r	.	.	.	1a	Car	.	Con-
+1G	.	.	.	.	.	.	.	1b	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+2.F	bien	.	-gnois-	1A	Car	.	Con-	1cc	.	.	.
+4G	.	.	.	.	.	.	.	.	.	.	.
+1A	.	.	.	1A	bien	.	-gnois-	1cc	bien	.	-gnois-
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+1G	peu	.	-sant	1B	peu	.	-sant	1dd	peu	.	-sant
+2r	.	.	.	1c	me	.	que	1cc	me	.	que
+2A	me	.	que	.	.	.	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
+2G	chault	.	se-	[0d	chault	.	se-	2b	chault	.	se-
+1F	.	.	.	.	.	.	.	1a	.	.	.
+2G	.	.	.	.	.	.	.	2b	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+2F	.	.	.	1d]	.	.	.	2a	.	.	.
+2.G	.	.	.	.	.	.	.	1b	.	.	.
+.	.	.	.	1B	.	.	.	.	.	.	.
+4F	.	.	.	.	.	.	.	.	.	.	.
+4E	.	.	.	.	.	.	.	2g	.	.	.
+4D	.	.	.	.	.	.	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
+4C	.	.	.	1c	.	.	.	4a	.	.	.
+4D	.	.	.	.	.	.	.	4g	.	.	.
+4E	.	.	.	.	.	.	.	4f	.	.	.
+4F	.	.	.	.	.	.	.	4e	.	.	.
+2G	.	.	.	1B	.	.	.	[1d	.	.	.
+[2GG	.	.	.	.	.	.	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
+2GG]	.	.	.	0G	du	.	-roit	2d]	.	.	.
+1G	du	.	-roit	.	.	.	.	2.e	du	.	-roit
+.	.	.	.	.	.	.	.	4d	.	.	.
+2E	sur-	.	a-	.	.	.	.	[2g	sur-	.	a-
+=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
+2D	.	.	.	0A	sur-	.	a-	2g]	.	.	.
+2C	.	.	.	.	.	.	.	4f#i	.	.	.
+.	.	.	.	.	.	.	.	4e	.	.	.
+1D	.	.	.	.	.	.	.	2.f#i	.	.	.
+.	.	.	.	.	.	.	.	4e	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
+0GGl	-plus.	.	-buz.	0Gl	-plus.	.	-buz.	0gl	-plus.	.	-buz.
+==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: V=start of tuplet marker
+!!!RDF**kern: Z=end of tuplet marker
+!!!RDF**kern: N = signum congruentiae
+!!!ENC: Jesse Rodin 17 April 2018
+!!!END: 2018/04/17/
+!!!EED: Jesse Rodin
+!!!EEV: 2018/07/23/
+!!!ONB: Translated from MusicXML and edited on 2018/07/23/ by Craig Sapp
+!!muse2ps: C^@{COM}\nEd. @{EED}^i2I150v85,85,150Q16z18l2550t120

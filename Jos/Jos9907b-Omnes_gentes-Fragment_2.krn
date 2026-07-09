@@ -1,0 +1,44 @@
+!!!!SEGMENT: Jos/Jos9907b-Omnes_gentes-Fragment_2.krn
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OPR: Omnes gentes
+!!!OTL: fragment 2
+!!!AGN: Fragment; Motet
+!!!SCT: Jos9907b
+!!!SCA: Jos9907b
+!!!jrpid: Jos9907b
+!!!voices: ?
+!!!voices-OPR: ?
+**kern
+*staff1
+*Ivox
+*I"Altus
+*I'A
+*clefGv2
+*k[]
+*M3/1
+*met(O|3/2)
+!!incipit: 4
+=1-
+0d
+1d
+=2
+0c
+1A
+=3
+1c
+0c
+=4
+1A
+1G
+1G
+=
+*-
+!!!RDF**kern: l=long note in original notation
+!!!ENC: Victoria Chang 2012/02/27
+!!!END: 2012/02/27/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/08/17/
+!!attribution-level@Jos: 4a (the rest [double question mark])
+!!!ONB: Translated from MusicXML and edited on 2012/08/17/ by Craig Sapp
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?^i2I150v150Q16z18

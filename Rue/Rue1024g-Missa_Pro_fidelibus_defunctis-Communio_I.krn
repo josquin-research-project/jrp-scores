@@ -1,0 +1,197 @@
+!!!!SEGMENT: Rue/Rue1024g-Missa_Pro_fidelibus_defunctis-Communio_I.krn
+!!!COM: la Rue, Pierre de
+!!!CDT: ~1452///-1518/11/20
+!!!OPR: Missa Pro fidelibus defunctis
+!!!ONM: 7
+!!!OTL: Communio I
+!!!AGN: Mass; Communio I
+!!!SCT: Rue1024g
+!!!SCA: Rue1024g
+!!!jrpid: Rue1024g
+!!!voices: 4
+**kern	**kern	**kern	**kern
+*Ivox	*Ivox	*Ivox	*Ivox
+*I"Bassus	*I"Tenor	*I"Contra	*I"Discantus
+*I'B	*I'T	*I'C	*I'D
+*staff4	*staff3	*staff2	*staff1
+*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
+*>A	*>A	*>A	*>A
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
+=1-	=1-	=1-	=1-
+!!This file should be processed as "version 1"; the file ending "Communio_II" is version I.
+!!section: Luceat eis
+!!!OMD: Luceat eis
+0F	0c	0f	0a
+=2	=2	=2	=2
+0A	0c	0f	0cc
+=3	=3	=3	=3
+0G	0d	0g	0b
+=4	=4	=4	=4
+0C	0e	0g	1.cc
+.	.	.	2b\
+=5	=5	=5	=5
+0C	0c	0e	2a/
+.	.	.	2g/
+.	.	.	[1g
+=6	=6	=6	=6
+1r	1r	1r	1g]
+[1D	[1A	[1d	[1f
+=7	=7	=7	=7
+1D]	1A]	1d]	1f]
+1GG	1B	1d	1g
+=8	=8	=8	=8
+[0GGl	[0Bl	[0dl	[0gl
+=	=	=	=
+0GG]	0B]	0d]	0g]
+=9	=9	=9	=9
+*M3/1	*M3/1	*M3/1	*M3/1
+*met(3)	*met(3)	*met(3)	*met(3)
+0.r	0.r	0d	0.r
+.	.	1f	.
+=10	=10	=10	=10
+0.r	0.r	1e	0.r
+.	.	1.f	.
+.	.	2d\	.
+=11	=11	=11	=11
+0.r	0.r	0d	0a
+.	.	1c	1cc
+=12	=12	=12	=12
+0.r	0.r	1d	1b
+.	.	1.e	1.cc
+.	.	2f\	2a/
+=13	=13	=13	=13
+0F	0A	0.f	0.a
+1F	1c	.	.
+=14	=14	=14	=14
+1G	1B	0.r	0.r
+1.A	1.c	.	.
+2F\	2A/	.	.
+=15	=15	=15	=15
+0F	0.A	0f	0a
+1F	.	[1c	1cc
+=16	=16	=16	=16
+1E	1r	1c]	1g
+1.F	0A	0f	1.a
+2E\	.	.	2g/
+=17	=17	=17	=17
+*M3/1	*	*	*
+*met(C|)	*	*	*
+!LO:N:vis=0	!	!	!
+[0.C	1c	1e	1g
+.	1G	0c	0e
+.	[1A	.	.
+=18	=18	=18	=18
+!LO:N:vis=0	!	!	!
+0C.]	2A/]	0.c	0.e
+.	2G/	.	.
+.	0E	.	.
+=19	=19	=19	=19
+*	*M2/1	*M2/1	*M2/1
+*	*met(C|)	*met(C|)	*met(C|)
+!!primary-mensuration: met(C|)
+0C	0E	0e	0g
+=20	=20	=20	=20
+0AA	0F	0c	0a
+=21	=21	=21	=21
+1GG	0G	1B	1b
+1C	.	1e	[1cc
+=22	=22	=22	=22
+1AA	[0A	1c	2cc\]
+.	.	.	2b\
+[1D	.	1f	2a/
+.	.	.	2g/
+=23	=23	=23	=23
+0D_	0A_	1d	2f/
+.	.	.	2e/
+.	.	[1f	[1d
+=24	=24	=24	=24
+1D]	0A_	1f]	1d]
+1C	.	1e	[1g
+=25	=25	=25	=25
+0D	0A]	0d	2g/]
+.	.	.	2f/
+.	.	.	1f
+=26	=26	=26	=26
+1r	[0Gl	2r	2r
+.	.	1e	1g
+1GG	.	.	.
+.	.	2d\	2f/
+=27	=27	=27	=27
+0C	0G_	2c\	2e/
+.	.	2G/	2c/
+.	.	1c	1e
+=28	=28	=28	=28
+0GGl	0G]	0Bl	0dl
+!!LO:LB:i:g=z
+=29||	=29||	=29||	=29||
+*>B	*>B	*>B	*>B
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!section: Et lux perpetua
+!!!OMD: Et lux perpetua
+1C	1c	1e	1g
+[1F	[1c	[1f	[1a
+=30	=30	=30	=30
+1F]	1c]	1f]	1a]
+1F	1c	1f	1a
+=31	=31	=31	=31
+1F	1c	1f	1a
+1F	1c	1f	1a
+=32	=32	=32	=32
+0C	0c	1e	1g
+.	.	[1e	[1cc
+=33	=33	=33	=33
+0r	0r	2e\]	2cc\]
+.	.	4d\	4b\
+.	.	4c\	4a/
+.	.	1d	1b
+=34	=34	=34	=34
+1C	1r	0c	1e
+[1AA	[1c	.	[1a
+=35	=35	=35	=35
+1AA]	2c\]	0e	2a/]
+.	4B\	.	4g/
+.	4A/	.	4f/
+[1E	[1B	.	[1g
+=36	=36	=36	=36
+1E]	2B\]	[0e	2g/]
+.	2E/	.	2c/
+1AA	[1A	.	[1cc
+=37	=37	=37	=37
+0E	2A/]	0e]	2cc\]
+.	4G/	.	4b\
+.	4F/	.	4a/
+.	2G/	.	2b\
+.	2C/	.	2g/
+=38	=38	=38	=38
+2r	1c	1r	2a/
+1A	.	.	1cc
+.	[1c	1e	.
+2G\	.	.	2b\
+=39	=39	=39	=39
+1F	2c\]	1f	1a
+.	4B\	.	.
+.	4A/	.	.
+1G	2B\	[1d	[1g
+.	2G/	.	.
+=40	=40	=40	=40
+0D	0A	1d]	1g]
+.	.	1d	1f#i
+=41	=41	=41	=41
+0GGl	0Gl	0Bl	0gl
+!!LO:TX:i:Y=40:rj:t=[Cum sanctis ut supra]
+=||	=||	=||	=||
+*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Chris Gage 05-02-2013
+!!!END: 2013/08/01/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/08/02/
+!!!ONB: Translated from MusicXML and edited on 2013/08/02/ by Craig Sapp
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v95,95,95,150Q8c95

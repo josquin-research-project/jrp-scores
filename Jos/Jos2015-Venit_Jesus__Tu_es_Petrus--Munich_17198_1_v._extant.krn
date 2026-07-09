@@ -1,0 +1,206 @@
+!!!!SEGMENT: Jos/Jos2015-Venit_Jesus__Tu_es_Petrus--Munich_17198_1_v._extant.krn
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Venit Jesus / Tu es Petrus
+!!!SMS: Munich 17198
+!!!AGN: Motet
+!!!SCT: NJE 20.15
+!!!SCA: New Josquin Edition 20.15
+!!!jrpid: Jos2015
+!!!ONB1: Only extant voice, texted "Tu es Petrus," from a motet possibly &agrave; 6
+!!!voices: 0
+**kern
+*clefGv2
+*k[b-]
+*d:
+*M2/1
+*met(C|)
+=1
+0r
+=2
+0r
+=3
+0r
+=4
+0r
+=5
+0r
+=6
+0r
+=7
+0r
+=8
+0r
+=9
+0r
+=10
+0r
+=11
+0r
+=12
+0r
+=13
+0r
+=14
+0r
+=15
+0r
+=16
+0r
+=17
+0r
+=18
+0r
+=19
+0r
+=20
+0r
+=21
+0r
+=22
+0r
+=23
+0r
+=24
+0r
+=25
+0r
+=26
+0r
+=27
+0r
+=28
+0r
+=29
+0r
+=30
+0r
+=31
+0r
+=32
+0r
+=33
+[0c
+=34
+0c_
+=35
+0c_
+=36
+0c]
+=37
+[0A
+=38
+0A_
+=39
+0A_
+=40
+0A]
+=41
+[0c
+=42
+0c]
+=43
+[0d
+=44
+0d]
+=45
+0c
+=46
+0c
+=47
+0r
+=48
+0r
+=49
+0r
+=50
+0r
+=51
+0r
+=52
+0r
+=53
+0r
+=54
+0r
+=55
+0r
+=56
+0r
+=57
+0r
+=58
+0r
+=59
+[0c
+=60
+0c]
+=61
+[0A
+=62
+0A]
+=63
+0B-
+=64
+0B-
+=65
+[0A
+=66
+0A]
+=67
+1r
+1G
+=68
+[0A
+=69
+0A]
+=70
+1F
+1G
+=71
+[0F
+=72
+0F]
+=73
+0B-
+=74
+1B-
+1B-
+=75
+0G
+=76
+0B-
+=77
+0A
+=78
+[0F
+=79
+0F]
+=80
+[0G
+=81
+0G]
+=82
+[0A
+=83
+0A]
+=84
+[0G
+=85
+0G]
+=86
+[0F
+=87
+0F]
+=88
+0Fl
+==
+*-
+!!!RDF**kern: l=long note in original notation
+!!!ENC: Jesse Rodin 23 October 2020
+!!!END: 2020/10/23
+!!!EED: Jesse Rodin
+!!!EEV: 2021/04/28
+!!attribution-level@Jos: 4a (the rest [double question mark])
+!!!ONB: Translated from MusicXML and edited on 2021/04/28 by Craig Sapp
+!!muse2ps: C^@{COA}?? (unicum in @{SMS})^u^@{ONB1}^i2I150v150z18c180t300

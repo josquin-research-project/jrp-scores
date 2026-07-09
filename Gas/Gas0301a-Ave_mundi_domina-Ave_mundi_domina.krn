@@ -1,0 +1,445 @@
+!!!!SEGMENT: Gas/Gas0301a-Ave_mundi_domina-Ave_mundi_domina.krn
+!!!COM: Gaspar van Weerbeke
+!!!CDT: ~1450-~1517
+!!!OPR: Motet cycle Ave mundi domina
+!!!OTL: Ave mundi domina
+!!!OMV: 1
+!!!AGN: Motet; Motet cycle
+!!!SCT: Gas0301a
+!!!SCA: Gas0301a
+!!!jrpid: Gas0301a
+!!!voices: 4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Cantus	*
+*I'B	*	*I'T	*	*I'A	*	*I'C	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*	*F:	*	*F:	*
+*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+0G	A-	[0G	A-	0G	A-	[0g	A-
+=2	=2	=2	=2	=2	=2	=2	=2
+*lig	*	*	*	*lig	*	*	*
+1E-i	-ve,	1G]	.	1B-	-ve,	1g]	.
+1C	.	1G	-ve,	1c	.	1g	-ve,
+*Xlig	*	*	*	*Xlig	*	*	*
+=3	=3	=3	=3	=3	=3	=3	=3
+1G	mun-	1B-	mun-	1d	mun-	1g	mun-
+1E-i	-di	1c	-di	1G	-di	1g	-di
+=4	=4	=4	=4	=4	=4	=4	=4
+1.D	do-	1.d	do-	1.A	do-	1.f	do-
+2D	-mi-	2d	-mi-	2A	-mi-	2f	-mi-
+=5	=5	=5	=5	=5	=5	=5	=5
+1F	-na	1d	-na	1A	-na	1f	-na
+1C	et	[1c	et	2G	et	1g	et
+.	.	.	.	2g	.	.	.
+!!LO:LB:g=MCE
+=6	=6	=6	=6	=6	=6	=6	=6
+1F	cae-	1c]	.	2c	cae-	1a	cae-
+.	.	.	.	1f	-li	.	.
+1G	-li	1B-	cae-	.	.	1b-	-li
+.	.	.	.	2e	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+1F	re-	1c	-li	1f	re-	1a	re-
+2G	.	2B-	re-	2e	.	2g	.
+*	*	*	*	*	*	*lig	*
+2F	.	2c	.	[2f	-gi-	[2a	-gi-
+=8	=8	=8	=8	=8	=8	=8	=8
+2D	-gi-	2d	.	2f]	.	2a]	.
+2G	.	2B-	.	1.d	.	1g	.
+*	*	*	*	*	*	*Xlig	*
+1D	.	1A	-gi-	.	.	.	.
+.	.	.	.	.	.	2f#i	.
+=9	=9	=9	=9	=9	=9	=9	=9
+1GG	-na,	0G	-na,	1B-	-na,	1g	-na,
+[1G	Ma-	.	.	2r	.	1r	.
+.	.	.	.	[2d	Ma	.	.
+!!LO:LB:g=MCE
+=10	=10	=10	=10	=10	=10	=10	=10
+1G]	.	0r	.	2d]	.	1b-	Ma-
+.	.	.	.	1g	ter	.	.
+1A	-ter	.	.	.	.	1cc	-ter
+.	.	.	.	2f	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+2G	de-	1B-	Ma-	1g	de-	1dd	de-
+2B-	.	.	.	.	.	.	.
+1A	.	1c	-ter	2a	.	1cc	-i
+.	.	.	.	2f	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+1G	-i	1d	de-	1g	-i	2b-	in-
+.	.	.	.	.	.	2g	.
+1A	in-	1c	-i	2r	.	1f	-te-
+.	.	.	.	2c	in-	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+(2G	-te-	2B-	in-	2d	-te-	1g	-gra,
+2G)	.	2G	.	2B-	.	.	.
+*lig	*	*	*	*	*	*	*
+1F	-gra,	1A	-te-	1c	-gra,	2r	.
+.	.	.	.	.	.	[2cc	ro-
+!!LO:LB:g=MCE
+=14	=14	=14	=14	=14	=14	=14	=14
+1G	.	1G	-gra,	1r	.	2cc]	.
+*Xlig	*	*	*	*	*	*	*
+.	.	.	.	.	.	2b-	.
+2r	.	1c	ro-	2F	ro-	1a	.
+2F	ro-	.	.	2A	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+2G	.	2B-	.	2B-	.	2g	-sa
+1F	.	1A	.	2c	.	1cc	si-
+.	.	.	.	2d	.	.	.
+2G	.	2G	-sa	2e	.	2b-	.
+=16	=16	=16	=16	=16	=16	=16	=16
+2F	-sa	(2c	si-	2f	-sa	2a	.
+1C	si-	2.c)	.	2.e	si-	1g	-ne
+.	.	4B-	.	4d	.	.	.
+2F	-ne	2A	.	[2c	.	2f	.
+=17	=17	=17	=17	=17	=17	=17	=17
+2C	spi-	2G	-ne	2c]	.	2e	spi-
+2D	.	2F	spi-	2B-	-ne	1f	.
+1C	.	1G	.	1c	spi-	.	.
+.	.	.	.	.	.	2e	.
+!!LO:LB:g=MCE
+=18	=18	=18	=18	=18	=18	=18	=18
+0D	-na.	1F	-na.	2A	.	1f	-na.
+.	.	.	.	1F	-na,	.	.
+.	.	1r	.	.	.	1r	.
+.	.	.	.	[2B-	spi-	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+1C	Tu-	1r	.	2B-]	.	0r	.
+.	.	.	.	2A	.	.	.
+[1BB-	-a	1F	Tu-	1B-	-na.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+1BB-]	.	1G	-a	0r	.	0r	.
+1BB-	sit	1B-	sit	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+1C	con-	1A	con-	0r	.	0r	.
+1E-X	-cep-	2G	.	.	.	.	.
+.	.	[2c	-cep-	.	.	.	.
+!!LO:LB:g=MCE
+=22	=22	=22	=22	=22	=22	=22	=22
+2D	.	4c]	.	0r	.	0r	.
+.	.	4B-	.	.	.	.	.
+2C	.	1A	.	.	.	.	.
+2D	.	.	.	.	.	.	.
+2BB-	.	[2G	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+1AA	-ti-	2G]	.	1r	.	1cc	nos-
+.	.	2F#i	-ti-	.	.	.	.
+1GG	-o	1G	-o	1d	nos-	2b-	-tra
+.	.	.	.	.	.	2dd	.
+=24	=24	=24	=24	=24	=24	=24	=24
+0r	.	1c	nos-	1e	-tra	2cc	me-
+.	.	.	.	.	.	4b-	.
+.	.	.	.	.	.	4a	.
+.	.	2B-	-tra	2d	me-	2g	-di-
+.	.	2d	.	2f	-di-	2b-	.
+=25	=25	=25	=25	=25	=25	=25	=25
+0r	.	2c	me-	2e	.	2a	.
+.	.	4B-	.	4d	.	4g	.
+.	.	4A	.	4c	.	4f	.
+!!!ONB: A: B-natural in PDF
+.	.	2G	.	2B-	.	2e	.
+.	.	2B-	-di-	[2d	-ci-	[2g	-ci-
+!!LO:LB:g=MCE
+=26	=26	=26	=26	=26	=26	=26	=26
+0r	.	2F	-ci-	2d]	.	2g]	.
+.	.	2A	.	1c	.	1f	.
+.	.	1G	.	.	.	.	.
+.	.	.	.	2Bni	.	2e	.
+=27	=27	=27	=27	=27	=27	=27	=27
+0r	.	1F	-na	1c	-na	1f	-na
+.	.	1r	.	1f	Et	1r	.
+=28	=28	=28	=28	=28	=28	=28	=28
+1C	Et	0r	.	1e	tu-	0r	.
+1F	tu-	.	.	2d	-a	.	.
+.	.	.	.	[2d	na-	.	.
+=29	=29	=29	=29	=29	=29	=29	=29
+1E	-a	0r	.	2d]	.	0r	.
+.	.	.	.	2c	.	.	.
+1D	na-	.	.	2B-	-ti-	.	.
+.	.	.	.	[2A	.	.	.
+!!LO:LB:g=MCE
+=30	=30	=30	=30	=30	=30	=30	=30
+2F	-ti-	0r	.	2A]	.	0r	.
+2G	.	.	.	1d	-vi-	.	.
+1E	-vi-	.	.	.	.	.	.
+.	.	.	.	2c#i	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+2D	-tas	0r	.	1d	-tas	0r	.
+2.F	vi-	.	.	.	.	.	.
+.	.	.	.	1f	vi-	.	.
+4E	.	.	.	.	.	.	.
+2D	.	.	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+1C	-a	0r	.	1e	-a	0r	.
+1F	ma-	.	.	1d	ma-	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+2E	-tu-	0r	.	2c	-tu-	0r	.
+*	*	*	*	*lig	*	*	*
+2D	.	.	.	1d	.	.	.
+2G	-ti-	.	.	.	.	.	.
+2E	.	.	.	[2c	.	.	.
+!!LO:LB:g=MCE
+=34	=34	=34	=34	=34	=34	=34	=34
+1D	.	1F	Tu-	2c]	.	0r	.
+*	*	*	*	*Xlig	*	*	*
+.	.	.	.	2Bni	-ti-	.	.
+1C	-na.	1G	-a	1c	-na.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35
+1r	.	1A	prae-	0r	.	1f	Tu-
+1C	Tu-	2G	-sen-	.	.	2g	-a
+.	.	2G	-ta-	.	.	2e	prae-
+=36	=36	=36	=36	=36	=36	=36	=36
+1D	-a	1F	-ti-	1r	.	2f	-sen-
+.	.	.	.	.	.	2.a	-ta-
+*	*	*lig	*	*	*	*	*
+1E	prae-	1G	.	1c	Tu-	.	.
+.	.	.	.	.	.	4g	.
+.	.	.	.	.	.	[2g	.
+=37	=37	=37	=37	=37	=37	=37	=37
+2D	-sen-	1A	.	1d	-a	2g]	.
+*	*	*Xlig	*	*	*	*	*
+2D	-ta-	.	.	.	.	2f#i	-ti-
+2E	-ti-	1G	-o	2c	prae-	1g	-o
+2C	-o	.	.	[2e	-sen-	.	.
+!!LO:LB:g=MCE
+=38	=38	=38	=38	=38	=38	=38	=38
+*lig	*	*	*	*	*	*	*
+1D	nos-	2r	.	2e]	.	2r	.
+.	.	2F	nos-	1d	-ta-	2a	nos-
+1E	.	1G	-tra	.	.	1g	-tra
+*Xlig	*	*	*	*	*	*	*
+.	.	.	.	2c	-ti-	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+*	*	*	*	*lig	*	*	*
+1D	-tra	1A	sit	1d	.	1f	sit
+2r	.	2G	ob-	1e	.	2g	ob-
+*	*	*	*	*Xlig	*	*	*
+2C	sit	2G	-la-	.	.	2e	.
+=40	=40	=40	=40	=40	=40	=40	=40
+1D	ob-	1F	-ti-	1d	-o	2f	-la-
+.	.	.	.	.	.	1a	.
+*	*	*lig	*	*	*	*	*
+1E	-la-	1G	.	2r	.	.	.
+.	.	.	.	2c	nos-	[2g	.
+=41	=41	=41	=41	=41	=41	=41	=41
+1D	-ti-	1A	.	1d	-tra	2g]	.
+*	*	*Xlig	*	*	*	*	*
+.	.	.	.	.	.	2f#i	-ti-
+1GG	-o	1G	-o	1e	sit	2.g	-o,
+.	.	.	.	.	.	4a	.
+!!LO:LB:g=MCE
+=42	=42	=42	=42	=42	=42	=42	=42
+*	*	*	*	*	*	*	*edit
+0r	.	0r	.	2d	ob-	4b-	ob-
+.	.	.	.	.	.	4cc	.
+.	.	.	.	1f	-la-	1dd	-la-
+.	.	.	.	[2d	.	[2b-	.
+=43	=43	=43	=43	=43	=43	=43	=43
+0r	.	0r	.	2d]	.	2b-]	.
+.	.	.	.	2c	.	1a	-ti-
+.	.	.	.	1B-	-ti-	.	.
+.	.	.	.	.	.	2g	.
+=44	=44	=44	=44	=44	=44	=44	=44
+1.D	Et	1.d	Et	1A	-o	1a	-o
+.	.	.	.	1r	.	1r	.
+2E-i	an-	2c	an-	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45
+1D	-nun-	1B-	-nun-	0r	.	0r	.
+2C	-ti-	2A	-ti-	.	.	.	.
+2BB-	-a-	[2B-	-a-	.	.	.	.
+!!LO:LB:g=MCE
+=46	=46	=46	=46	=46	=46	=46	=46
+2GG	.	2B-]	.	0r	.	0r	.
+2BB-	.	1G	-ti-	.	.	.	.
+1AA	-ti-	.	.	.	.	.	.
+.	.	2F#i	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+1GG	-o	1G	-o	1r	.	1r	.
+*	*	*	*	*	*edit	*	*
+2C	nos-	1r	.	2c	nos-	2e	nos-
+2C	-tra	.	.	2c	-tra	2e	-tra
+=48	=48	=48	=48	=48	=48	=48	=48
+2G	sit	0r	.	2B-	sit	2d	sit
+2E	sal-	.	.	2G	sal-	2g	sal-
+2D	-va-	.	.	2A	-va-	2f#i	-va-
+2D	-ti-	.	.	2A	-ti-	2f#i	-ti-
+=49	=49	=49	=49	=49	=49	=49	=49
+1GG	-o.	1r	.	1G	-o.	1g	-o
+*col	*	*col	*	*	*Xedit	*	*Xedit
+3%2C	Et	3%2A	Et	1r	.	1r	.
+3C	pu-	3A	pu-	.	.	.	.
+!!LO:LB:g=MCE
+=50	=50	=50	=50	=50	=50	=50	=50
+3%2BB-	-ri-	3%2G	-ri-	0r	.	0r	.
+3GG	-fi-	3G	-fi-	.	.	.	.
+3%2AA	-ca-	3%2F#i	-ca-	.	.	.	.
+3AA	-ti-	3F#i	-ti-	.	.	.	.
+*Xcol	*	*	*	*	*	*	*
+=51	=51	=51	=51	=51	=51	=51	=51
+1GG	-o	3%2G	-o	0r	.	0r	.
+.	.	3r	.	.	.	.	.
+1r	.	3%2A	nos-	.	.	.	.
+.	.	3B-	-tra	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52
+*	*	*	*	*	*	*col	*
+0r	.	3%2c	sit	0r	.	3%2e	Et
+.	.	3A	pur-	.	.	3f	pu-
+.	.	3%2B-	-ga-	.	.	3%2g	-ri-
+.	.	3c	-ti-	.	.	3e	-fi-
+=53	=53	=53	=53	=53	=53	=53	=53
+0r	.	3%2d	-o.	1r	.	3%2f	-ca-
+.	.	3r	.	.	.	3g	-ti-
+*	*	*Xcol	*	*col	*	*	*
+.	.	1r	.	3%2d	Et	3%2a	-o
+.	.	.	.	3e	pu-	3r	.
+!!LO:LB:g=MCE
+=54	=54	=54	=54	=54	=54	=54	=54
+0r	.	0r	.	3%2f	-ri-	3%2a	nos-
+.	.	.	.	3d	-fi-	3b-	-tra
+.	.	.	.	3%2e	-ca-	3%2cc	sit
+.	.	.	.	3f	-ti-	3a	pu-
+=55	=55	=55	=55	=55	=55	=55	=55
+0r	.	0r	.	3%2g	-o	3%2b-	-ga-
+.	.	.	.	3e	nos-	3cc	-ti-
+.	.	.	.	3f	-tra	3.dd	.
+.	.	.	.	3%2d	sit	.	.
+.	.	.	.	.	.	6cc	.
+.	.	.	.	.	.	6b-	.
+.	.	.	.	.	.	6a	.
+=56	=56	=56	=56	=56	=56	=56	=56
+0r	.	0r	.	3c	pur-	3a	.
+.	.	.	.	3B-	-ga-	3%2g	.
+*	*	*	*	*	*	*Xcol	*
+.	.	.	.	3B-	-ti-	.	.
+*	*	*	*	*Xcol	*	*	*
+.	.	.	.	1A	-o.	1a	-o.
+=57	=57	=57	=57	=57	=57	=57	=57
+2C	Tu-	2c	Tu-	2G	Tu-	2e	Tu-
+2C	-a	2c	-a	2G	-a	2e	-a
+2G	sit	2B-	sit	2B-	sit	2d	sit
+2E	as-	2G	as-	2c	as-	2g	as-
+!!LO:LB:g=MCE
+=58	=58	=58	=58	=58	=58	=58	=58
+2D	-sump-	2A	-sump-	2d	-sump-	2f#i	-sump-
+2D	-ti-	2A	-ti-	2d	-ti-	2f#i	-ti-
+1GG	-o	1G	-o	1d	-o	1g	-o
+=59	=59	=59	=59	=59	=59	=59	=59
+*col	*	*	*	*	*	*	*
+3%2D	nos-	1r	.	0r	.	0r	.
+3E	-trae	.	.	.	.	.	.
+*	*	*col	*	*	*	*	*
+3%2F	sa-	3%2A	nos-	.	.	.	.
+3D	-lu-	3B-	-trae	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60
+3%2E	-tis	3%2c	sa-	0r	.	0r	.
+3F	vi-	3A	-lu-	.	.	.	.
+3%2G	.	3%2B-	-tis	.	.	.	.
+3E	.	3c	vi-	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61
+3F	.	3.d	.	0r	.	0r	.
+3%2D	.	.	.	.	.	.	.
+.	.	6c	.	.	.	.	.
+.	.	6B-	.	.	.	.	.
+.	.	6A	.	.	.	.	.
+3C	.	3%2A	.	.	.	.	.
+3%2BB-	.	.	.	.	.	.	.
+.	.	3G	.	.	.	.	.
+*Xcol	*	*Xcol	*	*	*	*	*
+!!LO:LB:g=MCE
+=62	=62	=62	=62	=62	=62	=62	=62
+2AA	-a,	1A	-a,	1r	.	1r	.
+2D	.	.	.	.	.	.	.
+2C	Tu	2c	Tu	2G	Tu	2e	Tu
+2C	nos	2c	nos	2G	nos	2e	nos
+=63	=63	=63	=63	=63	=63	=63	=63
+2G	te-	2B-	te-	2B-	te-	2d	te-
+2E	-cum	2G	-cum	2c	-cum	2g	-cum
+2D	a-	2A	a-	2d	a-	2f#i	a-
+2D	-stru-	2A	-stru-	2d	-stru-	2f#i	-stru-
+=64	=64	=64	=64	=64	=64	=64	=64
+1GG	-e	1G	-e	1B-	-e	1g	-e
+*	*	*col	*	*col	*	*	*
+1r	.	3%2G	in	3%2d	in	1r	.
+.	.	3G	ve-	3e	ve-	.	.
+=65	=65	=65	=65	=65	=65	=65	=65
+0r	.	3%2F	-ra	3.f	-ra	0r	.
+.	.	.	.	6e	.	.	.
+.	.	3G	so-	3d	so-	.	.
+.	.	3%2A	-phi-	3c	-phi-	.	.
+.	.	.	.	3%2e	.	.	.
+.	.	3G	.	.	.	.	.
+!!LO:LB:g=MCE
+=66	=66	=66	=66	=66	=66	=66	=66
+1r	.	3F	.	3%2d	.	0r	.
+.	.	3%2E	.	.	.	.	.
+.	.	.	.	3c#i	.	.	.
+*col	*	*col	*	*	*	*	*
+3%2A	Quae	3%2D	-a.	3%2d	-a.	.	.
+3A	re-	3r	.	3r	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67
+*	*	*	*	*	*	*col	*
+3%2G	-gnas	3%2d	Quae	3%2g	Quae	3%2b-	Quae
+3G	cum	3d	re-	3g	re-	3b-	re-
+3%2A	fi-	3%2c	-gnas	3%2f	-gnas	3%2a	-gnas
+3A	-li-	3c	cum	3f	cum	3cc	cum
+=68	=68	=68	=68	=68	=68	=68	=68
+3%2G	-o,	3%2d	fi-	3%2g	fi-	3%2b-	fi-
+3G	o	3d	-li-	3g	-li-	3b-	-li-
+3%2A	cle-	3%2c	-o,	3%2f	-o,	3%2a	-o,
+3A	-mens,	3c	o	3f	o	3cc	o
+=69	=69	=69	=69	=69	=69	=69	=69
+3%2G	o	3%2d	cle-	3%2g	cle-	3%2b-	cle-
+3D	pi-	3d	-mens,	3f	-mens,	3b-	-mens,
+3F	.	3c	o	3f	o	3a	o
+3%2G	.	3%2B-	pi-	3%2d	pi-	3%2g	pi-
+*	*	*Xcol	*	*	*	*	*
+!!LO:LB:g=MCE
+=70	=70	=70	=70	=70	=70	=70	=70
+3%2D	-a,	1A	-a,	3%2d	-a,	3%2f#X	-a,
+3r	.	.	.	3r	.	3r	.
+3%2A	Fac	1r	.	3%2f	Fac	1r	.
+3A	nos	.	.	3f	nos	.	.
+=71	=71	=71	=71	=71	=71	=71	=71
+*	*	*col	*	*	*	*	*edit
+3%2G	te-	3%2d	Fac	3%2g	te-	3%2b-	Fac
+3G	-cum	3d	nos	3g	-cum	3b-	nos
+3%2A	vi-	3%2c	te-	3%2f	vi-	3%2a	te-
+3A	-ve-	3c	-cum	3f	-ve-	3cc	-cum
+=72	=72	=72	=72	=72	=72	=72	=72
+3%2G	-re,	3%2d	vi-	3%2g	-re,	3%2b-	vi-
+3G	o	3d	-ve-	3g	o	3b-	-ve-
+3%2A	dul-	3%2c	-re,	3%2f	dul-	3%2a	-re,
+3A	-cis	3c	o	3f	-cis	3cc	o
+=73	=73	=73	=73	=73	=73	=73	=73
+3%2G	Ma-	3%2d	dul-	3%2g	Ma-	3%2b-	dul-
+3G	-ri-	3B-	-cis	3d	-ri-	3g	-cis
+3C	.	3c	Ma-	3e	.	3e	Ma-
+3%2D	.	3%2A	-ri-	3%2d	.	3%2f#i	-ri-
+*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*
+!!LO:LB:g=MCE
+=74	=74	=74	=74	=74	=74	=74	=74
+0GGl	-a.	0Gl	-a.	0dl	-a.	0gl	-a.
+*	*	*	*	*	*	*	*Xedit
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!system-decoration: [*]
+!!!PTL: MCE 5: Gaspar van Weerbeke, Ave mundi domina
+!!!ISBN: 978-3-9524701-7-6
+!!!URL: https://www.gaffurius-codices.ch/s/portal/page/mce05
+!!!PPR: Gaffurius Codices Online, Motet Cycles Edition (https://www.gaffurius-codices.ch/s/portal/page/editions)
+!!!PC#: MCE 05-01
+!!!PDT: 2021
+!!!PED: Pavanello, Agnese
+!!!YEC: Copyright 2021, Pavanello, Agnese
+!!!YEM: CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+!!!ENC: Wissmann, Rolf
+!!!EED: Sapp, Craig Stuart
+!!!EEV: 2022/01/19
+!!!title: @{OPR} &mdash; @{OMV}. @{OTL}
+!!!muse2ps: C^@{COM}^i2I150v90,90,90,120c122z18l2700t130
+!!!ONB: from https://www.gaffurius-codices.ch/s/portal/page/editions

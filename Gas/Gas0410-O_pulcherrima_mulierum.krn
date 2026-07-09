@@ -1,0 +1,318 @@
+!!!!SEGMENT: Gas/Gas0410-O_pulcherrima_mulierum.krn
+!!!COM: Gaspar van Weerbeke
+!!!CDT: ~1450-~1517
+!!!OTL: O pulcherrima mulierum
+!!!AGN: Motet
+!!!SCT: Gas0410
+!!!SCA: Gas0410
+!!!jrpid: Gas0410
+!!!voices: 4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
+*I'B	*	*I'T	*	*I'A	*	*I'S	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+=1	=1	=1	=1	=1	=1	=1	=1
+1E	O	1E	O	1e	O	0r	.
+1E	pul-	1E	pul-	1e	pul-	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+0C	-cher-	2.E	-cher-	1.e	-cher-	0r	.
+.	.	4F	.	.	.	.	.
+.	.	2G	.	.	.	.	.
+.	.	[2A	.	2e	-ri-	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+1BB	-ri-	2A]	.	1d	.	0r	.
+.	.	2G#i	-ri-	.	.	.	.
+1AA	-ma	1A	-ma	1c	-ma	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+0E	mu-	0c	mu-	1r	.	0r	.
+.	.	.	.	1G	mu-	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+1D	-li-	1B	-li-	1F	-li-	0r	.
+2C	.	2A	.	2E	.	.	.
+[2D	-e-	[2B	-e-	[2F	-e-	.	.
+!!LO:LB:g=original
+=6	=6	=6	=6	=6	=6	=6	=6
+4D]	.	4B]	.	4F]	.	0r	.
+4C	.	4A	.	4E	.	.	.
+4BB	.	4G#i	.	4D	.	.	.
+4AA	.	4F#i	.	4C	.	.	.
+1BB	.	1G#i	.	1D	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+0AA	-rum,	1A	-rum,	1E	-rum,	1e	Sur-
+.	.	1E	sur-	1A	sur-	1e	-ge
+=8	=8	=8	=8	=8	=8	=8	=8
+2.C	sur-	2r	.	2G	-ge	2.e	pro-
+.	.	1c	-ge	1E	pro-	.	.
+4D	.	.	.	.	.	4f	.
+2E	-ge	.	.	.	.	2g	.
+2F	pro-	2A	pro-	2d	-pe-	[2a	-pe-
+=9	=9	=9	=9	=9	=9	=9	=9
+1E	-pe-	1B	-pe-	1e	.	2a]	.
+.	.	.	.	.	.	2g#i	.
+1F	-ra	1A	-ra	[1c	-ra	1a	-ra
+=10	=10	=10	=10	=10	=10	=10	=10
+0C	a-	0e	a-	1c]	.	0cc	a-
+.	.	.	.	2.G	a-	.	.
+.	.	.	.	4A	.	.	.
+!!LO:LB:g=original
+=11	=11	=11	=11	=11	=11	=11	=11
+1G	-mi-	1d	-mi-	4B	-mi-	1b	-mi-
+.	.	.	.	4c	.	.	.
+.	.	.	.	4d	.	.	.
+.	.	.	.	4e	.	.	.
+2A	-ca	2c	-ca	2f	-ca	2a	-ca
+[2G	me-	[2d	me-	[2g	me-	[2b	me-
+=12	=12	=12	=12	=12	=12	=12	=12
+2G]	.	4d]	.	2g]	.	4b]	.
+.	.	4c	.	.	.	4a	.
+2A	.	4B	.	1.e	.	4g#i	.
+.	.	4A	.	.	.	4f#i	.
+1E	.	1B	.	.	.	1g#i	.
+=13	=13	=13	=13	=13	=13	=13	=13
+0F	-a,	0A	-a,	0c	-a,	0a	-a,
+=14	=14	=14	=14	=14	=14	=14	=14
+1E	co-	1c	co-	1e	co-	1r	.
+1C	-lum-	1c	-lum-	1e	-lum-	1g	co-
+=15	=15	=15	=15	=15	=15	=15	=15
+1C	-ba	1c	-ba	1e	-ba	1g	-lum-
+1C	me-	1c	me-	1c	me-	1g	-ba
+!!LO:LB:g=original
+=16	=16	=16	=16	=16	=16	=16	=16
+0C	-a,	0c	-a,	1G	-a,	1e	me-
+.	.	.	.	2g	for-	1c	-a,
+.	.	.	.	[2g	-mo-	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+1C	for-	1c	for-	2g]	.	1r	.
+.	.	.	.	2g	-sa	.	.
+2C	-mo-	[1c	-mo-	1e	me-	1g	for-
+4D	.	.	.	.	.	.	.
+4E	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+1F	-sa	2c]	.	1c	-a,	1a	-mo-
+.	.	2c	-sa	.	.	.	.
+1E	me-	1c	me-	2r	.	2g	-sa
+*	*	*	*	*	*edit	*	*
+.	.	.	.	[2G	for-	[2e	me-
+=19	=19	=19	=19	=19	=19	=19	=19
+2C	.	1c	-a,	2G]	.	2e]	.
+2AA	.	.	.	1A	-mo-	2c	.
+*	*	*	*edit	*	*	*	*
+1D	.	1d	for-	.	.	1f	.
+.	.	.	.	2B	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+1C	-a;	1.e	-mo-	2c	-sa	2e	.
+.	.	.	.	2C	.	2.g	.
+1r	.	.	.	2.D	me-	.	.
+.	.	.	.	.	.	4a	.
+.	.	2c	-sa	.	.	[2cc	.
+.	.	.	.	4E	.	.	.
+!!LO:PB:g=original
+=21	=21	=21	=21	=21	=21	=21	=21
+1GG	et	1d	me-	1G	.	2cc]	.
+.	.	.	.	.	.	2b	.
+1AA	.	1c	-a;	1C	-a;	1cc	-a;
+=22	=22	=22	=22	=22	=22	=22	=22
+*	*	*	*Xedit	*	*Xedit	*	*
+[0AA	ve-	1C	et	1.c	et	1r	.
+.	.	[1E	ve-	.	.	1cc	et
+.	.	.	.	2d	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+0AA]	.	1E]	.	1e	ve-	1.cc	ve-
+.	.	2.F#i	.	1A	.	.	.
+.	.	.	.	.	.	4b	.
+.	.	4E	.	.	.	4a	.
+=24	=24	=24	=24	=24	=24	=24	=24
+0GG;	-ni!	0G;	-ni!	0d;	-ni!	0b;	-ni!
+=25	=25	=25	=25	=25	=25	=25	=25
+1GG	O-	1d	O-	1g	O-	1b	O-
+1C	-sten-	1e	-sten-	1g	-sten-	1cc	-sten-
+=26	=26	=26	=26	=26	=26	=26	=26
+1C	-de	1c	-de	1e	-de	2cc	-de
+.	.	.	.	.	.	2.cc	mi-
+1F	mi-	1A	mi-	2c	mi-	.	.
+.	.	.	.	.	.	4b	.
+.	.	.	.	2d	.	2a	.
+!!LO:LB:g=original
+=27	=27	=27	=27	=27	=27	=27	=27
+2E	-hi	2B	-hi	1e	-hi	1g	-hi
+2.C	fa-	1e	fa-	.	.	.	.
+.	.	.	.	[1g	fa-	1cc	fa-
+4D	.	.	.	.	.	.	.
+4E	.	2e	-ci-	.	.	.	.
+4F	.	.	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28
+2G	-ci-	1d	-em	2g]	.	1b	-ci-
+2D	-em	.	.	1f	-ci-	.	.
+2F	tu-	2c	tu-	.	.	2a	-em
+[2G	.	2B	.	2d	-em	[2b	tu-
+=29	=29	=29	=29	=29	=29	=29	=29
+2G]	.	1G	.	2B	tu-	4b]	.
+.	.	.	.	.	.	4a	.
+2E	.	.	.	2c	.	1g	.
+1D	.	1A	.	1d	.	.	.
+.	.	.	.	.	.	2f#i	.
+=30	=30	=30	=30	=30	=30	=30	=30
+1.E	-am,	0G	-am,	1B	-am,	0g	-am,
+.	.	.	.	2r	.	.	.
+2C	so-	.	.	2c	so-	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+1C	-net	1E	so-	2.c	-net	0r	.
+.	.	.	.	4B	.	.	.
+1C	vox	2.E	-net	1G	.	.	.
+.	.	4F	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+1C	tu-	1G	vox	2r	.	1e	so-
+.	.	.	.	2c	vox	.	.
+1AA	-a	2.A	tu-	2.c	tu-	2.e	-net
+.	.	4G	.	4d	.	4f	.
+!!LO:LB:g=original
+=33	=33	=33	=33	=33	=33	=33	=33
+2r	.	1E	-a	1e	-a	1g	vox
+2E	in	.	.	.	.	.	.
+2.F	au-	1r	.	2.c	in	2.a	tu-
+4E	.	.	.	4d	.	4g	.
+=34	=34	=34	=34	=34	=34	=34	=34
+2.C	.	1c	in	4e	au-	1e	-a
+.	.	.	.	4f	.	.	.
+.	.	.	.	2.g	.	.	.
+4D	.	.	.	.	.	.	.
+4E	.	1B	au-	.	.	1r	.
+4F	.	.	.	4f	.	.	.
+[2G	.	.	.	2d	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35
+2G]	.	1A	-ri-	2e	-ri-	1cc	in
+2F	-ri-	.	.	2f	.	.	.
+1G	-bus	1G	-bus	1d	-bus	1b	au-
+=36	=36	=36	=36	=36	=36	=36	=36
+2r	.	1c	me-	2r	.	1a	-ri-
+2F	me-	.	.	2f	me-	.	.
+2G	.	2B	.	2d	.	1g	-bus
+2E	.	2G	.	2e	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+1F	.	1A	.	2c	.	2.cc	me-
+.	.	.	.	2f	.	.	.
+.	.	.	.	.	.	4a	.
+2G	.	2.G	.	2d	.	2b	.
+[2E	.	.	.	2e	.	[2g	.
+.	.	4A	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+2E]	.	2B	.	1g	.	2g]	.
+2C	.	1c	.	.	.	4f	.
+.	.	.	.	.	.	4e	.
+1G	-is,	.	.	1g	-is,	1d	.
+.	.	2B	.	.	.	.	.
+!!LO:LB:g=original
+=39	=39	=39	=39	=39	=39	=39	=39
+1r	.	1c	-is,	1e	vox	1c	-is,
+1E	vox	1r	.	2.c	e-	1r	.
+.	.	.	.	4d	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40
+2C	e-	0r	.	2e	-nim	0r	.
+2D	.	.	.	1f	.	.	.
+1E	-nim	.	.	.	.	.	.
+.	.	.	.	[2e	tu-	.	.
+=41	=41	=41	=41	=41	=41	=41	=41
+1F	tu-	0r	.	2e]	.	0r	.
+.	.	.	.	2d	.	.	.
+1E	-a	.	.	1e	-a	.	.
+=42	=42	=42	=42	=42	=42	=42	=42
+1A	dul-	0r	.	1f	dul-	0r	.
+2G	.	.	.	2e	.	.	.
+[2E	.	.	.	[2c	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43
+2E]	.	0r	.	4c]	.	0r	.
+.	.	.	.	4B	.	.	.
+2C	.	.	.	1A	.	.	.
+1BB	.	.	.	.	.	.	.
+.	.	.	.	2G#i	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44
+0AA	-cis,	1E	vox	1A	-cis,	0r	.
+.	.	2.C	e-	1r	.	.	.
+.	.	4D	.	.	.	.	.
+!!LO:PB:g=original
+=45	=45	=45	=45	=45	=45	=45	=45
+*	*	*	*	*	*edit	*	*
+0r	.	1E	-nim	1G	vox	1e	vox
+.	.	1F	tu-	2.A	e-	2.c	e-
+.	.	.	.	4B	.	4d	.
+=46	=46	=46	=46	=46	=46	=46	=46
+*	*edit	*	*	*	*	*	*
+1C	tu-	1E	-a	1c	-nim	1e	-nim
+1D	-a	1A	dul-	2A	tu-	1f	tu-
+.	.	.	.	2d	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+2E	dul-	2G	.	2B	.	1e	-a
+2C	.	2E	.	2e	.	.	.
+1D	.	1F	.	1d	-a	1a	dul-
+=48	=48	=48	=48	=48	=48	=48	=48
+2E	.	1E	-cis	2B	dul-	2g	.
+2G	.	.	.	2G	.	1e	.
+1F	.	1r	.	1A	.	.	.
+.	.	.	.	.	.	2d	.
+=49	=49	=49	=49	=49	=49	=49	=49
+1E	-cis	0r	.	1B	.	1e	-cis
+*	*Xedit	*	*	*	*	*	*
+2.A	et	.	.	2c	.	1r	.
+.	.	.	.	2e	.	.	.
+4G	.	.	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50
+1F	fa-	1A	et	2f	.	0r	.
+.	.	.	.	2d	.	.	.
+1E	-ci-	2B	fa-	1e	-cis,	.	.
+.	.	2B	-ci-	.	.	.	.
+!!LO:LB:g=original
+=51	=51	=51	=51	=51	=51	=51	=51
+1AA	-es	2.c	-es	2r	.	1a	et
+*	*	*	*	*	*Xedit	*	*
+.	.	.	.	2.e	et	.	.
+.	.	4B	.	.	.	.	.
+2r	.	1G	.	.	.	2b	fa-
+.	.	.	.	4f	.	.	.
+[2E	tu-	.	.	[2g	fa-	2b	-ci-
+=52	=52	=52	=52	=52	=52	=52	=52
+2E]	.	1c	tu-	2g]	.	2.cc	-es
+2F	.	.	.	2a	.	.	.
+.	.	.	.	.	.	4b	.
+1G	-a	1B	-a	2d	-ci-	1g	.
+.	.	.	.	2g	-es	.	.
+=53	=53	=53	=53	=53	=53	=53	=53
+1A	de-	2A	de-	2f	tu-	1cc	tu-
+.	.	1e	-co-	2e	.	.	.
+2E	-co-	.	.	1g	-a	1b	-a
+2G	.	2d	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54
+2A	.	2c	.	2f	de-	2a	de-
+1G	.	1d	.	2.g	-co-	2.b	-co-
+.	.	.	.	4f	.	4a	.
+[2C	.	2e	.	4e	.	4g	.
+.	.	.	.	4d	.	4f	.
+=55	=55	=55	=55	=55	=55	=55	=55
+2C]	.	2c	.	2c	.	2e	.
+2F	.	2A	.	2d	.	1a	.
+1E	.	1B	.	1e	.	.	.
+.	.	.	.	.	.	2g#i	.
+=56	=56	=56	=56	=56	=56	=56	=56
+0AAl	-ra.	0Al	-ra.	0el	-ra.	0al	-ra.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: j = editorial accidental, optional, paren up
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!PTL: Gaspar van Weerbeke: Collected Works. IV. Motets
+!!!ISBN: 978-1-59551-500-1 / 1-59551-500-3
+!!!PPR: American Institute of Musicology
+!!!PC#: Corpus Mensurabilis Musicae 106/IV
+!!!PDT: 2010
+!!!PED: Pavanello, Agnese
+!!!YEC: Copyright 2008, Pavanello, Agnese
+!!!YEM: CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+!!!EED: Mair-Gruber, Roland
+!!!EEV: 2021/08/18
+!!!muse2ps: C^@{COM}^i2I150v90,90,90,120c122z18l2700t130
+!!!ONB: from http://www.gaspar-van-weerbeke.sbg.ac.at/gaspar-online-edition with doubled rhythms

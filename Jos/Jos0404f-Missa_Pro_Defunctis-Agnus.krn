@@ -1,0 +1,303 @@
+!!!!SEGMENT: Jos/Jos0404f-Missa_Pro_Defunctis-Agnus.krn
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OPR: Missa Pro defunctis
+!!!ONM: 6
+!!!OTL: Agnus Dei
+!!!AGN: Mass; Agnus Dei
+!!!SCT: NJE 4.4
+!!!SCA: New Josquin Edition 4.4
+!!!jrpid: Jos0404f
+!!!voices: 6
+!!!voices-OPR: 6
+**kern	**kern	**kern	**kern	**kern	**kern
+*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox
+*I"Bassus	*I"Tenor3	*I"Tenor2	*I"Tenor1	*I"Altus	*I"Superius
+*I'B	*I'T3	*I'T2	*I'T1	*I'A	*I'S
+*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
+*>A	*>A	*>A	*>A	*>A	*>A
+*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
+=1-	=1-	=1-	=1-	=1-	=1-
+!	!LO:TX:Z=8:t=Canon in diapente [at the upper fifth]; text&colon; "Circumdederunt me"	!	!	!	!
+0A	0r	0r	0c	0e	0a
+=2	=2	=2	=2	=2	=2
+1A	0r	0r	1c	1e	1a
+1A	.	.	1c	1e	1a
+=3	=3	=3	=3	=3	=3
+1F	0r	0r	1c	1f	1a
+1F	.	.	1c	[1f	1a
+=4	=4	=4	=4	=4	=4
+0B-i	0r	0r	1d	2f\]	1f
+.	.	.	.	2e\	.
+.	.	.	1d	[1d	1g
+=5	=5	=5	=5	=5	=5
+0F	0r	0r	1e	2d\]	[0a
+.	.	.	.	4c\	.
+.	.	.	.	4B\	.
+.	.	.	[1A	1c	.
+=6	=6	=6	=6	=6	=6
+0D	0F	0r	1A]	1.d	0a_
+.	.	.	1A	.	.
+.	.	.	.	4c\	.
+.	.	.	.	4B\	.
+=7	=7	=7	=7	=7	=7
+1r	1F	0r	1c	2.A/	0a]
+.	.	.	.	4B\	.
+[1F	1F	.	2A/	2c\	.
+.	.	.	[2c\	2A/	.
+=8	=8	=8	=8	=8	=8
+1F]	0G	0r	2c\]	2.c\	1r
+.	.	.	4B\	.	.
+.	.	.	4A/	4d\	.
+1E	.	.	2G/	1e	1g
+.	.	.	[2c\	.	.
+=9	=9	=9	=9	=9	=9
+0F	0F	0c	4c\]	2r	1a
+.	.	.	4B\	.	.
+.	.	.	4A/	1A	.
+.	.	.	4G/	.	.
+.	.	.	1F	.	[1cc
+.	.	.	.	2A/	.
+=10	=10	=10	=10	=10	=10
+0C	[0G	1c	0E	2c\	2cc\]
+.	.	.	.	2d\	4b\
+.	.	.	.	.	4a/
+.	.	1c	.	2.e\	2.g/
+.	.	.	.	4f\	4a/
+=11	=11	=11	=11	=11	=11
+0r	0G]	0d	0r	0g	0b
+=12	=12	=12	=12	=12	=12
+1.F	[0Al	0c	0r	1r	0a
+.	.	.	.	[1f	.
+2E\	.	.	.	.	.
+=13	=13	=13	=13	=13	=13
+1D	0A_	[0d	1.F	2f\]	[0a
+.	.	.	.	2d\	.
+1D	.	.	.	[1f	.
+.	.	.	2D/	.	.
+=14	=14	=14	=14	=14	=14
+1D	0A_	0d]	2.F/	2f\]	1a]
+.	.	.	.	2e\	.
+.	.	.	4F/	.	.
+1D	.	.	2F/	2d\	1a
+.	.	.	2F/	2d\	.
+=15	=15	=15	=15	=15	=15
+0AAl	0A]	0el	0El	0cl	0al
+!!LO:LB:i:g=z
+=16||	=16||	=16||	=16||	=16||	=16||
+*>B	*>B	*>B	*>B	*>B	*>B
+*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!section: Agnus Dei II
+!!!OMD: Agnus Dei II
+0AA	0r	0r	0E	0c	0a
+=17	=17	=17	=17	=17	=17
+1D	1r	0r	1F	1d	1a
+1AA	[1A	.	1E	1c	1a
+=18	=18	=18	=18	=18	=18
+1D	1A]	0r	1F	1d	1a
+1C	1A	.	1E	1e	2a/
+.	.	.	.	.	2g/
+=19	=19	=19	=19	=19	=19
+1D	1B-i	0r	1F	1d	1f
+1E	1G	.	1G	1B	[1e
+=20	=20	=20	=20	=20	=20
+[0AA	[0A	1r	0E	2.c\	2e/]
+.	.	.	.	.	4d/
+.	.	.	.	4B\	4c/
+.	.	[1e	.	2A/	1c
+.	.	.	.	4G/	.
+.	.	.	.	4F/	.
+=21	=21	=21	=21	=21	=21
+0AA]	0A]	1e]	2.A/	0E	1c
+.	.	.	4B\	.	.
+.	.	1e	1c	.	1cc
+=22	=22	=22	=22	=22	=22
+1D	0F	1f	1d	0r	1b
+1F	.	1d	1A	.	[1a
+=23	=23	=23	=23	=23	=23
+0E	0r	[0e	0B	1r	2a/]
+.	.	.	.	.	4g#i/
+.	.	.	.	.	4f#i/
+.	.	.	.	1e	1g#i
+=24	=24	=24	=24	=24	=24
+1r	0r	0e]	0A	1.c	[0a
+[1A	.	.	.	.	.
+.	.	.	.	2d\	.
+=25	=25	=25	=25	=25	=25
+2A\]	1r	0c	1r	1e	0a_
+2G\	.	.	.	.	.
+2F\	[1A	.	1D	[1f	.
+2E\	.	.	.	.	.
+=26	=26	=26	=26	=26	=26
+2.D\	1A]	0r	1F	2f\]	0a]
+.	.	.	.	4e\	.
+8C/L	.	.	.	4d\	.
+8BB/J	.	.	.	.	.
+2AA/	1A	.	1F	2c\	.
+2AA/	.	.	.	2A/	.
+=27	=27	=27	=27	=27	=27
+0GG	2B-i\	0r	1G	1d	0r
+.	2G/	.	.	.	.
+.	1B-i	.	2r	1d	.
+.	.	.	2G/	.	.
+=28	=28	=28	=28	=28	=28
+0r	2.A/	1r	2A/	1c	1r
+.	.	.	1c	.	.
+.	8G/L	.	.	.	.
+.	8F/J	.	.	.	.
+.	4E/	[1e	.	1r	1g
+.	4D/	.	.	.	.
+.	2E/	.	2B\	.	.
+=29	=29	=29	=29	=29	=29
+0r	0A	1e]	2.c\	0r	1a
+.	.	.	4B\	.	.
+.	.	1e	1A	.	[1cc
+=30	=30	=30	=30	=30	=30
+2r	0r	2f\	1r	2r	2cc\]
+2D\	.	2d\	.	2d\	2b\
+2D\	.	1f	1D	2d\	1a
+2D\	.	.	.	2d\	.
+=31	=31	=31	=31	=31	=31
+0E	0r	2.e\	1.G	0B	1g
+.	.	8d\L	.	.	.
+.	.	8c\J	.	.	.
+.	.	4B\	.	.	[1g
+.	.	4A/	.	.	.
+.	.	2B\	2E/	.	.
+=32	=32	=32	=32	=32	=32
+[0C	[0E	[0el	[0El	1.c	2g/]
+.	.	.	.	.	2f/
+.	.	.	.	.	2e/
+.	.	.	.	4B\	2d/
+.	.	.	.	4A/	.
+=33	=33	=33	=33	=33	=33
+1C]	0E]	0e_	0E_	1G	[0el
+1AA	.	.	.	1A	.
+=34	=34	=34	=34	=34	=34
+0AAl	0El	0e]	0E]	0Al	0e]
+!!LO:LB:i:g=z
+=35||	=35||	=35||	=35||	=35||	=35||
+*>C	*>C	*>C	*>C	*>C	*>C
+*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!section: Agnus Dei III
+!!!OMD: Agnus Dei III
+0D	0F	0r	0A	0d	0a
+=36	=36	=36	=36	=36	=36
+1D	1F	0r	1d	0f	1a
+1D	1D	.	1d	.	1a
+=37	=37	=37	=37	=37	=37
+1AA	1E	0r	1c	0e	1a
+2.AA/	2.C/	.	2A/	.	1a
+.	.	.	[2c\	.	.
+4BB/	4D/	.	.	.	.
+=38	=38	=38	=38	=38	=38
+2C/	2E/	0c	4c\]	1r	2g/
+.	.	.	4B\	.	.
+2FF/	1F	.	2A/	.	2f/
+1C	.	.	1G	1c	1g
+.	2E/	.	.	.	.
+=39	=39	=39	=39	=39	=39
+2FF/	0F	1c	0F	2.A/	0a
+2F\	.	.	.	.	.
+.	.	.	.	4B\	.
+2F\	.	1A	.	2c\	.
+2F\	.	.	.	2d\	.
+=40	=40	=40	=40	=40	=40
+2E\	0r	1B	0r	2e\	0r
+2D\	.	.	.	2f\	.
+[1E	.	2.G/	.	[1g	.
+.	.	4A/	.	.	.
+=41	=41	=41	=41	=41	=41
+2E\]	0r	2B\	1r	2g\]	0r
+4D\	.	1c	.	4f\	.
+4C/	.	.	.	4e\	.
+1D	.	.	2r	1f	.
+.	.	2B\	2F/	.	.
+=42	=42	=42	=42	=42	=42
+0C	1r	0c	2G/	0e	1r
+.	.	.	2C/	.	.
+.	1C	.	[1c	.	1g
+=43	=43	=43	=43	=43	=43
+0r	1F	0r	1c]	1.f	1a
+.	1F	.	2.A/	.	[1cc
+.	.	.	.	2f\	.
+.	.	.	4B\	.	.
+=44	=44	=44	=44	=44	=44
+0C	1G	0r	0c	1e	2cc\]
+.	.	.	.	.	2b\
+.	1A	.	.	1c	[1a
+=45	=45	=45	=45	=45	=45
+1D	0B-i	1r	0r	1f	1a]
+1E	.	1G	.	2.e\	1g
+.	.	.	.	4d\	.
+=46	=46	=46	=46	=46	=46
+0F	0A	1c	1A	2c\	0a
+.	.	.	.	2B\	.
+.	.	1c	2.c\	1A	.
+.	.	.	4B\	.	.
+=47	=47	=47	=47	=47	=47
+1F	1r	1d	4A/	0r	1r
+.	.	.	4G/	.	.
+.	.	.	2.d\	.	.
+1E	1C	1e	.	.	1g
+.	.	.	4c#i\	.	.
+.	.	.	4c#i\	.	.
+.	.	.	4B\	.	.
+=48	=48	=48	=48	=48	=48
+0D	1F	0f	1d	1r	1a
+.	1F	.	1D	1d	1b
+=49	=49	=49	=49	=49	=49
+0C	1G	0e	1r	1e	1.cc
+.	1A	.	2r	1c	.
+.	.	.	2C/	.	8cc/L
+.	.	.	.	.	8b/
+.	.	.	.	.	8a/
+.	.	.	.	.	8g/J
+=50	=50	=50	=50	=50	=50
+2r	0B-i	1r	2D/	1f	4f/
+.	.	.	.	.	4e/
+2F\	.	.	2D/	.	1a
+2G\	.	1G	1E	2.e\	.
+2E\	.	.	.	.	2g/
+.	.	.	.	4d\	.
+=51	=51	=51	=51	=51	=51
+1.F	[0Al	1c	1r	2c\	0a
+.	.	.	.	2B\	.
+.	.	1c	[1A	2A/	.
+2E\	.	.	.	2G/	.
+=52	=52	=52	=52	=52	=52
+1D	0A_	1d	2A/]	2F/	1a
+.	.	.	2B\	1f	.
+1C	.	1e	1c	.	1a
+.	.	.	.	2e\	.
+=53	=53	=53	=53	=53	=53
+0D	0A_	0f	1.F	0d	0a
+.	.	.	2G/	.	.
+=54	=54	=54	=54	=54	=54
+[0AAl	0A_	[0el	1A	[0cl	[0al
+.	.	.	1E	.	.
+=55	=55	=55	=55	=55	=55
+0AA]	0A]	0e]	0Al	0c]	0a]
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: V=start of tuplet marker
+!!!RDF**kern: Z=end of tuplet marker
+!!!ENC: Will Watson 08/06/2011
+!!!END: 2012/01/21/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/06/24/
+!!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
+!!!ONB: Translated from MusicXML and edited on 2012/06/24/ by Craig Sapp
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?^i2I150v95,95,95,95,95,130Q16z18

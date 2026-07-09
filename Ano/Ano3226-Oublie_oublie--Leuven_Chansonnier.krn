@@ -1,0 +1,202 @@
+!!!!SEGMENT: Ano/Ano3226-Oublie_oublie--Leuven_Chansonnier.krn
+!!!COM: Anonymous
+!!!OTL: Oublie oublie
+!!!AGN: Song; Chanson
+!!!SCT: Ano3226
+!!!SCA: Ano3226
+!!!jrpid: Ano3226
+!!!SMS: Leuven Chansonnier
+!!!folio: 22v-23r
+!!!voices: 3
+**kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
+*staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
+*Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*
+*I"Contra	*	*	*	*I"Tenor	*	*	*	*I"Discantus	*	*	*
+*I'C	*	*	*	*I'T	*	*	*	*I'D	*	*	*
+*clefF4	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*
+*k[b-]	*	*	*	*k[b-]	*	*	*	*k[b-]	*	*	*
+*M3/1	*	*	*	*M3/1	*	*	*	*M3/1	*	*	*
+*met(O)	*	*	*	*met(O)	*	*	*	*met(O)	*	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!!LO:TX:X=-50:Z=36:t=Form&colon; rondeau
+!!LO:TX:X=-50:Z=8:t=Sig. cong. and disc. flat sig. are editorial
+0.r	.	.	.	0.r	.	.	.	1r	.	.	.
+.	.	.	.	.	.	.	.	1r	.	.	.
+.	.	.	.	.	.	.	.	1cc	Ou-	Si	Pour
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+0.r	.	.	.	1r	.	.	.	0cc	-blie	tu	tant
+.	.	.	.	1r	.	.	.	.	.	.	.
+.	.	.	.	1f	Ou-	Si	Pour	1cc	ou-	as	don-
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+1r	.	.	.	0f	-blie	tu	tant	0cc	-blie	dueil	-ques
+1r	.	.	.	.	.	.	.	.	.	.	.
+1F	Ou-	Si	Pour	1f	ou-	as	don-	1a	ou-	ou	les-
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+0F	-blie	tu	tant	1.f	-blie	dueil	-ques	1.dd	-blie	[grief]	-se
+.	.	.	.	2e	ou-	ou	les-	2cc	ou-	me-	cel-
+2.F	ou-	as	don-	2.d	.	[grief]	-se	1ff	-blie	-ran-	-le
+4G	.	.	.	4c	.	me-	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+2A	-blie	dueil	-ques	2c	-blie	-ran-	cel-	2ee	ou-	-co-	fol-
+2B-	ou-	ou	les-	2G	ou-	-co-	-le	2.dd	-bli-	-li-	-li-
+1A	-blie	[grief]	-se	1c	-blie	-li-	fol-	.	.	.	.
+.	.	.	.	.	.	.	.	4cc	.	.	.
+.	.	.	.	.	.	.	.	1cc	.	.	.
+1G	ou-	me-	cel-	1d	ou-	.	-li-	.	.	.	.
+.	.	.	.	.	.	.	.	2bni	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+1.C	-blie	-ran-	-le	0c	-blie,	-e	-e	1cc	-e,	-e	-e
+.	.	.	.	.	.	.	.	1r	.	.	.
+2D	.	-co-	fol-	.	.	.	.	.	.	.	.
+1E	ou-	-li-	-li-	1r	.	.	.	1cc	Ou-	Que	Tu
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+0F	-blie,	-e	-e	1.A	Ou-	Que	Tu	1.cc	-blie	tes	n'as
+.	.	.	.	2B-	-blie	tes	n'as	2dd	.	.	.
+1r	.	.	.	1c	ou-	de-	be-	1ee	ou-	de-	be-
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+1.BB-	Ou-	Que	Tu	1.d	-blie	-sirs	-soing	1.ff	-blie	-sirs	-soing
+2C	.	.	.	2c	ou-	ve-	de	2ee	ou-	ve-	de
+2D	-blie	tes	n'as	2.f	-bli-	-noi-	ces	2.dd	-bli-	-noi-	ces
+2E	ou-	.	be-	.	.	.	.	.	.	.	.
+.	.	.	.	4g	.	.	.	4cc	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2.F	-blie	de-	-soing	1.a	-e	-ent	do-	1.cc	-e	-ent	do-
+4G	.	.	.	.	.	.	.	.	.	.	.
+2A	.	-sirs	.	.	.	.	.	.	.	.	.
+2B-	ou-	ve-	de	2.f	tes	au	-lens	1dd	tes	au	-lens
+1G	-bli-	.	ces	.	.	.	.	.	.	.	.
+.	.	.	.	4e	.	.	.	.	.	.	.
+.	.	.	.	2e	.	.	.	2b-	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2F	-e	-noi-	do-	1f	do-	re-	la-	2a	.	.	.
+2D	tes	-ent	.	.	.	.	.	2dd	do-	re-	la-
+1F	do-	au	-lens	1a	.	.	.	2cc	.	.	.
+.	.	.	.	.	.	.	.	1ff	.	.	.
+1C	.	re-	la-	1g	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2ee	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+1F	-lours,	-bours,&	-bours.	2f	.	.	.	1ff	-lours,	-bours,&	-bours.
+.	.	.	.	2d	.	.	.	.	.	.	.
+1A	.	.	.	2c	.	.	.	1rN	.	.	.
+.	.	.	.	1f	.	.	.	.	.	.	.
+1G	.	.	.	.	.	.	.	1r	.	.	.
+.	.	.	.	2e	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+2rN	.	.	.	1fN	-lours,	-bours,	-bours.	1ff	Le-	.	Ain-
+2F	Le-	.	Ain-	.	.	.	.	.	.	.	.
+2G	-al	.	-si	1r	.	.	.	2ee	-al	.	-si
+2A	a-	.	viv-	.	.	.	.	2cc	a-	.	viv-
+2.B-	-mant	.	-ras	1r	.	.	.	2.dd	-mant	.	-ras
+4A	.	.	.	.	.	.	.	4cc	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+1F	.	.	.	1f	Le-	.	Ain-	1a	.	.	.
+2C	car	.	doul-	2e	-al	.	-si	2r	.	.	.
+1F	.	.	.	2c	a-	.	viv-	1a	car	.	doul-
+.	.	.	.	2.d	-mant	.	-ras	.	.	.	.
+2G	ve-	.	-ce-	.	.	.	.	2b-	ve-	.	.
+.	.	.	.	4c	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+1A	-nus	.	-ment	1A	.	.	.	2cc	-nus	.	.
+.	.	.	.	.	.	.	.	2.a	.	.	.
+1F	.	.	.	2r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4g	.	.	.
+.	.	.	.	1A	car	.	doul-	4f	.	.	.
+.	.	.	.	.	.	.	.	4e	.	.	.
+1r	.	.	.	.	.	.	.	2.f	.	.	-ce-
+.	.	.	.	2B-	ve-	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4e	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+1.C	sont	.	en	2c	-nus	.	.	1e	sont	.	-ment
+.	.	.	.	2.A	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	1r	.	.	.
+.	.	.	.	4G	.	.	.	.	.	.	.
+1.D	les	.	a-	4F	.	.	.	.	.	.	.
+.	.	.	.	4E	.	.	.	.	.	.	.
+.	.	.	.	2.F	.	.	-ce-	1a	les	.	en
+.	.	.	.	4E	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+0E	iours,	.	-mours,	1E	sont	.	-ment	2.g	jours	.	a-
+.	.	.	.	.	.	.	.	4a	.	.	.
+.	.	.	.	1r	.	.	.	2b-	.	.	.
+.	.	.	.	.	.	.	.	1cc	.	.	.
+1F	.	.	.	1A	les	.	en	.	.	.	.
+.	.	.	.	.	.	.	.	4b-	.	.	.
+.	.	.	.	.	.	.	.	4a	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+1G	.	.	.	2.G	jours	.	a-	2b-	.	.	.
+.	.	.	.	.	.	.	.	2.dd	.	.	.
+.	.	.	.	4A	.	.	.	.	.	.	.
+1r	.	.	.	2B-	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4cc	.	.	.
+.	.	.	.	2c	.	.	.	2a	.	.	.
+1G	les	.	a-	1d	.	.	.	4b-	.	.	.
+.	.	.	.	.	.	.	.	4a	.	.	.
+.	.	.	.	.	.	.	.	4g	.	.	.
+.	.	.	.	.	.	.	.	4f	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+2A	.	.	.	2.c	.	.	.	1e	.	.	-mours
+1A	iours	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	4d	.	.	.	.	.	.	.
+.	.	.	.	2e	.	.	.	1r	.	.	.
+2F	.	.	.	1f	.	.	.	.	.	.	.
+1G	.	.	.	.	.	.	.	1r	.	.	.
+.	.	.	.	2e	.	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+1F	.	.	-mours	1f	.	.	-mours	2.cc	Que	.	Et
+.	.	.	.	.	.	.	.	4dd	.	.	.
+2G	Que	.	Et	1r	.	.	.	2ee	de	.	au
+2A	.	.	.	.	.	.	.	1ff	Dan-	.	plai-
+2B-	de	.	au	1g	Que	.	Et	.	.	.	.
+2c	Dan-	.	plai-	.	.	.	.	2ee	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2.d	-gier	.	-sir	2f	de	.	au	2.ff	-gier	.	-sir
+.	.	.	.	2.a	Dan-	.	plai-	.	.	.	.
+4c	.	.	.	.	.	.	.	4ee	.	.	.
+2A	.	.	.	.	.	.	.	2cc	ne	.	.
+.	.	.	.	4g	.	.	.	.	.	.	.
+2D	ne	.	de	1f	.	.	-sir	1dd	don-	.	de
+2F	don-	.	ta	.	.	.	.	.	.	.	.
+2G	.	.	.	4e	.	.	de	4cc	.	.	.
+.	.	.	.	4d	.	.	.	4b-	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+2A	-nes	.	.	2c	-gier	.	ta	2a	-nes	.	ta
+1G	u-	.	da-	2.d	ne	.	da-	2.b-	u-	.	da-
+.	.	.	.	4c	.	.	.	4a	.	.	.
+2F	.	.	.	2A	.	.	-me et	1a	.	.	-me et
+1E	-ne	.	-me	1B-	don-	.	a-	.	.	.	.
+.	.	.	.	.	.	.	.	2g	-ne ou-	.	a-
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+2r	.	.	.	2A	-nes	.	-my-	2.a	-bli-	.	-my-
+2F	ou-	.	et	2d	u-	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4b-	.	.	.
+2E	-bli-	.	a-	2e	-ne ou-	.	.	2cc	.	.	.
+1D	.	.	-my-	2.f	-bli-	.	.	2.dd	.	.	.
+.	.	.	.	4e	.	.	.	4cc	.	.	.
+[2G	.	.	.	4d	.	.	.	4b-	.	.	.
+.	.	.	.	4c	.	.	.	4a	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+2G]	.	.	.	2d	.	.	.	2b-	.	.	.
+2C	.	.	.	2.c	.	.	.	2.a	.	.	.
+2E	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	4B-	.	.	.	4g	.	.	.
+2F	.	.	.	2A	.	.	.	1f	.	.	.
+1C	.	.	.	1G	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2e	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+0.Fl	-e.	.	-e.	0.Fl	-e.	.	-e.	0.fl	-e.	.	-e.
+==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: V=start of tuplet marker
+!!!RDF**kern: Z=end of tuplet marker
+!!!RDF**kern: N = signum contruentiae
+!!!ENC: Jesse Rodin 16 April 2018
+!!!END: 2018/06/14/
+!!!EED: Jesse Rodin
+!!!EED2: David Burn
+!!!EED3: Fabrice Fitch
+!!!EED4: Adrian Armstrong
+!!!EEV: 2018/07/24/
+!!!ONB: Translated from MusicXML and edited on 2018/07/24/ by Craig Sapp
+!!muse2ps: C^@{SMS} (@{folio})\nEd. @{EED}, with help from @{EED4}, @{EED2}, and @{EED3}^v95,95,150Q16z18l2600c70

@@ -1,0 +1,135 @@
+!!!!SEGMENT: Ano/Ano3238.1-Eccol_Messia--Lauda_on_Ben_venga_Maggio--Libro_primo_delle_laudi_spirituali.krn
+!!!COM: Anonymous
+!!!OTL: Eccol Messia (Lauda on Ben venga Maggio)
+!!!AGN: Song; Carnival Song
+!!!SCT: Ano3238.1
+!!!SCA: Ano3238.1
+!!!jrpid: Ano3238.1
+!!!SMS: Libro primo delle laudi spirituali
+!!!folio:
+!!!voices: 3
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*	*Ivox	*
+*I"Tenor	*	*I"Cantus	*	*I"Altus	*
+*I'T	*	*I'Cn	*	*I'A	*
+*clefF4	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+=1-	=1-	=1-	=1-	=1-	=1-
+1c	Ec-	1e	Ec-	1g	Ec-
+2F	-co'l	2f	-co'l	2a	-co'l
+2c	Mes-	2e	Mes-	2g	Mes-
+=2	=2	=2	=2	=2	=2
+1G	-si-	1d	-si-	1g	-si-
+2C	-a,	2c	-a,	2e	-a,
+2c	Ec-	2e	Ec-	2g	Ec-
+=3	=3	=3	=3	=3	=3
+2F	-co'l	2f	-co'l	2a	-co'l
+2c	Mes-	2e	Mes-	2g	Mes-
+1G	-si-	1d	-si-	1g	-si-
+=4	=4	=4	=4	=4	=4
+1C;	-a,	1c;	-a,	1e;	-a,
+1c	E	1e	E	1g	E
+=5	=5	=5	=5	=5	=5
+2G	la	2d	la	2g	la
+2A	ma-	2c	ma-	2e	ma-
+2B	-dre	2d	-dre	2d	-dre
+[2c	sua	[2e	sua	[2g	sua
+=6	=6	=6	=6	=6	=6
+4c]	.	4e]	.	2g]	.
+4B	.	4d	.	.	.
+2A	Ma-	2c	Ma-	2f	Ma-
+1E	-ri-	1B	-ri-	1e	-ri-
+=7	=7	=7	=7	=7	=7
+!LO:N:B:t=Fine:Z=12	!	!LO:N:B:t=Fine:Z=12	!	!LO:N:B:t=Fine:Z=12	!
+!LO:N:vis=1	!	!LO:N:vis=1	!	!LO:N:vis=1	!
+0A;	-a.	0A;	-a.	0c;	-a.
+=8	=8	=8	=8	=8	=8
+2A	Ve-	2A	Ve-	2e	Ve-
+1A	-ni-	1c	-ni-	1e	-ni-
+2G	-te al-	2B	-te al-	2g	-te al-
+=9	=9	=9	=9	=9	=9
+2A	-me	2c	-me	2e	-me
+1B-	ce-	1d	ce-	2d	ce-
+.	.	.	.	1f	-le-
+[2A	-le-	[2c	-le-	.	.
+=10	=10	=10	=10	=10	=10
+2A]	.	2c]	.	1e	.
+2E	.	2B	.	.	.
+1A	-ste,	1A	-ste,	1c	-ste,
+=11	=11	=11	=11	=11	=11
+2r	.	2r	.	2r	.
+2A	Su	2A	Su	2e	Su
+2.A	da	2.c	da	[1e	da
+4B	.	4d	.	.	.
+=12	=12	=12	=12	=12	=12
+2c	.	2e	.	2e]	.
+2G	gli e-	2d	gli e-	2g	gli e-
+2A	-ter-	2c	-ter-	2e	-ter-
+2E	-ni	2B	-ni	2e	-ni
+=13	=13	=13	=13	=13	=13
+1A	cho-	1A	cho-	1c	cho-
+1A	-ri,	1A	-ri,	1c	-ri,
+=14	=14	=14	=14	=14	=14
+2A	Ve-	2A	Ve-	2e	Ve-
+1A	-ni-	1c	-ni-	1e	-ni-
+2G	-te, e	2B	-te, e	2g	-te, e
+=15	=15	=15	=15	=15	=15
+2A	fa-	2c	fa-	2e	fa-
+1B-	-te	1d	-te	2d	-te
+.	.	.	.	1f	fe-
+[2A	fe-	[2c	fe-	.	.
+=16	=16	=16	=16	=16	=16
+2A]	.	2c]	.	1e	.
+2E	.	2B	.	.	.
+1A	-ste,	1A	-ste,	1c	-ste,
+=17	=17	=17	=17	=17	=17
+2r	.	2r	.	2r	.
+2A	Si-	2A	Si-	2e	Si-
+2.A	-gno-	2.c	-gno-	[1e	-gno-
+4B	.	4d	.	.	.
+=18	=18	=18	=18	=18	=18
+2c	.	2e	.	2e]	.
+2G	-re	2d	-re	2g	-re
+2A	de	2c	de	2e	de
+2E	si-	2B	si-	2e	si-
+=19	=19	=19	=19	=19	=19
+1A	-gno-	1A	-gno-	1c	-gno-
+1A	-ri,	1A	-ri,	1c	-ri,
+=20	=20	=20	=20	=20	=20
+2r	.	2r	.	2r	.
+2c	Ven-	2e	Ven-	2g	Ven-
+2c	-ne e	2e	-ne e	2g	-ne e
+2B	non	2d	non	2g	non
+=21	=21	=21	=21	=21	=21
+2c	di-	2e	di-	2g	di-
+1A	.	1f	.	1a	.
+[2G	-mo-	[2g	-mo-	[2b	-mo-
+=22	=22	=22	=22	=22	=22
+2G]	.	2g]	.	2b]	.
+4A	.	2f	.	2a	.
+4B	.	.	.	.	.
+1c	-ri,	1e	-ri,	1g	-ri,
+=23	=23	=23	=23	=23	=23
+2r	.	2r	.	2r	.
+2c	La	2e	La	2g	La
+[1c	som-	[1e	som-	[1g	som-
+=24	=24	=24	=24	=24	=24
+2c]	.	2e]	.	2g]	.
+2c	-ma	2e	-ma	2g	-ma
+2G	Ge-	2d	Ge-	2g	Ge-
+2G	-rar-	2d	-rar-	2g	-rar-
+=25	=25	=25	=25	=25	=25
+1c	-chi-	1c	-chi-	1e	-chi-
+1cl	-a.	1cl	-a.	1el	-a.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!ENC: Jesse Rodin
+!!!END: 2019/12/08/
+!!!EED: Jesse Rodin
+!!!EEV: 2019/12/10/
+!!!ONB: Translated from MusicXML and edited on 2019/12/10/ by Craig Sapp
+!!muse2ps: u^Text by Lucrezia de'Medici [six more stanzas]^C^@{SMS}^v115,115,150z18t300

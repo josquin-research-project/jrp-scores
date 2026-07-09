@@ -1,0 +1,134 @@
+!!!!SEGMENT: Ano/Ano3238.2-Che_fai_qui_core--Lauda_on_Ben_venga_Maggio.krn
+!!!COM: Anonymous
+!!!OTL: Che fai qui core (Lauda on Ben venga Maggio)
+!!!AGN: Song; Carnival Song
+!!!SCT: Ano3238.2
+!!!SCA: Ano3238.2
+!!!jrpid: Ano3238.2
+!!!SMS:
+!!!folio:
+!!!voices: 3
+**kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
+*staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
+*Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*
+*I"Tenor	*	*	*	*I"Cantus	*	*	*	*I"Altus	*	*	*
+*I'T	*	*	*	*I'Cn	*	*	*	*I'A	*	*	*
+*clefF4	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*
+*k[]	*	*	*	*k[]	*	*	*	*k[]	*	*	*
+*M2/1	*	*	*	*M2/1	*	*	*	*M2/1	*	*	*
+*met(C|)	*	*	*	*met(C|)	*	*	*	*met(C|)	*	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+1c	Che	&	&	1e	Che	&	&	1g	Che	&	&
+2F	fai	.	.	2f	fai	.	.	2a	fai	.	.
+2c	qui,	.	.	2e	qui,	.	.	2g	qui,	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1G	co-	.	.	1d	co-	.	.	1g	co-	.	.
+2C	-re,	.	.	2c	-re,	.	.	2e	-re,	.	.
+2c	Che	.	.	2e	Che	.	.	2g	Che	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+2F	fai	.	.	2f	fai	.	.	2a	fai	.	.
+2c	qui,	.	.	2e	qui,	.	.	2g	qui,	.	.
+1G	co-	.	.	1d	co-	.	.	1g	co-	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+1C;	-re?	.	.	1c;	-re?	.	.	1e;	-re?	.	.
+1c	Va-	.	.	1e	Va-	.	.	1g	Va-	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+2G	-ne	.	.	2d	-ne	.	.	2g	-ne	.	.
+2A	al	.	.	2c	al	.	.	2e	al	.	.
+2B	tuo	.	.	2d	tuo	.	.	2d	tuo	.	.
+[2c	dol-	.	.	[2e	dol-	.	.	[2g	dol-	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+4c]	.	.	.	4e]	.	.	.	2g]	.	.	.
+4B	.	.	.	4d	.	.	.	.	.	.	.
+2A	-ce a-	.	.	2c	-ce a-	.	.	2f	-ce a-	.	.
+1E	-mo-	.	.	1B	-mo-	.	.	1e	-mo-	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+!LO:N:vis=1	!	!	!	!LO:N:vis=1	!	!	!	!LO:N:vis=1	!	!	!
+0A;	-re.	.	.	0A;	-re.	.	.	0c;	-re.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+2A	L'a-	Se	Pren-	2A	L'a-	Se	Pren-	2e	L'a-	Se	Pren-
+1A	-mor	tu	-de-	1c	-mor	tu	-de-	1e	-mor	tu	-de-
+2G	e	ti	-te	2B	e	ti	-te	2g	e	ti	-te
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2A	Ie-	sen-	tut-	2c	Ie-	sen-	tut-	2e	Ie-	sen-	tut-
+1B-	-su	-ti af-	-ti	1d	-su	-ti af-	-ti	2d	-su	-ti af-	-ti
+.	.	.	.	.	.	.	.	1f	Cri-	-flit-	l'ar-
+[2A	Cri-	-flit-	l'ar-	[2c	Cri-	-flit-	l'ar-	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2A]	.	.	.	2c]	.	.	.	1e	.	.	.
+2E	.	.	.	2B	.	.	.	.	.	.	.
+1A	-sto,	-to,	-me,	1A	-sto,	-to,	-me,	1c	-sto,	-to,	-me,
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+2r	.	.	.	2r	.	.	.	2r	.	.	.
+2A	Che	Que-	Ne-	2A	Che	Que-	Ne-	2e	Che	Que-	Ne-
+2.A	dol-	-sta e	-mi-	2.c	dol-	-sta e	-mi-	[1e	dol-	-sta e	-mi-
+4B	.	.	.	4d	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+2c	.	.	.	2e	.	.	.	2e]	.	.	.
+2G	-ce-	dol-	-ci	2d	-ce-	dol-	-ci	2g	-ce-	dol-	-ci
+2A	-me-	-ce	d'o-	2c	-me-	-ce	d'o-	2e	-me-	-ce	d'o-
+2E	-nte in-	con-	-gne	2B	-nte in-	con-	-gne	2e	-nte in-	con-	-gne
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+1A	-fiam-	-for-	be-	1A	-fiam-	-for-	be-	1c	-fiam-	-for-	be-
+1A	-ma,	-to,	-ne,	1A	-ma,	-to,	-ne,	1c	-ma,	-to,	-ne,
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+2A	Fa	Que-	Che	2A	Fa	Que-	Che	2e	Fa	Que-	Che
+1A	lie-	-sta e	piu	1c	lie-	-sta e	piu	1e	lie-	-sta e	piu
+2G	-to o-	quel	non	2B	-to o-	quel	non	2g	-to o-	quel	non
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+2A	-gne	dol-	te-	2c	-gne	dol-	te-	2e	-gne	dol-	te-
+1B-	cor	-ce	-mo, e	1d	cor	-ce	-mo, e	2d	cor	-ce	-mo, e
+.	.	.	.	.	.	.	.	1f	tri-	lit-	par-
+[2A	tri-	lit-	par-	[2c	tri-	-to,	par-	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2A]	.	.	.	2c]	.	.	.	1e	.	.	.
+2E	.	.	.	2B	.	.	.	.	.	.	.
+1A	-sto,	-to,	-me,	1A	-sto,	to,	-me,	1c	-sto,	-to,	-me,
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+2r	.	.	.	2r	.	.	.	2r	.	.	.
+2A	Che a	E	Che	2A	Che a	E	Che	2e	Che a	E	Che
+2.A	Lui	quel	dol-	2.c	Lui	quel	dol-	[1e	Lui	quel	dol-
+4B	.	.	.	4d	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+2c	.	.	.	2e	.	.	.	2e]	.	.	.
+2G	so-	fe-	-ce	2d	so-	fe-	-ce	2g	so-	fe-	-ce
+2A	-spi-	-li-	sian	2c	-spi-	-li-	sian	2e	-spi-	-li-	sian
+2E	-ra e	-ce	le	2B	-ra e	-ce	le	2e	-ra e	-ce	le
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+1A	bra-	por-	pe-	1A	bra-	por-	pe-	1c	bra-	por-	pe-
+1A	-ma.	-to,	-ne;	1A	-ma.	-to,	-ne;	1c	-ma.	-to,	-ne;
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2r	.	.	.	2r	.	.	.	2r	.	.	.
+2c	Chi	El	E	2e	Chi	El	E	2g	Chi	El	E
+2c	ra-	qual	que-	2e	ra-	qual	que-	2g	ra-	qual	que-
+2B	-men-	sem-	-sto	2d	-men-	sem-	-sto	2g	-men-	sem-	-sto
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+2c	-te	-pre	s'ac-	2e	-te	-pre	s'ac-	2g	-te	-pre	s'ac-
+1A	.	te e-	-con-	1f	.	te e-	-con-	1a	.	te e-	-con-
+[2G	l'a-	-sor-	-ve-	[2g	l'a-	-sor-	-ve-	[2b	l'a-	-sor-	-ve-
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+2G]	.	.	.	2g]	.	.	.	2b]	.	.	.
+4A	.	.	.	2f	.	.	.	2a	.	.	.
+4B	.	.	.	.	.	.	.	.	.	.	.
+1c	-ma,	-to	-ne	1e	-ma,	-to	-ne	1g	-ma,	-to	-ne
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+2r	.	.	.	2r	.	.	.	2r	.	.	.
+2c	Si	A-	A	2e	Si	A-	A	2g	Si	A-	A
+[1c	spo-	-mar	chi	[1e	spo-	-mar	chi	[1g	spo-	-mar	chi
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+2c]	.	.	.	2e]	.	.	.	2g]	.	.	.
+2c	-glia	cum	sta	2e	-glia	cum	sta	2g	-glia	cum	sta
+2G	d'o-	gran	con	2d	d'o-	gran	con	2g	d'o-	gran	con
+2G	-gne er-	fer-	l'a-	2d	-gne er-	fer-	l'a-	2g	-gne er-	fer-	l'a-
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+1c	-ro-	-vo-	-mo-	1c	-ro-	-vo-	-mo-	1e	-ro-	-vo-	-mo-
+1cl	-re.	-re.	-re.	1cl	-re.	-re.	-re.	1el	-re.	-re.	-re.
+==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!ENC: Jesse Rodin
+!!!END: 2019/12/08/
+!!!EED: Jesse Rodin
+!!!EEV: 2019/12/10/
+!!!ONB: Translated from MusicXML and edited on 2019/12/10/ by Craig Sapp
+!!muse2ps: C^Text by Savonarola [7 more verses]^v115,115,150z21c140t300l2150

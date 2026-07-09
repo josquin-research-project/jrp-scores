@@ -1,0 +1,136 @@
+!!!!SEGMENT: Ano/Ano3238-Ben_venga_Maggio--Libro_primo_delle_laudi_spirituali.krn
+!!!COM: Anonymous
+!!!OTL: Ben venga Maggio
+!!!AGN: Song; Carnival Song
+!!!SCT: Ano3238
+!!!SCA: Ano3238
+!!!jrpid: Ano3238
+!!!SMS: Librio primo delle laudi spirituali
+!!!folio:
+!!!voices: 3
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**kern	**text	**text	**text	**text	**text	**text	**text	**text	**kern	**text	**text	**text	**text	**text	**text	**text	**text
+*staff3	*staff3	*staff3	*staff3	*staff3	*staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff2	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1	*staff1	*staff1	*staff1	*staff1	*staff1
+*Ivox	*	*	*	*	*	*	*	*	*Ivox	*	*	*	*	*	*	*	*	*Ivox	*	*	*	*	*	*	*	*
+*I"Tenor	*	*	*	*	*	*	*	*	*I"Cantus	*	*	*	*	*	*	*	*	*I"Altus	*	*	*	*	*	*	*	*
+*I'T	*	*	*	*	*	*	*	*	*I'Cn	*	*	*	*	*	*	*	*	*I'A	*	*	*	*	*	*	*	*
+*clefF4	*	*	*	*	*	*	*	*	*clefGv2	*	*	*	*	*	*	*	*	*clefG2	*	*	*	*	*	*	*	*
+*k[]	*	*	*	*	*	*	*	*	*k[]	*	*	*	*	*	*	*	*	*k[]	*	*	*	*	*	*	*	*
+*M2/1	*	*	*	*	*	*	*	*	*M2/1	*	*	*	*	*	*	*	*	*M2/1	*	*	*	*	*	*	*	*
+*met(C|)	*	*	*	*	*	*	*	*	*met(C|)	*	*	*	*	*	*	*	*	*met(C|)	*	*	*	*	*	*	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+1c	Ben	&	&	&	&	&	&	&	1e	Ben	&	&	&	&	&	&	&	1g	Ben	&	&	&	&	&	&	&
+2F	ven-	.	.	.	.	.	.	.	2f	ven-	.	.	.	.	.	.	.	2a	ven-	.	.	.	.	.	.	.
+2c	-ga	.	.	.	.	.	.	.	2e	-ga	.	.	.	.	.	.	.	2g	-ga	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1G	mag-	.	.	.	.	.	.	.	1d	mag-	.	.	.	.	.	.	.	1g	mag-	.	.	.	.	.	.	.
+2C	-gio,	.	.	.	.	.	.	.	2c	-gio,	.	.	.	.	.	.	.	2e	-gio,	.	.	.	.	.	.	.
+2c	ben	.	.	.	.	.	.	.	2e	ben	.	.	.	.	.	.	.	2g	ben	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+2F	ven-	.	.	.	.	.	.	.	2f	ven-	.	.	.	.	.	.	.	2a	ven-	.	.	.	.	.	.	.
+2c	-ga	.	.	.	.	.	.	.	2e	-ga	.	.	.	.	.	.	.	2g	-ga	.	.	.	.	.	.	.
+1G	mag-	.	.	.	.	.	.	.	1d	mag-	.	.	.	.	.	.	.	1g	mag-	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+1C;	-gio	.	.	.	.	.	.	.	1c;	-gio	.	.	.	.	.	.	.	1e;	-gio	.	.	.	.	.	.	.
+1c	E'l	.	.	.	.	.	.	.	1e	E'l	.	.	.	.	.	.	.	1g	E'l	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+2G	gon-	.	.	.	.	.	.	.	2d	gon-	.	.	.	.	.	.	.	2g	gon-	.	.	.	.	.	.	.
+2A	.	.	.	.	.	.	.	.	2c	.	.	.	.	.	.	.	.	2e	.	.	.	.	.	.	.	.
+2B	-fa-	.	.	.	.	.	.	.	2d	-fa-	.	.	.	.	.	.	.	2d	-fa-	.	.	.	.	.	.	.
+[2c	-lon	.	.	.	.	.	.	.	[2e	-lon	.	.	.	.	.	.	.	[2g	-lon	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+4c]	.	.	.	.	.	.	.	.	4e]	.	.	.	.	.	.	.	.	2g]	.	.	.	.	.	.	.	.
+4B	.	.	.	.	.	.	.	.	4d	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+2A	sel-	.	.	.	.	.	.	.	2c	sel-	.	.	.	.	.	.	.	2f	sel-	.	.	.	.	.	.	.
+1E	-vag-	.	.	.	.	.	.	.	1B	-vag-	.	.	.	.	.	.	.	1e	-vag-	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+!LO:N:vis=1	!	!	!	!	!	!	!	!	!LO:N:vis=1	!	!	!	!	!	!	!	!	!LO:N:vis=1	!	!	!	!	!	!	!	!
+0A;	-gio,	.	.	.	.	.	.	.	0A;	-gio,	.	.	.	.	.	.	.	0c;	-gio,	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+2A	Ben	Ve-	Cias-	Chi	Ben	Chi	Per	A-	2A	Ben	Ve-	Cias-	Chi	Ben	Chi	Per	A-	2e	Ben	Ve-	Cias-	Chi	Ben	Chi	Per	A-
+1A	ven-	-ni-	-cu-	l'al-	ven-	e	pren-	-mor	1c	ven-	-ni-	-cu-	l'al-	ven-	e	pren-	-mor	1e	ven-	-ni-	-cu-	l'al-	ven-	e	pren-	-mor
+2G	-ga	-te al-	-na	-trui	-ga il	gio-	-der	ne	2B	-ga	-te al-	-na	-trui	-ga il	gio-	-der	ne	2g	-ga	-te al-	-na	-trui	-ga il	gio-	-der	ne
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2A	pri-	-la	bal-	co-	pe-	-va-	le	vien	2c	pri-	-la	bal-	co-	pe-	-va-	le	vien	2e	pri-	-la	bal-	co-	pe-	-va-	le	vien
+1B-	-ma-	fres-	-li e	-re in	-re-	-ne e	don-	ri-	1d	-ma-	fres-	-li e	-re in	-re-	-ne e	don-	ri-	2d	-ma-	fres-	-li e	-re in	-re-	-ne e	don-	ri-
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	1f	-ve-	-cu-	can-	vo-	-gri-	bel-	-zel-	-den-
+[2A	-ve-	-cu-	can-	vo-	-gri-	bel-	-zel-	-den-	[2c	-ve-	-cu-	can-	vo-	-gri-	bel-	-zel-	-den-	.	.	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2A]	.	.	.	.	.	.	.	.	2c]	.	.	.	.	.	.	.	.	1e	.	.	.	.	.	.	.	.
+2E	.	.	.	.	.	.	.	.	2B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+1A	-ra,	-ra,	-ti,	-la,	-na.	-la,	-le,	-do,	1A	-ra,	-ra,	-ti,	-la,	-na.	-la,	-le,	-do,	1c	-ra,	-ra,	-ti,	-la,	-na.	-la,	-le,	-do,
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+2r	.	.	.	.	.	.	.	.	2r	.	.	.	.	.	.	.	.	2r	.	.	.	.	.	.	.	.
+2A	Che	Del-	Di	Ad	A-	Deh	Si	Con	2A	Che	Del-	Di	Ad	A-	Deh	Si	Con	2e	Che	Del-	Di	Ad	A-	Deh	Si	Con
+2.A	vuol	-li	que-	al-	-mor,	non	son	ro-	2.c	vuol	-li	que-	al-	-mor,	non	son	ro-	[1e	vuol	-li	que-	al-	-mor,	non	son	ro-
+4B	.	.	.	.	.	.	.	.	4d	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+2c	.	.	.	.	.	.	.	.	2e	.	.	.	.	.	.	.	.	2e]	.	.	.	.	.	.	.	.
+2G	l'uom	ver-	-sta	-trui	che	sie	gli a-	-se e	2d	l'uom	ver-	-sta	-trui	che	sie	gli a-	-se e	2g	l'uom	ver-	-sta	-trui	che	sie	gli a-	-se e
+2A	s'in-	-di ar-	schie-	do-	ne	pun-	-man-	gi-	2c	s'in-	-di ar-	schie-	do-	ne	pun-	-man-	gi-	2e	s'in-	-di ar-	schie-	do-	ne	pun-	-man-	gi-
+2E	-na-	-bu-	-ra	-ni el	co-	-to a-	-ti ar-	-gli in	2B	-na-	-bu-	-ra	-ni el	co-	-to a-	-ti ar-	-gli in	2e	-na-	-bu-	-ra	-ni el	co-	-to a-	-ti ar-	-gli in
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+1A	-mo-	-scel-	no-	co-	-man-	-cer-	-ma-	tes-	1A	-mo-	-scel-	no-	co-	-man-	-cer-	-ma-	tes-	1c	-mo-	-scel-	no-	co-	-man-	-cer-	-ma-	tes-
+1A	-ri,	-li.	-stra.	-re.	-di?	-ba,	-ti.	-ta.	1A	-ri,	-li.	-stra.	-re.	-di?	-ba,	-ti.	-ta.	1c	-ri,	-li.	-stra.	-re.	-di?	-ba,	-ti.	-ta.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+2A	E	O-	Ec-	Ma	Che	Che	Ar-	E	2A	E	O-	Ec-	Ma	Che	Che	Ar-	E	2e	E	O-	Ec-	Ma	Che	Che	Ar-	E
+1A	voi,	-gni	-co	chi	al	non	-ren-	vien	1c	voi,	-gni	-co	chi	al	non	-ren-	vien	1e	voi,	-gni	-co	chi	al	non	-ren-	vien
+2G	don-	bel-	che i	e	suo a-	si	-de-	di	2B	don-	bel-	che i	e	suo a-	si	-de-	di	2g	don-	bel-	che i	e	suo a-	si	-de-	di
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+2A	-zel-	-la e	dol-	quel	-man-	rin-	-te-	voi	2c	-zel-	-la e	dol-	quel	-man-	rin-	-te-	voi	2e	-zel-	-la e	dol-	quel	-man-	rin-	-te-	voi
+1B-	-le a	si-	-ci a-	che	-te il	-no-	-vi,	ca-	1d	-le a	si-	-ci a-	che	-te il	-no-	-vi,	ca-	2d	-le a	si-	-ci a-	che	-te il	-no-	-vi,	ca-
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	1f	schie-	-cu-	-man-	vo-	cri-	-vel-	bel-	-en-
+[2A	schie-	-cu-	-man-	vo-	cri-	-vel-	bel-	-en-	[2c	schie-	-cu-	-man-	vo-	cri-	-vel-	bel-	-en-	.	.	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2A]	.	.	.	.	.	.	.	.	2c]	.	.	.	.	.	.	.	.	1e	.	.	.	.	.	.	.	.
+2E	.	.	.	.	.	.	.	.	2B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+1A	-ra,	-ra,	-ti,	-la?	-no,	-la,	-le,	-do,	1A	-ra,	-ra,	-ti,	-la?	-no,	-la,	-le,	-do,	1c	-ra,	-ra,	-ti,	-la?	-no,	-la,	-le,	-do,
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+2r	.	.	.	.	.	.	.	.	2r	.	.	.	.	.	.	.	.	2r	.	.	.	.	.	.	.	.
+2A	Con	Fra	Van	E	O-	L'e-	A'-	Fat-	2A	Con	Fra	Van	E	O-	L'e-	A'-	Fat-	2e	Con	Fra	Van	E	O-	L'e-	A'-	Fat-
+2.A	li	tan-	per	l'an-	-gni	-ta,	-vo-	-te-	2.c	li	tan-	per	l'an-	-gni	-ta,	-vo-	-te-	[1e	li	tan-	per	l'an-	-gni	-ta,	-vo-	-te-
+4B	.	.	.	.	.	.	.	.	4d	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+2c	.	.	.	.	.	.	.	.	2e	.	.	.	.	.	.	.	.	2e]	.	.	.	.	.	.	.	.
+2G	vos-	-ti	voi,	-gio-	bel-	co-	-stri in-	-gli, o	2d	vos-	-ti	voi,	-gio-	bel-	co-	-stri in-	-gli, o	2g	vos-	-ti	voi,	-gio-	bel-	co-	-stri in-	-gli, o
+2A	-tri a-	da-	bel-	-lel	-la in-	-me	-na-	bel-	2c	-tri a-	da-	bel-	-lel	-la in-	-me	-na-	bel-	2e	-tri a-	da-	bel-	-lel	-la in-	-me	-na-	bel-
+2E	-ma-	-mi-	-le, in	d'a-	-gril-	fa	-mo-	-le,	2B	-ma-	-mi-	-le, in	d'a-	-gril-	fa	-mo-	-le,	2e	-ma-	-mi-	-le, in	d'a-	-gril-	fa	-mo-	-le,
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+1A	-do-	-gel-	gio-	-mo-	-lan-	l'er-	-ra-	fe-	1A	-do-	-gel-	gio-	-mo-	-lan-	l'er-	-ra-	fe-	1c	-do-	-gel-	gio-	-mo-	-lan-	l'er-	-ra-	fe-
+1A	-ri,	-li;	-stra:	-re,	-di;	-ba:	-ti;	-sta.	1A	-ri,	-li;	-stra:	-re,	-di;	-ba:	-ti;	-sta.	1c	-ri,	-li;	-stra:	-re,	-di;	-ba:	-ti;	-sta.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2r	.	.	.	.	.	.	.	.	2r	.	.	.	.	.	.	.	.	2r	.	.	.	.	.	.	.	.
+2c	Che	Che	Qual	Che	Che	Nes-	Ren-	Qual	2e	Che	Che	Qual	Che	Che	Nes-	Ren-	Qual	2g	Che	Che	Qual	Che	Che	Nes-	Ren-	Qual
+2c	di	le	du-	vie-	le	-su-	-de-	sa-	2e	di	le	du-	vie-	le	-su-	-de-	sa-	2g	di	le	du-	vie-	le	-su-	-de-	sa-
+2B	ro-	fie-	-ra a	-ne a	zi-	-na	-te e'	-ra	2d	ro-	fie-	-ra a	-ne a	zi-	-na	-te e'	-ra	2g	ro-	fie-	-ra a	-ne a	zi-	-na	-te e'	-ra
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+2c	-se e	-re e	lor	far	-tel-	stia	cuor	Ia	2e	-se e	-re e	lor	far	-tel-	stia	cuor	Ia	2g	-se e	-re e	lor	far	-tel-	stia	cuor	Ia
+1A	di	gli uc-	si	o-	-le e	su-	fu-	piu	1f	di	gli uc-	si	o-	-le e	su-	fu-	piu	1a	di	gli uc-	si	o-	-le e	su-	fu-	piu
+[2G	fio-	-cel-	mo-	-no-	gran-	-per-	-ra-	pre-	[2g	fio-	-cel-	mo-	-no-	gran-	-per-	-ra-	pre-	[2b	fio-	-cel-	mo-	-no-	gran-	-per-	-ra-	pre-
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+2G]	.	.	.	.	.	.	.	.	2g]	.	.	.	.	.	.	.	.	2b]	.	.	.	.	.	.	.	.
+4A	.	.	.	.	.	.	.	.	2f	.	.	.	.	.	.	.	.	2a	.	.	.	.	.	.	.	.
+4B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+1c	-ri	-li,	-stra,	-re,	-di,	-ba,	-ti,	-sta,	1e	-ri	-li,	-stra,	-re,	-di,	-ba,	-ti,	-sta,	1g	-ri	-li,	-stra,	-re,	-di,	-ba,	-ti,	-sta,
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+2r	.	.	.	.	.	.	.	.	2r	.	.	.	.	.	.	.	.	2r	.	.	.	.	.	.	.	.
+2c	Vi	Ar-	Fa-	Con	S'in-	Al-	Non	A	2e	Vi	Ar-	Fa-	Con	S'in-	Al-	Non	A	2g	Vi	Ar-	Fa-	Con	S'in-	Al-	Non	A
+[1c	fa-	-don	-ra	voi,	-na-	-l'a-	fa-	dar-	[1e	fa-	-don	-ra	voi,	-na-	-l'a-	fa-	dar-	[1g	fa-	-don	-ra	voi,	-na-	-l'a-	fa-	dar-
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+2c]	.	.	.	.	.	.	.	.	2e]	.	.	.	.	.	.	.	.	2g]	.	.	.	.	.	.	.	.
+2c	-te	d'a-	sfio-	don-	-mo-	-ma-	-te	-gli e'	2e	-te	d'a-	sfio-	don-	-mo-	-ma-	-te	-gli e'	2g	-te	d'a-	sfio-	don-	-mo-	-ma-	-te	-gli e'
+2G	bel-	-mo-	-ri-	-zel-	-ran	-do-	guer-	fior	2d	bel-	-mo-	-ri-	-zel-	-ran	-do-	guer-	fior	2g	bel-	-mo-	-ri-	-zel-	-ran	-do-	guer-	fior
+2G	-le il	-re il	-re il	-le, al	di	-re il	-ra il	del	2d	-le il	-re il	-re il	-le, al	di	-re il	-ra il	del	2g	-le il	-re il	-re il	-le, al	di	-re il	-ra il	del
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+1c	mag-	mag-	mag-	mag-	mag-	mag-	mag-	mag-	1c	mag-	mag-	mag-	mag-	mag-	mag-	mag-	mag-	1e	mag-	mag-	mag-	mag-	mag-	mag-	mag-	mag-
+1cl	-gio.	-gio	-gio.	-gio.	-gio.	-gio.	-gio.	-gio?	1cl	-gio.	-gio	-gio.	-gio.	-gio.	-gio.	-gio.	-gio?	1el	-gio.	-gio	-gio.	-gio.	-gio.	-gio.	-gio.	-gio?
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: V = start of tuplet marker
+!!!RDF**kern: Z = end of tuplet marker
+!!!ENC: Jesse Rodin
+!!!END: 2019/12/10/
+!!!EED: Jesse Rodin
+!!!EEV: 2019/12/12/
+!!!ONB: Translated from MusicXML and edited on 2019/12/12/ by Craig Sapp
+!!muse2ps: u^Sung on Calendimaggio by young women as the jousters entered the ring^C^Text by Poliziano^v95,95,95Q16z18l2500

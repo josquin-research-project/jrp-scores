@@ -1,0 +1,188 @@
+!!!!SEGMENT: Oke/Oke3009-Lautre_dantan.krn
+!!!COM: Okeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OTL: L'autre d'antan
+!!!AGN: Song; Chanson
+!!!SCA: Oke3009
+!!!jrpid: Oke3009
+!!!voices: 3
+**kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
+*staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
+*Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*
+*I"Contratenor	*	*	*	*I"Tenor	*	*	*	*I"Superius	*	*	*
+*I'Ct	*	*	*	*I'T	*	*	*	*I'S	*	*	*
+*clefGv2	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*
+*k[]	*	*	*	*k[]	*	*	*	*k[]	*	*	*
+*M3/1	*	*	*	*M3/1	*	*	*	*M3/1	*	*	*
+*met(O3)	*	*	*	*met(O3)	*	*	*	*met(O3)	*	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!	!	!	!	!	!	!	!	!LO:TX:Z=6:t=Mensuration&colon; O3 (other sources give Cut-O3 and Cut-C3)	!	!	!
+!	!	!	!	!	!	!	!	!LO:TX:Z=24:t=Rondeau	!	!	!
+1.D	L'au-	Par	Puis	0.r	.	.	.	0.r	.	.	.
+2E	-tre	tel	a-	.	.	.	.	.	.	.	.
+1F	d'an-	fa-	-pr&egrave;s	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1.G	-tan	-&ccedil;on	nos-	1.G	L'au-	Par	Puis	0.r	.	.	.
+4F	.	.	.	2A	-tre	tel	a-	.	.	.	.
+4E	.	.	.	.	.	.	.	.	.	.	.
+1D	.	.	-tre a-	1B	d'an-	fa-	-pr&egrave;s	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+0C	.	.	-mour	0c	-tan	-&ccedil;on	nos-	1.g	L'au-	Par	Puis
+.	.	.	.	.	.	.	.	2a	-tre	tel	a-
+1r	.	.	.	1d	l'au-	me	-tre a-	1b	d'an-	fa-	-pr&egrave;s
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+0C	l'au-	me	ces-	0e	-trier	fri-	-mour	0cc	-tan	-&ccedil;on	nos-
+[1G	-trier	fri-	.	1d	.	.	.	1b	l'au-	me	-tre a-
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+1G]	.	.	.	1B	.	.	.	1g	-trier	fri-	-mour
+0F	pas-	-cas-	.	0c	.	.	.	0a	pas-	-cas-	ces-
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+1.G	.	.	.	1.B	pas-	-cas-	ces-	0b	-sa	-sa	-sa,
+2F	.	.	.	2c	.	.	.	.	.	.	.
+1D	.	.	.	1d	.	.	.	1r	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+0d	-sa	-sa	-sa,	0G	-sa	-sa	-sa,	1b	Et	Que	Car
+.	.	.	.	.	.	.	.	1b	en	de	onc-
+1e	Et	Que	Car	1r	.	.	.	1cc	pas-	ses	-ques
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+1d	en	de	onc-	1G	Et	Que	Car	0dd	-sant	gai-	puis
+0g	pas-	ses	-ques	1G	en	de	onc-	.	.	.	.
+.	.	.	.	1G	pas-	ses	-ques	1dd	me	-ges	qu'el-
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+1.f	-sant	gai-	puis	0D	-sant	gaiges	puis	0dd	trans-	me	-le
+2d	.	.	.	.	.	.	.	.	.	.	.
+1e	.	.	.	1r	.	.	.	1cc	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+0g	.	-ges	.	1r	.	.	.	1b	.	.	.
+.	.	.	.	1r	.	.	.	0a	-per-	cas-	dan-
+1f#i	me	me	qu'el-	1d	me	me	qu'el-	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+0g	trans-	cas-	-le	0e	trans-	cas-	-le	0g	-&ccedil;a	-sa,	-sa,
+1f	-per-	.	dan-	1d	.	.	.	1r	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+1e	-&ccedil;a	-sa,	-sa,	1c	.	.	.	0.r	.	.	.
+1d	.	.	.	0B	-per-	.	dan-	.	.	.	.
+1r	.	.	.	.	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+1.a	D'un	Mais,	L'au-	0.A	-&ccedil;a	-sa,	-sa,	1cc	D'un	Mais,	L'au-
+.	.	.	.	.	.	.	.	1cc	re-	par	-tre
+2g	re-	par	-tre	.	.	.	.	.	.	.	.
+1f	-gard	Dieu,	d'an-	.	.	.	.	1cc	-gard	Dieu,	d'an-
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+0e	for-	el-	-tan,	1c	D'un	Mais,	L'au-	0g	for-	el-	-tan,
+.	.	.	.	1c	re-	par	-tre	.	.	.	.
+1e	-g&eacute;	-le	l'au-	1c	-gard	Dieu,	d'an-	1a	-g&eacute;	-le	l'au-
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+1d	a	fist	-tre	0G	for-	el-	-tan,	0b	a	fist	-tre
+0g	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	[1c	.	.	.	1a	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+1.c	.	.	.	1c]	.	.	.	1g	.	.	.
+.	.	.	.	0d	-g&eacute;	-le	l'au-	0f	Mil-	son	d'an-
+2A	.	.	.	.	.	.	.	.	.	.	.
+1B	.	.	.	.	.	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+1.c	.	.	.	0A	a	fist	-tre	0.e	-lan,	dan!&	-tan
+2d	.	.	.	.	.	.	.	.	.	.	.
+1e	.	.	.	1G	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+0d	.	.	.	1F	.	.	.	0.rN	.	.	.
+.	.	.	.	0E	Mil-	son	d'an-	.	.	.	.
+1c#i	Mil-	son	d'an-	.	.	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+0.dN	-lan,	dan!&	-tan	0DN	-lan,	dan!&	-tan	0a	Qui	.	Je
+.	.	.	.	1r	.	.	.	[1a	m'a	.	n'eus
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+1.c	Qui	.	Je	1r	.	.	.	1a]	.	.	.
+.	.	.	.	1r	.	.	.	1g	.	.	.
+2B	.	.	.	.	.	.	.	.	.	.	.
+1A	m'a	.	n'eus	1c	Qui	.	Je	2f	.	.	.
+.	.	.	.	.	.	.	.	2e	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+1B	.	.	.	0d	m'a	.	n'eus	0.d	mis	.	ne
+0G	mis	.	ne	.	.	.	.	.	.	.	.
+.	.	.	.	[1B	mis	.	ne	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+1d	en	.	bon	1B]	.	.	.	0g	en	.	bon
+1e	.	.	.	1c	en	.	bon	.	.	.	.
+1f	.	.	.	1A	.	.	.	1a	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+1.g	l'ar-	.	jour	1.G	l'ar-	.	jour	0b	l'ar-	.	jour
+2f	.	.	.	2A	.	.	.	.	.	.	.
+1d	.	.	.	1B	.	.	.	1g	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+2r	.	.	.	1c	.	.	.	0a	.	.	.
+1c	-rie-	.	ne	.	.	.	.	.	.	.	.
+.	.	.	.	0A	.	.	.	.	.	.	.
+2d	.	.	.	.	.	.	.	.	.	.	.
+2e	.	.	.	.	.	.	.	1cc	.	.	.
+2f	.	.	.	.	.	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+[0.g	.	.	.	1G	.	.	.	1dd	.	.	.
+.	.	.	.	0c	.	.	.	1.ee	.	.	.
+.	.	.	.	.	.	.	.	2cc	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+1g]	.	.	.	1e	-rie-	.	ne	0cc	-rie-	.	ne
+0f	-re	.	bon	0d	-re	.	bon	.	.	.	.
+.	.	.	.	.	.	.	.	1b	-re	.	bon
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+0.g	ban,	.	an,	0c	ban,	.	an,	0cc	ban,	.	an,
+.	.	.	.	1c	Tant	.	Tant	1r	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+0.r	.	.	.	0c	mau-	.	de	0ee	Tant	.	Tant
+.	.	.	.	[1B	-vais	.	mal	1dd	mau-	.	de
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+1.G	Tant	.	Tant	2B]	.	.	.	1.b	-vais	.	mal
+.	.	.	.	2c	.	.	.	.	.	.	.
+.	.	.	.	1d	.	.	.	.	.	.	.
+2A	mau-	.	de	.	.	.	.	2cc	.	.	.
+1B	-vais	.	mal	1G	bras-	.	en	1dd	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+1c	bras-	.	en	0c	-sin	.	moy	1g	bras-	.	en
+0A	-sin	.	moy	.	.	.	.	0cc	-sin	.	moy
+.	.	.	.	1A	me	.	a-	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+1.D	me	.	a-	0d	bras-	.	-mas-	1b	me	.	a-
+.	.	.	.	.	.	.	.	0a	bras-	.	-mas-
+2E	.	.	.	.	.	.	.	.	.	.	.
+1F	bras-	.	-mas-	1d	-sa.	.	-sa.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+1.G	-sa.	.	-sa.	1.G	L'au-	.	L'au-	0b	-sa.	.	-sa.
+4F	.	.	.	2A	-tre	.	-tre	.	.	.	.
+4E	.	.	.	.	.	.	.	.	.	.	.
+1D	.	.	.	1B	d'an-	.	d'an-	1r	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+1C	L'au-	.	L'au-	1c	-tan	.	-tan	1.g	L'au-	.	L'au-
+0G	-tre	.	-tre	1d	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2a	-tre	.	-tre
+.	.	.	.	2c	.	.	.	1b	d'an-	.	d'an-
+.	.	.	.	2B	.	.	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+1F	d'an-	.	d'an-	0A	.	.	.	0cc	-tan	.	-tan
+1c	-tan	.	-tan	.	.	.	.	.	.	.	.
+1d	l'au-	.	l'au-	1G	l'au-	.	l'au-	1b	l'au-	.	l'au-
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+1e	-trier	.	-trier	2F	-trier	.	-trier	1g	-trier	.	-trier
+.	.	.	.	2E	.	.	.	.	.	.	.
+1f	.	.	.	1D	.	.	.	0a	pas-	.	pas-
+2e	.	.	.	1A	pas-	.	pas-	.	.	.	.
+2d	.	.	.	.	.	.	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+0d	pas-	.	pas-	1B	.	.	.	0g	.	.	.
+.	.	.	.	0A	.	.	.	.	.	.	.
+1c	.	.	.	.	.	.	.	1f#i	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+0.dl	-sa.	.	-sa.	0.Gl	-sa.	.	-sa.	0.gl	-sa.	.	-sa.
+==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l = long note in original notation
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: V = start of tuplet marker
+!!!RDF**kern: Z = end of tuplet marker
+!!!RDF**kern: N = signum congruentiae
+!!!ENC: Jesse Rodin 18 April 2018
+!!!END: 2018/04/17/
+!!!EED: Jesse Rodin
+!!!EEV: 2018/07/23/
+!!!ONB: Translated from MusicXML and edited on 2018/07/23/ by Craig Sapp
+!!muse2ps: C^@{COM}^i2I150v110,110,130c122z18l2700t130

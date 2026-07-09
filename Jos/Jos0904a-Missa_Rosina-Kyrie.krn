@@ -1,0 +1,200 @@
+!!!!SEGMENT: Jos/Jos0904a-Missa_Rosina-Kyrie.krn
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OPR: Missa Rosina
+!!!ONM: 1
+!!!OTL: Kyrie
+!!!AGN: Fragment; Mass; Kyrie
+!!!SCT: NJE 9.4
+!!!SCA: New Josquin Edition 9.4
+!!!jrpid: Jos0904a
+!!!voices: 4
+**kern
+*staff1
+*Ivox
+*I"Tenor
+*I'T
+*>[A,B,C]
+*>A
+*clefGv2
+*k[]
+*M2/1
+*met(C)
+=1-
+!!section: Kyrie I
+!!!OMD: Kyrie I
+0r
+=2
+0r
+=3
+1.E
+2F/
+=4
+1G
+1G
+=5
+1A
+1c
+=6
+0B
+=7
+0A
+=8
+*M2/1
+*met(C|)
+0r
+=9
+0r
+=10
+1.E
+2F/
+=11
+1G
+1G
+=12
+1A
+1c
+=13
+0B
+=14
+0A
+=15
+*M2/1
+*met(C|2)
+0r
+=16.
+0r
+=17
+1.E
+2F/
+=18.
+1G
+1G
+=19
+1A
+1c
+=20.
+0B
+=21
+0A
+=22.
+0Al
+!!LO:LB:i:g=z
+=23||
+*>B
+*clefGv2
+*k[]
+*M2/1
+*met(C)
+!!section: Christe
+!!!OMD: Christe
+0r
+=24
+0r
+=25
+1r
+1G
+=26
+1.c
+2d\
+=27
+0e
+=28
+*M2/1
+*met(C|)
+0r
+=29
+0r
+=30
+1r
+1G
+=31
+1.c
+2d\
+=32
+0e
+=33
+*M2/1
+*met(C)
+!LO:TX:X=-30:Z=8:t=Mensuration not specified (probably C)
+0r
+=34
+1.A
+4G/
+4F/
+=35
+1E
+1C
+=36
+0r
+=37
+1.A
+4G/
+4F/
+=38
+1E
+1C
+=39
+0cl
+!!LO:LB:i:g=z
+=40||
+*>C
+*clefGv2
+*k[]
+*M3/2
+*met(C.)
+!!section: Kyrie II
+!!!OMD: Kyrie II
+1c
+2B\
+=41.
+1A
+2G/
+=42
+1.F
+=43.
+[1.E
+=44
+1.E]
+=45.
+1.r
+=46
+1.r
+=47.
+*M2/1
+*met(C)
+1c
+2B\
+[2A/
+=48
+2A/]
+2G/
+1F
+=49
+0E
+=50
+0r
+=51
+1c
+2B\
+[2A/
+=52
+2A/]
+2G/
+1F
+=53
+0E
+=54
+0r
+=55
+0El
+==
+*-
+!!!RDF**kern: l=long note in original notation
+!!!ENC: Jesse Rodin (May 2013)
+!!!END: 2013/05/10/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/01/08/
+!!attribution-level@Jos: 4a (the rest [double question mark])
+!!!ONB: Translated from MusicXML and edited on 2014/01/08/ by Craig Sapp
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?^i2I250v150z21c120Q16z18

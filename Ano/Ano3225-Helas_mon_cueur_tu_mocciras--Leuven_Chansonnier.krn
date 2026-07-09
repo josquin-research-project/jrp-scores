@@ -1,0 +1,157 @@
+!!!!SEGMENT: Ano/Ano3225-Helas_mon_cueur_tu_mocciras--Leuven_Chansonnier.krn
+!!!COM: Anonymous
+!!!OTL: Helas mon cueur tu m'occiras
+!!!AGN: Song; Chanson
+!!!SCT: Ano3225
+!!!SCA: Ano3225
+!!!jrpid: Ano3225
+!!!SMS: Leuven Chasonnier
+!!!folio: 17v-18r
+!!!voices: 3
+!!!ONB: Contra: 14–15: lacking; 33: e c; 37/2: g
+**kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
+*staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
+*Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*
+*I"Contra	*	*	*	*I"Tenor	*	*	*	*I"Discantus	*	*	*
+*I'C	*	*	*	*I'T	*	*	*	*I'D	*	*	*
+*clefF4	*	*	*	*clefG2	*	*	*	*clefG2	*	*	*
+*k[b-]	*	*	*	*k[b-]	*	*	*	*k[b-]	*	*	*
+*M2/1	*	*	*	*M2/1	*	*	*	*M2/1	*	*	*
+*met(C2)	*	*	*	*met(C2)	*	*	*	*met(C2)	*	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!!LO:TX:Z=12:t=Form&colon; rondeau
+!LO:TX:Z=8:t=Contra&colon; 14-15&colon; lacking; 33&colon; e c; 37/2&colon; g	!	!	!	!	!	!	!	!	!	!	!
+0GG	He-	Tous-	In-	0g	He-	Tous-	In-	0g	He-	Tous-	In-
+=2.	=2.	=2.	=2.	=2.	=2.	=2.	=2.	=2.	=2.	=2.	=2.
+1D	-las	-jours	-ces-	1a	-las	-jours	-ces-	1f	-las	-jours	-ces-
+1GG	mon	lan-	-sa-	1g	mon	lan-	-sa-	1e	mon	lan-	-sa-
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+1BB-	cueur	-guir	-ment	1f	cueur	-guir	-ment	1d	cueur	-guir	-ment
+1C	tu	si	tu	1e	tu	si	tu	1g	tu	si	tu
+=4.	=4.	=4.	=4.	=4.	=4.	=4.	=4.	=4.	=4.	=4.	=4.
+1D	moc-	me	lar-	1d	moc-	me	lar-	1f	moc-	me	lar-
+1AA	-ci-	fe-	-moi-	1c	-ci-	fe-	-moi-	1e	-ci-	fe-	-moi-
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+1BB-	.	.	.	1B-	.	.	.	1d	.	.	.
+1E-i	.	.	.	1G	.	.	.	[1g	.	.	.
+=6.	=6.	=6.	=6.	=6.	=6.	=6.	=6.	=6.	=6.	=6.	=6.
+0D	.	.	.	0A	.	.	.	2g/]	.	.	.
+.	.	.	.	.	.	.	.	2f#i/	.	.	.
+.	.	.	.	.	.	.	.	2f#i/	.	.	.
+.	.	.	.	.	.	.	.	2e/	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+[0GG	-ras	-ras	-ras	[0G	-ras	-ras	-ras	0g	-ras	-ras	-ras
+=8.	=8.	=8.	=8.	=8.	=8.	=8.	=8.	=8.	=8.	=8.	=8.
+0GG_	.	.	.	0G]	.	.	.	0r	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+0GG]	.	.	.	0B-	Quant	Et	Tant	0d	Quant	Et	Tant
+=10.	=10.	=10.	=10.	=10.	=10.	=10.	=10.	=10.	=10.	=10.	=10.
+1r	.	.	.	1e-	des	ma	plus	0c	des	ma	plus
+1C	Quant	Et	Tant	1e-	da-	mort	que	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+1G	des	ma	plus	1d	-mes	en	les	0B-	da-	mort	que
+1G	da-	mort	que	1g	de-	pour-	es-	.	.	.	.
+=12.	=12.	=12.	=12.	=12.	=12.	=12.	=12.	=12.	=12.	=12.	=12.
+0D	-mes	en	les	1f	-par-	-cha-	-lon-	0A	-mes	en	les
+.	.	.	.	1a	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+0GG	de par-	quit-	es lon	1d	.	.	.	1B-	de-	pour-	es-
+.	.	.	.	[1g	.	.	.	1G	-par-	-cha-	-lon-
+=14.	=14.	=14.	=14.	=14.	=14.	=14.	=14.	=14.	=14.	=14.	=14.
+0D	-ti-	-ce-	gne-	1g]	.	.	.	0A	-ti-	-ce-	-gne-
+.	.	.	.	1f	-ti-	-ce-	-gne-	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+0GG	-ras	-ras	-ras,	1g	-ras	-ras	-ras,	0G	-ras	-ras	-ras,
+.	.	.	.	1b-	.	.	.	.	.	.	.
+=16.	=16.	=16.	=16.	=16.	=16.	=16.	=16.	=16.	=16.	=16.	=16.
+1D	.	.	.	0a	.	.	.	1r	.	.	.
+1F	En	Af-	Dont	.	.	.	.	1d	En	Af-	Dont
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+1C	qui	-fin	mes	1g	.	.	.	1e	qui	-fin	mes
+1BB-	d'on-	que	en	1d	En	Af-	Dont	1f	d'on-	que	en
+=18.	=18.	=18.	=18.	=18.	=18.	=18.	=18.	=18.	=18.	=18.	=18.
+1GG	-neur	de	rien	1e	qui	-fin	mes	1g	-neur	de	rien
+1D	as	moy	ne	1f	d'on-	que	en	1a	as	moy	ne
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+0GG	veu	tu	me	1g	-neur	de	rien	1.b-	veu	tu	me
+.	.	.	.	[1d	as	moy	ne	.	.	.	.
+.	.	.	.	.	.	.	.	4a/	.	.	.
+.	.	.	.	.	.	.	.	4g/	.	.	.
+=20.	=20.	=20.	=20.	=20.	=20.	=20.	=20.	=20.	=20.	=20.	=20.
+1BB-	.	.	.	0d]	.	.	.	1f	.	.	.
+[1GG	.	.	.	.	.	.	.	[1b-	l'es-	soiz	des-
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+1GG]	.	.	.	1g	veu	tu	me	1b-]	.	.	.
+1D	l'es-	soiz	des-	1f	l'es-	soiz	des-	1a	.	.	.
+=22.	=22.	=22.	=22.	=22.	=22.	=22.	=22.	=22.	=22.	=22.	=22.
+0G	-li-	quit-	-li-	1.b-	-li-	quit-	-li-	1.g	-li-	quit-	-li-
+.	.	.	.	4a/	.	.	.	2f/	.	.	.
+.	.	.	.	4g/	.	.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+00D;	-te	-te.&	-te;	00f;	-te	-te.&	-te;	00a;	-te	-te.&	-te;
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+0GG	Lors	.	Vien-	0g	Lors	.	Vien-	0b-	Lors	.	Vien-
+=25.	=25.	=25.	=25.	=25.	=25.	=25.	=25.	=25.	=25.	=25.	=25.
+1D	se-	.	-gne	1f	se-	.	-gne	1a	se-	.	-gne
+1G	-ra	.	vers	1b-	-ra	.	vers	[1g	-ra	.	vers
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+0D	ta	.	.	0a	ta	.	.	1g]	.	.	.
+.	.	.	.	.	.	.	.	1f#i	ta	.	.
+=27.	=27.	=27.	=27.	=27.	=27.	=27.	=27.	=27.	=27.	=27.	=27.
+[0GG	vi-	.	moy	0g	vi-	.	moy	1.g	vi-	.	moy
+.	.	.	.	.	.	.	.	2f/	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+0GG]	.	.	.	0b-	-e	.	la	1d	-e	.	.
+.	.	.	.	.	.	.	.	1g	maul-	.	la
+=29.	=29.	=29.	=29.	=29.	=29.	=29.	=29.	=29.	=29.	=29.	=29.
+1D	-e	.	la	1a	maul-	.	mort	1f	-di-	.	mort
+1GG	maul-	.	mort	1g	.	.	des-	[1e	.	.	des-
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+0D	-di-	.	des-	0f	-di-	.	-pi-	2e/]	.	.	.
+.	.	.	.	.	.	.	.	2d/	.	.	.
+.	.	.	.	.	.	.	.	[1d	.	.	-pi-
+=31.	=31.	=31.	=31.	=31.	=31.	=31.	=31.	=31.	=31.	=31.	=31.
+0A	.	.	-pi-	0e	.	.	.	1d]	.	.	.
+.	.	.	.	.	.	.	.	1c#i	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+0D	-te	.	-te	[0d	-te	.	-te	0d	-te	.	-te
+=33.	=33.	=33.	=33.	=33.	=33.	=33.	=33.	=33.	=33.	=33.	=33.
+1D	Car	.	Aus-	0d]	.	.	.	1r	.	.	.
+1BB-	a-	.	-si-	.	.	.	.	1G	Car	.	Aus-
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+1D	-pres	.	-tost	1d	Car	.	Aus-	1B-	a-	.	-si-
+1C	en	.	qu'es-	1e	a-	.	-si-	1c	-pres	.	-tost
+=35.	=35.	=35.	=35.	=35.	=35.	=35.	=35.	=35.	=35.	=35.	=35.
+1BB-	brief	.	-lon-	1f	-pres	.	-tost	1d	en	.	qu'es-
+1GG	.	.	.	1g	en	.	qu'es-	1B-	brief	.	-lon-
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+1FF	temps	.	-gn&eacute;	1a	brief	.	-lon-	1A	temps	.	-gn&eacute;
+1BB-	mour-	.	se-	1f	.	.	.	[1d	mour-	.	se-
+=37.	=37.	=37.	=37.	=37.	=37.	=37.	=37.	=37.	=37.	=37.	=37.
+1GG	.	.	.	1b-	temps	.	-gn&eacute;	1d]	.	.	.
+1F	.	.	.	[1a	mour-	.	se-	1c	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+1E	.	.	.	2a/]	.	.	.	1G	.	.	.
+.	.	.	.	2g/	.	.	.	.	.	.	.
+1G	.	.	.	[1g	.	.	.	1B-	.	.	.
+=39.	=39.	=39.	=39.	=39.	=39.	=39.	=39.	=39.	=39.	=39.	=39.
+0D	.	.	.	2g/]	.	.	.	0A	.	.	.
+.	.	.	.	2f#i/	.	.	.	.	.	.	.
+.	.	.	.	2f#i/	.	.	.	.	.	.	.
+.	.	.	.	2e/	.	.	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
+0GGl	-ras.	.	-ras.	0gl	-ras.	.	-ras.	0Gl	-ras.	.	-ras.
+==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l = long note in original notation
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: V = start of tuplet marker
+!!!RDF**kern: Z = end of tuplet marker
+!!!ENC: Jesse Rodin 16 April 2018
+!!!END: 2018/06/16
+!!!EED: Jesse Rodin
+!!!EED2: David Burn
+!!!EED3: Fabrice Fitch
+!!!EEV: 2018/07/29
+!!!ONB: Translated from MusicXML and edited on 2018/07/29/ by Craig Sapp
+!!muse2ps: C^@{SMS} (@{folio})\nEd. @{EED}, with help from @{EED2} and @{EED3}^v95,95,150Q16z18l2600c80

@@ -1,0 +1,222 @@
+!!!!SEGMENT: Duf/Duf3025-Bon_jour_bon_mois_bon_an_et_bonne_estraine.krn
+!!!COM: Du Fay, Guillaume
+!!!CDT: ~1397/08/05/-1474/11/27
+!!!OTL: Bon jour bon mois bon an et bonne estraine
+!!!AGN: Song; Chanson
+!!!SCT: Duf3025
+!!!SCA: Duf3025
+!!!jrpid: Duf3025
+!!!voices: 3
+**kern	**text	**text	**text	**kern	**kern	**text	**text	**text
+*staff3	*staff3	*staff3	*staff3	*staff2	*staff1	*staff1	*staff1	*staff1
+*Ivox	*	*	*	*Ivox	*Ivox	*	*	*
+*I"Tenor	*	*	*	*I"Contratenor	*I"Cantus	*	*	*
+*I'T	*	*	*	*I'Ct	*I'Cn	*	*	*
+*clefGv2	*	*	*	*clefGv2	*clefG2	*	*	*
+*k[b-]	*	*	*	*k[b-]	*k[b-]	*	*	*
+*M3/1	*	*	*	*M3/1	*M3/1	*	*	*
+*met(O|)	*	*	*	*met(O|)	*met(O|)	*	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!!LO:TX:Z=32:t=Rondeau
+!!LO:TX:Z=8:X=-60:t=Mensuration signs should be in brackets
+0.r	.	.	.	0.G	1g	1.4.7.Bon	3.Apres	5.Et
+.	.	.	.	.	1g	jour,	vous	puis
+.	.	.	.	.	1g	bon	doint	vous
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+1G	1.4.7.Bon	3.Apres	5.Et	0.B-	0d	mois,	qu'en	doint
+1G	jour,	vous	puis	.	.	.	.	.
+1G	bon	doint	vous	.	1g	bon	joy-	e-
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+0D	mois,	qu'en	doint	0A	1a	an	-e	-spe-
+.	.	.	.	.	0dd	et	on	-ran-
+1G	bon	joy-	e-	1B-	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+1A	an	-e	-spe-	1A	1cc	bon-	vous	-ce
+0d	et	on	-ran-	0G	0b-	-ne es-	de-	cer-
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+1c	bon-	vous	-ce	1A	0a	-trai-	-mai-	-tai-
+0B-	-ne es-	de-	cer-	0d	.	.	.	.
+.	.	.	.	.	1g	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+0A	-trai-	-mai-	-tai-	0c	1a	.	.	.
+.	.	.	.	.	1e	.	.	.
+1G	-ne	-Et	-San	1B-	1r	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+1A	ne	ly-	tris-	1A	1cc	.	.	.
+0E	.	.	.	0G	1.bni	.	.	.
+.	.	.	.	.	2a/	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+1c	.	.	.	1A	1.a	.	.	.
+0Bni	.	.	.	0E	.	.	.	.
+.	.	.	.	.	2g#i/	.	.	.
+.	.	.	.	.	2g#i/	.	.	.
+.	.	.	.	.	2f#i/	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+1A	.	.	.	1r	0a	.	.	.
+1r	.	.	.	0F	.	.	.	.
+1A	Vous	-es-	-tes-	.	1r	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+0d	doinst	-se	-se,	0D	1a	-Vous	-Et	-San
+.	.	.	.	.	1a	doinst	ly-	tris-
+1d	ce-	tan-	sans	1D	1a	ce-	-es-	-tes-
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+0G	-luy	-tost	pen-	1d	0b-	-luy	-se	-se,
+.	.	.	.	1e	.	.	.	.
+1A	qui	on	-se-	1c	1a	qui	tan-	sans
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+0c	tout	vous	-e	1r	1g	tout	-tost	pen-
+.	.	.	.	0e	0cc	tient	on	-se-
+1c	tient	a-	vil-	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+0d	en	-mei-	-lai-	0f	1b-	en	vous	-e
+.	.	.	.	.	0a	de-	a-	vil-
+1c	de-	-ne;	-ne;	1e	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+1B-	-mai-	Ain-	Tous	1d	1.g	-mai-	-mei-	-lai-
+0A	.	.	.	0c	.	.	.	.
+.	.	.	.	.	2f#i/	.	.	.
+.	.	.	.	.	2f#i/	.	.	.
+.	.	.	.	.	2e/	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+0G	-ne,	-si	vos	0.d	0.g	-ne,	-ne;	-ne;
+1r	.	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+0.c	Ri-	pour-	de-	0A	1r	.	.	.
+.	.	.	.	.	1r	.	.	.
+.	.	.	.	1A	1g	Ri-	Ain-	Tous
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+0c	-ches-	-rez	-sirs	0A	1f	-ches-	-si	vos
+.	.	.	.	.	0e	-se, hon-	pour-	de-
+1c	-se, hon-	a-	a-	1A	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+0d	-nour,	-voir,	-com-	0D	0d	-nour,	-rez	-sirs
+1d	sain-	soir	-plir	1d	1f	sain-	a-	a-
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+1e	-t&eacute;,	et	de	1c	1g	-t&eacute;,	-voir,	-com-
+0d	jo-	ma-	cueur	0f	0b-	jo-	soir	-plir
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+1c	-ye	-tin,	fin.	1e	1a	-ye	et	de
+0B-	sans	6.Sans	5.Et	0d	1.g	sans	ma-	cueur
+.	.	.	.	.	2f/	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+0A	fin,	con-	puis	0c	1a	fin,	-tin,	fin.
+.	.	.	.	.	1r	.	.	.
+1G	.	.	.	1B-	1d	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+1c	.	.	.	1A	2e/	.	.	.
+.	.	.	.	.	2f/	.	.	.
+1B-	.	.	.	1G	2g/	.	.	.
+.	.	.	.	.	4f/	.	.	.
+.	.	.	.	.	4g/	.	.	.
+1A	.	.	.	1D	2a/	.	.	.
+.	.	.	.	.	2f/	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23
+1r	.	.	.	1G	2g/	.	.	.
+.	.	.	.	.	2a/	.	.	.
+1G	.	.	.	1r	2b-\	.	.	.
+.	.	.	.	.	4a/	.	.	.
+.	.	.	.	.	4b-/	.	.	.
+1F	.	.	.	1A	2cc\	.	.	.
+.	.	.	.	.	2b-\	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24
+1G	.	.	.	0d	2g/	.	.	.
+.	.	.	.	.	2b-\	.	.	.
+0D	.	.	.	.	2a/	.	.	.
+.	.	.	.	.	2f/	.	.	.
+.	.	.	.	1d	2g/	.	.	.
+.	.	.	.	.	2a/	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25
+0F	.	.	.	2c\	2f/	.	.	.
+.	.	.	.	2B-\	4e/	.	.	.
+.	.	.	.	.	4f/	.	.	.
+.	.	.	.	1A	2d/	.	.	.
+.	.	.	.	.	2c#i/	.	.	.
+1E	.	.	.	1G	2c#i/	.	.	.
+.	.	.	.	.	2Bni/	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26
+0DN	.	.	.	[0.AN	0.dN	.	.	.
+1r	.	.	.	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27
+1D	2.8.Bon-	-tre-	.	0A]	0.r	.	.	.
+1E	-ne	-dit	.	.	.	.	.	.
+1F	fa-	soy-	.	1A	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28
+0G	-me,	-ez	.	0B-	1d	2.8.Bon-	6.Sans	.
+.	.	.	.	.	1e	-ne	con-	.
+1r	.	.	.	1c	1f	fa-	-tre-	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29
+1G	bel-	en	.	1r	0g	-me,	-dit	.
+1G	-le	la	.	0d	.	.	.	.
+1G	da-	par-	.	.	1r	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30
+0c	-me,	-fin	.	0e	1g	bel-	soy-	.
+.	.	.	.	.	1g	-le	-ez	.
+1B-	bon	Las-	.	1d	1g	da-	en	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31
+0A	vin,	-sus	.	0.e	0cc	-me,	la	.
+1r	.	.	.	.	1b-	bon	par-	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32
+1d	Pour	lo-	.	0.f	0a	vin,	-fin	.
+1d	main-	-gee	.	.	.	.	.	.
+1d	-te-	en	.	.	1r	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33
+0G	-nir	gloi-	.	0.d	1dd	Pour	Las-	.
+.	.	.	.	.	1dd	main-	-sus	.
+1B-	la	-re	.	.	1dd	-te-	lo-	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34
+1c	cre-	sou-	.	1r	0g	-nir	-gee	.
+1e-i	.	.	.	1r	.	.	.	.
+1d	-a-	-ve-	.	1r	1b-	la	en	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35
+[0.c	-tu-	-rai-	.	[0.A	1.cc	cre-	gloi-	.
+.	.	.	.	.	2b-\	-a-	-re	.
+.	.	.	.	.	1a	-tu-	sou-	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36
+1c]	.	.	.	1A]	1g	-re	-ve-	.
+0d	-re	-ne.	.	0D	0f	sai-	-rai-	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37
+0A	sai-	.	.	0c	1e	-ne.	-ne.	.
+.	.	.	.	.	1r	.	.	.
+[1B-	.	.	.	[1d	1d	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38
+1B-]	.	.	.	1d]	1f	.	.	.
+0A	-ne.	.	.	0D	1.a	.	.	.
+.	.	.	.	.	2d/	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39
+1r	.	.	.	1d	1d	.	.	.
+0G	.	.	.	1B-	1r	.	.	.
+.	.	.	.	1G	1b-	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40
+0d	.	.	.	1r	1a	.	.	.
+.	.	.	.	1D	1.dd	.	.	.
+1G	.	.	.	2E/	.	.	.	.
+.	.	.	.	2F/	2cc\	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41
+1r	.	.	.	1G	1b-	.	.	.
+1d	.	.	.	1r	1.a	.	.	.
+1c	.	.	.	1A	.	.	.	.
+.	.	.	.	.	2g/	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42
+1r	.	.	.	1F	1cc	.	.	.
+1e-	.	.	.	1G	2b-\	.	.	.
+.	.	.	.	.	2g/	.	.	.
+1d	.	.	.	1D	2a/	.	.	.
+.	.	.	.	.	2b-\	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43
+1B-	.	.	.	0d	1g	.	.	.
+0A	.	.	.	.	1f#i	.	.	.
+.	.	.	.	1c	2g/	.	.	.
+.	.	.	.	.	2e/	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44
+0.Gl	.	.	.	0.dl	0.gl	.	.	.
+==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
+!!!ENC: Jesse Rodin 3/28/2016
+!!!END: 2016/03/28/
+!!!EED: Jesse Rodin
+!!!EEV: 2016/03/29/
+!!!ONB: Translated from SCORE and edited on 2016/03/29/ by Craig Sapp
+!!muse2ps: C^@{COM}^i2I150v95,95,140Q16l2500
