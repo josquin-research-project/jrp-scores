@@ -59,29 +59,30 @@ sub countByWorkId {
 
 	my @list = <>;
 	chomp @list;
+	s/\r$// for @list;
 
-	if (@list < 10) {
+	if (!@list) {
 		die "Usage: getWorkIdList | getNoteCount\n";
 	}
 
 	foreach my $entry (@list) {
 
-		next if $entry !~ /^([A-Z][a-z][a-z])/;
-		my $composer = $1;
+		if ($entry eq "") { print "\n"; next; }
+		die "Invalid work ID: $entry\n" unless $entry =~ /^[A-Z][a-z]{2}\d{4}[A-Za-z0-9]*(?:\.[A-Za-z0-9]+)*$/;
+		my $composer = substr($entry, 0, 3);
 
-		my @files = glob("$composer/kern/$entry-*.krn");
+		my @files = glob("$composer/$entry-*.krn");
 
 		if (@files == 0) {
-			print "$entry\tNO_FILE\n";
+			print "NO_FILE\n";
 			next;
 		}
 
+		die "Error: duplicate IDs in files: @files\n" if @files > 1;
 		my $sum = 0;
 
 		foreach my $file (@files) {
-			my $result = `$notecount -s "$file" | cut -f 1`;
-			chomp $result;
-			$sum += $result if $result =~ /^\d+$/;
+			$sum += readNoteCount($file);
 		}
 
 		print "$sum\n";
@@ -92,7 +93,7 @@ sub countByWorkId {
 
 sub countByComposer {
 
-	my @list = sort glob("[A-Z][a-z][a-z]/kern");
+	my @list = sort glob("[A-Z][a-z][a-z]");
 
 	foreach my $cdir (@list) {
 
@@ -105,9 +106,7 @@ sub countByComposer {
 		my $filecount = 0;
 
 		foreach my $file (@files) {
-			my $result = `$notecount -s "$file" | cut -f 1`;
-			chomp $result;
-			$sum += $result if $result =~ /^\d+$/;
+			$sum += readNoteCount($file);
 			$filecount++;
 		}
 
@@ -119,17 +118,28 @@ sub countByComposer {
 
 sub countAllFiles {
 
-	my @list = glob("[A-Z][a-z][a-z]/kern/*.krn");
+	my @list = glob("[A-Z][a-z][a-z]/*.krn");
 
 	my $sum = 0;
 	my $filecount = 0;
 
 	foreach my $file (@list) {
-		my $result = `$notecount -s "$file" | cut -f 1`;
-		chomp $result;
-		$sum += $result if $result =~ /^\d+$/;
+		$sum += readNoteCount($file);
 		$filecount++;
 	}
 
 	print "$sum notes in $filecount files\n";
+}
+
+# List-form execution safely handles apostrophes and other filename characters.
+sub readNoteCount {
+	my ($file) = @_;
+	open(my $pipe, "-|", $notecount, "-s", $file)
+		or die "Cannot run notecount: $!\n";
+	local $/;
+	my $result = <$pipe>;
+	close($pipe) or die "notecount failed for $file\n";
+	die "Invalid note count for $file\n"
+		unless defined($result) && $result =~ /\A(\d+)(?:\t[^\r\n]*)?\r?\n?\z/;
+	return $1;
 }

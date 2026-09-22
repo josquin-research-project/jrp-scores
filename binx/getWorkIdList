@@ -23,30 +23,44 @@
 #
 
 use strict;
+use warnings;
+use JSON::PP qw(decode_json);
 use Getopt::Long;
 
-my $wget = `which wget`;
-chomp $wget;
-die "Cannot find wget program.  Install it first (with homebrew).\n" if $wget =~ /^\s*$/;
-
-my $cut = `which cut`;
-chomp $cut;
-die "Cannot find cut program.  Install it first somehow.\n" if $cut =~ /^\s*$/;
-
-
-# The $macroid is taken from cell B10 of the link:
-#    https://docs.google.com/spreadsheets/d/1KBXyuyE4pfJ61UtQBEfEwLp-vjoyFO_fbUU03DOsiGU/edit#gid=1415236658
-# It may need to be updated occasionally.
-
-my $macroid = "AKfycbwuWnQ6O9AGgbBT7B2rLPwEQw9i7NRHtkA2Jq8A1L6drL9Th7PR-jARwDKP6kZEhED56w";
-
-my $url = "https://script.google.com/macros/s/$macroid/exec?sheet=works&format=tsv";
-
-my @result = `wget "$url" -O - 2> /dev/null | $cut -f 1`;
-
-my $headerList = shift @result;
-
-print @result;
-
-
-
+# Override this deployment with JRP_METADATA_SID when the web app changes.
+my $sid = $ENV{JRP_METADATA_SID} || "AKfycbxcZCQAja8UuLu0z-LtHN0B0gmzX56nKw253sXofw1uD81Yn00DIzSnZuoWK1RfUmBdBg";
+my $input;
+GetOptions("input=s" => \$input) or die "Usage: $0 [--input works.json]\n";
+die "Unexpected arguments\n" if @ARGV;
+my $json;
+{
+	local $/;
+	if (defined $input) {
+		open(my $file, "<", $input) or die "Cannot read $input: $!\n";
+		$json = <$file>;
+		close($file);
+	} else {
+		die "Invalid deployment ID\n" unless $sid =~ /^[A-Za-z0-9_-]+$/;
+		my $url = "https://script.google.com/macros/s/$sid/exec?sheet=works";
+		open(my $pipe, "-|", "curl", "--fail", "--silent", "--show-error",
+			"--location", "--connect-timeout", "15", "--max-time", "90", $url)
+			or die "Cannot run curl: $!\n";
+		$json = <$pipe>;
+		close($pipe) or die "Works download failed; no IDs generated.\n";
+	}
+}
+my $rows = eval { decode_json($json // "") };
+die "Works feed is not valid JSON; no IDs generated.\n" if $@;
+die "Works feed must be a nonempty array.\n" unless ref($rows) eq "ARRAY" && @$rows;
+my @ids;
+my $found = 0;
+for my $row (@$rows) {
+	die "Invalid Works row.\n" unless ref($row) eq "HASH";
+	my $id = $row->{WORK_ID} // "";
+	die "Invalid WORK_ID in Works feed.\n" if ref($id) || ($id ne "" && $id !~ /^[A-Z][a-z]{2}\d{4}[A-Za-z0-9]*(?:\.[A-Za-z0-9]+)*$/);
+	$found++ if $id ne "";
+	push @ids, $id;
+}
+die "Works feed contains no work IDs.\n" unless $found;
+# Preserve input order and blank rows; never emit part of an invalid response.
+print join("\n", @ids), "\n";

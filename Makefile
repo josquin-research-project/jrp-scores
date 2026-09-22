@@ -65,6 +65,9 @@
 ##
 
 BINDIR = binx
+WORK_IDS_ARGS ?=
+
+.PHONY: work-id-list
 
 # targets which don't actually refer to files/directories:
 .PHONY : 
@@ -484,8 +487,8 @@ note-count: notecounts
 note-counts: notecounts
 notecount: notecounts
 nc: notecounts
-notecounts:
-		@$(BINDIR)/getWorkIdList | $(BINDIR)/getNoteCount
+notecounts: work-id-list
+	@$(BINDIR)/getNoteCount < work-ids.txt
 
 
 
@@ -520,7 +523,7 @@ notecountsbycomposer:
 fn: filenames
 filename: filenames
 filenames: work-id-list
-	@$(BINDIR)/getWorkIdList | $(BINDIR)/getFilenames
+	@$(BINDIR)/getFilenames < work-ids.txt
 
 
 
@@ -533,8 +536,8 @@ filenames: work-id-list
 fnp: filenames-with-ids
 fwi: filenames-with-ids
 filename-with-id: filenames-with-ids
-filenames-with-ids:
-	@$(BINDIR)/getWorkIdList | $(BINDIR)/getFilenames -p
+filenames-with-ids: work-id-list
+	@$(BINDIR)/getFilenames -p < work-ids.txt
 
 
 
@@ -547,7 +550,9 @@ wid: work-id-list
 wil: work-id-list
 works-id-list: work-id-list
 work-id-list:
-	@$(BINDIR)/getWorkIdList > work-ids.txt
+	@tmp=$$(mktemp ./work-ids.txt.XXXXXX) || exit 1; \
+	trap 'rm -f "$$tmp"' EXIT HUP INT TERM; \
+	$(BINDIR)/getWorkIdList $(WORK_IDS_ARGS) > "$$tmp" && mv "$$tmp" work-ids.txt
 
 
 
@@ -557,8 +562,8 @@ work-id-list:
 ##    placement in the "Date added" column of the Works worksheet.
 ##
 
-end:
-	@$(BINDIR)/getWorkIdList | $(BINDIR)/getEncodingDate
+end: work-id-list
+	@$(BINDIR)/getEncodingDate < work-ids.txt
 
 
 
@@ -569,8 +574,8 @@ end:
 ##    Prefix the ID number of the file.
 ##
 
-endp:
-	@$(BINDIR)/getWorkIdList | $(BINDIR)/getEncodingDate -p
+endp: work-id-list
+	@$(BINDIR)/getEncodingDate -p < work-ids.txt
 
 
 
@@ -580,8 +585,8 @@ endp:
 ##    placement in the "Date changed" column of the Works worksheet.
 ##
 
-eev:
-	@$(BINDIR)/getWorkIdList | $(BINDIR)/getElectronicVersion
+eev: work-id-list
+	@$(BINDIR)/getElectronicVersion < work-ids.txt
 
 
 
@@ -592,8 +597,8 @@ eev:
 ##    Prefix the ID number of the file.
 ##
 
-eevp:
-	@$(BINDIR)/getWorkIdList | $(BINDIR)/getElectronicVersion -p
+eevp: work-id-list
+	@$(BINDIR)/getElectronicVersion -p < work-ids.txt
 
 
 
@@ -604,8 +609,8 @@ eevp:
 ##
 
 texted: text
-text:
-	@$(BINDIR)/getWorkIdList | $(BINDIR)/getTexted
+text: work-id-list
+	@$(BINDIR)/getTexted < work-ids.txt
 
 
 
@@ -619,8 +624,8 @@ text:
 texted-p: textp
 textedp: textp
 text-p: textp
-textp:
-	@$(BINDIR)/getWorkIdList | $(BINDIR)/getTexted -p
+textp: work-id-list
+	@$(BINDIR)/getTexted -p < work-ids.txt
 
 
 
@@ -632,8 +637,8 @@ textp:
 
 ev: extant-voices
 extant-voice: extant-voices
-extant-voices:
-	@$(BINDIR)/getWorkIdList | $(BINDIR)/getExtantVoices
+extant-voices: work-id-list
+	@$(BINDIR)/getExtantVoices < work-ids.txt
 
 
 
@@ -646,8 +651,8 @@ extant-voices:
 
 evp: extant-voices-p
 extant-voice-p: extant-voices-p
-extant-voices-p:
-	@$(BINDIR)/getWorkIdList | $(BINDIR)/getExtantVoices -p
+extant-voices-p: work-id-list
+	@$(BINDIR)/getExtantVoices -p < work-ids.txt
 
 
 ##############################

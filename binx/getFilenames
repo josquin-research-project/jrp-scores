@@ -37,20 +37,22 @@ GetOptions (
 
 my @list = <>;
 chomp @list;
+s/\r$// for @list;
 
-if (@list < 100) {
+if (!@list) {
 	die "Usage: getWorkIdList | $0 | pbcopy\n";
 }
 
 foreach my $entry (@list) {
-	if ($entry !~ /^([A-Z][a-z][a-z])\d{4}/) {
+	if ($entry !~ /^([A-Z][a-z][a-z])\d{4}[A-Za-z0-9]*(?:\.[A-Za-z0-9]+)*$/) {
+		die "Invalid work ID: $entry\n" if $entry ne "";
 		print "$entry\t" if $prefixIds;
 		print "\n";
 		next;
 	}
-	my $composer = $1;
+	my $composer = substr($entry, 0, 3);
 		
-	my @files = glob("$composer/kern/$entry-*\.krn");
+	my @files = glob("$composer/$entry-*\.krn");
 
 	if (@files == 0) {
 		print "$entry\t" if $prefixIds;
