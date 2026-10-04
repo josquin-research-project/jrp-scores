@@ -22,7 +22,6 @@
 *	*	*rscale:1/2	*	*	*	*	*
 *M3/1	*	*M9/1	*	*M3/1	*	*M3/1	*
 *met(O)	*	*met(O.)	*	*met(O)	*	*met(O)	*
-!!primary-mensuration: met(O)
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
 !	!	!LO:TX:Z=6:t=T&colon; Qui se humiliat exaltabitur et qui se exaltat humiliabitur	!	!	!	!	!
 !	!	!LO:TX:Y=24:t=T&colon; He who humbles himself will be exalted, and he who exalts himself will be humbled. [inversion]	!	!	!	!	!
@@ -796,7 +795,6 @@
 *	*	*rscale:1/2	*	*	*	*	*
 *M2/1	*	*M3/0	*	*M2/1	*	*M2/1	*
 *met(O2)	*	*met(O)	*	*met(O2)	*	*met(O2)	*
-!!primary-mensuration: met(O2)
 !	!	!LO:N:vis=0	!	!	!	!	!
 !	!	!LO:TX:Z=18:t=T&colon; Gradatim me sequere trina bina non pausali pertonisans in dyapsaon. In fine sume supremum.	!	!	!	!	!
 !	!	!LO:TX:Y=60:t=T&colon; In steps follow me in threes twice without pause sounding as far as the 8ve. At the end take the highest.	!	!	!	!	!

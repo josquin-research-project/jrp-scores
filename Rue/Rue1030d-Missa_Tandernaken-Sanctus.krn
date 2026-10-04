@@ -21,7 +21,6 @@
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M1/1	*M2/1	*M2/1
 *met(C)	*met(C.)	*met(C)	*met(C)
-!!primary-mensuration: met(C)
 !!section: Sanctus
 !!!OMD: Sanctus
 =1-	=1-	=1-	=1-
@@ -266,7 +265,6 @@
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C)	*met(C|)	*met(C)	*met(C)
-!!primary-mensuration: met(C)
 !!section: Pleni sunt celi
 !!!OMD: Pleni sunt celi
 1.D	0r	0r	0r

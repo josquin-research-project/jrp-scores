@@ -829,7 +829,6 @@
 =122	=122	=122	=122	=122
 *M3/1	*	*	*M3/1	*M3/1
 *met(3)	*	*	*met(3)	*met(3)
-!!primary-mensuration: met(3)
 *	*rscale:2/3	*rscale:2/3	*	*
 0.r	0.r	[0.c	1e	0.cc
 .	.	.	1r	.

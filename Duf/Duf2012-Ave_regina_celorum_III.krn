@@ -1029,7 +1029,6 @@
 =221	=221	=221	=221	=221	=221	=221	=221
 *	*	*M3/1	*	*	*	*M3/1	*
 *	*	*met(3)	*	*	*	*met(3)	*
-!!primary-mensuration: met(3)
 *rscale:2/3	*	*	*	*rscale:2/3	*	*	*
 0.r	.	0e	et	0.r	.	0g	no-
 .	.	[1d	pro	.	.	1a	.

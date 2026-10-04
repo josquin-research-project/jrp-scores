@@ -1110,7 +1110,6 @@
 =203	=203	=203	=203	=203
 *M3/1	*M3/1	*	*M3/1	*M3/1
 *met()	*met()	*	*met(3)	*met(3)
-!!primary-mensuration: met(3)
 !!LO:N:vis=0
 !	!LO:N:vis=0	!	!	!
 0.GG	0.r	1d	1G	0g
@@ -1233,7 +1232,6 @@
 =228.	=228.	=228.	=228.	=228.
 *M2/1	*M3/3%2	*M2/1	*M2/1	*M2/1
 *met(C|)	*met()	*met(C|)	*met(C|)	*met(C|)
-!!primary-mensuration: met(C|)
 !	!LO:N:vis=0.	!	!	!
 [0GG	[0G	1r	1D	0B
 .	.	1d	1D	.

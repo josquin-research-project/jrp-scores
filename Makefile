@@ -665,3 +665,43 @@ links:
 
 drlinks: 
 	@$(BINDIR)/fixLinks --dry-run
+
+# Shared incremental asset builds; existing targets remain unchanged.
+ASSET_TOOL_DIR ?= ../digital-library-build
+ASSET_PYTHON ?= $(if $(wildcard $(ASSET_TOOL_DIR)/.venv/bin/python),$(ASSET_TOOL_DIR)/.venv/bin/python,python3)
+ASSET_IDS ?=
+.PHONY: assets-plan assets-build
+assets-plan:
+	$(ASSET_PYTHON) "$(ASSET_TOOL_DIR)/tools/generation/build.py" plan --config "$(ASSET_TOOL_DIR)/config/projects/jrp-assets.json" $(if $(ASSET_IDS),--ids "$(ASSET_IDS)")
+assets-build:
+	$(ASSET_PYTHON) "$(ASSET_TOOL_DIR)/tools/generation/build.py" build --config "$(ASSET_TOOL_DIR)/config/projects/jrp-assets.json" $(if $(ASSET_IDS),--ids "$(ASSET_IDS)")
+
+# Explicit local XML pilot; discrepancies must be reviewed before publication.
+.PHONY: assets-xml-build
+assets-xml-build:
+	@test -n "$(ASSET_IDS)" || (echo "Set ASSET_IDS to explicit pilot work IDs"; exit 1)
+	$(ASSET_PYTHON) "$(ASSET_TOOL_DIR)/tools/generation/build.py" build --config "$(ASSET_TOOL_DIR)/config/projects/jrp-assets-xml.json" --ids "$(ASSET_IDS)"
+
+# Local media pilot; no publication or main build checkpoint.
+.PHONY: assets-media-build
+assets-media-build:
+	@test -n "$(ASSET_IDS)" || (echo "Set ASSET_IDS to explicit pilot work IDs"; exit 1)
+	$(ASSET_PYTHON) "$(ASSET_TOOL_DIR)/tools/generation/media_pilot.py" --config "$(ASSET_TOOL_DIR)/config/projects/jrp-assets.json" --ids "$(ASSET_IDS)" --output .asset-build-media
+
+.PHONY: assets-ranges-check
+assets-ranges-check:
+	$(ASSET_PYTHON) "$(ASSET_TOOL_DIR)/tools/generation/audit_ranges.py" --config "$(ASSET_TOOL_DIR)/config/projects/jrp-assets.json"
+
+# Full resumable local media pass, with per-score validation and failure reporting.
+.PHONY: assets-media-all
+assets-media-all:
+	$(ASSET_PYTHON) "$(ASSET_TOOL_DIR)/tools/generation/media_pilot.py" --config "$(ASSET_TOOL_DIR)/config/projects/jrp-assets.json" --all --resume --output .asset-build-media/corpus
+
+# Refresh stale media locally. Set ASSET_WORKING_TREE=1 for uncommitted edits.
+ASSET_WORKING_TREE ?=
+ASSET_PRIOR_REPORTS ?=
+.PHONY: assets-media-refresh assets-media-refresh-plan
+assets-media-refresh-plan:
+	$(ASSET_PYTHON) "$(ASSET_TOOL_DIR)/tools/generation/refresh_media.py" --config "$(ASSET_TOOL_DIR)/config/projects/jrp-assets.json" --plan $(if $(ASSET_IDS),--ids "$(ASSET_IDS)") $(if $(filter 1,$(ASSET_WORKING_TREE)),--working-tree) $(foreach report,$(ASSET_PRIOR_REPORTS),--prior-report "$(report)")
+assets-media-refresh:
+	$(ASSET_PYTHON) "$(ASSET_TOOL_DIR)/tools/generation/refresh_media.py" --config "$(ASSET_TOOL_DIR)/config/projects/jrp-assets.json" $(if $(ASSET_IDS),--ids "$(ASSET_IDS)") $(if $(filter 1,$(ASSET_WORKING_TREE)),--working-tree) $(foreach report,$(ASSET_PRIOR_REPORTS),--prior-report "$(report)")

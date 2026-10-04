@@ -713,7 +713,6 @@
 =118	=118	=118	=118
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(3)	*met()	*met(3)	*met(3)
-!!primary-mensuration: met(3)
 *	*rscale:2/3	*	*
 0GG	0.G	0B	0d
 1C	.	1G	[1e
@@ -733,7 +732,6 @@
 =122	=122	=122	=122
 *M2/1	*	*M2/1	*M2/1
 *met(C|)	*	*met(C|)	*met(C|)
-!!primary-mensuration: met(C|)
 0C	0r	1c	1cc
 .	.	1G	1r
 =123	=123	=123	=123

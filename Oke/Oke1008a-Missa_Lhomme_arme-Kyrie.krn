@@ -21,7 +21,6 @@
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(C.)	*met(O)	*met(O)
 *	*rscale:1/2	*	*
-!!primary-mensuration: met(O)
 =1-	=1-	=1-	=1-
 !!section: Kyrie I
 !!!OMD: Kyrie I
@@ -197,7 +196,6 @@
 !!!OMD: Kyrie II
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(C.)	*met(O)	*met(O)
-!!primary-mensuration: met(O)
 *	*rscale:1/2	*	*
 0G	0G	0.g	0d
 1B-i	1G	.	1d

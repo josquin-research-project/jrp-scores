@@ -832,6 +832,7 @@
 *rscale:1	*	*rscale:1	*	*rscale:1	*	*	*	*	*
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: N = signum congruentiae
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker

@@ -803,7 +803,6 @@
 =162	=162	=162	=162
 *M3/1	*M3/1	*M3/1	*M3/1
 *met()	*met(3)	*met(3)	*met(3)
-!!primary-mensuration: met(3)
 !LO:N:vis=0	!	!	!
 0.r	0.c	0.e	0e
 .	.	.	1r
@@ -1044,7 +1043,6 @@
 =208	=208	=208	=208
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met()	*met()
-!!primary-mensuration: met(C|)
 0C	1r	3%4.e	3%2a
 .	.	.	3%4g
 .	1c	.	.

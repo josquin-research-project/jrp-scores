@@ -879,7 +879,6 @@
 =	=	=	=	=
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1
 *met(3)	*met(O)	*met(3)	*met(3)	*met(3)
-!!primary-mensuration: met(3)
 1G	0.E_	0.e	1B	0.b
 1G	.	.	1B	.
 1G	.	.	1B	.

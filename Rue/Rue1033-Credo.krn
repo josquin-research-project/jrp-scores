@@ -943,7 +943,6 @@
 !!The score should show "3" -- but for classification purposes, 
 !! this mensuration is really C3, not Cut-C3 (since the preceding 
 !! mensuration is C). C3 should be classified together with C-dot.
-!!primary-mensuration: met(C3)
 2.E\	1G	1r	1g
 4F\	.	.	.
 2G\	2r	2d/	1r

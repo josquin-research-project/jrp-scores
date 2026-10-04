@@ -483,7 +483,6 @@
 =88	=88	=88	=88
 *rscale:2/3	*rscale:2/3	*M3/1	*rscale:2/3
 *	*	*met(3)	*
-!!primary-mensuration: met(3)
 0.D	0.F	0A	0.r
 .	.	1A	.
 *	*	*	*rscale:1

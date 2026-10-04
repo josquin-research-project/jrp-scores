@@ -21,7 +21,6 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(C.)	*met(O)	*met(O)
-!!primary-mensuration: met(O)
 !!section: Sanctus
 !!!OMD: Sanctus
 !!incipit: 3
@@ -627,7 +626,6 @@
 [0GG	0r	0r	0G
 *	*	*rscale:1	*
 =84	=84	=84	=84
-!!primary-mensuration: met(O3/2)
 *	*M3/1	*	*M3/1
 *	*met(O3/2)	*	*met(O3/2)
 !	!LO:TX:Z=12:t=O 3/2 mensuration	!	!
@@ -721,7 +719,6 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C.)	*met(C|)
-!!primary-mensuration: met(C|)
 !!section: Osanna
 !!!OMD: Osanna
 !	!	!LO:TX:Z=20:X=-40:t=Crescit in duplum	!

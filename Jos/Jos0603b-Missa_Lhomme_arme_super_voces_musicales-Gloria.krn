@@ -24,7 +24,6 @@
 *	*rscale:1/2	*	*
 *M3/1	*M9/1	*M3/1	*M3/1
 *met(O)	*met(O.)	*met(O)	*met(O)
-!!primary-mensuration: met(O)
 !!section: Et in terra pax
 !!!OMD: Et in terra pax
 =1-	=1-	=1-	=1-
@@ -590,7 +589,6 @@
 *	*rscale:1/2	*	*
 *M2/1	*M9/1	*M2/1	*M2/1
 *met(C|)	*met(O.)	*met(C|)	*met(C|)
-!!primary-mensuration: met(C|)
 !!section: Qui tollis
 !!!OMD: Qui tollis
 !	!LO:TX:Z=6:t=Canon&colon; Tenor Verte cito	!	!

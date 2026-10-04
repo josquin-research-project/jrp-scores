@@ -480,3 +480,19 @@ download the secure and not secure groupings of Josquin music.
 
 
 
+
+## Incremental asset builds
+
+`make assets-plan` reports committed scores needing a rebuild.
+`make assets-build` creates local Humdrum and MIDI outputs using the shared
+`../digital-library-build` tool at the revision pinned in `../digital-library-build/config/projects/jrp-assets.json`.
+Use `ASSET_IDS=workID` for a pilot. Existing Makefile targets are unchanged.
+Configuration lives under `../digital-library-build/config/projects/`. Existing local `.asset-build*` output directories remain in this score repository.
+Only committed HEAD is used; commit score edits before building.
+These commands do not upload or publish, and do not regenerate PDFs, plots,
+MEI, MusicXML, audio or timemaps yet. See the shared tool README for setup,
+validation, retry behavior, and the remaining publication integration.
+
+For explicit local MEI/MusicXML pilots, use `make assets-xml-build ASSET_IDS=workID`.
+XML outputs are held for comparison review, separately from the normal build.
+See `../digital-library-build/docs/XML-PILOT.md` for findings and dependency setup.

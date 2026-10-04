@@ -20,7 +20,6 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(C.)	*	*met(O)	*	*met(O)	*	*met(O)	*
-!!primary-mensuration: met(O)
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
 !LO:TX:Z=8:t=Descendendo in dyapason	!	!	!	!	!	!	!
 !!section: Agnus Dei I
@@ -191,7 +190,6 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(C.)	*	*met(O)	*	*met(O)	*	*met(O)	*
-!!primary-mensuration: met(O)
 !!section: Agnus Dei II
 !!!OMD: Agnus Dei II
 0.r	.	0.r	.	1G	A-	0.r	.
@@ -394,7 +392,6 @@
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C.)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!primary-mensuration: met(C|)
 *rscale:1/4	*	*	*	*	*	*	*
 !!section: Agnus Dei III
 !!!OMD: Agnus Dei III

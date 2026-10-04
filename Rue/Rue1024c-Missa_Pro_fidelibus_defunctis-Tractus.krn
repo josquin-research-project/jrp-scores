@@ -21,7 +21,6 @@
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C2)	*met(C2)
-!!primary-mensuration: met(C2)
 !!section: Sicut cervus
 !!!OMD: Sicut cervus
 =1-	=1-	=1-	=1-
@@ -204,7 +203,6 @@
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C2)	*met(C2)
-!!primary-mensuration: met(C2)
 !!section: Sitivit anima mea
 !!!OMD: Sitivit anima mea
 0r	1G	0r	0r
@@ -346,7 +344,6 @@
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C2)	*met(C2)
-!!primary-mensuration: met(C2)
 !!section: Fuerunt
 !!!OMD: Fuerunt
 [0G	[0B	[0d	[0g

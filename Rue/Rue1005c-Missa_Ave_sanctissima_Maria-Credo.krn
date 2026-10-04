@@ -1304,7 +1304,6 @@
 =216	=216	=216	=216	=216	=216
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1	*M3/1
 *met(3)	*met()	*met(3)	*met()	*met(3)	*met()
-!!primary-mensuration: met(3)
 !	!LO:N:vis=0	!	!LO:N:vis=0	!	!LO:N:vis=0
 1G	0.r	1.G	0.r	1d	0.r
 1G	.	.	.	1d	.
@@ -1439,7 +1438,6 @@
 =239.	=239.	=239.	=239.	=239.	=239.
 *M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*
-!!primary-mensuration: met(C|)
 !	!LO:N:vis=0.	!	!LO:N:vis=0.	!	!LO:N:vis=0.
 0GG	0G	1r	0d	1r	0g
 .	.	1G	.	1g	.

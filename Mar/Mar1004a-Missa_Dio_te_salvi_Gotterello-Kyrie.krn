@@ -213,7 +213,6 @@
 =31	=31	=31	=31
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(3)	*met(3)	*met(3)	*met(3)
-!!primary-mensuration: met(C.)
 !! Tempo is that of menCDot, so forcing on the previous line.
 1D	2D/	2.A/	1.d
 .	2r	.	.

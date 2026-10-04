@@ -718,7 +718,6 @@
 *rscale:2/3	*	*	*
 *	*M3/1	*M3/1	*M3/1
 *	*met(3)	*met(3)	*met(3)
-!!primary-mensuration: met(3)
 0.C	0.c	1g	0cc
 .	.	1g	.
 .	.	1g	1r

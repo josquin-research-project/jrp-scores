@@ -25,7 +25,6 @@
 *	*rscale:1/2	*	*
 *M3/1	*M9/1	*M3/1	*M3/1
 *met(O)	*met(O.)	*met(O)	*met(O)
-!!primary-mensuration: met(O)
 !!!OMD: Agnus Dei I
 !!section: Agnus Dei I
 =1-	=1-	=1-	=1-
@@ -338,7 +337,6 @@
 *rscale:1	*	*rscale:1/2	*rscale:3/2
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C)	*met(3)
-!!primary-mensuration: met(C|)
 !!!OMD: Agnus Dei II
 !!section: Agnus Dei II
 !	!	!	!LO:TX:X=-50:Z=6:t=Canon&colon; Trintas.  3-ex-1 mensuration canon.
@@ -484,7 +482,6 @@
 *	*	*	*rscale:1/4
 *M2/1	*M2/1	*M2/1	*M9/0
 *met(C|)	*met(C|)	*met(C|)	*met(O.)
-!!primary-mensuration: met(C|)
 !	!	!	!LO:TX:X=-50:Z=6:t=Canon&colon; Tenor. Clama ne cesses.   Verbal canon instructs superius to omit all rests.
 !	!	!	!LO:N:vis=1
 2.AA/	0r	0r	[y0A

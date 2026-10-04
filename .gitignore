@@ -18,3 +18,8 @@ work-ids.txt
 z
 zz
 zzz
+
+.asset-build/
+.asset-build-xml/
+
+.asset-build-media/

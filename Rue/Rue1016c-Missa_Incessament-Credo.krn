@@ -1514,7 +1514,6 @@
 =270	=270.	=270	=270	=270
 *M3/1	*	*M3/1	*M3/1	*M3/1
 *met(3)	*	*met(3)	*met(3)	*met(3)
-!!primary-mensuration: met(3)
 !	!LO:N:vis=0	!	!	!
 0G	0.r	0.C	0.c	1c
 .	.	.	.	1g

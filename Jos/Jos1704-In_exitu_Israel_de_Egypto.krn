@@ -1468,7 +1468,6 @@
 =295	=295	=295	=295
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(3)	*met()	*met(3)	*met()
-!!primary-mensuration: met(3)
 !	!LO:N:vis=0	!	!LO:N:vis=0
 0G	0.r	0.G	0.r
 1r	.	.	.
@@ -1577,7 +1576,6 @@
 =318	=318	=318	=318
 *M3/1	*M3/1	*M3/1	*M3/1
 *met()	*met(3)	*met()	*met(3)
-!!primary-mensuration: met(3)
 1G	0.r	1B-	0g
 1.C	.	1.c	.
 .	.	.	1r

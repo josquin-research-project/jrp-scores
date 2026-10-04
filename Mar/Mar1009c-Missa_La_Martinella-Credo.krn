@@ -1427,7 +1427,6 @@
 =255	=255	=255	=255
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(C|3)	*met()	*met(C|3)	*met(C|3)
-!!primary-mensuration: met(C|3)
 0GG	[0.d	0.G	0g
 [1BB-	.	.	1g
 =256	=256	=256	=256

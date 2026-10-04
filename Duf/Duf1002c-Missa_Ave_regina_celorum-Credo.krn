@@ -1129,7 +1129,6 @@
 *	*	*M3/1	*	*	*	*M3/1	*
 *	*	*met(O)	*	*	*	*met(3)	*
 *rscale:2/3	*	*rscale:1	*	*	*	*	*
-!!primary-mensuration: met(3)
 !	!	!LO:TX:Z=40:X=-40:t=NB&colon; T note values have been expanded in this	!	!	!	!	!
 !	!	!LO:TX:Z=16:X=-40:t=section (e.g., the first note is a perfect breve)	!	!	!	!	!
 0.C]	.	[0.c	spe-	0.r	.	0.g	si-

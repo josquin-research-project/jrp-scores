@@ -21,7 +21,6 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(O)	*met(C|)	*met(C|)
-!!primary-mensuration: met(C|)
 !!incipit: 6
 !!section: Patrem omnipotentem
 !!!OMD: Patrem omnipotentem
@@ -569,7 +568,6 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(O)	*met(C|)	*met(C|)
-!!primary-mensuration: met(C|)
 !!section: Crucifixus
 !!!OMD: Crucifixus
 *	*rscale:1/2	*	*

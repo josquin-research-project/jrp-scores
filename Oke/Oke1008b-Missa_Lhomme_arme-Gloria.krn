@@ -20,7 +20,6 @@
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(C.)	*met(O)	*met(O)
 *	*rscale:1/2	*	*
-!!primary-mensuration: met(O)
 =1-	=1-	=1-	=1-
 !!section: Et in terra pax
 !!!OMD: Et in terra pax
@@ -350,7 +349,6 @@
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|.)	*met(C|)	*met(C|)
 *	*rscale:1/2	*	*
-!!primary-mensuration: met(C|)
 !	!LO:TX:Z=10:X=-30:t=Cut-C dot mensuration	!	!
 0G	0r	0r	0g
 =47	=47-	=47	=47
@@ -615,7 +613,6 @@
 =116	=116-	=116	=116
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(3)	*met()	*met(3)	*met(3)
-!!primary-mensuration: met(3)
 0D	0.d	0d	0.f
 1E	.	1c	.
 =117	=117	=117	=117

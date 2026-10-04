@@ -20,7 +20,6 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O)	*	*met(C.)	*	*met(O)	*	*met(O)	*
-!!primary-mensuration: met(O)
 *	*	*rscale:1/2	*	*	*	*	*
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
 0G	Sanc-	0G	L'hom-	0d	Sanc-	0g	Sanc-
@@ -197,7 +196,6 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O)	*	*met(C.)	*	*met(O)	*	*met(O)	*
-!!primary-mensuration: met(O)
 !!section: Pleni
 !!!OMD: Pleni
 !	!	!	!	!	!	!	!
@@ -428,7 +426,6 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C.)	*	*met(C|)	*	*met(C|)	*
-!!primary-mensuration: met(C|)
 *	*	*rscale:1/4	*	*	*	*	*
 !!section: Osanna
 !!!OMD: Osanna
@@ -628,7 +625,6 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C)	*	*met(C.)	*	*met(C)	*	*met(C|)	*
-!!primary-mensuration: met(C)
 !!section: Benedictus
 !!!OMD: Benedictus
 0r	.	0r	.	0G	Be-	1.g	Be-

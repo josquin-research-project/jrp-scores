@@ -21,7 +21,6 @@
 *k[]	*k[]	*k[]	*k[]	*k[]
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1
 *met(C3)	*met(C3)	*met(3)	*met(C3)	*met(3)
-!!primary-mensuration: met(C3)
 =1-	=1-	=1-	=1-	=1-
 !!section: Rex glorie
 !!!OMD: Rex glorie
@@ -294,7 +293,6 @@
 *k[]	*k[]	*k[]	*k[]	*k[]
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1
 *met(C3)	*met(O)	*met(3)	*met(C3)	*met(3)
-!!primary-mensuration: met(C3)
 !!section: Quam olim Abrahe
 !!!OMD: Quam olim Abrahe
 0D	0.r	0D	0d	0.r
@@ -407,7 +405,6 @@
 =80	=80	=80	=80	=80
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C)	*met()	*met()	*met()	*met()
-!!primary-mensuration: met(C)
 1GG	0r	3%4D	0r	0r
 2GG/	.	.	.	.
 .	.	3%2r	.	.
@@ -471,7 +468,6 @@
 =92	=92	=92	=92	=92
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1
 *met(C3)	*met()	*met(C3)	*met()	*met()
-!!primary-mensuration: met(C3)
 0.r	0.r	0.r	1.d	1.f
 .	.	.	2c\	2e/
 .	.	.	1c	1e

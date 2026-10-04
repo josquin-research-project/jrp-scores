@@ -913,7 +913,6 @@
 =160	=160	=160	=160
 *	*M3/1	*	*M3/1
 *	*met(3)	*	*met(3)
-!!primary-mensuration: met(3)
 [0.D	0.r	1f	1dd
 .	.	2d\	1dd
 .	.	2e\	.

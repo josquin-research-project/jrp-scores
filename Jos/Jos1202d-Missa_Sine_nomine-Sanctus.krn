@@ -582,7 +582,6 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(O)	*	*met(C|)	*
-!!primary-mensuration: met(C|)
 *	*	*	*	*rscale:1/2	*	*	*
 !!section: Benedictus
 !!!OMD: Benedictus
@@ -647,7 +646,6 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(O)	*	*met(C|)	*	*met(C|)	*
-!!primary-mensuration: met(C|)
 *	*	*rscale:1/2	*	*rscale:1	*	*	*
 !!section: Qui venit
 !!!OMD: Qui venit
@@ -710,7 +708,6 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(O)	*
-!!primary-mensuration: met(C|)
 *	*	*rscale:1	*	*	*	*rscale:1/2	*
 !!section: In nomine
 !!!OMD: In nomine

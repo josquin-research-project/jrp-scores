@@ -122,7 +122,6 @@
 =20	=20	=20	=20
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(3)	*met(3)	*met(3)	*met(3)
-!!primary-mensuration: met(C.)
 !! menCDot tempo
 0.r	1A	1c	0.r
 .	2A/	2d\	.

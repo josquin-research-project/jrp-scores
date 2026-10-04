@@ -21,7 +21,6 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O.)	*met(O)	*met(O)
-!!primary-mensuration: met(O)
 !!section: Kyrie I
 !!!OMD: Kyrie I
 =1-	=1-	=1-	=1-
@@ -305,7 +304,6 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(C|)	*met(C.)	*met(C|)	*met(C|)
-!!primary-mensuration: met(C|)
 !!section: Kyrie II
 !!!OMD: Kyrie II
 *	*rscale:1/2	*	*

@@ -26,7 +26,6 @@
 *	*	*	*	*rscale:1/2	*	*	*	*	*	*	*
 *M2/1	*	*M2/1	*	*M2/0	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met()	*	*met(C|)	*	*met(C)	*	*met()	*	*met(C|)	*	*met(C|)	*
-!!primary-mensuration: met(C|)
 !!!OMD: Agnus dei I
 !!section: Agnus dei I
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
@@ -698,7 +697,6 @@
 =115	=115	=115	=115	=115	=115	=115	=115	=115	=115	=115	=115
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met()	*	*met()	*	*met()	*	*met()	*	*met(3/2)	*	*met()	*
-!!primary-mensuration: met(3/2)
 0.r	.	0.r	.	2.G/	-ca-	0.r	.	2.E/	pec-	0.r	.
 .	.	.	.	4A/	.	.	.	4F/	.	.	.
 .	.	.	.	2B\	.	.	.	2G/	.	.	.
@@ -840,7 +838,6 @@
 *	*	*	*	*rscale:1/2	*	*	*	*	*	*rscale:1/2	*
 *M2/1	*	*M2/1	*	*M2/0	*	*M2/1	*	*M2/1	*	*M2/0	*
 *met(C|)	*	*met(C|)	*	*met(C)	*	*met(C|)	*	*met(C|)	*	*met(C)	*
-!!primary-mensuration: met(C|)
 !!!OMD: Agnus dei III
 !!section: Agnus dei III
 !	!	!LO:TX:Z=8:t=Minim canon at the unison (B1/B2)	!	!	!	!	!	!LO:TX:Z=8:t=Minim canon at the unison (A1/A2)	!	!LO:TX:Z=8:t=Malcort's superius and tenor quoted in the corresponding voices	!

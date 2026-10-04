@@ -599,7 +599,6 @@
 *	*	*	*	*M3/1	*	*M3/1	*
 *	*	*	*	*met(3)	*	*met(3)	*
 *rscale:2/3	*	*rscale:2/3	*	*	*	*	*
-!!primary-mensuration: met(3)
 0.r	.	0.r	.	1f	-tu,	0f	-tu,
 .	.	.	.	1d	.	.	.
 .	.	.	.	1e	.	1r	.

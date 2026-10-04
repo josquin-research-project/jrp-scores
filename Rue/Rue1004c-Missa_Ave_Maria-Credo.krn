@@ -713,7 +713,6 @@
 =124	=124	=124	=124	=124
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1
 *met()	*met(3)	*met()	*met(3)	*met(3)
-!!primary-mensuration: met(3)
 !LO:N:vis=0	!	!LO:N:vis=0	!	!
 0.r	0c	0.e	1g	0.cc
 .	.	.	1e	.
@@ -747,7 +746,6 @@
 =129	=129	=129	=129	=129
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met()	*met(C2)	*met(C2)	*met(C2)	*met(C2)
-!!primary-mensuration: met(C2)
 0r	1c	[0A	0e	0a
 .	2c\	.	.	.
 .	[2c\	.	.	.

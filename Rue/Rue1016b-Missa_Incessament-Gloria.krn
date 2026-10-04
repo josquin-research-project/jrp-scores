@@ -21,7 +21,6 @@
 *k[]	*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C2)	*met(C2)	*met(C|)
-!!primary-mensuration: met(C|)
 =1-	=1-	=1-	=1-	=1-
 !!section: Et in terra pax
 !!!OMD: Et in terra pax
@@ -449,7 +448,6 @@
 =73	=73	=73	=73	=73
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1
 *met(3)	*met()	*met(3)	*met(3)	*met(3)
-!!primary-mensuration: met(3)
 !	!LO:N:vis=1.	!	!	!
 1E	[y0G\	1G	0.r	0.g
 1E	.	1G	.	.

@@ -21,7 +21,6 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(C.)	*met(O)
-!!primary-mensuration: met(O)
 !!section: Agnus Dei I
 !!!OMD: Agnus Dei I
 !!incipit: 3
@@ -110,11 +109,10 @@
 4D\]	4d\]	1d	2a/
 4E\	4c\	.	.
 4F\	2A/	.	2f/
-*	*	*	*MM3/1
+*	*	*	*M3/1
 *	*	*	*met(3)
 *	*	*	*rscale:3
 !	!	!	!LO:TX:Z=16:t=[recte&colon; 3 over 1]
-!!primary-mensuration: met(O)
 4D\	.	.	.
 0E	2r	0G	2g/
 .	1G	.	6f/
@@ -128,7 +126,6 @@
 =11	=11	=11	=11
 *	*	*	*M3/1
 *	*	*	*met(O)
-!!primary-mensuration: met(O)
 2D\	2F/	1r	1d
 2.BB-/	2D/	.	.
 .	2.F/	1d	2r
@@ -537,7 +534,6 @@
 *met(O3/2)	*met(O3/2)	*met(C.3/8)	*met(O3/2)
 !!section: Agnus Dei III
 !!!OMD: Agnus Dei III
-!!primary-mensuration: met(O3/2)
 !!!LO: TX:Z=6:X=-40:t=O3/2	!LO:TX:Z=6:X=-40:t=O3/2	!LO:TX:Z=6:X=-40:t=O3/8	!LO:TX:Z=6:X=-40:t=O3/2
 !LO:TX:Z=6:X=-40:t=O3/2	!	!	!
 !	!LO:TX:Z=6:X=-40:t=O3/2	!	!

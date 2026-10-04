@@ -28,7 +28,6 @@
 *	*	*rscale:1/2	*	*	*	*
 *M3/1	*M3/1	*M9/1	*M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O.)	*met(O)	*met(O)	*met(O)	*met(O)
-!!primary-mensuration: met(O)
 !!!OMD: Sanctus
 !!section: Sanctus
 =1-	=1-	=1-	=1-	=1-	=1-	=1-
@@ -594,7 +593,6 @@
 *k[]	*k[]	*k[b-]	*k[]	*k[]	*k[]	*k[]
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1	*M3/1	*M3/1
 *met(C3)	*met(C3)	*met(O.)	*met(C3)	*met(C3)	*met(C3)	*met(C3)
-!!primary-mensuration: met(C3)
 !!!OMD: Osanna
 !!section: Osanna
 !	!	!LO:TX:X=-50:Z=6:t=Tenor  Osanna  Gaude cum gaudentibus	!	!	!	!
@@ -878,7 +876,6 @@
 *	*rscale:1/2	*	*	*	*	*
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!primary-mensuration: met(C|)
 !!!OMD: Benedictus
 !!section:Benedictus
 !	!LO:TX:Z=6:t=Mensuration canon at the unison	!	!	!	!	!
@@ -963,7 +960,6 @@
 *	*	*	*	*rscale:1/2	*	*
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C)	*met(C|)	*met(C|)
-!!primary-mensuration: met(C|)
 !!!OMD: Qui venit
 !!section:Qui_venit
 !	!	!	!	!LO:TX:Z=6:t=Mensuration canon at the unison	!	!
@@ -1032,7 +1028,6 @@
 *	*	*	*	*	*	*rscale:1/2
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C)
-!!primary-mensuration: met(C|)
 !!!OMD: In nomine
 !!section:In_nomine
 !	!	!	!	!	!	!LO:TX:Z=6:t=Mensuration canon at the unison

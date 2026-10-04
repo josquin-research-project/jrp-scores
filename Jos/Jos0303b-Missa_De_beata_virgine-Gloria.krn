@@ -972,7 +972,6 @@
 =181	=181	=181	=181
 *M3/1	*M3/1	*M3/1	*M3/1
 *met()	*met(3)	*met()	*met()
-!!primary-mensuration: met(3)
 *rscale:2/3	*	*rscale:2/3	*
 1.D	1A	1.d	0.r
 .	1d	.	.
@@ -1014,7 +1013,6 @@
 =188	=188	=188	=188
 *M2/1	*M2/1	*M2/1	*M2/1
 *met()	*met(C|)	*met()	*met(C|)
-!!primary-mensuration: met(C|)
 1.G	0d	1r	0dd
 .	.	[1g	.
 2A\	.	.	.

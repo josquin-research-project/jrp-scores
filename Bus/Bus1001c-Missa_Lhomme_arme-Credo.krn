@@ -21,7 +21,6 @@
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O.)	*met(O)	*met(O)
 *MM252	*MM252	*MM252	*MM252
-!!primary-mensuration: met(O)
 !!section: Patrem omnipotentem
 !!!OMD: Patrem omnipotentem
 *	*rscale:1/2	*	*
@@ -457,7 +456,6 @@
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(O2)	*met(O.)	*met(O2)	*met(O2)
 *MM336	*MM336	*MM336	*MM336
-!!primary-mensuration: met(O2)
 !!section: Et incarnatus est
 !!!OMD: Et incarnatus est
 *	*rscale:1/4	*	*

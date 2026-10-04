@@ -22,7 +22,6 @@
 *	*rscale:1/2	*	*
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(O)	*met(C|)	*met(C|)
-!!primary-mensuration: met(C|)
 !!!OMD: Agnus Dei I
 !!section: Agnus Dei I
 =1-	=1-	=1-	=1-
@@ -740,7 +739,6 @@
 *rscale:1/2	*	*	*
 *M3/0	*M2/1	*M2/1	*M2/1
 *met(O)	*met(C|)	*met(C|)	*met(C|)
-!!primary-mensuration: met(C|)
 !!!OMD: Agnus Dei III
 !!section: Agnus Dei III
 0r	0G	0G	0r
