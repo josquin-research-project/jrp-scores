@@ -121,13 +121,16 @@
 [1AA	.	1A	vont	.	.	.	.	.	.
 .	.	.	.	.	.	2c	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26
-1AA]	.	1A	bras	1e	s'en	0cN	-ce.	-se,	-se;&
+!	!	!	!	!	!	!LO:TX:a:t=[sc]	!	!	!
+1AA]	.	1A	bras	1e	s'en	0c	-ce.	-se,	-se;&
 1AA	a	1A	a	1e	vont	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27
-0AAN	bras,	0AN	bras,	1e	bras	1r	.	.	.
+!LO:TX:a:t=[sc]	!	!LO:TX:a:t=[sc]	!	!	!	!	!	!	!
+0AA	bras,	0A	bras,	1e	bras	1r	.	.	.
 .	.	.	.	1e	a	1a	For-	Mais	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28
-1r	.	1.c	Ilz	0eN	bras,	1a	-ce	c'est	.
+!	!	!	!	!LO:TX:a:t=[sc]	!	!	!	!	!
+1r	.	1.c	Ilz	0e	bras,	1a	-ce	c'est	.
 [1AA	Ilz	.	.	.	.	1a	m'est	ung	.
 .	.	2B	.	.	.	.	.	.	.
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29
@@ -221,7 +224,6 @@
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: V = start of tuplet marker
 !!!RDF**kern: Z = end of tuplet marker
-!!!RDF**kern: N = signum congruentiae
 !!!ENC: Jesse Rodin 17 April 2018
 !!!END: 2018/04/17/
 !!!EED: Jesse Rodin

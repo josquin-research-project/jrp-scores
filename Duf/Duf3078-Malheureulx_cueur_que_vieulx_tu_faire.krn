@@ -315,10 +315,12 @@
 2F/	.	2a/	.	.
 2G/	2B\	2g/	.	.
 =52	=52	=52	=52	=52
-[0C	1.c	0eN	-se;	-se.
+!	!	!LO:TX:a:t=[sc]	!	!
+[0C	1.c	0e	-se;	-se.
 .	2d\	.	.	.
 =53	=53	=53	=53	=53
-1CN]	1eN	1r	.	.
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!	!	!
+1C]	1e	1r	.	.
 1F	1A	1a	.	.
 =54	=54	=54	=54	=54
 1E	1B	2g/	.	.
@@ -354,7 +356,6 @@
 *-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Jesse Rodin 3/28/2016
 !!!END: 2016/03/28/
 !!!EED: Jesse Rodin

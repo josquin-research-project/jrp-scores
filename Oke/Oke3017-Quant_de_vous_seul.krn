@@ -115,9 +115,11 @@
 .	.	.	.	2G	tres-	-e	riens	.	.	.	.
 .	.	.	.	.	.	.	.	4a	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-1D	.	.	.	2A	-fort	me	il	0fN	.	.	.
+!	!	!	!	!	!	!	!	!LO:TX:a:t=[sc]	!	!	!
+1D	.	.	.	2A	-fort	me	il	0f	.	.	.
 .	.	.	.	2A	m'as-	de-	ne	.	.	.	.
-1dN	.	.	.	2.B-iN	-sault	-fault&	chault;	.	.	.	.
+!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!	!	!	!	!
+1d	.	.	.	2.B-i	-sault	-fault&	chault;	.	.	.	.
 .	.	.	.	4A	.	.	.	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 1c	.	.	.	1F	.	.	.	1r	.	.	.
@@ -216,7 +218,6 @@
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: V = start of tuplet marker
 !!!RDF**kern: Z = end of tuplet marker
-!!!RDF**kern: N = signum congruentiae
 !!!ENC: Jesse Rodin 17 April 2018
 !!!END: 2018/07/16/
 !!!EED: Jesse Rodin

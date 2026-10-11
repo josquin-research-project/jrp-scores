@@ -121,7 +121,8 @@
 1E	.	1B
 .	2G#i	.
 =25	=25	=25
-0AAN	1.A	1AN
+!LO:TX:a:t=[sc]	!	!LO:TX:a:t=[sc]
+0AA	1.A	1A
 .	.	1r
 .	4G	.
 .	4F	.
@@ -218,7 +219,6 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 09-28-2016
 !!!END: 2018/09/27/
 !!!EED: Jesse Rodin

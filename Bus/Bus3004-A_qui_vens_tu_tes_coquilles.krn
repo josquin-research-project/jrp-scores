@@ -106,7 +106,8 @@
 4F	.	.	.	4d	.	.	.	4f	.	.	.
 1c	.	.	.	1e	.	.	.	1g	.	.	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
-1FN	-ges?	-ges.&	-ges,	1fN	-ges?	-ges.&	-ges,	[0fN	-ges?	-ges.&	-ges,
+!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!
+1F	-ges?	-ges.&	-ges,	1f	-ges?	-ges.&	-ges,	[0f	-ges?	-ges.&	-ges,
 1B-	Trous-	.	Qu'el-	1r	.	.	.	.	.	.	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
 2A	-se	.	-les	1a	Trous-	&	Qu'el-	0f]	.	.	.
@@ -212,7 +213,6 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 02-10-2015
 !!!END: 2015/10/29/
 !!!EED: Jesse Rodin

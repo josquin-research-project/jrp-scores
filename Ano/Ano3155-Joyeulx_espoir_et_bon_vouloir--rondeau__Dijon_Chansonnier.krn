@@ -88,7 +88,8 @@
 .	.	2g
 .	.	2f
 =23	=23	=23
-1.AN	[0cN	0eN
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+1.A	[0c	0e
 2G	.	.
 =24	=24	=24
 1.F	0c]	0r
@@ -133,7 +134,8 @@
 0E	0b	1a]
 .	.	1g#
 =37	=37	=37
-1FN	[0a	0a
+!LO:TX:a:t=[sc]	!	!
+1F	[0a	0a
 1D	.	.
 =38	=38	=38
 1.F	0a]	0r
@@ -224,7 +226,6 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 1-25-2017
 !!!END: 2018/12/10/
 !!!EED: Jesse Rodin

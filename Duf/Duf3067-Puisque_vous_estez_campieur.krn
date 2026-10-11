@@ -102,7 +102,8 @@
 2B-\	.	.	.	2G/	.	.	.	2d/	.	.	.
 1A	.	.	.	1D	.	.	.	1f	.	.	.
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
-1GN	-e,	-e.	-e,	1.dN	.	.	.	2gN/	.	.	.
+!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!
+1G	-e,	-e.	-e,	1.d	.	.	.	2g/	.	.	.
 .	.	.	.	.	.	.	.	2.b-\	.	.	.
 1r	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	4cc\	.	.	.
@@ -210,7 +211,6 @@
 0Gl	-eur.	-eur.	.	0dl	-eur.	-eur.	.	0gl	-eur.	-eur.	.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: N = signum congruentiae
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker

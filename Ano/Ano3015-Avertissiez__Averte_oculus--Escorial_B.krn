@@ -100,7 +100,8 @@
 0B-	0d	1.dd
 .	.	2cc
 =28	=28	=28
-0GN	0g	0bN
+!LO:TX:a:t=[sc]	!	!LO:TX:a:t=[sc]
+0G	0g	0b
 =29	=29	=29
 1.f	0d	0a
 4e	.	.
@@ -198,7 +199,6 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 02-19-2015
 !!!END: 2015/02/25/
 !!!EED: Jesse Rodin

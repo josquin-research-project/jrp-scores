@@ -190,8 +190,10 @@
 .	.	.	.	.	.	.	.	.	.	.	.	4e/	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	4c#i/	.	.	.
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
-1DN	2. Long	&	5. Se	0DN	cris.	-bliz.	nidz.	1r	.	.	.	0dN	cris.	-bliz.	nidz.
-1F	temps	.	Mars	.	.	.	.	1AN	2. Long	&	5. Se	.	.	.	.
+!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!	!	!	!	!	!LO:TX:a:t=[sc]	!	!	!
+1D	2. Long	&	5. Se	0D	cris.	-bliz.	nidz.	1r	.	.	.	0d	cris.	-bliz.	nidz.
+!	!	!	!	!	!	!	!	!LO:TX:a:t=[sc]	!	!	!	!	!	!	!
+1F	temps	.	Mars	.	.	.	.	1A	2. Long	&	5. Se	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
 1E	nous	.	nous	1r	.	.	.	1c	temps	.	Mars	0r	.	.	.
 1D	ont	.	tolt	1d	2. Long	&	5. Se	1B	nous	.	nous	.	.	.	.
@@ -408,7 +410,6 @@
 0Dl	.	.	.	0Dl	-gretz.	.	nultz.	0A]	.	.	.	0dl	-gretz.	.	nultz.
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: N = signum congruentiae
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!ENC: Will Watson 17/08/2011

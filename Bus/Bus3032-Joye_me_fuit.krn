@@ -168,7 +168,8 @@
 .	.	4B-
 =37	=37	=37
 *k[b-e-]	*	*
-0DN	0F#N	0AN
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+0D	0F#	0A
 =38	=38	=38
 1.D	0r	1.B-
 2E-	.	4A
@@ -309,7 +310,6 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 02-12-2015
 !!!END: 2015/02/20/
 !!!EED: Jesse Rodin

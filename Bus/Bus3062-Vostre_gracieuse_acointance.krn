@@ -119,7 +119,8 @@
 .	2c	.
 4D	.	4e
 =15	=15	=15
-0.DN	0dN	0.fN
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+0.D	0d	0.f
 .	1r	.
 =16	=16	=16
 1BB-	1d	1r
@@ -200,7 +201,6 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Gage
 !!!END: 2015/05/13/
 !!!EED: Jesse Rodin

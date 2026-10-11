@@ -149,7 +149,8 @@
 =34	=34	=34
 0D	0f#i	0a
 =35	=35	=35
-0DN	0f#iN	0aN
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+0D	0f#i	0a
 =36	=36	=36
 1D	1f#i	1a
 1D	1f#i	1a
@@ -273,7 +274,6 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 02-12-2015
 !!!END: 2015/02/20/
 !!!EED: Jesse Rodin

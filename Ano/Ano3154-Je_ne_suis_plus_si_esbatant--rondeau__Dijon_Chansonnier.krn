@@ -90,7 +90,8 @@
 1G	.	1c#i
 =22	=22	=22
 !	!	!LO:TX:Z=24:t=MS&colon; d' long
-1AN	0DN	[0dN
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+1A	0D	[0d
 1A	.	.
 =23	=23	=23
 1D	1r	1d]
@@ -169,7 +170,6 @@
 0dl	0Gl	0gl
 ==	==	==
 *-	*-	*-
-!!!RDF**kern: N = signum congruentiae
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!ENC: Chris Gage 1-25-2017

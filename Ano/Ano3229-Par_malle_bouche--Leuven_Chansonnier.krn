@@ -116,9 +116,11 @@
 1G	-tan-	-san-	-nan-	1d	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	2b	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-2A	-ce,	-ce?	-ce	1c	-ce,	-ce?	-ce	1ccN	-ce,	-ce?	-ce
+!	!	!	!	!	!	!	!	!LO:TX:a:t=[sc]	!	!	!
+2A	-ce,	-ce?	-ce	1c	-ce,	-ce?	-ce	1cc	-ce,	-ce?	-ce
 2F	.	.	.	.	.	.	.	.	.	.	.
-2fN	Gen-	A	Que	1FN	.	.	.	1r	.	.	.
+!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!	!	!	!	!
+2f	Gen-	A	Que	1F	.	.	.	1r	.	.	.
 2e	-til-	quoy	brief	.	.	.	.	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 2d	-le	fault	puis-	1r	.	.	.	2f	Gen-	A	Que
@@ -193,7 +195,6 @@
 0cl	-le.	-le	.	0Fl	-le.	-le	.	0fl	-le.	-le	.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: N = signum congruentiae
 !!!RDF**kern: l = long note in original notation
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: V = start of tuplet marker

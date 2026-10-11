@@ -79,7 +79,8 @@
 .	.	.	.	4c	.	.	.	8eL	.	.	.
 .	.	.	.	.	.	.	.	8dJ	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-2rN	.	.	.	1AN	-se	-se&	-se	1cN	-se	-se&	-se
+!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!
+2r	.	.	.	1A	-se	-se&	-se	1c	-se	-se&	-se
 2AA	Ung	.	Cri-	.	.	.	.	.	.	.	.
 4BB-	.	.	.	1d	Ung	.	Cri-	2r	.	.	.
 4C	.	.	.	.	.	.	.	.	.	.	.
@@ -160,7 +161,6 @@
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: V = start of tuplet marker
 !!!RDF**kern: Z = end of tuplet marker
-!!!RDF**kern: N = signum congruentiae
 !!!ENC: Jesse Rodin 16 April 2018
 !!!END: 2018/04/17/
 !!!EED: Jesse Rodin

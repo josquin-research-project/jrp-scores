@@ -104,7 +104,8 @@
 1E	.	.	.	.	.
 .	.	2c#i	.	2G	.
 =12	=12	=12	=12	=12	=12
-0.DN	.	0dN	.	1AN	.
+!LO:TX:a:t=[sc]	!	!LO:TX:a:t=[sc]	!	!LO:TX:a:t=[sc]	!
+0.D	.	0d	.	1A	.
 .	.	.	.	1r	.
 .	.	1r	.	1A	M'a
 =13	=13	=13	=13	=13	=13
@@ -204,7 +205,6 @@
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Jesse Rodin 8/16/2013
 !!!END: 2013/08/16/
 !!!EED: Jesse Rodin

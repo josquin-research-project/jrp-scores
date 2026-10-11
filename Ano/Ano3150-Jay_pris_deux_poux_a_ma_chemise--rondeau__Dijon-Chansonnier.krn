@@ -123,7 +123,8 @@
 .	2B	4g
 4A	.	4f
 =21	=21	=21
-1AN	0cN	0e
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!
+1A	0c	0e
 1r	.	.
 =22	=22	=22
 2B-i	1d	0r
@@ -259,7 +260,6 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 1-25-2017
 !!!END: 2018/12/10/
 !!!EED: Jesse Rodin

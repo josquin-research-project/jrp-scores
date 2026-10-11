@@ -139,7 +139,8 @@
 2C	.	4c
 .	.	4B-
 =33	=33	=33
-[0DN	[0FN	[0AN
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+[0D	[0F	[0A
 =34	=34	=34
 0D]	0F]	0A]
 =35	=35	=35
@@ -247,7 +248,6 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 09-07-2016
 !!!END: 2018/09/27
 !!!EED: Jesse Rodin

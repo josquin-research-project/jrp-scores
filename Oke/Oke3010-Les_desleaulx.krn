@@ -84,7 +84,8 @@
 1A	.	.	.	1F	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	2d	.	.	.
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
-1GN	-pte,	-te&	-te;	1EN	-pte,	-te&	-te;	0eN	-pte,	-te&	-te;
+!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!
+1G	-pte,	-te&	-te;	1E	-pte,	-te&	-te;	0e	-pte,	-te&	-te;
 1A	Mais	.	Pour	1c	Mais	.	Pour	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 1E	Bon	.	ce	2B	Bon	.	ce	1r	.	.	.
@@ -204,7 +205,6 @@
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: V = start of tuplet marker
 !!!RDF**kern: Z = end of tuplet marker
-!!!RDF**kern: N = signum congruentiae
 !!!ENC: Jesse Rodin 17 April 2018
 !!!END: 2018/07/16/
 !!!EED: Jesse Rodin

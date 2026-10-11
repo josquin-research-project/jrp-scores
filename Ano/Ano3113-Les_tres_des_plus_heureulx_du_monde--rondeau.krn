@@ -113,7 +113,8 @@
 .	2c	4f
 .	.	4e
 =20	=20	=20
-0DN	[0dN	0fN
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+0D	[0d	0f
 =21	=21	=21
 1BB-	0d]	0r
 [1GG	.	.
@@ -207,7 +208,6 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 09-14-2016
 !!!END: 2018/09/28/
 !!!EED: Jesse Rodin

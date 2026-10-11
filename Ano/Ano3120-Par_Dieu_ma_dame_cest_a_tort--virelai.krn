@@ -302,7 +302,8 @@
 1r	2F	2A
 .	2G	2B-
 =43	=43	=43
-1CN	2EN	2GN
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+1C	2E	2G
 .	2C	1c
 1GG	1D	.
 .	.	2Bni
@@ -349,7 +350,6 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 10-11-2016
 !!!END: 2018/12/03/
 !!!EED: Jesse Rodin

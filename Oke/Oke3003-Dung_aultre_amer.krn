@@ -90,7 +90,8 @@
 1G	.	.	.	.	.	.	.	2c#i/	.	.	.
 .	.	.	.	.	.	.	.	2Bni/	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-1AN	-ge.	-ge.	-ge.	0DN	-ge.	-ge.	-ge.	[0dN	-ge.	-ge.	-ge.
+!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!
+1A	-ge.	-ge.	-ge.	0D	-ge.	-ge.	-ge.	[0d	-ge.	-ge.	-ge.
 1F	.	.	.	.	.	.	.	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 2G\	Ne	&	Ne	0B-	Ne	&	Ne	0d]	.	&	.
@@ -194,7 +195,6 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Jesse Rodin (8/16/2012)
 !!!END: 2017/03/16/
 !!!EED: Jesse Rodin

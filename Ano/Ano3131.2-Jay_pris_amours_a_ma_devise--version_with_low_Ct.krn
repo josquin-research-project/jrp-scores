@@ -120,11 +120,13 @@
 1A	.	.	.	1c	.	.	.	1a	.	.	.
 1G	-se-	-don-	.	1d	-se-	-don-	.	1b	-se-	-don-	.
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
-[0EN	-t&eacute;,	-n&eacute;.&	-t&eacute;.	1.e	-t&eacute;,	-n&eacute;.&	-t&eacute;.	0gN	-t&eacute;,	-n&eacute;.&	-t&eacute;.
+!LO:TX:a:t=[sc]	!	!	!	!	!	!	!	!LO:TX:a:t=[sc]	!	!	!
+[0E	-t&eacute;,	-n&eacute;.&	-t&eacute;.	1.e	-t&eacute;,	-n&eacute;.&	-t&eacute;.	0g	-t&eacute;,	-n&eacute;.&	-t&eacute;.
 .	.	.	.	4d	.	.	.	.	.	.	.
 .	.	.	.	4c	.	.	.	.	.	.	.
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
-0E]	.	.	.	1BN	.	.	.	0r	.	.	.
+!	!	!	!	!LO:TX:a:t=[sc]	!	!	!	!	!	!	!
+0E]	.	.	.	1B	.	.	.	0r	.	.	.
 .	.	.	.	1r	.	.	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
 1r	.	.	.	0E	Eu-	.	Et	0g	Eu-	.	Et
@@ -211,7 +213,6 @@
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 10-12-2016
 !!!END: 2019/03/18/
 !!!EED: Jesse Rodin

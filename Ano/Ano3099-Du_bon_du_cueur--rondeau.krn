@@ -142,7 +142,8 @@
 1.F	0A	1.a
 2D	.	2f
 =29	=29	=29
-[0DN	[0dN	0fN
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+[0D	[0d	0f
 =30	=30	=30
 0D]	0d]	1r
 .	.	1f
@@ -250,7 +251,6 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 08-04-2016
 !!!END: 2018/09/27
 !!!EED: Jesse Rodin

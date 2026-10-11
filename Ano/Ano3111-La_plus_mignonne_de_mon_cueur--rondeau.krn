@@ -93,8 +93,10 @@
 .	1E-	2c
 .	.	2B-
 =18	=18	=18
-1BB-	[0DN	0dN
-[1GGN	.	.
+!	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+1BB-	[0D	0d
+!LO:TX:a:t=[sc]	!	!
+[1GG	.	.
 =19	=19	=19
 2GG]	0D]	0r
 1BB-	.	.
@@ -227,7 +229,6 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 09-14-2016
 !!!END: 2018/09/28
 !!!EED: Jesse Rodin

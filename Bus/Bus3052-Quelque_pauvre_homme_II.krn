@@ -186,10 +186,12 @@
 1E	0B	1a]
 1G	.	1g
 =45	=45	=45
-1F	[0AN	0aN
+!	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+1F	[0A	0a
 [1D	.	.
 =46	=46	=46
-1D]N	0A]	1r
+!LO:TX:a:t=[sc]	!	!
+1D]	0A]	1r
 1A	.	1cc
 =47	=47	=47
 2D	1r	1dd
@@ -288,7 +290,6 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 04-15-2015
 !!!END: 2015/05/13/
 !!!EED: Jesse Rodin

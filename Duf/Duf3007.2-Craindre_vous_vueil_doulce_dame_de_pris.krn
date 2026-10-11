@@ -109,7 +109,8 @@
 2f#i\	1d	1a	.	.	.
 2e\	.	.	.	.	.
 =17	=17	=17	=17	=17	=17
-0gN	0GN	0gN	-e,	-e,	-e.&
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!	!	!
+0g	0G	0g	-e,	-e,	-e.&
 1r	1r	1r	.	.	.
 =18	=18	=18	=18	=18	=18
 0a	0F	1cc	2.8. Et	6. A	.
@@ -202,7 +203,6 @@
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Alejandro Planchart
 !!!END: 2013///
 !!!EED: Jesse Rodin

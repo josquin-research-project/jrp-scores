@@ -145,9 +145,11 @@
 .	4D	8gL
 .	.	8fJ
 =16	=16	=16
-2.c	0.CN	0.eN
+!	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+2.c	0.C	0.e
 4B	.	.
-0GN	.	.
+!LO:TX:a:t=[sc]	!	!
+0G	.	.
 =17	=17	=17
 0.r	0.r	0.r
 =18	=18	=18
@@ -262,7 +264,6 @@
 0.cl	0.Fl	0.fl
 ==	==	==
 *-	*-	*-
-!!!RDF**kern: N = signum congruentiae
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!ENC: Chris Gage 10-11-2016

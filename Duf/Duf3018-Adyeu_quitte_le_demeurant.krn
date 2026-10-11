@@ -87,7 +87,8 @@
 .	.	2c#i/	.
 .	4F/	.	.
 =12	=12	=12	=12
-0.DN	1AN	0dN	.
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!
+0.D	1A	0d	.
 .	1r	.	.
 .	[1A	1r	.
 =13	=13	=13	=13
@@ -155,7 +156,6 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Planchart
 !!!END: 2016/04/15/
 !!!EED: Jesse Rodin

@@ -111,7 +111,8 @@
 .	.	.	.	4f	.	.	.	.	.	.	.	2dd	.	.	.
 .	.	.	.	4g	.	.	.	.	.	.	.	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
-0AN	.	.	.	0aN	-rir?	-sir,&	-sir.	0eN	.	.	.	0ccN	.	.	.
+!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!
+0A	.	.	.	0a	-rir?	-sir,&	-sir.	0e	.	.	.	0cc	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
 1.f	Dueil	.	Mort	0a	Dueil	.	Mort	1.d	Dueil	.	Mort	0r	.	.	.
 2e	.	.	.	.	.	.	.	2e	.	.	.	.	.	.	.
@@ -260,7 +261,6 @@
 0A]	.	.	.	0A]	.	.	.	0el	-te.	.	-te,	0a]	.	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: N = signum congruentiae
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker

@@ -192,9 +192,9 @@
 .	4c	.	.
 =31	=31	=31	=31
 !! Signum congruentiae
-!LO:TX:Z=8:t=SC	!LO:TX:Z=8:t=SC	!	!LO:TX:Z=8:t=SC
+!LO:TX:Z=8:a:t=[sc]	!LO:TX:Z=8:a:t=[sc]	!	!LO:TX:Z=8:a:t=[sc]
 0D	1d	1r	0f
-!	!	!LO:TX:Z=8:t=SC	!
+!	!	!LO:TX:Z=8:a:t=[sc]	!
 .	2A	1d	.
 .	2B-	.	.
 =32	=32	=32	=32

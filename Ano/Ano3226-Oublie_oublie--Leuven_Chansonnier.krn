@@ -77,12 +77,14 @@
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 1F	-lours,	-bours,&	-bours.	2f	.	.	.	1ff	-lours,	-bours,&	-bours.
 .	.	.	.	2d	.	.	.	.	.	.	.
-1A	.	.	.	2c	.	.	.	1rN	.	.	.
+!	!	!	!	!	!	!	!	!LO:TX:a:t=[sc]	!	!	!
+1A	.	.	.	2c	.	.	.	1r	.	.	.
 .	.	.	.	1f	.	.	.	.	.	.	.
 1G	.	.	.	.	.	.	.	1r	.	.	.
 .	.	.	.	2e	.	.	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-2rN	.	.	.	1fN	-lours,	-bours,	-bours.	1ff	Le-	.	Ain-
+!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!	!	!	!	!
+2r	.	.	.	1f	-lours,	-bours,	-bours.	1ff	Le-	.	Ain-
 2F	Le-	.	Ain-	.	.	.	.	.	.	.	.
 2G	-al	.	-si	1r	.	.	.	2ee	-al	.	-si
 2A	a-	.	viv-	.	.	.	.	2cc	a-	.	viv-
@@ -190,7 +192,6 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!RDF**kern: N = signum contruentiae
 !!!ENC: Jesse Rodin 16 April 2018
 !!!END: 2018/06/14/
 !!!EED: Jesse Rodin

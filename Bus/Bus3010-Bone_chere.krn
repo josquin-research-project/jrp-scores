@@ -152,7 +152,8 @@
 1E	1E	.
 .	.	2c#i
 =30	=30	=30
-2BB-N	[0DN	0dN
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+2BB-	[0D	0d
 4AA	.	.
 4GG	.	.
 2FF	.	.
@@ -282,7 +283,6 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 04-02-2015
 !!!END: 2015/05/01/
 !!!EED: Jesse Rodin

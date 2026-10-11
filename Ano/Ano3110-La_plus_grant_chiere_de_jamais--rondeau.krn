@@ -112,7 +112,8 @@
 1G	2E	1c
 .	1D	.
 2F	.	2B
-[1GN	[1CN	1cN
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+[1G	[1C	1c
 =14	=14	=14
 2G]	1C]	2r
 2E	.	2g
@@ -229,7 +230,6 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 10-04-2016
 !!!END: 2018/09/27
 !!!EED: Jesse Rodin

@@ -131,7 +131,8 @@
 .	.	.	.	.	2B/	.	.	.
 .	.	.	.	2E/	2A/	.	.	.
 =31	=31	=31	=31	=31	=31	=31	=31	=31
-[0CN	-se	-se	-se&	[0GN	[0cN	-se	-se	-se&
+!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!	!	!
+[0C	-se	-se	-se&	[0G	[0c	-se	-se	-se&
 =32	=32	=32	=32	=32	=32	=32	=32	=32
 0C]	.	.	.	0G]	0c]	.	.	.
 =33	=33	=33	=33	=33	=33	=33	=33	=33
@@ -233,7 +234,6 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Alejandro Planchart
 !!!END: 2016/04/01/
 !!!EED: Jesse Rodin

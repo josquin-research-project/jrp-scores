@@ -333,7 +333,8 @@
 .	.	.	2d	.	.	4b	.	.
 .	.	.	.	.	.	4a	.	.
 =69	=69	=69	=69	=69	=69	=69	=69	=69
-2.EN	-mis.&	mis,	1eN	-mis.&	.	2.gN	.	.
+!LO:TX:a:t=[sc]	!	!	!LO:TX:a:t=[sc]	!	!	!LO:TX:a:t=[sc]	!	!
+2.E	-mis.&	mis,	1e	-mis.&	.	2.g	.	.
 4F	.	.	.	.	.	4a	.	.
 2G	.	.	1e	.	-vez	2b	.	.
 [2A	.	m'a-	.	.	.	[2cc	.	m'a-
@@ -352,7 +353,6 @@
 0el	.	mis.	0Al	.	mis.	0al	.	mis.
 =||	=||	=||	=||	=||	=||	=||	=||	=||
 *-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: N = signum congruentiae
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker

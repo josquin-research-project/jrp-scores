@@ -131,7 +131,8 @@
 .	.	.	.	.	.	.	.	4g	.	.	.
 2F	la	.	.	2A	.	.	.	4f	.	.	.
 .	.	.	.	.	.	.	.	4e	.	.	.
-1GN	fin[-se]	-se.&	-mours	1BN	-se,	-se.&	-se	1dN	[-se]	-se.&	.
+!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!
+1G	fin[-se]	-se.&	-mours	1B	-se,	-se.&	-se	1d	[-se]	-se.&	.
 1A	est	.	sert	2r	.	.	.	1c	.	.	.
 .	.	.	.	[2A	Et	.	S'A-	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
@@ -282,7 +283,6 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!RDF**kern: N = signum congruentiae
 !!!ENC: Jesse Rodin 9 March 2018
 !!!END: 2018/04/17/
 !!!EED: Jesse Rodin

@@ -155,7 +155,8 @@
 2F\	.	.	.	1A	.	.	.	2a/	.	.	.
 2D\	.	.	.	.	.	.	.	2f/	.	.	.
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
-0.AN	-e	-e	-e,&	0.cN	-e	-e	-e,&	0.eN	-e	-e	-e,&
+!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!
+0.A	-e	-e	-e,&	0.c	-e	-e	-e,&	0.e	-e	-e	-e,&
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 1d	Fai-	N'ay-	.	0.r	.	.	.	1f	Fai-	N'ay-	.
 1d	-sant	-ez	.	.	.	.	.	1d	-sant	-ez	.
@@ -259,7 +260,6 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Jesse Rodin
 !!!END: 2018/01/11/
 !!!EED: Jesse Rodin

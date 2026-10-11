@@ -86,11 +86,13 @@
 2d	.	.	.	.	.	.	.	.	.	.	.
 1e	.	.	.	1G	.	.	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
-0d	.	.	.	1F	.	.	.	0.rN	.	.	.
+!	!	!	!	!	!	!	!	!LO:TX:a:t=[sc]	!	!	!
+0d	.	.	.	1F	.	.	.	0.r	.	.	.
 .	.	.	.	0E	Mil-	son	d'an-	.	.	.	.
 1c#i	Mil-	son	d'an-	.	.	.	.	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-0.dN	-lan,	dan!&	-tan	0DN	-lan,	dan!&	-tan	0a	Qui	.	Je
+!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!	!	!	!	!
+0.d	-lan,	dan!&	-tan	0D	-lan,	dan!&	-tan	0a	Qui	.	Je
 .	.	.	.	1r	.	.	.	[1a	m'a	.	n'eus
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 1.c	Qui	.	Je	1r	.	.	.	1a]	.	.	.
@@ -179,7 +181,6 @@
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: V = start of tuplet marker
 !!!RDF**kern: Z = end of tuplet marker
-!!!RDF**kern: N = signum congruentiae
 !!!ENC: Jesse Rodin 18 April 2018
 !!!END: 2018/04/17/
 !!!EED: Jesse Rodin

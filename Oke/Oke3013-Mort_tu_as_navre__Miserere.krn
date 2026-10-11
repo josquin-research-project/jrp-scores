@@ -114,7 +114,8 @@
 .	.	.	.	4G	.	4e	.	.	.	.	.	.
 .	.	.	.	4F	.	4d	.	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
-2EN	-em]	2AAN	-em]	0.AN	-em]-qui-	2cN	.	.	.	.	.	.
+!LO:TX:a:t=[sc]	!	!LO:TX:a:t=[sc]	!	!LO:TX:a:t=[sc]	!	!LO:TX:a:t=[sc]	!	!	!	!	!	!
+2E	-em]	2AA	-em]	0.A	-em]-qui-	2c	.	.	.	.	.	.
 2F	.	1D	.	.	.	2A	.	.	.	.	.	.
 1D	.	.	.	.	.	2d	.	.	.	.	.	.
 .	.	2F	.	.	.	1d	.	.	.	.	.	.
@@ -278,7 +279,6 @@
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: V = start of tuplet marker
 !!!RDF**kern: Z = end of tuplet marker
-!!!RDF**kern: N = signum congruentiae
 !!!ENC: Jesse Rodin 17 April 2018
 !!!END: 2018/04/17/
 !!!EED: Jesse Rodin

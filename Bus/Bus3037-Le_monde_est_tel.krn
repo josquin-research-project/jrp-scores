@@ -161,7 +161,8 @@
 1D	.	.
 .	2e	2g
 =32	=32	=32
-0AN	0cN	0eN
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+0A	0c	0e
 =33	=33	=33
 1D	0r	1f
 2E	.	2g
@@ -305,7 +306,6 @@
 0AAl	0Al	0al
 ==	==	==
 *-	*-	*-
-!!!RDF**kern: N = signum congruentiae
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!ENC: Chris Gage 04-13-2015

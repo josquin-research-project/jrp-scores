@@ -276,7 +276,8 @@
 .	.	4g
 .	.	4a
 =63	=63	=63
-1dN	1GN	1.bN
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+1d	1G	1.b
 2G	2B	.
 2E	2c	4a
 .	.	4g
@@ -298,7 +299,6 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 09-07-2016
 !!!END: 2018/12/07/
 !!!EED: Jesse Rodin

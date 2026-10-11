@@ -86,7 +86,8 @@
 1B-	.	.
 .	2d	2g
 =14	=14	=14
-0.AN	0.eN	1.aN
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+0.A	0.e	1.a
 .	.	1.r
 =15	=15	=15
 2c	0.r	1g
@@ -147,7 +148,6 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 03-035-2015
 !!!END: 2015/03/14/
 !!!EED: Jesse Rodin

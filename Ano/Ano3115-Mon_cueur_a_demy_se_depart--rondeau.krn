@@ -101,7 +101,8 @@
 2G	2B-	2g
 2F	2c	2a
 =12	=12	=12
-0D	1.dN	0fN
+!	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+0D	1.d	0f
 .	4c	.
 .	4B-	.
 1D	1A	1r
@@ -197,7 +198,6 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage
 !!!END: 2018/09/28
 !!!EED: Jesse Rodin

@@ -130,7 +130,8 @@
 .	.	4g
 .	.	4f
 =26	=26	=26
-[0AAN	0cN	[0eN
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+[0AA	0c	[0e
 =27	=27	=27
 0AA]	1r	0e]
 .	1c	.
@@ -253,7 +254,6 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 04-13-2015
 !!!END: 2015/05/06/
 !!!EED: Jesse Rodin

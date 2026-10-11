@@ -369,7 +369,8 @@
 .	.	.	2B	.	.	4g	.	.
 .	.	.	.	.	.	4f	.	.
 =61	=61	=61	=61	=61	=61	=61	=61	=61
-0CN	-re&	-re,	0cN	-re&	-re,	[0eN	-re&	-re,
+!LO:TX:a:t=[sc]	!	!	!LO:TX:a:t=[sc]	!	!	!LO:TX:a:t=[sc]	!	!
+0C	-re&	-re,	0c	-re&	-re,	[0e	-re&	-re,
 =62	=62	=62	=62	=62	=62	=62	=62	=62
 0c	.	ou	1r	.	.	0e]	.	.
 .	.	.	1c	.	ou	.	.	.
@@ -437,7 +438,6 @@
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: V = start of tuplet marker
 !!!RDF**kern: Z = end of tuplet marker
-!!!RDF**kern: N = signum congruentiae
 !!!ENC: Jesse Rodin 16 April 2018
 !!!END: 2018/04/17
 !!!EED: Jesse Rodin

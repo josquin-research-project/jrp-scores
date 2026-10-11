@@ -121,7 +121,8 @@
 4AA	.	.	.	2E	.	.	.	4c	.	.	.
 4GG	.	.	.	.	.	.	.	4B-	.	.	.
 =24	=24	=	=	=24	=24	=	=	=24	=24	=	=
-0FFN	-me:	-me:	-me.	0FN	-me:	-me:	-me.	0AN	-me:	-me:	-me.
+!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!
+0FF	-me:	-me:	-me.	0F	-me:	-me:	-me.	0A	-me:	-me:	-me.
 =25	=25	=	=	=25	=25	=	=	=25	=25	=	=
 0F	Qu'en	.	Le	0c	Qu'en	.	Le	0a	Qu'en	.	Le
 =26	=26	=	=	=26	=26	=	=	=26	=26	=	=
@@ -228,7 +229,6 @@
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: V = start of tuplet marker
 !!!RDF**kern: Z = end of tuplet marker
-!!!RDF**kern: N = signum congruentiae
 !!!ENC: Jesse Rodin 17 April 2018
 !!!END: 2018/04/17/
 !!!EED: Jesse Rodin

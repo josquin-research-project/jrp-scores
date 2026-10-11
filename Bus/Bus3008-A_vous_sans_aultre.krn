@@ -117,7 +117,8 @@
 1d	2f	fa-	.	-da-	.	.	.	.
 .	2d	.	.	.	2f	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19
-2.cN	2.AN	-ce;	-ce&	-ce;	1eN	-ce;	-ce&	-ce;
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!
+2.c	2.A	-ce;	-ce&	-ce;	1e	-ce;	-ce&	-ce;
 4d	4B	.	.	.	.	.	.	.
 2e	2c	.	.	.	1r	.	.	.
 2f	[2d	A	.	N'au	.	.	.	.
@@ -257,7 +258,6 @@
 0dl	0dl	-dre.	.	-dre.	0dl	-dre.	.	-dre.
 ==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: N = signum congruentiae
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!ENC: Chris Gage 02-16-2015

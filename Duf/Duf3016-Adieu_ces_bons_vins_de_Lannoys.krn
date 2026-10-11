@@ -94,7 +94,8 @@
 1F	.	.	.	1A	.	.	.	2d/	.	.	.
 .	.	.	.	.	.	.	.	2c/	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
-0.EN	-e,	-e.	-e.&	2BN\	-e,	-e.	-e.&	1eN	-e,	-e.	-e.&
+!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!
+0.E	-e,	-e.	-e.&	2B\	-e,	-e.	-e.&	1e	-e,	-e.	-e.&
 .	.	.	.	2A/	.	.	.	.	.	.	.
 .	.	.	.	2G/	.	.	.	1r	.	.	.
 .	.	.	.	2F/	.	.	.	.	.	.	.
@@ -184,7 +185,6 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Alejandro Planchart
 !!!END: 2016/03/18/
 !!!EED: Jesse Rodin

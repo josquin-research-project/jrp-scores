@@ -261,7 +261,8 @@
 .	.	.	2.G/	.	.	.
 .	.	.	.	2c#i/	.	.
 =56	=56	=56	=56	=56	=56	=56
-2.DN/	-rir.	-rir,	1.AN	2d/N	-rir.	-rir,
+!LO:TX:a:t=[sc]	!	!	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!	!
+2.D/	-rir.	-rir,	1.A	2d/	-rir.	-rir,
 .	.	.	.	2r	.	.
 4E/	.	.	.	.	.	.
 2F/	.	mou-	.	2.d/	.	mou-
@@ -293,7 +294,6 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Alejandro Planchart
 !!!END: 2013///
 !!!EED: Jesse Rodin

@@ -130,7 +130,8 @@
 .	.	.	.	.	.	1g	a-	ho-
 2c	a-	ho-	.	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15	=15	=15
-2eN	-m&eacute;s;&	-d&eacute;s.&	1.AN	-m&eacute;s;&	-d&eacute;s.&	0.aN	-m&eacute;s;&	-d&eacute;s.&
+!LO:TX:a:t=[sc]	!	!	!LO:TX:a:t=[sc]	!	!	!LO:TX:a:t=[sc]	!	!
+2e	-m&eacute;s;&	-d&eacute;s.&	1.A	-m&eacute;s;&	-d&eacute;s.&	0.a	-m&eacute;s;&	-d&eacute;s.&
 !!scomment: On the first pass the mp3 file should stop here and go back to the beginning.
 2r	.	.	.	.	.	.	.	.
 2d	.	.	.	.	.	.	.	.
@@ -519,7 +520,6 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Jesse Rodin 19 September 2017
 !!!END: 2017/09/25/
 !!!EED: Jesse Rodin

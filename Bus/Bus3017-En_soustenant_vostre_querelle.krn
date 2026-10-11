@@ -130,7 +130,8 @@
 0AA	0E	1d]
 .	.	1c#i
 =30	=30	=30
-1r	[0DN	0dN
+!	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+1r	[0D	0d
 1D	.	.
 =31	=31	=31
 1.F	0D]	1r
@@ -140,7 +141,8 @@
 1A	0r	1f
 1B-i	.	1g
 =33	=33	=33
-0AN	1D	0a
+!LO:TX:a:t=[sc]	!	!
+0A	1D	0a
 .	1F	.
 =34	=34	=34
 1r	1G	1b
@@ -253,7 +255,6 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 02-10-2015
 !!!END: 2015/02/20/
 !!!EED: Jesse Rodin

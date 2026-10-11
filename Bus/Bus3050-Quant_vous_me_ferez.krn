@@ -86,7 +86,8 @@
 1D	.	.	.	1d	.	.	.	2.f	.	.	.
 .	.	.	.	.	.	.	.	4g	.	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-0AAN	-re,	-re,	-re,	0c#iN	-re,	-re,	-re,	0.eN	-re,	&	-re,
+!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!
+0AA	-re,	-re,	-re,	0c#i	-re,	-re,	-re,	0.e	-re,	&	-re,
 1r	.	.	.	1r	.	.	.	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 1F	A-	&	Et	1d	A-	&	Et	1r	.	.	.
@@ -166,7 +167,6 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 03-28-2015
 !!!END: 2015/10/29/
 !!!EED: Jesse Rodin

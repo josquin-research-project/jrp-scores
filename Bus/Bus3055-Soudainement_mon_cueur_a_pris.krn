@@ -314,7 +314,8 @@
 !!LO:REP:start=1
 *>B1	*>B1	*>B2
 =75	=75	=75
-0AN	0DN	0dN
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+0A	0D	0d
 !!LO:REP:end=1
 !!LO:REP:start=2
 =76:|!	=76:|!	=76:|!
@@ -339,7 +340,6 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 05-13-2015
 !!!END: 2016/02/08/
 !!!EED: Jesse Rodin

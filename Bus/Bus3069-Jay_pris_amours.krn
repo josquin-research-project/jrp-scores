@@ -168,7 +168,8 @@
 4E	4E	.	4e
 4D	4F	4B-	4d
 =32	=32	=32	=32
-1CN	1GN	1cN	1eN
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+1C	1G	1c	1e
 1r	1r	1r	1r
 =33	=33	=33	=33
 0r	0d	0r	2f
@@ -319,7 +320,6 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 04-24-2015
 !!!END: 2015/06/07/
 !!!EED: Jesse Rodin

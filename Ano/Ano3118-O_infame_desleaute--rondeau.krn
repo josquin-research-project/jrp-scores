@@ -165,7 +165,8 @@
 2G	2B-	4g
 .	.	4e
 =19	=19	=19
-0.DN	0.AN	0.fN
+!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]	!LO:TX:a:t=[sc]
+0.D	0.A	0.f
 =20	=20	=20
 0D	1.A	0f
 .	2.d	.
@@ -261,7 +262,6 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 10-04-2016
 !!!END: 2018/11/29/
 !!!EED: Jesse Rodin

@@ -105,7 +105,8 @@
 4E	.	.	.	.	.	.	.	4g	.	.	.
 2C	.	.	.	.	.	.	.	2e	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
-2r	.	.	.	[0BN	droit.	-droit&	-droit;	0dN	droit.	-droit&	-droit;
+!	!	!	!	!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!	!	!
+2r	.	.	.	[0B	droit.	-droit&	-droit;	0d	droit.	-droit&	-droit;
 1G	droit.	-droit&	-droit;	.	.	.	.	.	.	.	.
 4F	.	.	.	.	.	.	.	.	.	.	.
 4E	.	.	.	.	.	.	.	.	.	.	.
@@ -114,7 +115,8 @@
 4C	.	.	.	.	.	.	.	.	.	.	.
 4BB	.	.	.	.	.	.	.	.	.	.	.
 4AA	.	.	.	.	.	.	.	.	.	.	.
-2GGN	.	.	.	.	.	.	.	.	.	.	.
+!LO:TX:a:t=[sc]	!	!	!	!	!	!	!	!	!	!	!
+2GG	.	.	.	.	.	.	.	.	.	.	.
 [2G	Chas-	.	De	.	.	.	.	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
 4G]	.	.	.	0r	.	.	.	0dd	Chas-	.	De
@@ -212,7 +214,6 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!RDF**kern: N = signum congruentiae
 !!!ENC: Jesse Rodin 17 April 2018
 !!!END: 2018/04/17/
 !!!EED: Jesse Rodin

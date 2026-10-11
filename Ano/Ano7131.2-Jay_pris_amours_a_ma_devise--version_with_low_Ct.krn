@@ -213,7 +213,6 @@
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 10-12-2016
 !!!END: 2019/03/18/
 !!!EED: Jesse Rodin
@@ -334,17 +333,18 @@
 1A	.	1c	.	1a	.
 1G	-don-	1d	-don-	1b	-don-
 =87	=87	=87	=87	=87	=87
-[0EN	-n&eacute;.&	1.e	-n&eacute;.&	0gN	-n&eacute;.&
+!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!
+[0E	-n&eacute;.&	1.e	-n&eacute;.&	0g	-n&eacute;.&
 .	.	4d	.	.	.
 .	.	4c	.	.	.
 =88	=88	=88	=88	=88	=88
-0E]	.	1BN	.	0r	.
+!	!	!LO:TX:a:t=[sc]	!	!	!
+0E]	.	1B	.	0r	.
 .	.	1r	.	.	.
 =	=	=	=	=	=
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 10-12-2016
 !!!END: 2019/03/18/
 !!!EED: Jesse Rodin
@@ -472,17 +472,18 @@
 1A	.	1c	.	1a	.
 1G	-se-	1d	-se-	1b	-se-
 =119	=119	=119	=119	=119	=119
-[0EN	-t&eacute;,	1.e	-t&eacute;,	0gN	-t&eacute;,
+!LO:TX:a:t=[sc]	!	!	!	!LO:TX:a:t=[sc]	!
+[0E	-t&eacute;,	1.e	-t&eacute;,	0g	-t&eacute;,
 .	.	4d	.	.	.
 .	.	4c	.	.	.
 =120	=120	=120	=120	=120	=120
-0E]	.	1BN	.	0r	.
+!	!	!LO:TX:a:t=[sc]	!	!	!
+0E]	.	1B	.	0r	.
 .	.	1r	.	.	.
 =	=	=	=	=	=
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 10-12-2016
 !!!END: 2019/03/18/
 !!!EED: Jesse Rodin
@@ -700,7 +701,6 @@
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 10-12-2016
 !!!END: 2019/03/18/
 !!!EED: Jesse Rodin
@@ -920,7 +920,6 @@
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 10-12-2016
 !!!END: 2019/03/18/
 !!!EED: Jesse Rodin

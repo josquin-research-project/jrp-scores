@@ -137,7 +137,8 @@
 4F	.	.	.	2e	.
 4Eni	.	.	.	.	.
 =32	=32	=32	=32	=32	=32
-0DN	-ne	1.dN	mail-	1fN	mail-
+!LO:TX:a:t=[sc]	!	!LO:TX:a:t=[sc]	!	!LO:TX:a:t=[sc]	!
+0D	-ne	1.d	mail-	1f	mail-
 .	.	.	.	[1b-	.
 .	.	4c	.	.	.
 .	.	4B-	.	.	.
@@ -272,7 +273,6 @@
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: N=signum congruentiae
 !!!ENC: Chris Gage 04-02-2015
 !!!END: 2015/10/29/
 !!!EED: Jesse Rodin
