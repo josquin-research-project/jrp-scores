@@ -117,7 +117,7 @@
 .	4B	4g
 .	4A	4f
 =21	=21	=21
-!LO:TX:Z=8:t=s.c.	!LO:TX:Z=8:t=s.c.	!LO:TX:Z=8:t=s.c.
+!LO:TX:Z=8:t=[sc]	!LO:TX:Z=8:t=[sc]	!LO:TX:Z=8:t=[sc]
 00C	00c	00e
 =22	=22	=22
 1r	1r	1r
