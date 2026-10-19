@@ -374,31 +374,11 @@ grep -rl '\\\*\\\*text' \*/kern/\*
 
 ### JRP website ###
 
-The website http://josquin.stanford.edu is a high-level interface
-to these scores, but also includes lower-level access to the data,
-data conversions, and analytic tools using URL parameters from the
-https://data.josqu.in web address.  On the JRP website, each score
-has a "work info" page generated with this format:
+Browse, search, and analyze scores on the
+[Josquin Research Project website](https://josquin.stanford.edu/).
+Each work page provides the available score downloads, for example:
 
-https://data.josqu.in/work?id=Jos2721.krn
-
-Example MIDI data file access by setting the file extensiom to `mid`:
-
-http://data.josqu.in/Jos2721-La_Bernardina.mid
-
-Example graphical music scores in PDF format with four possible styles:
-* Without editorial accidentals or text: http://josquin.stanford.edu/data?a=notationnoedit&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie
-* Without editorial accidentals but with text: http://josquin.stanford.edu/data?a=notationnoeditwithtext&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie
-* With editorial accidentals but without text: http://josquin.stanford.edu/data?a=notationwitheditorial&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie
-* With editorial accidentals and with text: http://josquin.stanford.edu/data?a=notationwitheditorialwithtext&f=Duf1005a-Missa_Se_la_face_ay_pale-Kyrie
-
-Scores are generated from the original Humdrum `**kern` scores found
-in this repository for each work, so music notation in the PDF files
-should match exactly.  Online PDF files of the scores are created
-using the [hum2muse](http://extra.humdrum.org/man/hum2muse) converter
-which translates Humdrum files into MuseData file which can then
-be converted into PostScript files with
-[muse2ps](http://muse2ps.ccarh.org).
+https://josquin.stanford.edu/work/?id=Jos2721
 
 
 ### kernScores website ###
