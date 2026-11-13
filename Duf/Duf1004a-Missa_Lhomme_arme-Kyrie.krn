@@ -11,7 +11,6 @@
 !!!voices: 4
 !!!voices-OPR: 4
 !!!ONB: For this mass, MenCircle tempo should be 80, MenC 120, Men3 180
-!!midi-transpose: -2
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
