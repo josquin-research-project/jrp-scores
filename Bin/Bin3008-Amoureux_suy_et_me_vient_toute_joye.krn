@@ -13,10 +13,8 @@
 *k[]	*k[]	*k[]
 *M6/2	*M6/2	*M6/2
 *met(C.)	*met(C.)	*met(C.)
-*MM360	*MM360	*MM360
 =1	=1	=1
 !	!	!LO:TX:a:t=Rondeau
-!	!	!LO:TX:a:t=[half]=180
 1AA	0.r	2e
 .	.	2e
 2BB	.	2d
