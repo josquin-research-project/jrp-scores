@@ -89,7 +89,7 @@
 .	2f
 =16	=16
 !	!LO:TX:a:t=[sc]
-!	!LO:TX:b:t=[sc]
+!LO:TX:a:t=[sc]	!
 [0.A	0.a
 =17	=17
 0.A]	0.r
