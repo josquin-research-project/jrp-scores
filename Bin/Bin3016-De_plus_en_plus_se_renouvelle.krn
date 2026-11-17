@@ -105,8 +105,8 @@
 4D	.	4f#X
 =13	=13	=13
 !	!	!LO:TX:a:t=[sc]
-!	!	!LO:TX:b:t=[sc]
-!	!	!LO:TX:b:t=[sc]
+!	!LO:TX:a:t=[sc]	!
+!LO:TX:a:t=[sc]	!	!
 1.D	1.d	1.f#i
 1.r	1.r	1.r
 =14	=14	=14

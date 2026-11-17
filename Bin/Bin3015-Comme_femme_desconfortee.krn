@@ -117,8 +117,8 @@
 .	.	4A
 =15	=15	=15
 !	!	!LO:TX:a:t=[sc]
-!	!	!LO:TX:b:t=[sc]
-!	!	!LO:TX:b:t=[sc]
+!	!LO:TX:a:t=[sc]	!
+!LO:TX:a:t=[sc]	!	!
 0D	0d	0F#i
 1r	1r	1r
 =16	=16	=16

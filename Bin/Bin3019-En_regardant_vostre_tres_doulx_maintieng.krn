@@ -77,8 +77,8 @@
 .	.	4cc
 .	.	4a
 =11	=11	=11
-!	!	!LO:TX:b:t=[sc]
-!	!	!LO:TX:b:t=[sc]
+!LO:TX:a:t=[sc]	!	!
+!	!LO:TX:a:t=[sc]	!
 1.g	0.c	1.cc
 !	!	!LO:TX:a:t=[sc]
 1r	.	1r

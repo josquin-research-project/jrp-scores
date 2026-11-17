@@ -79,8 +79,8 @@
 .	.	4f
 =10	=10	=10
 !	!	!LO:TX:a:t=[sc]
-!	!	!LO:TX:b:t=[sc]
-!	!	!LO:TX:b:t=[sc]
+!	!LO:TX:a:t=[sc]	!
+!LO:TX:a:t=[sc]	!	!
 0.e	0.A	0.a
 =11	=11	=11
 1.C	1.c	1e
