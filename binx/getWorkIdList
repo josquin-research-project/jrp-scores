@@ -1,66 +1,65 @@
-#!/usr/bin/env perl
-#
-# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
-# Creation Date: Sat Oct 28 14:31:11 PDT 2023
-# Last Modified: Sat Oct 28 14:31:14 PDT 2023
-# Filename:      jrp-scores/bin/getWorkIdList
-# Syntax:        perl 5
-#
-# Description:   Download work IDs for files from JRP metadata spreadsheet, such as:
-#
-#		Ano1001a
-#		Ano1001b
-#		Ano1001c
-#		Ano1001d
-#		Ano1001e
-#		Ano1002
-#		Ano1025a
-#		Ano1025b
-#		Ano1025c
-#		Ano1025d
-#                 This is copyied from the spreadsheet
-#                 https://bit.ly/jrp-metadata, column A.
-#
+#!/usr/bin/env python3
+"""Read work IDs directly from the JRP Works spreadsheet, in row order."""
+import argparse
+import csv
+import io
+import json
+from pathlib import Path
+import re
+import subprocess
+import sys
 
-use strict;
-use warnings;
-use JSON::PP qw(decode_json);
-use Getopt::Long;
+URL = ('https://docs.google.com/spreadsheets/d/'
+       '11apuRwRGCNVdyErVqoUs_-ljfiokjdqiS-AEcMVTTqU/export?format=csv&gid=0')
 
-# Override this deployment with JRP_METADATA_SID when the web app changes.
-my $sid = $ENV{JRP_METADATA_SID} || "AKfycbxcZCQAja8UuLu0z-LtHN0B0gmzX56nKw253sXofw1uD81Yn00DIzSnZuoWK1RfUmBdBg";
-my $input;
-GetOptions("input=s" => \$input) or die "Usage: $0 [--input works.json]\n";
-die "Unexpected arguments\n" if @ARGV;
-my $json;
-{
-	local $/;
-	if (defined $input) {
-		open(my $file, "<", $input) or die "Cannot read $input: $!\n";
-		$json = <$file>;
-		close($file);
-	} else {
-		die "Invalid deployment ID\n" unless $sid =~ /^[A-Za-z0-9_-]+$/;
-		my $url = "https://script.google.com/macros/s/$sid/exec?sheet=works";
-		open(my $pipe, "-|", "curl", "--fail", "--silent", "--show-error",
-			"--location", "--connect-timeout", "15", "--max-time", "90", $url)
-			or die "Cannot run curl: $!\n";
-		$json = <$pipe>;
-		close($pipe) or die "Works download failed; no IDs generated.\n";
-	}
-}
-my $rows = eval { decode_json($json // "") };
-die "Works feed is not valid JSON; no IDs generated.\n" if $@;
-die "Works feed must be a nonempty array.\n" unless ref($rows) eq "ARRAY" && @$rows;
-my @ids;
-my $found = 0;
-for my $row (@$rows) {
-	die "Invalid Works row.\n" unless ref($row) eq "HASH";
-	my $id = $row->{WORK_ID} // "";
-	die "Invalid WORK_ID in Works feed.\n" if ref($id) || ($id ne "" && $id !~ /^[A-Z][a-z]{2}\d{4}[A-Za-z0-9]*(?:\.[A-Za-z0-9]+)*$/);
-	$found++ if $id ne "";
-	push @ids, $id;
-}
-die "Works feed contains no work IDs.\n" unless $found;
-# Preserve input order and blank rows; never emit part of an invalid response.
-print join("\n", @ids), "\n";
+
+def work_ids(raw):
+    text = raw.decode('utf-8-sig')
+    # Preserve compatibility with the old --input works.json option.
+    if text.lstrip().startswith('['):
+        rows = json.loads(text)
+        if not isinstance(rows, list) or any(not isinstance(row, dict) for row in rows):
+            raise ValueError('Works input must be an array of objects')
+        ids = [row.get('WORK_ID', '') for row in rows]
+    else:
+        csv.field_size_limit(16 * 1024 * 1024)
+        rows = list(csv.reader(io.StringIO(text, newline=''), strict=True))
+        if not rows or not rows[0] or rows[0][0] != 'WORK_ID':
+            raise ValueError('Works CSV is missing the WORK_ID header; check spreadsheet read access')
+        while len(rows) > 1 and not any(rows[-1]):
+            rows.pop()
+        ids = [row[0] if row else '' for row in rows[1:]]
+    for work_id in ids:
+        if not isinstance(work_id, str) or (work_id and not re.fullmatch(
+                r'[A-Z][a-z]{2}\d{4}[A-Za-z0-9]*(?:\.[A-Za-z0-9]+)*', work_id)):
+            raise ValueError('Invalid WORK_ID in Works input')
+    if not any(ids):
+        raise ValueError('Works input contains no work IDs')
+    return ids
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--input', type=Path, help='Read a local Works CSV or JSON file')
+    args = parser.parse_args()
+    if args.input:
+        raw = args.input.read_bytes()
+    else:
+        response = subprocess.run(
+            ['curl', '--fail', '--silent', '--show-error', '--location',
+             '--connect-timeout', '15', '--max-time', '90',
+             '--header', 'Cache-Control: no-cache', URL], capture_output=True)
+        if response.returncode:
+            raise ValueError('Works download failed; no IDs generated. ' +
+                             response.stderr.decode('utf-8', errors='replace').strip())
+        raw = response.stdout
+    # Validate everything before emitting any IDs; make replaces the list atomically.
+    print('\n'.join(work_ids(raw)))
+
+
+if __name__ == '__main__':
+    try:
+        main()
+    except (OSError, ValueError, csv.Error) as error:
+        print(f'Work ID extraction failed: {error}', file=sys.stderr)
+        sys.exit(1)
