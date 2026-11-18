@@ -14,6 +14,7 @@
 *M6/2	*M6/2	*M6/2
 *met(C.)	*met(C.)	*met(C.)
 =1	=1	=1
+*>A	*>A	*>A
 !	!	!LO:TX:a:t=Mensuration signs are editorial
 !	!	!LO:TX:a:t=Ballade
 0D	[1.d	2d
@@ -94,8 +95,10 @@
 2G	.	4a
 .	.	4f
 =11	=11	=11
+*>A1	*>A1	*>A1
 0.Dl	0.Al	0.al
 =12:|!	=12:|!	=12:|!
+*>A2	*>A2	*>A2
 !	!LO:TX:a:t=Sources&colon; g	!
 2r	1A	2cc
 2r	.	2.b
@@ -106,8 +109,11 @@
 .	.	4g
 .	.	4e
 =13	=13	=13
-0.d	0.G	0.g
+0.dl	0.Gl	0.gl
 =14||	=14||	=14||
+*>B	*>B	*>B
+!!section: C'est une fois
+!!!OMD: C'est une fois
 1D	1d	2a
 .	.	2a
 2d	2B	2b

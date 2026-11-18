@@ -14,6 +14,7 @@
 *M3/1	*M3/1	*M3/1
 *met(O|)	*met(O|)	*met(O|)
 =1	=1	=1
+*>A	*>A	*>A
 !	!	!LO:TX:a:t=Ballade
 0.c	0.F	0f
 .	.	[1a
@@ -74,10 +75,12 @@
 .	.	4g
 .	.	2f
 =15	=15	=15
+*>A1	*>A1	*>A1
 0.C	1G	0e
 .	0c	.
 .	.	1e
 =16:|!	=16:|!	=16:|!
+*>A2	*>A2	*>A2
 [0.C	1G	0e
 .	[0c	.
 .	.	1e
@@ -114,6 +117,7 @@
 1c	0.Fl	0.fl
 0cl	.	.
 =23||	=23||	=23||
+*>B	*>B	*>B
 !!section: Coeur doloreux
 !!!OMD: Coeur doloreux
 [0.c	[0.e	0.g
